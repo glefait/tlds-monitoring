@@ -1,0 +1,361 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "ldhName": "okinawa",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "a.gmoregistry.net",
+      "ipAddresses": {
+        "v4": [
+          "37.209.192.4"
+        ],
+        "v6": [
+          "2001:dcd:1::4"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "b.gmoregistry.net",
+      "ipAddresses": {
+        "v4": [
+          "37.209.194.4"
+        ],
+        "v6": [
+          "2001:dcd:2::4"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "k.gmoregistry.net",
+      "ipAddresses": {
+        "v4": [
+          "37.209.196.4"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "l.gmoregistry.net",
+      "ipAddresses": {
+        "v4": [
+          "37.209.198.4"
+        ],
+        "v6": [
+          "2001:dcd:4::4"
+        ]
+      }
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 33736,
+        "algorithm": 8,
+        "digestType": 2,
+        "digest": "ED3CF17EF5286EE0AF90213FD802871A672213FECE32038557DD2A0375A2E6C2"
+      }
+    ]
+  },
+  "status": [
+    "active"
+  ],
+  "port43": "whois.nic.okinawa",
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "BRregistry, Inc."
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Cerulean Tower\n26-1 Sakuragaoka-cho\nShibuya-ku Tokyo 150-8512\nJapan"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2019-08-20T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Representative Director and CEO"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "GMO Registry, Inc."
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Admin"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Cerulean Tower\n26-1 Sakuragaoka-cho\nShibuya-ku Tokyo 150-8512\nJapan"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+81-3-5456-1601"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+81-3-3780-2611"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "newgtld@gmoregistry.com"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2015-03-26T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Director"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "GMO Registry, Inc."
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Technical Contact"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Cerulean Tower\n26-1 Sakuragaoka-cho\nShibuya-ku Tokyo 150-8512\nJapan"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+81-3-5456-1601"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+81-3-3780-2611"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "newgtld@gmoregistry.com"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2015-03-26T00:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "last changed",
+      "eventDate": "2019-08-20T00:00:00+00:00"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "2014-02-20T00:00:00+00:00"
+    }
+  ],
+  "links": [
+    {
+      "rel": "related",
+      "href": "http://www.gmo-registry.com/en/",
+      "title": "Registration URL",
+      "type": "text/html"
+    },
+    {
+      "rel": "alternate",
+      "href": "https://rdap.gmoregistry.net/rdap/",
+      "title": "RDAP Server",
+      "type": "application/rdap+json"
+    },
+    {
+      "value": "https://rdap.iana.org/domain/okinawa",
+      "rel": "self",
+      "href": "https://rdap.iana.org/domain/okinawa",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Terms of Service"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/tos"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "description": [
+        "Privacy Policy"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/policy"
+        }
+      ]
+    }
+  ]
+}

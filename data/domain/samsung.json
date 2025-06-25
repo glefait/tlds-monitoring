@@ -1,0 +1,400 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "ldhName": "samsung",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "n1-a1.aka-ns.net",
+      "ipAddresses": {
+        "v4": [
+          "23.2.10.1"
+        ],
+        "v6": [
+          "2600:1405:4800::1"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "n1-a13.aka-ns.net",
+      "ipAddresses": {
+        "v4": [
+          "184.29.150.1"
+        ],
+        "v6": [
+          "2600:1405:400::1"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "n1-a20.aka-ns.net",
+      "ipAddresses": {
+        "v4": [
+          "184.29.154.1"
+        ],
+        "v6": [
+          "2600:1405:2400::1"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "n1-a26.aka-ns.net",
+      "ipAddresses": {
+        "v4": [
+          "184.29.157.1"
+        ],
+        "v6": [
+          "2600:1405:3c00::1"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "n1-a4.aka-ns.net",
+      "ipAddresses": {
+        "v4": [
+          "23.59.162.1"
+        ],
+        "v6": [
+          "2600:1405:7800::1"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "n1-a7.aka-ns.net",
+      "ipAddresses": {
+        "v4": [
+          "96.16.208.1"
+        ],
+        "v6": [
+          "2600:1405:a800::1"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns1.dns.samsung",
+      "ipAddresses": {
+        "v4": [
+          "140.238.4.10"
+        ],
+        "v6": [
+          "2603:c022:8004:5d05:ca27:7608:ff55:38fe"
+        ]
+      }
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 19194,
+        "algorithm": 7,
+        "digestType": 2,
+        "digest": "144B461CB8AD9212307C53173EF72139A418EAB09997FC366484335D0AAE91FE"
+      }
+    ]
+  },
+  "status": [
+    "active"
+  ],
+  "port43": "whois.nic.samsung",
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "SAMSUNG SDS CO., LTD"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "(Daerung Post Tower 3, Guro-dong) #1101 ,27 , Digital-ro 34-gil, Guro-gu\nSeoul\nKorea, Republic of"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2020-08-06T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Yujeong Shin"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Whois Corp."
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Admin"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "(Daerung Post Tower 3, Guro-dong) #1101 ,27 , Digital-ro 34-gil, Guro-gu\nSeoul\nKorea, Republic of"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+82 70 4317 8217"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+82 2 2028 0011"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "info@yesnic.com"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2017-01-12T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Junmyoung Oh"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Whois Corp."
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Technical Contact"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "(Daerung Post Tower 3, Guro-dong) #1101 ,27 , Digital-ro 34-gil, Guro-gu\nSeoul\nKorea, Republic of"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+82 70 4310 9630"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+82 2 2028 0011"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "info@yesnic.com"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2018-03-08T00:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-02-11T00:00:00+00:00"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "2014-10-30T00:00:00+00:00"
+    }
+  ],
+  "links": [
+    {
+      "rel": "related",
+      "href": "http://samsungregistry.com",
+      "title": "Registration URL",
+      "type": "text/html"
+    },
+    {
+      "rel": "alternate",
+      "href": "https://nic.samsung/rdap/",
+      "title": "RDAP Server",
+      "type": "application/rdap+json"
+    },
+    {
+      "value": "https://rdap.iana.org/domain/samsung",
+      "rel": "self",
+      "href": "https://rdap.iana.org/domain/samsung",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Terms of Service"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/tos"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "description": [
+        "Privacy Policy"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/policy"
+        }
+      ]
+    }
+  ]
+}

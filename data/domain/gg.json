@@ -1,0 +1,360 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "ldhName": "gg",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "c.ci-servers.org",
+      "ipAddresses": {
+        "v4": [
+          "194.146.106.86"
+        ],
+        "v6": [
+          "2001:67c:1010:22::53"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "dns1.nominetdns.uk",
+      "ipAddresses": {
+        "v4": [
+          "213.248.219.254"
+        ],
+        "v6": [
+          "2a01:618:403::254"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "dns2.nominetdns.uk",
+      "ipAddresses": {
+        "v4": [
+          "103.49.83.254"
+        ],
+        "v6": [
+          "2401:fd80:403::254"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "dns3.nominetdns.uk",
+      "ipAddresses": {
+        "v4": [
+          "213.248.223.254"
+        ],
+        "v6": [
+          "2a01:618:407::254"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "dns4.nominetdns.uk",
+      "ipAddresses": {
+        "v4": [
+          "43.230.51.254"
+        ],
+        "v6": [
+          "2401:fd80:407::254"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "e.ci-servers.net",
+      "ipAddresses": {
+        "v4": [
+          "204.61.216.74"
+        ],
+        "v6": [
+          "2001:500:14:6074:ad::1"
+        ]
+      }
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 4975,
+        "algorithm": 8,
+        "digestType": 2,
+        "digest": "6B95DA44B57BF3BDFCE8E9CF6D28DF4B0FF999A374EFF7909E095AB1C7000630"
+      }
+    ]
+  },
+  "status": [
+    "active"
+  ],
+  "port43": "whois.gg",
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Island Networks Ltd."
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Maison Postel\nOllivier St\nAlderney GY9 3JZ\nGuernsey"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2024-02-12T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Nigel Roberts"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Island Networks Ltd"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Admin"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Maison Postel\nOllivier St\nAlderney GY9 3JZ\nGuernsey"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+44 1481 521713"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "hostmaster2016@iana-contact.gg"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2024-02-12T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "GG-Hostmaster"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Island Networks Limited"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Technical Contact"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Maison Postel\nOllivier St\nAlderney GY9 3JZ\nGuernsey"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+44 1481 521713"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "hostmaster2016@iana-contact.gg"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2024-02-12T00:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "last changed",
+      "eventDate": "2024-02-12T00:00:00+00:00"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "1996-08-07T00:00:00+00:00"
+    }
+  ],
+  "links": [
+    {
+      "rel": "related",
+      "href": "http://www.nic.gg",
+      "title": "Registration URL",
+      "type": "text/html"
+    },
+    {
+      "value": "https://rdap.iana.org/domain/gg",
+      "rel": "self",
+      "href": "https://rdap.iana.org/domain/gg",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Terms of Service"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/tos"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "description": [
+        "Privacy Policy"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/policy"
+        }
+      ]
+    }
+  ]
+}

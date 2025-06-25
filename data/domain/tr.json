@@ -1,0 +1,379 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "ldhName": "tr",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns43.ns.tr",
+      "ipAddresses": {
+        "v4": [
+          "185.7.0.4"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns44.ns.tr",
+      "ipAddresses": {
+        "v4": [
+          "185.7.0.5"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns61.ns.tr",
+      "ipAddresses": {
+        "v4": [
+          "206.51.254.1"
+        ],
+        "v6": [
+          "2620:171:804:ad2::1"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns71.ns.tr",
+      "ipAddresses": {
+        "v4": [
+          "185.67.32.53"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns72.ns.tr",
+      "ipAddresses": {
+        "v4": [
+          "40.68.114.66"
+        ],
+        "v6": [
+          "2603:1020:201:10::111"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns73.ns.tr",
+      "ipAddresses": {
+        "v4": [
+          "31.145.253.159"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns74.ns.tr",
+      "ipAddresses": {
+        "v4": [
+          "31.145.253.160"
+        ]
+      }
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 23500,
+        "algorithm": 13,
+        "digestType": 2,
+        "digest": "2405380F78933579783F2B91521D613B63AE2CE20F4E9E886B469E2B15E2E813"
+      }
+    ]
+  },
+  "status": [
+    "active"
+  ],
+  "port43": "whois.trabis.gov.tr",
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Bilgi Teknolojileri ve \u0130leti\u015fim Kurumu (BTK)"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Eskisehir Yolu 10.Km No:276 \u00c7ankaya\nAnkara 06530\nT\u00fcrkiye"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2023-03-28T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Chief ICT Expert"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Bilgi Teknolojileri ve \u0130leti\u015fim Kurumu"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Admin"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Eskisehir Yolu 10.Km No:276 \u00c7ankaya\nAnkara 06530\nT\u00fcrkiye"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+90 (312) 203 18 47"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+90 (312) 294 71 45"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "onur.gencer@btk.gov.tr"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2023-03-28T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "ICT Expert"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Bilgi Teknolojileri ve \u0130leti\u015fim Kurumu"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Technical Contact"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Eskisehir Yolu 10.Km No:276 \u00c7ankaya\nAnkara 06530\nT\u00fcrkiye"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+90 (312) 586 53 11"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+90 (312) 294 71 45"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "gokhan.usta@btk.gov.tr"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2023-03-28T00:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-05-05T00:00:00+00:00"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "1990-09-17T00:00:00+00:00"
+    }
+  ],
+  "links": [
+    {
+      "rel": "related",
+      "href": "http://www.trabis.gov.tr",
+      "title": "Registration URL",
+      "type": "text/html"
+    },
+    {
+      "value": "https://rdap.iana.org/domain/tr",
+      "rel": "self",
+      "href": "https://rdap.iana.org/domain/tr",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Terms of Service"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/tos"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "description": [
+        "Privacy Policy"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/policy"
+        }
+      ]
+    }
+  ]
+}

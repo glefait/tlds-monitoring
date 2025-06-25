@@ -1,0 +1,336 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "ldhName": "gov",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "a.ns.gov",
+      "ipAddresses": {
+        "v4": [
+          "199.33.230.1"
+        ],
+        "v6": [
+          "2001:503:ff40::1"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "b.ns.gov",
+      "ipAddresses": {
+        "v4": [
+          "199.33.231.1"
+        ],
+        "v6": [
+          "2001:503:ff41::1"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "c.ns.gov",
+      "ipAddresses": {
+        "v4": [
+          "199.33.232.1"
+        ],
+        "v6": [
+          "2001:503:ff42::1"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "d.ns.gov",
+      "ipAddresses": {
+        "v4": [
+          "199.33.233.1"
+        ],
+        "v6": [
+          "2001:503:ff43::1"
+        ]
+      }
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 2536,
+        "algorithm": 13,
+        "digestType": 2,
+        "digest": "0BAF26B7BBF313A859046FD3B1EE49DDFBA33934CFB3E717C21E2A2935C2F259"
+      }
+    ]
+  },
+  "status": [
+    "active"
+  ],
+  "port43": "whois.nic.gov",
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Cybersecurity and Infrastructure Security Agency"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "CSD/CB - Attn: .gov TLD\nCISA - NGR STOP 0645\n1110 N. Glebe Rd.\nArlington VA 20598-0645\nUnited States"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2025-02-11T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Registry Manager"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Cybersecurity and Infrastructure Security Agency"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Admin"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "1110 N. Glebe Rd.\nArlington VA 20598-0645\nUnited States"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+1 888 282 0870"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "help@get.gov"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2025-02-11T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Registry Customer Service"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Cloudflare, Inc."
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Technical Contact"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "101 Townsend St.\nSan Francisco CA 94107\nUnited States"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+1 888 993 5273"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "dotgov@cloudflare.com"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2023-11-16T00:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-03-13T00:00:00+00:00"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "1985-01-01T00:00:00+00:00"
+    }
+  ],
+  "links": [
+    {
+      "rel": "related",
+      "href": "https://get.gov",
+      "title": "Registration URL",
+      "type": "text/html"
+    },
+    {
+      "value": "https://rdap.iana.org/domain/gov",
+      "rel": "self",
+      "href": "https://rdap.iana.org/domain/gov",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Terms of Service"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/tos"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "description": [
+        "Privacy Policy"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/policy"
+        }
+      ]
+    }
+  ]
+}

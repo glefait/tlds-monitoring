@@ -1,0 +1,375 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "ldhName": "mil",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "con1.nipr.mil",
+      "ipAddresses": {
+        "v4": [
+          "199.252.157.234"
+        ],
+        "v6": [
+          "2608:140:c:157::234"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "con2.nipr.mil",
+      "ipAddresses": {
+        "v4": [
+          "199.252.162.234"
+        ],
+        "v6": [
+          "2608:120:c:162::234"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "eur1.nipr.mil",
+      "ipAddresses": {
+        "v4": [
+          "199.252.154.234"
+        ],
+        "v6": [
+          "2608:4122:2:154::234"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "eur2.nipr.mil",
+      "ipAddresses": {
+        "v4": [
+          "199.252.143.234"
+        ],
+        "v6": [
+          "2608:4163:1:143::234"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "pac1.nipr.mil",
+      "ipAddresses": {
+        "v4": [
+          "199.252.180.234"
+        ],
+        "v6": [
+          "2608:c184:1:180::234"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "pac2.nipr.mil",
+      "ipAddresses": {
+        "v4": [
+          "199.252.155.234"
+        ],
+        "v6": [
+          "2608:c144:1:155::234"
+        ]
+      }
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 63500,
+        "algorithm": 8,
+        "digestType": 2,
+        "digest": "3BAA83867103D6604A124282063F295E1B15C87CC13CB875A42F5754A912EBE0"
+      }
+    ]
+  },
+  "status": [
+    "active"
+  ],
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "DoD Network Information Center"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "DISA-Columbus\n300 North James Road\nWhitehall OH 43213\nUnited States"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2022-09-21T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "DoD NIC Registry Services"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "DoD Network Information Center"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Admin"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "DISA-Columbus\n300 North James Road\nWhitehall OH 43213\nUnited States"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+1 614 692 6640"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+1 614 692 3452"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "disa.columbus.ns.mbx.hostmaster-dod-nic@mail.mil"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2020-02-13T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "DoD NIC Registry Services"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "DoD Network Information Center"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Technical Contact"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "DISA-Columbus\n300 North James Road\nWhitehall OH 43213\nUnited States"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+1 614 692 6640"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+1 614 692 3452"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "disa.columbus.ns.mbx.hostmaster-dod-nic@mail.mil"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2020-02-13T00:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "last changed",
+      "eventDate": "2024-09-19T00:00:00+00:00"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "1985-01-01T00:00:00+00:00"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.iana.org/domain/mil",
+      "rel": "self",
+      "href": "https://rdap.iana.org/domain/mil",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Terms of Service"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/tos"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "description": [
+        "Privacy Policy"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/policy"
+        }
+      ]
+    }
+  ]
+}

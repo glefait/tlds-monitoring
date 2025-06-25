@@ -1,0 +1,371 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "ldhName": "xn--ngbe9e0a",
+  "unicodeName": "\u0628\u064a\u062a\u0643",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "a.nic.xn--ngbe9e0a",
+      "ipAddresses": {
+        "v4": [
+          "194.169.218.22"
+        ],
+        "v6": [
+          "2001:67c:13cc::1:22"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "b.nic.xn--ngbe9e0a",
+      "ipAddresses": {
+        "v4": [
+          "185.24.64.22"
+        ],
+        "v6": [
+          "2a04:2b00:13cc::1:22"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "c.nic.xn--ngbe9e0a",
+      "ipAddresses": {
+        "v4": [
+          "212.18.248.22"
+        ],
+        "v6": [
+          "2a04:2b00:13ee::22"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "d.nic.xn--ngbe9e0a",
+      "ipAddresses": {
+        "v4": [
+          "212.18.249.22"
+        ],
+        "v6": [
+          "2a04:2b00:13ff::22"
+        ]
+      }
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 10552,
+        "algorithm": 8,
+        "digestType": 2,
+        "digest": "B4B742442C6B66D321259FCD7608462A75F2A7EA70AF4E42A6CAD0430DD98D51"
+      },
+      {
+        "keyTag": 5347,
+        "algorithm": 8,
+        "digestType": 2,
+        "digest": "6E02D3EE5A203293F8CBAF20686AECD516E1363E231EC6DB68E78E9F48090E47"
+      }
+    ]
+  },
+  "status": [
+    "active"
+  ],
+  "port43": "whois.nic.xn--ngbe9e0a",
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Kuwait Finance House"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "P.O. Box 24989\nSafat 13110\nKuwait"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2021-10-12T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Majeed Behzadi"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Kuwait Finance House"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Admin"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "P.O. Box 24989\nSafat 13110\nKuwait"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+965.24966400"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+965.24966403"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "majeed@kfh.com"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2015-12-15T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Bashar Al-Abdulhadi"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Kuwaitnet General Trading & Contracting Co"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Technical Contact"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "P.O. Box 1230\nDasman Asima 15463\nKuwait"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+965.1807060"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+965.22257060"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "tld.ops@kuwaitnet.com"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2025-03-06T00:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-03-06T00:00:00+00:00"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "2015-10-29T00:00:00+00:00"
+    }
+  ],
+  "links": [
+    {
+      "rel": "related",
+      "href": "http://kfh.com",
+      "title": "Registration URL",
+      "type": "text/html"
+    },
+    {
+      "rel": "alternate",
+      "href": "https://rdap.centralnic.com/xn--ngbe9e0a",
+      "title": "RDAP Server",
+      "type": "application/rdap+json"
+    },
+    {
+      "value": "https://rdap.iana.org/domain/xn--ngbe9e0a",
+      "rel": "self",
+      "href": "https://rdap.iana.org/domain/xn--ngbe9e0a",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Terms of Service"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/tos"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "description": [
+        "Privacy Policy"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/policy"
+        }
+      ]
+    }
+  ]
+}

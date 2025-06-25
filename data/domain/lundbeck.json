@@ -1,0 +1,347 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "ldhName": "lundbeck",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "a0.nic.lundbeck",
+      "ipAddresses": {
+        "v4": [
+          "65.22.112.60"
+        ],
+        "v6": [
+          "2a01:8840:6e::60"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "a2.nic.lundbeck",
+      "ipAddresses": {
+        "v4": [
+          "65.22.115.60"
+        ],
+        "v6": [
+          "2a01:8840:71::60"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "b0.nic.lundbeck",
+      "ipAddresses": {
+        "v4": [
+          "65.22.113.60"
+        ],
+        "v6": [
+          "2a01:8840:6f::60"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "c0.nic.lundbeck",
+      "ipAddresses": {
+        "v4": [
+          "65.22.114.60"
+        ],
+        "v6": [
+          "2a01:8840:70::60"
+        ]
+      }
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 10564,
+        "algorithm": 8,
+        "digestType": 2,
+        "digest": "38580C9480C824DA9CB65A5FFACCDF2F6AEDC660B98C6166E0A843FF13FAB368"
+      }
+    ]
+  },
+  "status": [
+    "active"
+  ],
+  "port43": "whois.nic.lundbeck",
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "H. Lundbeck A/S"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Ottiliavej 9\nValby DK-2500\nDenmark"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2019-08-16T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Project Manager"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "H. Lundbeck A/S"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Admin"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Ottiliavej 9\nValby DK-2500\nDenmark"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+45 299 94400"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "ngtld-lundbeck@cscinfo.com"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2016-07-16T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Howard Eland, Senior Director, DNS Infrastructure Group"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Identity Digital Inc."
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Technical Contact"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+1.425.298.2200"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+1.425.671.0020"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "tldtech@identity.digital"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2023-05-23T00:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "last changed",
+      "eventDate": "2023-08-11T00:00:00+00:00"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "2016-06-16T00:00:00+00:00"
+    }
+  ],
+  "links": [
+    {
+      "rel": "alternate",
+      "href": "https://rdap.identitydigital.services/rdap/",
+      "title": "RDAP Server",
+      "type": "application/rdap+json"
+    },
+    {
+      "value": "https://rdap.iana.org/domain/lundbeck",
+      "rel": "self",
+      "href": "https://rdap.iana.org/domain/lundbeck",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Terms of Service"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/tos"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "description": [
+        "Privacy Policy"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/policy"
+        }
+      ]
+    }
+  ]
+}

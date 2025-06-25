@@ -1,0 +1,364 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "ldhName": "ca",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "any.ca-servers.ca",
+      "ipAddresses": {
+        "v4": [
+          "199.4.144.2"
+        ],
+        "v6": [
+          "2001:500:a7::2"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "c.ca-servers.ca",
+      "ipAddresses": {
+        "v4": [
+          "185.159.196.2"
+        ],
+        "v6": [
+          "2620:10a:8053::2"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "d.ca-servers.ca",
+      "ipAddresses": {
+        "v4": [
+          "45.142.220.101"
+        ],
+        "v6": [
+          "2a0e:dbc0::101"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "j.ca-servers.ca",
+      "ipAddresses": {
+        "v4": [
+          "198.182.167.1"
+        ],
+        "v6": [
+          "2001:500:83::1"
+        ]
+      }
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 18560,
+        "algorithm": 13,
+        "digestType": 2,
+        "digest": "86EC28ED5BFF076186306DC8CE3B4E3EC0433D9D5D34C7CA8DAC7B1934E8B324"
+      }
+    ]
+  },
+  "status": [
+    "active"
+  ],
+  "port43": "whois.cira.ca",
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Canadian Internet Registration Authority (CIRA) Autorit\u00e9 Canadienne pour les enregistrements Internet (ACEI)"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "979 Bank Street, Suite 400\nOttawa ON K1S 5K5\nCanada"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2022-11-09T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Chief Information Officer"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "CIRA"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Admin"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "979 Bank Street, Suite 400\nOttawa ON K1S 5K5\nCanada"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+1 613 237 5335"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+1 613 237 0534"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "chief.information.officer@cira.ca"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2015-11-05T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "DNS Admin"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "CIRA"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Technical Contact"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "979 Bank Street, Suite 400\nOttawa ON K1S 5K5\nCanada"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+1 613 237 5335"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+1 613 237 0534"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "admin-dns@cira.ca"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2015-11-05T00:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "last changed",
+      "eventDate": "2023-09-19T00:00:00+00:00"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "1987-05-14T00:00:00+00:00"
+    }
+  ],
+  "links": [
+    {
+      "rel": "related",
+      "href": "http://www.cira.ca/",
+      "title": "Registration URL",
+      "type": "text/html"
+    },
+    {
+      "rel": "alternate",
+      "href": "https://rdap.ca.fury.ca/rdap/",
+      "title": "RDAP Server",
+      "type": "application/rdap+json"
+    },
+    {
+      "value": "https://rdap.iana.org/domain/ca",
+      "rel": "self",
+      "href": "https://rdap.iana.org/domain/ca",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Terms of Service"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/tos"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "description": [
+        "Privacy Policy"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/policy"
+        }
+      ]
+    }
+  ]
+}

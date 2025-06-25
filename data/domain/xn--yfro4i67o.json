@@ -1,0 +1,349 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "ldhName": "xn--yfro4i67o",
+  "unicodeName": "\u65b0\u52a0\u5761",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "dsany2.sgnic.sg",
+      "ipAddresses": {
+        "v4": [
+          "185.159.197.170"
+        ],
+        "v6": [
+          "2620:10a:80aa::170"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "dsany3.sgnic.sg",
+      "ipAddresses": {
+        "v4": [
+          "185.159.198.170"
+        ],
+        "v6": [
+          "2620:10a:80ab::170"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "dsany4.sgnic.sg",
+      "ipAddresses": {
+        "v4": [
+          "45.142.220.65"
+        ],
+        "v6": [
+          "2a0e:dbc0:1::65"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns4.apnic.net",
+      "ipAddresses": {
+        "v4": [
+          "202.12.31.53"
+        ],
+        "v6": [
+          "2001:dd8:12::53"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "pch.sgzones.sg",
+      "ipAddresses": {
+        "v4": [
+          "204.61.216.57"
+        ],
+        "v6": [
+          "2001:500:14:6057:ad::1"
+        ]
+      }
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 42197,
+        "algorithm": 8,
+        "digestType": 2,
+        "digest": "D8001FE0B7A80F256A0EE1789C909F320BBB43964FB8E211274AB22220074C41"
+      }
+    ]
+  },
+  "status": [
+    "active"
+  ],
+  "port43": "whois.zh.sgnic.sg",
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Singapore Network Information Centre (SGNIC) Pte Ltd"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "10 Pasir Panjang Road\n#03-01 Mapletree Business City\nSingapore 117438\nSingapore"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2022-06-15T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Head (Technical and Ops)"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Singapore Network Information Centre (SGNIC) Pte Ltd"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Admin"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "10 Pasir Panjang Road\n#03-01 Mapletree Business City\nSingapore 117438\nSingapore"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+65 6659 2534"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "dna@sgnic.sg"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2020-06-18T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Head (Technical and Ops)"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Singapore Network Information Centre (SGNIC) Pte Ltd"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Technical Contact"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "10 Pasir Panjang Road\n#03-01 Mapletree Business City\nSingapore 117438\nSingapore"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+65 6659 2534"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "dna@sgnic.sg"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2020-06-18T00:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "last changed",
+      "eventDate": "2024-11-19T00:00:00+00:00"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "2011-02-05T00:00:00+00:00"
+    }
+  ],
+  "links": [
+    {
+      "rel": "related",
+      "href": "http://www.sgnic.sg/",
+      "title": "Registration URL",
+      "type": "text/html"
+    },
+    {
+      "value": "https://rdap.iana.org/domain/xn--yfro4i67o",
+      "rel": "self",
+      "href": "https://rdap.iana.org/domain/xn--yfro4i67o",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Terms of Service"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/tos"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "description": [
+        "Privacy Policy"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/policy"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,406 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "ldhName": "omega",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "dns1.nic.omega",
+      "ipAddresses": {
+        "v4": [
+          "213.248.219.140"
+        ],
+        "v6": [
+          "2a01:618:403::140"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "dns2.nic.omega",
+      "ipAddresses": {
+        "v4": [
+          "103.49.83.140"
+        ],
+        "v6": [
+          "2401:fd80:403::140"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "dns3.nic.omega",
+      "ipAddresses": {
+        "v4": [
+          "213.248.223.140"
+        ],
+        "v6": [
+          "2a01:618:407::140"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "dns4.nic.omega",
+      "ipAddresses": {
+        "v4": [
+          "43.230.51.140"
+        ],
+        "v6": [
+          "2401:fd80:407::140"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "dnsa.nic.omega",
+      "ipAddresses": {
+        "v4": [
+          "156.154.100.3"
+        ],
+        "v6": [
+          "2001:502:ad09::3"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "dnsb.nic.omega",
+      "ipAddresses": {
+        "v4": [
+          "156.154.101.3"
+        ],
+        "v6": [
+          "2001:502:2eda::3"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "dnsc.nic.omega",
+      "ipAddresses": {
+        "v4": [
+          "156.154.102.3"
+        ],
+        "v6": [
+          "2610:a1:1009::3"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "dnsd.nic.omega",
+      "ipAddresses": {
+        "v4": [
+          "156.154.103.3"
+        ],
+        "v6": [
+          "2610:a1:1010::3"
+        ]
+      }
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 4269,
+        "algorithm": 8,
+        "digestType": 2,
+        "digest": "439D91ED221DE512CB04F3A7218DB1B019340B8D6228AB73DEAD0DF30AB5CF7B"
+      },
+      {
+        "keyTag": 49055,
+        "algorithm": 8,
+        "digestType": 2,
+        "digest": "7FEB12A48D98DC3497171FA326DC92352F0C755D2CB7247950C3F42FE6F35871"
+      }
+    ]
+  },
+  "status": [
+    "active"
+  ],
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "The Swatch Group Ltd"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Seevorstadt 6\nBiel / Bienne CH-2501\nSwitzerland"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2022-08-15T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Digital Project Manager"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "The Swatch Group Ltd"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Admin"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Seevorstadt 6\nBiel / Bienne CH-2501\nSwitzerland"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+41 32 343 68 11"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+41 32 343 69 11"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "omegagtld@swatchgroup.com"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2022-08-15T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "TLD Registry Services Technical"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Nominet"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Technical Contact"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Minerva House,\nEdmund Halley Road,\nOxford Science Park\nOxford OX4 4DQ\nUnited Kingdom"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+44.1865332211"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "registrytechnical@nominet.uk"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2024-10-24T00:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-01-28T00:00:00+00:00"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "2015-04-23T00:00:00+00:00"
+    }
+  ],
+  "links": [
+    {
+      "rel": "related",
+      "href": "http://www.swatchgroup.com/",
+      "title": "Registration URL",
+      "type": "text/html"
+    },
+    {
+      "rel": "alternate",
+      "href": "https://rdap.nominet.uk/omega/",
+      "title": "RDAP Server",
+      "type": "application/rdap+json"
+    },
+    {
+      "value": "https://rdap.iana.org/domain/omega",
+      "rel": "self",
+      "href": "https://rdap.iana.org/domain/omega",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Terms of Service"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/tos"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "description": [
+        "Privacy Policy"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/policy"
+        }
+      ]
+    }
+  ]
+}

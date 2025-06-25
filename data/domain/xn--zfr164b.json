@@ -1,0 +1,377 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "ldhName": "xn--zfr164b",
+  "unicodeName": "\u653f\u52a1",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns1.conac.cn",
+      "ipAddresses": {
+        "v4": [
+          "111.235.161.1"
+        ],
+        "v6": [
+          "2401:b400:1::1"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns2.conac.cn",
+      "ipAddresses": {
+        "v4": [
+          "111.235.162.1"
+        ],
+        "v6": [
+          "2401:b400:8::1"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns3.conac.cn",
+      "ipAddresses": {
+        "v4": [
+          "111.235.163.1"
+        ],
+        "v6": [
+          "2401:b400:9::1"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns4.conac.cn",
+      "ipAddresses": {
+        "v4": [
+          "111.235.164.1"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns5.conac.cn",
+      "ipAddresses": {
+        "v4": [
+          "111.235.165.1"
+        ]
+      }
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 51421,
+        "algorithm": 8,
+        "digestType": 2,
+        "digest": "9D673623E84D7E10B2AA5B376A3F617665F8B38EF442E8A7E86F0F18161C7801"
+      },
+      {
+        "keyTag": 8245,
+        "algorithm": 8,
+        "digestType": 2,
+        "digest": "EE6F394BD32D4BB28D43D2F2172121C90941E133D5B5BDBDCB72F86765BB95EB"
+      }
+    ]
+  },
+  "status": [
+    "active"
+  ],
+  "port43": "whois.conac.cn",
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "China Organizational Name Administration Center"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Beifa Mansion, Block D, Building 6, Compound 15\nXueyuan Nanlu, Haidian District\nBeijing 100088\nChina"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2019-08-27T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Director of Department of International Affairs and Policy Analysis"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "China Organizational Name Administration Center"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Admin"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Beifa Mansion, Block D, Building 6, Compound 15\nXueyuan Nanlu, Haidian District\nBeijing 100088\nChina"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+8610-6900 1152"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+8610-6900 1153"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "technical_cn@163.com"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2018-07-03T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Director of Department of R&D"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "China Organizational Name Administration Center"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Technical Contact"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Beifa Mansion, Block D, Building 6, Compound 15\nXueyuan Nanlu, Haidian District\nBeijing 100088\nChina"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+8610-6900 1432"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+8610- 6900 1153"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "technical_cn@163.com"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2018-07-03T00:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "last changed",
+      "eventDate": "2024-07-18T00:00:00+00:00"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "2013-12-12T00:00:00+00:00"
+    }
+  ],
+  "links": [
+    {
+      "rel": "related",
+      "href": "http://www.conac.cn",
+      "title": "Registration URL",
+      "type": "text/html"
+    },
+    {
+      "rel": "alternate",
+      "href": "https://rdap.conac.cn",
+      "title": "RDAP Server",
+      "type": "application/rdap+json"
+    },
+    {
+      "value": "https://rdap.iana.org/domain/xn--zfr164b",
+      "rel": "self",
+      "href": "https://rdap.iana.org/domain/xn--zfr164b",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Terms of Service"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/tos"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "description": [
+        "Privacy Policy"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/policy"
+        }
+      ]
+    }
+  ]
+}

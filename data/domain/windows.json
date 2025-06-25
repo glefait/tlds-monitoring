@@ -1,0 +1,406 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "ldhName": "windows",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "dns1.nic.windows",
+      "ipAddresses": {
+        "v4": [
+          "213.248.219.133"
+        ],
+        "v6": [
+          "2a01:618:403::133"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "dns2.nic.windows",
+      "ipAddresses": {
+        "v4": [
+          "103.49.83.133"
+        ],
+        "v6": [
+          "2401:fd80:403::133"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "dns3.nic.windows",
+      "ipAddresses": {
+        "v4": [
+          "213.248.223.133"
+        ],
+        "v6": [
+          "2a01:618:407::133"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "dns4.nic.windows",
+      "ipAddresses": {
+        "v4": [
+          "43.230.51.133"
+        ],
+        "v6": [
+          "2401:fd80:407::133"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "dnsa.nic.windows",
+      "ipAddresses": {
+        "v4": [
+          "156.154.100.3"
+        ],
+        "v6": [
+          "2001:502:ad09::3"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "dnsb.nic.windows",
+      "ipAddresses": {
+        "v4": [
+          "156.154.101.3"
+        ],
+        "v6": [
+          "2001:502:2eda::3"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "dnsc.nic.windows",
+      "ipAddresses": {
+        "v4": [
+          "156.154.102.3"
+        ],
+        "v6": [
+          "2610:a1:1009::3"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "dnsd.nic.windows",
+      "ipAddresses": {
+        "v4": [
+          "156.154.103.3"
+        ],
+        "v6": [
+          "2610:a1:1010::3"
+        ]
+      }
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 44526,
+        "algorithm": 8,
+        "digestType": 2,
+        "digest": "F6DDA2F2E3E99E70C47F0393F0154D1641435ABDF20E5E5C0A8416C0DA34A922"
+      },
+      {
+        "keyTag": 31600,
+        "algorithm": 8,
+        "digestType": 2,
+        "digest": "8057ADBDC309CAC9CDB987F477B7217B15C88D0A7F84E3B9BA5AF412D24B60C9"
+      }
+    ]
+  },
+  "status": [
+    "active"
+  ],
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Microsoft Corporation"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "One Microsoft Way\nRedmond WA 98052\nUnited States"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2019-08-16T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Program Manager"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Microsoft Corporation"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Admin"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "One Microsoft Way\nRedmond WA 98052\nUnited States"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+1 425-706-3546"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+1 425-457-2511"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "registry@microsoft.com"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2025-05-01T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "TLD Registry Services Technical"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Nominet"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Technical Contact"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Minerva House, Edmund Halley Road, Oxford Science Park\nOxford OX4 4DQ\nUnited Kingdom"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+44 1865 332211"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "registrytechnical@nominet.uk"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2023-10-26T00:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-05-01T00:00:00+00:00"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "2015-04-30T00:00:00+00:00"
+    }
+  ],
+  "links": [
+    {
+      "rel": "related",
+      "href": "http://www.microsoft.com",
+      "title": "Registration URL",
+      "type": "text/html"
+    },
+    {
+      "rel": "alternate",
+      "href": "https://rdap.nominet.uk/windows/",
+      "title": "RDAP Server",
+      "type": "application/rdap+json"
+    },
+    {
+      "value": "https://rdap.iana.org/domain/windows",
+      "rel": "self",
+      "href": "https://rdap.iana.org/domain/windows",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Terms of Service"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/tos"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "description": [
+        "Privacy Policy"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/policy"
+        }
+      ]
+    }
+  ]
+}

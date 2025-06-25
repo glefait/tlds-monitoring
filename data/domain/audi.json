@@ -1,0 +1,353 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "ldhName": "audi",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "a0.nic.audi",
+      "ipAddresses": {
+        "v4": [
+          "65.22.208.17"
+        ],
+        "v6": [
+          "2a01:8840:ca::17"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "a2.nic.audi",
+      "ipAddresses": {
+        "v4": [
+          "65.22.211.17"
+        ],
+        "v6": [
+          "2a01:8840:cd::17"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "b0.nic.audi",
+      "ipAddresses": {
+        "v4": [
+          "65.22.209.17"
+        ],
+        "v6": [
+          "2a01:8840:cb::17"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "c0.nic.audi",
+      "ipAddresses": {
+        "v4": [
+          "65.22.210.17"
+        ],
+        "v6": [
+          "2a01:8840:cc::17"
+        ]
+      }
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 47809,
+        "algorithm": 8,
+        "digestType": 2,
+        "digest": "AA1FA212D47D097669F357C0C70ED8BE45EDCD5BA04D951F4ED9F9A260476FCA"
+      }
+    ]
+  },
+  "status": [
+    "active"
+  ],
+  "port43": "whois.nic.audi",
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "AUDI Aktiengesellschaft"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Auto-Union-Strasse 1\nIngolstadt Bavaria 85045\nGermany"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2020-12-16T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Domain Solutions"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "STACKIT GmbH & Co. KG"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Admin"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Stiftsbergstr. 1\nNeckarsulm Baden-Wuerttemberg 74172\nGermany"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+49 7131 7999 222"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "domainservices@stackit.cloud"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2025-03-07T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Senior Director, DNS Infrastructure Group"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Afilias"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Technical Contact"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "300 Welsh Road\nBuilding 3, Suite 105\nHorsham PA 19044\nUnited States"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+1 215.706.5700"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+1 215.706.5701"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "tld-tech-poc@afilias.info"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2015-11-25T00:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-03-07T00:00:00+00:00"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "2015-11-12T00:00:00+00:00"
+    }
+  ],
+  "links": [
+    {
+      "rel": "related",
+      "href": "http://www.audi.com",
+      "title": "Registration URL",
+      "type": "text/html"
+    },
+    {
+      "rel": "alternate",
+      "href": "https://rdap.identitydigital.services/rdap/",
+      "title": "RDAP Server",
+      "type": "application/rdap+json"
+    },
+    {
+      "value": "https://rdap.iana.org/domain/audi",
+      "rel": "self",
+      "href": "https://rdap.iana.org/domain/audi",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Terms of Service"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/tos"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "description": [
+        "Privacy Policy"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/policy"
+        }
+      ]
+    }
+  ]
+}

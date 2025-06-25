@@ -1,0 +1,363 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "ldhName": "kw",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "a.nic.kw",
+      "ipAddresses": {
+        "v4": [
+          "54.228.209.46"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "b.nic.kw",
+      "ipAddresses": {
+        "v4": [
+          "168.187.192.106"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "c.nic.kw",
+      "ipAddresses": {
+        "v4": [
+          "194.58.198.135"
+        ],
+        "v6": [
+          "2a01:3f1:3032:8001::135"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "d.nic.kw",
+      "ipAddresses": {
+        "v4": [
+          "185.42.137.135"
+        ],
+        "v6": [
+          "2a01:3f0:400:8001::135"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "pch.nic.kw",
+      "ipAddresses": {
+        "v4": [
+          "204.61.216.118"
+        ],
+        "v6": [
+          "2001:500:14:6118:ad::1"
+        ]
+      }
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 53599,
+        "algorithm": 8,
+        "digestType": 2,
+        "digest": "C5646A4E1BEE8C2699D3CC3C4F597F8767B85A134FE5EE5DFE8B3D25B1534D3A"
+      }
+    ]
+  },
+  "status": [
+    "active"
+  ],
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Communications and Information Technology Regulatory Authority"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Khaled Ibn Alwaleed street, block 6, plot 1, aldhow tower, 12th floor\nAl Asima Sharq 15300\nKuwait"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2023-01-18T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Manal AlMazyad"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Communications and Information Technology Regulatory Authority"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Admin"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Khaled Ibn Alwaleed street, block 6, plot 1, aldhow tower, 12th floor\nSharq\nAl Asima 15300\nKuwait"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+965.22966000"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+965.00000000"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "nic.admin@citra.gov.kw"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2017-10-18T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Bashar Al-Abdulhadi"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Kuwaitnet General Trading & Contracting Co"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Technical Contact"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "P.O. Box 1230\nDasman\nAl Asima 15463\nKuwait"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+965.1807060"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+965.22257060"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "nic.tech@citra.gov.kw"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2017-10-18T00:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "last changed",
+      "eventDate": "2024-10-30T00:00:00+00:00"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "1992-10-26T00:00:00+00:00"
+    }
+  ],
+  "links": [
+    {
+      "rel": "related",
+      "href": "http://www.nic.kw",
+      "title": "Registration URL",
+      "type": "text/html"
+    },
+    {
+      "value": "https://rdap.iana.org/domain/kw",
+      "rel": "self",
+      "href": "https://rdap.iana.org/domain/kw",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Terms of Service"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/tos"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "description": [
+        "Privacy Policy"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/policy"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,370 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "ldhName": "lidl",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "a.nic.lidl",
+      "ipAddresses": {
+        "v4": [
+          "194.169.218.91"
+        ],
+        "v6": [
+          "2001:67c:13cc::1:91"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "b.nic.lidl",
+      "ipAddresses": {
+        "v4": [
+          "185.24.64.91"
+        ],
+        "v6": [
+          "2a04:2b00:13cc::1:91"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "c.nic.lidl",
+      "ipAddresses": {
+        "v4": [
+          "212.18.248.91"
+        ],
+        "v6": [
+          "2a04:2b00:13ee::91"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "d.nic.lidl",
+      "ipAddresses": {
+        "v4": [
+          "212.18.249.91"
+        ],
+        "v6": [
+          "2a04:2b00:13ff::91"
+        ]
+      }
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 44022,
+        "algorithm": 13,
+        "digestType": 2,
+        "digest": "031250E5D00E613D5044B944A8F5D9E88FA4F803EAE5F887C1670E0A8BCFFC97"
+      },
+      {
+        "keyTag": 25851,
+        "algorithm": 13,
+        "digestType": 2,
+        "digest": "1AA0941E7D1538497268EE853423361989C3B0D9A8F2D3DA4E3F3BA0521E24E9"
+      }
+    ]
+  },
+  "status": [
+    "active"
+  ],
+  "port43": "whois.nic.lidl",
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Schwarz Domains und Services GmbH & Co. KG"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Stiftsbergstrasse 1\nNeckarsulm 74172\nGermany"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2021-10-12T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Tim Wess\u00e4ly"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Schwarz IT GmbH & Co. KG"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Admin"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Stiftsbergstrasse 1\nNeckarsulm 74172\nGermany"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+49 7132 / 304459"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+49 7132 / 302248"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "gtld@mail.schwarz"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2017-10-19T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "CTO"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "CentralNic"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Technical Contact"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Saddlers House, 4th Floor\n44 Gutter Lane\nLondon EC2V 6BR\nUnited Kingdom"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+44 20 33 88 0600"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+44 20 33 88 0601"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "tld.ops@centralnic.com"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2021-10-12T00:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "last changed",
+      "eventDate": "2023-11-06T00:00:00+00:00"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "2014-12-04T00:00:00+00:00"
+    }
+  ],
+  "links": [
+    {
+      "rel": "related",
+      "href": "https://www.nic.lidl",
+      "title": "Registration URL",
+      "type": "text/html"
+    },
+    {
+      "rel": "alternate",
+      "href": "https://rdap.centralnic.com/lidl",
+      "title": "RDAP Server",
+      "type": "application/rdap+json"
+    },
+    {
+      "value": "https://rdap.iana.org/domain/lidl",
+      "rel": "self",
+      "href": "https://rdap.iana.org/domain/lidl",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Terms of Service"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/tos"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "description": [
+        "Privacy Policy"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/policy"
+        }
+      ]
+    }
+  ]
+}

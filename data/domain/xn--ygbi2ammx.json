@@ -1,0 +1,375 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "ldhName": "xn--ygbi2ammx",
+  "unicodeName": "\u0641\u0644\u0633\u0637\u064a\u0646",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "dns1.gov.ps",
+      "ipAddresses": {
+        "v4": [
+          "213.244.82.147"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "dns3.gov.ps",
+      "ipAddresses": {
+        "v4": [
+          "185.153.163.3"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "fork.sth.dnsnode.net",
+      "ipAddresses": {
+        "v4": [
+          "77.72.229.254"
+        ],
+        "v6": [
+          "2a01:3f0:0:306::53"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "idn.pnina.ps",
+      "ipAddresses": {
+        "v4": [
+          "208.64.68.60"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns1.pnina.ps",
+      "ipAddresses": {
+        "v4": [
+          "194.6.225.20"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ps-ns.anycast.pch.net",
+      "ipAddresses": {
+        "v4": [
+          "204.61.216.29"
+        ],
+        "v6": [
+          "2001:500:14:6029:ad::1"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ps.cctld.authdns.ripe.net",
+      "ipAddresses": {
+        "v4": [
+          "193.0.9.105"
+        ],
+        "v6": [
+          "2001:67c:e0::105"
+        ]
+      }
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "status": [
+    "active"
+  ],
+  "port43": "whois.pnina.ps",
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Ministry of Telecom & Information Technology (MTIT)"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Al-Irsal Street\nRamallah West Bank 674\nPalestine, State of"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2021-02-04T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "PNINA Chairman"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Palestinian National Internet Naming Authority (PNINA)"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Admin"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Al-Amal Building\nAl-Wehda Street\nGaza Gaza Strip\nPalestine, State of"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+970 8 2861617"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+970 8 2861618"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "chairman@pnina.ps"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2010-08-31T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Technical Contact"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Palestinian National Internet Naming Authority (PNINA)"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Technical Contact"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Al-Amal Building\nAl-Wehda Street\nGaza Gaza Strip\nPalestine, State of"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+970 8 2861617"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+970 8 2861617"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "technical@pnina.ps"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2010-08-31T00:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "last changed",
+      "eventDate": "2024-02-05T00:00:00+00:00"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "2010-08-20T00:00:00+00:00"
+    }
+  ],
+  "links": [
+    {
+      "rel": "related",
+      "href": "http://www.pnina.ps",
+      "title": "Registration URL",
+      "type": "text/html"
+    },
+    {
+      "value": "https://rdap.iana.org/domain/xn--ygbi2ammx",
+      "rel": "self",
+      "href": "https://rdap.iana.org/domain/xn--ygbi2ammx",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Terms of Service"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/tos"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "description": [
+        "Privacy Policy"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/policy"
+        }
+      ]
+    }
+  ]
+}

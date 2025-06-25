@@ -1,0 +1,396 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "ldhName": "lb",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "b.ns.lb",
+      "ipAddresses": {
+        "v4": [
+          "147.28.0.39"
+        ],
+        "v6": [
+          "2001:418:1::39"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "i.ns.lb",
+      "ipAddresses": {
+        "v4": [
+          "77.72.229.254"
+        ],
+        "v6": [
+          "2a01:3f0:0:306::53"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "m.ns.lb",
+      "ipAddresses": {
+        "v4": [
+          "78.141.235.25"
+        ],
+        "v6": [
+          "2001:19f0:7401:890d:5400:4ff:fea8:9ffa"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "n.ns.lb",
+      "ipAddresses": {
+        "v4": [
+          "158.38.0.181"
+        ],
+        "v6": [
+          "2001:700:0:503::aa:5302"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "nabil.ns.lb",
+      "ipAddresses": {
+        "v4": [
+          "185.91.97.18"
+        ],
+        "v6": [
+          "2a05:e380:2:4::2"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "r.ns.lb",
+      "ipAddresses": {
+        "v4": [
+          "105.16.170.1"
+        ],
+        "v6": [
+          "2c0f:feb0:c:1::1:1"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "s.ns.lb",
+      "ipAddresses": {
+        "v4": [
+          "105.16.115.1"
+        ],
+        "v6": [
+          "2c0f:feb0:2:1::1:8001"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "t.ns.lb",
+      "ipAddresses": {
+        "v4": [
+          "139.84.235.208"
+        ],
+        "v6": [
+          "2a05:f480:3000:205f:5400:4ff:fea4:e565"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "w.ns.lb",
+      "ipAddresses": {
+        "v4": [
+          "203.178.141.64"
+        ],
+        "v6": [
+          "2001:200:0:2::53:1"
+        ]
+      }
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 3842,
+        "algorithm": 8,
+        "digestType": 2,
+        "digest": "C838938C2127E3E10E15F92106EC565EF273B2EF7E3AEEBE5A2162862FD3B469"
+      }
+    ]
+  },
+  "status": [
+    "active"
+  ],
+  "port43": "whois.lbdr.org.lb",
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Internet Society Lebanon"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Spears Street\nHamra\nP.O. Box: 113-6596\nBeirut\nLebanon"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2024-01-24T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Jacques Bakaev, Internet Society Lebanon Secretary"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Internet Society Lebanon"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Admin"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Spears Street\nHamra\nP.O. Box: 113-6596\nBeirut\nLebanon"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+961 76 818 688"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "jack.bakaev@isoc.org.lb"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2024-01-24T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Randy Bush"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Technical Contact"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "5147 Crystal Springs Drive NE\nBainbridge Island WA 98110\nUnited States"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+1 206 356 8341"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "randy@psg.com"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2020-01-24T00:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "last changed",
+      "eventDate": "2024-02-26T00:00:00+00:00"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "1993-08-25T00:00:00+00:00"
+    }
+  ],
+  "links": [
+    {
+      "rel": "related",
+      "href": "https://www.lbdr.org.lb",
+      "title": "Registration URL",
+      "type": "text/html"
+    },
+    {
+      "rel": "alternate",
+      "href": "https://rdap.lbdr.org.lb",
+      "title": "RDAP Server",
+      "type": "application/rdap+json"
+    },
+    {
+      "value": "https://rdap.iana.org/domain/lb",
+      "rel": "self",
+      "href": "https://rdap.iana.org/domain/lb",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Terms of Service"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/tos"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "description": [
+        "Privacy Policy"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/policy"
+        }
+      ]
+    }
+  ]
+}

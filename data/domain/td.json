@@ -1,0 +1,325 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "ldhName": "td",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "anycastdns1.nic.td",
+      "ipAddresses": {
+        "v4": [
+          "185.38.108.108"
+        ],
+        "v6": [
+          "2a00:fea0:dead::beef"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "anycastdns2.nic.td",
+      "ipAddresses": {
+        "v4": [
+          "185.28.194.194"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns-td.afrinic.net",
+      "ipAddresses": {
+        "v4": [
+          "196.216.168.31"
+        ],
+        "v6": [
+          "2001:43f8:120::31"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "pch.nic.td",
+      "ipAddresses": {
+        "v4": [
+          "204.61.216.129"
+        ],
+        "v6": [
+          "2001:500:14:6129:ad::1"
+        ]
+      }
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "status": [
+    "active"
+  ],
+  "port43": "whois.nic.td",
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "l'Agence de D\u00e9veloppement des Technologies de l'Information et de la Communication (ADETIC)"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Rue du Colonel Hassan Moursal Kourda\nP.O. Box 240\nN'Djamena\nChad"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2022-08-15T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Ingenieur en R\u00e9seaux Telecoms"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "ADETIC"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Admin"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Rue du Colonel Hassan Moursal Kourda\nP.O. Box 240\nN'Djamena\nChad"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+235 63 31 90 90"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "abatcha.moussa@adetic.td"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2019-09-20T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Chef de Service Gestion du Noms de Domaines et des Adresses IP"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "ADETIC"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Technical Contact"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Rue du Colonel Hassan Moursal Kourda\nP.O. Box 240\nN'Djamena\nChad"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+235 66 86 55 86"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "batran.mahamat@adetic.td"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2024-07-18T00:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "last changed",
+      "eventDate": "2024-07-18T00:00:00+00:00"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "1997-11-03T00:00:00+00:00"
+    }
+  ],
+  "links": [
+    {
+      "rel": "related",
+      "href": "http://www.nic.td",
+      "title": "Registration URL",
+      "type": "text/html"
+    },
+    {
+      "value": "https://rdap.iana.org/domain/td",
+      "rel": "self",
+      "href": "https://rdap.iana.org/domain/td",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Terms of Service"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/tos"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "description": [
+        "Privacy Policy"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/policy"
+        }
+      ]
+    }
+  ]
+}

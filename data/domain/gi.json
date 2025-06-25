@@ -1,0 +1,382 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "ldhName": "gi",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "a0.cctld.afilias-nst.info",
+      "ipAddresses": {
+        "v4": [
+          "199.254.59.1"
+        ],
+        "v6": [
+          "2001:500:25::1"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "a2.cctld.afilias-nst.info",
+      "ipAddresses": {
+        "v4": [
+          "199.249.116.1"
+        ],
+        "v6": [
+          "2001:500:44::1"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "b0.cctld.afilias-nst.org",
+      "ipAddresses": {
+        "v4": [
+          "199.254.60.1"
+        ],
+        "v6": [
+          "2001:500:26::1"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "b2.cctld.afilias-nst.org",
+      "ipAddresses": {
+        "v4": [
+          "199.249.124.1"
+        ],
+        "v6": [
+          "2001:500:4c::1"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "c0.cctld.afilias-nst.info",
+      "ipAddresses": {
+        "v4": [
+          "199.254.61.1"
+        ],
+        "v6": [
+          "2001:500:27::1"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "d0.cctld.afilias-nst.org",
+      "ipAddresses": {
+        "v4": [
+          "199.254.62.1"
+        ],
+        "v6": [
+          "2001:500:28::1"
+        ]
+      }
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 33934,
+        "algorithm": 8,
+        "digestType": 2,
+        "digest": "3DB5809DE2E1052B00E010F54B404BD59CB5CBA0C8306E1799623BDA45A1CFB7"
+      }
+    ]
+  },
+  "status": [
+    "active"
+  ],
+  "port43": "whois.identitydigital.services",
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Sapphire Networks"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Suite 3.0.3\nEurotowers\nP.O. Box 797\nGibraltar  GX11 1AA\nGibraltar"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2020-10-30T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Jimmy Imossi"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Sapphire Networks"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Admin"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Suite 3.0.3\nEurotowers\nP.O. Box 797\nGibraltar  GX11 1AA\nGibraltar"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+350 47200"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+350 47272"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "nic@sapphire.gi"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2007-01-03T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Howard Eland, Senior Director, DNS Infrastructure Group"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Identity Digital Inc."
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Technical Contact"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "10500 NE 8th Street, Suite 750\nBellevue Washington 98004\nUnited States"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+1.425.298.2200"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+1.425.671.0020"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "tldtech@identity.digital"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2024-06-24T00:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "last changed",
+      "eventDate": "2024-06-24T00:00:00+00:00"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "1995-12-05T00:00:00+00:00"
+    }
+  ],
+  "links": [
+    {
+      "rel": "related",
+      "href": "http://www.nic.gi",
+      "title": "Registration URL",
+      "type": "text/html"
+    },
+    {
+      "value": "https://rdap.iana.org/domain/gi",
+      "rel": "self",
+      "href": "https://rdap.iana.org/domain/gi",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Terms of Service"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/tos"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "description": [
+        "Privacy Policy"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/policy"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,353 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "ldhName": "bj",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns-bj.afrinic.net",
+      "ipAddresses": {
+        "v4": [
+          "196.216.168.33"
+        ],
+        "v6": [
+          "2001:43f8:120::33"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns-bj.nic.fr",
+      "ipAddresses": {
+        "v4": [
+          "194.0.9.1"
+        ],
+        "v6": [
+          "2001:678:c::1"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns1.nic.bj",
+      "ipAddresses": {
+        "v4": [
+          "154.65.28.218"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns2.nic.bj",
+      "ipAddresses": {
+        "v4": [
+          "41.85.191.2"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "pch.nic.bj",
+      "ipAddresses": {
+        "v4": [
+          "204.61.216.125"
+        ],
+        "v6": [
+          "2001:500:14:6125:ad::1"
+        ]
+      }
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 26617,
+        "algorithm": 8,
+        "digestType": 2,
+        "digest": "F408C0B3C28D87A76175348B27F6D26CA47231FC29071AB6B5F849777C6548B5"
+      }
+    ]
+  },
+  "status": [
+    "active"
+  ],
+  "port43": "whois.nic.bj",
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Autorit\u00e9 de R\u00e9gulation des Communications Electroniques et de la Poste du B\u00e9nin (ARCEP BENIN)"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Cotonou /Ganhi, Immeuble Maersk House, Zone OCBN\nCotonou 01BP 2034\nBenin"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2022-11-03T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Secr\u00e9taire Ex\u00e9cutif (Executive Secretary)"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "ARCEP BENIN"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Admin"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Cotonou /Ganhi, Immeuble Maersk House, Zone OCBN\nCotonou 01BP 2034\nBenin"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+229 21 31 00 65"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+229 21 31 00 67"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "contacts@arcep.bj"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2019-06-26T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Tonouhewa Deo Gratias"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "JENY SAS"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Technical Contact"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Carr\u00e9 321 Immeuble EL WAKIL (BOA ZONGO)\nCotonou 01 BP 3885\nBenin"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+229 97646172"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "deogratias.tonouhewa@jenysas.bj"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2023-04-14T00:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "last changed",
+      "eventDate": "2023-04-14T00:00:00+00:00"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "1996-01-18T00:00:00+00:00"
+    }
+  ],
+  "links": [
+    {
+      "rel": "related",
+      "href": "http://www.nic.bj",
+      "title": "Registration URL",
+      "type": "text/html"
+    },
+    {
+      "value": "https://rdap.iana.org/domain/bj",
+      "rel": "self",
+      "href": "https://rdap.iana.org/domain/bj",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Terms of Service"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/tos"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "description": [
+        "Privacy Policy"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/policy"
+        }
+      ]
+    }
+  ]
+}

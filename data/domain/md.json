@@ -1,0 +1,342 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "ldhName": "md",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "nsa.tld.md",
+      "ipAddresses": {
+        "v4": [
+          "185.108.181.191"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "nsb.tld.md",
+      "ipAddresses": {
+        "v4": [
+          "185.108.181.192"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "nsc.dns.md",
+      "ipAddresses": {
+        "v4": [
+          "144.217.93.2"
+        ],
+        "v6": [
+          "2607:5300:201:3100::2f69"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "nsf.dns.md",
+      "ipAddresses": {
+        "v4": [
+          "92.222.76.179"
+        ],
+        "v6": [
+          "2001:41d0:401:3100::7162"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "nsr.dns.md",
+      "ipAddresses": {
+        "v4": [
+          "89.32.236.165"
+        ],
+        "v6": [
+          "2a00:c5a0:0:aaaa:89:32:236:165"
+        ]
+      }
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 127,
+        "algorithm": 14,
+        "digestType": 2,
+        "digest": "CA674F4A54BE4629950ECDFD492B82C5DFC833006924D5F06F40749A543DD1D4"
+      }
+    ]
+  },
+  "status": [
+    "active"
+  ],
+  "port43": "whois.nic.md",
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "IP Serviciul Tehnologia Informatiei si Securitate Cibernetica"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Piata Marii Adunari Nationale, 1\nmun. Chisinau MD-2012\nMoldova, Republic of"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2022-01-10T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Alexandru Coretchi"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "IP Serviciul Tehnologia Informatiei si Securitate Cibernetica"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Admin"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Piata Marii Adunari Nationale, 1\nmun. Chisinau MD-2012\nMoldova, Republic of"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+37322820900"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "domains@stisc.gov.md"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2023-11-07T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Eugeniu Besliu"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "IP Serviciul Tehnologia Informatiei si Securitate Cibernetica"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Technical Contact"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Piata Marii Adunari Nationale, 1\nmun. Chisinau MD-2012\nMoldova, Republic of"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+37322820900"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "specctld@stisc.gov.md"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2023-11-07T00:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "last changed",
+      "eventDate": "2023-11-07T00:00:00+00:00"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "1994-03-24T00:00:00+00:00"
+    }
+  ],
+  "links": [
+    {
+      "rel": "related",
+      "href": "http://www.nic.md",
+      "title": "Registration URL",
+      "type": "text/html"
+    },
+    {
+      "value": "https://rdap.iana.org/domain/md",
+      "rel": "self",
+      "href": "https://rdap.iana.org/domain/md",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Terms of Service"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/tos"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "description": [
+        "Privacy Policy"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/policy"
+        }
+      ]
+    }
+  ]
+}

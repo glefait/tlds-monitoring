@@ -1,0 +1,389 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "ldhName": "mtn",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "dns1.nic.mtn",
+      "ipAddresses": {
+        "v4": [
+          "213.248.219.42"
+        ],
+        "v6": [
+          "2a01:618:403::42"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "dns2.nic.mtn",
+      "ipAddresses": {
+        "v4": [
+          "103.49.83.42"
+        ],
+        "v6": [
+          "2401:fd80:403::42"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "dns3.nic.mtn",
+      "ipAddresses": {
+        "v4": [
+          "213.248.223.42"
+        ],
+        "v6": [
+          "2a01:618:407::42"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "dns4.nic.mtn",
+      "ipAddresses": {
+        "v4": [
+          "43.230.51.42"
+        ],
+        "v6": [
+          "2401:fd80:407::42"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "dnsa.nic.mtn",
+      "ipAddresses": {
+        "v4": [
+          "156.154.100.3"
+        ],
+        "v6": [
+          "2001:502:ad09::3"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "dnsb.nic.mtn",
+      "ipAddresses": {
+        "v4": [
+          "156.154.101.3"
+        ],
+        "v6": [
+          "2001:502:2eda::3"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "dnsc.nic.mtn",
+      "ipAddresses": {
+        "v4": [
+          "156.154.102.3"
+        ],
+        "v6": [
+          "2610:a1:1009::3"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "dnsd.nic.mtn",
+      "ipAddresses": {
+        "v4": [
+          "156.154.103.3"
+        ],
+        "v6": [
+          "2610:a1:1010::3"
+        ]
+      }
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 18374,
+        "algorithm": 8,
+        "digestType": 2,
+        "digest": "58114B80A64F8617AF3EC29668C55519D8CCB44A203562D746E7F2CC8850A1EB"
+      }
+    ]
+  },
+  "status": [
+    "active"
+  ],
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "MTN Dubai Limited"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Floor 23, DIFC Currency House\nDubai\nUnited Arab Emirates"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2021-10-19T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "TLD Registry Services Management"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Nominet"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Admin"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Minerva House\nEdmund Halley Road\nOxford Science Park\nOxford OX4 4DQ\nUnited Kingdom"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+44 1865332211"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "registrymanagement@nominet.uk"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2021-01-19T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "TLD Registry Services Technical"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Nominet"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Technical Contact"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Minerva House\nEdmund Halley Road\nOxford Science Park\nOxford OX4 4DQ\nUnited Kingdom"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+44.1865332211"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "registrytechnical@nominet.uk"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2021-01-19T00:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-01-28T00:00:00+00:00"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "2015-03-12T00:00:00+00:00"
+    }
+  ],
+  "links": [
+    {
+      "rel": "related",
+      "href": "http://www.mtn.com",
+      "title": "Registration URL",
+      "type": "text/html"
+    },
+    {
+      "rel": "alternate",
+      "href": "https://rdap.nominet.uk/mtn/",
+      "title": "RDAP Server",
+      "type": "application/rdap+json"
+    },
+    {
+      "value": "https://rdap.iana.org/domain/mtn",
+      "rel": "self",
+      "href": "https://rdap.iana.org/domain/mtn",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Terms of Service"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/tos"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "description": [
+        "Privacy Policy"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/policy"
+        }
+      ]
+    }
+  ]
+}

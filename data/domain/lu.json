@@ -1,0 +1,382 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "ldhName": "lu",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "g.dns.lu",
+      "ipAddresses": {
+        "v4": [
+          "194.0.23.5"
+        ],
+        "v6": [
+          "2001:678:1b:5::5"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "i.dns.lu",
+      "ipAddresses": {
+        "v4": [
+          "194.146.106.66"
+        ],
+        "v6": [
+          "2001:67c:1010:16::53"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "j.dns.lu",
+      "ipAddresses": {
+        "v4": [
+          "77.72.229.247"
+        ],
+        "v6": [
+          "2a01:3f0:0:307::53"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "k.dns.lu",
+      "ipAddresses": {
+        "v4": [
+          "194.0.1.13"
+        ],
+        "v6": [
+          "2001:678:4::d"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns1.dns.lu",
+      "ipAddresses": {
+        "v4": [
+          "158.64.229.18"
+        ],
+        "v6": [
+          "2001:a18:4:1::18"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "p.dns.lu",
+      "ipAddresses": {
+        "v4": [
+          "194.0.42.42"
+        ],
+        "v6": [
+          "2001:678:60::42:42"
+        ]
+      }
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 20752,
+        "algorithm": 8,
+        "digestType": 2,
+        "digest": "2BBE0B0C438F336CA96F655DCCB9A72D7359064225D9E38A0A09804F9BE20415"
+      }
+    ]
+  },
+  "status": [
+    "active"
+  ],
+  "port43": "whois.dns.lu",
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "RESTENA"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "2, Avenue de l'Universit\u00e9\nEsch-sur-Alzette L-4365\nLuxembourg"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2020-01-24T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Gilles Massen"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Fondation RESTENA"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Admin"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "2, Avenue de l'Universit\u00e9\nEsch-sur-Alzette L-4365\nLuxembourg"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+352.4244091"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+352.422473"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "gilles.massen@restena.lu"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2017-06-12T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "NOC"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Fondation RESTENA"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Technical Contact"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "2, Avenue de l'Universit\u00e9\nEsch-sur-Alzette L-4365\nLuxembourg"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+352.4244091"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+352.422473"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "noc@restena.lu"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2019-01-22T00:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "last changed",
+      "eventDate": "2023-07-28T00:00:00+00:00"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "1995-01-27T00:00:00+00:00"
+    }
+  ],
+  "links": [
+    {
+      "rel": "related",
+      "href": "http://www.dns.lu",
+      "title": "Registration URL",
+      "type": "text/html"
+    },
+    {
+      "value": "https://rdap.iana.org/domain/lu",
+      "rel": "self",
+      "href": "https://rdap.iana.org/domain/lu",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Terms of Service"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/tos"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "description": [
+        "Privacy Policy"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/policy"
+        }
+      ]
+    }
+  ]
+}

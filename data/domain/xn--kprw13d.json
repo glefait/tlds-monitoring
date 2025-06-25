@@ -1,0 +1,377 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "ldhName": "xn--kprw13d",
+  "unicodeName": "\u53f0\u6e7e",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "anytld.apnic.net",
+      "ipAddresses": {
+        "v4": [
+          "202.12.31.53"
+        ],
+        "v6": [
+          "2001:dd8:12::53"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "d.dns.tw",
+      "ipAddresses": {
+        "v4": [
+          "60.199.165.186"
+        ],
+        "v6": [
+          "2001:4541:9010:7::186"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "e.dns.tw",
+      "ipAddresses": {
+        "v4": [
+          "211.20.231.11"
+        ],
+        "v6": [
+          "2001:b000:1e0:c000::11"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "f.dns.tw",
+      "ipAddresses": {
+        "v4": [
+          "40.65.125.222"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "g.dns.tw",
+      "ipAddresses": {
+        "v4": [
+          "34.141.111.176"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "h.dns.tw",
+      "ipAddresses": {
+        "v4": [
+          "204.61.216.119"
+        ],
+        "v6": [
+          "2001:500:14:6119:ad::1"
+        ]
+      }
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 3667,
+        "algorithm": 8,
+        "digestType": 2,
+        "digest": "8AC78818CCA7D2CD3A323BEAD03CCF68025CA932219014748692F12ED7A4B2CA"
+      }
+    ]
+  },
+  "status": [
+    "active"
+  ],
+  "port43": "whois.twnic.net.tw",
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Taiwan Network Information Center (TWNIC)"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "3F., No. 123, Sec. 4, Bade Rd.\nSongshan Dist.\nTaipei 105\nTaiwan, Province of China"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2023-01-18T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Jofan Yu"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Taiwan Network Information Center (TWNIC)"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Admin"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "3F., No. 123, Sec. 4, Bade Rd.\nSongshan Dist.\nTaipei 105\nTaiwan, Province of China"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+886 2 2528 9696"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+886 2 2528 7756"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "tw-admin@twnic.tw"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2024-12-27T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Technical Director"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Taiwan Network Information Center (TWNIC)"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Technical Contact"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "3F., No. 123, Sec. 4, Bade Rd.\nSongshan Dist.\nTaipei 105\nTaiwan, Province of China"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+886 2 2528 9696"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+886 2 2528 7756"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "tech-admin@twnic.tw"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2023-01-18T00:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "last changed",
+      "eventDate": "2024-12-27T00:00:00+00:00"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "2010-07-14T00:00:00+00:00"
+    }
+  ],
+  "links": [
+    {
+      "rel": "related",
+      "href": "http://rs.twnic.net.tw",
+      "title": "Registration URL",
+      "type": "text/html"
+    },
+    {
+      "value": "https://rdap.iana.org/domain/xn--kprw13d",
+      "rel": "self",
+      "href": "https://rdap.iana.org/domain/xn--kprw13d",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Terms of Service"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/tos"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "description": [
+        "Privacy Policy"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/policy"
+        }
+      ]
+    }
+  ]
+}

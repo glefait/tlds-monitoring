@@ -1,0 +1,379 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "ldhName": "ro",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "dns-at.rotld.ro",
+      "ipAddresses": {
+        "v4": [
+          "78.104.145.6"
+        ],
+        "v6": [
+          "2001:628:453:bb::6"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "dns-c.rotld.ro",
+      "ipAddresses": {
+        "v4": [
+          "194.0.11.113"
+        ],
+        "v6": [
+          "2001:678:e:113::53"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "dns-ro.denic.de",
+      "ipAddresses": {
+        "v4": [
+          "81.91.161.99"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "primary.rotld.ro",
+      "ipAddresses": {
+        "v4": [
+          "192.162.16.18"
+        ],
+        "v6": [
+          "2a03:5e80:0:4:192:162:16:18"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "sec-dns-a.rotld.ro",
+      "ipAddresses": {
+        "v4": [
+          "192.162.16.20"
+        ],
+        "v6": [
+          "2a03:5e80:0:4:192:162:16:20"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "sec-dns-b.rotld.ro",
+      "ipAddresses": {
+        "v4": [
+          "193.230.31.230"
+        ],
+        "v6": [
+          "2a03:5e80:0:5:193:230:31:230"
+        ]
+      }
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 28330,
+        "algorithm": 8,
+        "digestType": 2,
+        "digest": "F76431CE5DF70B17CC445DEA069DA4D581BD8CA79C622E90A5F1EB35BBC6993D"
+      }
+    ]
+  },
+  "status": [
+    "active"
+  ],
+  "port43": "whois.rotld.ro",
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "National Institute for R&D in Informatics"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Bd. Averescu 8-10\nSector 1\nBucharest 011454\nRomania"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2022-05-09T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Ionut Eugen SANDU"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "National Institute for R&D in Informatics"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Admin"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Bd. Averescu 8-10\nSector 1\nBucharest 011454\nRomania"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+40 21 4057200"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+40 21 316 5340"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "ionut@rotld.ro"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2017-07-12T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            ".ro TLD Tech Contact"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "National Institute for R&D in Informatics"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Technical Contact"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Bd. Averescu 8-10\nSector 1\nBucharest 011454\nRomania"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+40 21 4057200"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+40 21 316 1084"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "dns@rotld.ro"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2017-07-25T00:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-05-09T00:00:00+00:00"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "1993-02-26T00:00:00+00:00"
+    }
+  ],
+  "links": [
+    {
+      "rel": "related",
+      "href": "http://www.rotld.ro/",
+      "title": "Registration URL",
+      "type": "text/html"
+    },
+    {
+      "value": "https://rdap.iana.org/domain/ro",
+      "rel": "self",
+      "href": "https://rdap.iana.org/domain/ro",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Terms of Service"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/tos"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "description": [
+        "Privacy Policy"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/policy"
+        }
+      ]
+    }
+  ]
+}

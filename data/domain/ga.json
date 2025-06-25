@@ -1,0 +1,317 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "ldhName": "ga",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "d.nic.fr",
+      "ipAddresses": {
+        "v4": [
+          "194.0.9.1"
+        ],
+        "v6": [
+          "2001:678:c::1"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "f.ext.nic.fr",
+      "ipAddresses": {
+        "v4": [
+          "194.146.106.46"
+        ],
+        "v6": [
+          "2001:67c:1010:11::53"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "g.ext.nic.fr",
+      "ipAddresses": {
+        "v4": [
+          "194.0.36.1"
+        ],
+        "v6": [
+          "2001:678:4c::1"
+        ]
+      }
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 20588,
+        "algorithm": 13,
+        "digestType": 2,
+        "digest": "11E86B193C6F284E61F3AF76D42AD754852056E8183097A30E55AD580FD6A631"
+      }
+    ]
+  },
+  "status": [
+    "active"
+  ],
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Agence Nationale des Infrastructures Num\u00e9riques et des Fr\u00e9quences (ANINF)"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Cours Pasteur, (Immeuble de la Solde)\nBP 798\nLibreville\nGabon"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2018-11-28T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "TLD Admin Contact"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Agence Nationale des Infrastructures Num\u00e9riques et des Fr\u00e9quences (ANINF)"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Admin"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Cours Pasteur, (Immeuble de la Solde)\nBP 798\nLibreville\nGabon"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+241 01 76 32 49"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "cctldga-admin@nic.ga"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2018-11-28T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Manager ICT"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Agence Nationale des Infrastructures Num\u00e9riques et des Fr\u00e9quences (ANINF)"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Technical Contact"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Cours Pasteur, (Immeuble de la Solde)\nBP 798\nLibreville\nGabon"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+241 01 76 32 49"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "cctldga-tech@nic.ga"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2016-12-17T00:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-06-11T00:00:00+00:00"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "1994-12-12T00:00:00+00:00"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.iana.org/domain/ga",
+      "rel": "self",
+      "href": "https://rdap.iana.org/domain/ga",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Terms of Service"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/tos"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "description": [
+        "Privacy Policy"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/policy"
+        }
+      ]
+    }
+  ]
+}

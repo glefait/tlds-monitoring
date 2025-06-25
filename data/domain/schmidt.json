@@ -1,0 +1,366 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "ldhName": "schmidt",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "a.nic.schmidt",
+      "ipAddresses": {
+        "v4": [
+          "37.209.192.9"
+        ],
+        "v6": [
+          "2001:dcd:1::9"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "b.nic.schmidt",
+      "ipAddresses": {
+        "v4": [
+          "37.209.194.9"
+        ],
+        "v6": [
+          "2001:dcd:2::9"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "c.nic.schmidt",
+      "ipAddresses": {
+        "v4": [
+          "37.209.196.9"
+        ],
+        "v6": [
+          "2001:dcd:3::9"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "x.nic.schmidt",
+      "ipAddresses": {
+        "v4": [
+          "156.154.172.82"
+        ],
+        "v6": [
+          "2610:a1:1074::1:82"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "y.nic.schmidt",
+      "ipAddresses": {
+        "v4": [
+          "156.154.173.82"
+        ],
+        "v6": [
+          "2610:a1:1075::1:82"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "z.nic.schmidt",
+      "ipAddresses": {
+        "v4": [
+          "156.154.174.82"
+        ],
+        "v6": [
+          "2610:a1:1076::1:82"
+        ]
+      }
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 26932,
+        "algorithm": 8,
+        "digestType": 2,
+        "digest": "B073B6B0636B7081AAEC30D496A1D18B380031886748277E8EA437C07D9C9A61"
+      }
+    ]
+  },
+  "status": [
+    "active"
+  ],
+  "port43": "whois.nic.schmidt",
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "SCHMIDT GROUPE S.A.S."
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "5, rue Clemenceau\nLiepvre 68660\nFrance"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2022-12-05T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Project & Process Manager"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "SCHMIDT GROUPE S.A.S."
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Admin"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "5, rue Clemenceau\nLiepvre 68660\nFrance"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+442070151717"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "ngtld-schmidt@cscglobal.com"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2022-12-05T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Project & Process Manager"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "SCHMIDT GROUPE S.A.S."
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Technical Contact"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "5, rue Clemenceau\nLiepvre 68660\nFrance"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+442070151717"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "ngtld-schmidt@cscglobal.com"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2022-12-05T00:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "last changed",
+      "eventDate": "2023-11-30T00:00:00+00:00"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "2014-06-19T00:00:00+00:00"
+    }
+  ],
+  "links": [
+    {
+      "rel": "related",
+      "href": "http://nic.schmidt/",
+      "title": "Registration URL",
+      "type": "text/html"
+    },
+    {
+      "rel": "alternate",
+      "href": "https://rdap.nic.schmidt/",
+      "title": "RDAP Server",
+      "type": "application/rdap+json"
+    },
+    {
+      "value": "https://rdap.iana.org/domain/schmidt",
+      "rel": "self",
+      "href": "https://rdap.iana.org/domain/schmidt",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Terms of Service"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/tos"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "description": [
+        "Privacy Policy"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/policy"
+        }
+      ]
+    }
+  ]
+}

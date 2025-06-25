@@ -1,0 +1,31 @@
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+
+  jobs:
+    get_data:
+      runs-on: ubuntu-latest
+    steps:
+      # Step 1: Checkout the repository
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
+      # no pinned version
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+#      # use the latest python version compatible with the project
+#      - name: "Set up Python"
+#        uses: actions/setup-python@v5
+#        with:
+#          python-version-file: "pyproject.toml"
+      - name: Install the project
+        run: uv sync --locked --all-extras --dev
+      - name: Get current tlds
+        run: uv run get_root_tlds --data-path data
+      - name: Get tld details
+        run: uv run get_root_tld_details --data-path data
+      - name: Simplify the tld details
+        run: uv run get_root_tld_details_simplification --data-path data
+      - uses: stefanzweifel/git-auto-commit-action@v6
+        with:
+          commit_message: update data

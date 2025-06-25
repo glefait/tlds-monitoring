@@ -1,0 +1,389 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "ldhName": "xn--6qq986b3xl",
+  "unicodeName": "\u6211\u7231\u4f60",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "a.zdnscloud.cn",
+      "ipAddresses": {
+        "v4": [
+          "203.99.24.1"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "b.zdnscloud.cn",
+      "ipAddresses": {
+        "v4": [
+          "203.99.25.1"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "c.zdnscloud.com",
+      "ipAddresses": {
+        "v4": [
+          "203.99.26.1"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "d.zdnscloud.com",
+      "ipAddresses": {
+        "v4": [
+          "203.99.27.1"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "f.zdnscloud.cn",
+      "ipAddresses": {
+        "v4": [
+          "116.169.54.111"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "g.zdnscloud.com",
+      "ipAddresses": {
+        "v4": [
+          "223.72.199.37"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "i.zdnscloud.cn",
+      "ipAddresses": {
+        "v6": [
+          "2401:8d00:1::1"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "j.zdnscloud.com",
+      "ipAddresses": {
+        "v6": [
+          "2401:8d00:2::1"
+        ]
+      }
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 54794,
+        "algorithm": 8,
+        "digestType": 2,
+        "digest": "04DB2D2F9CAB81D80FD8F7062B4E2A42A99F9FDF172A90039C30E4A6B9A844DF"
+      }
+    ]
+  },
+  "status": [
+    "active"
+  ],
+  "port43": "whois.gtld.knet.cn",
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Tycoon Treasure Limited"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Scotia Centre, 4th Floor, P.O.Box2804\nGeorge Town Grand Cayman KY1-112\nCayman Islands"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2019-09-04T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "CEO"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Tycoon Treasure Limited"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Admin"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Room 201A, Wing On Plaza, 62 Mody Road, Tsui East\nKowloon\nChina"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+86 20 6622 2813"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+86 20 6622 2813"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "ceo@yu-wei.cn"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2016-03-25T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "VP"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Tycoon Treasure Limited"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Technical Contact"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Room 201A, Wing On Plaza, 62 Mody Road, Tsui East\nKowloon\nChina"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+86 20 6622 2813"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+86 20 6622 2813"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "technology@yu-wei.cn"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2016-03-25T00:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "last changed",
+      "eventDate": "2024-11-21T00:00:00+00:00"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "2013-12-12T00:00:00+00:00"
+    }
+  ],
+  "links": [
+    {
+      "rel": "related",
+      "href": "http://www.newgtld.cn",
+      "title": "Registration URL",
+      "type": "text/html"
+    },
+    {
+      "rel": "alternate",
+      "href": "https://rdap.zdnsgtld.com/xn--6qq986b3xl",
+      "title": "RDAP Server",
+      "type": "application/rdap+json"
+    },
+    {
+      "value": "https://rdap.iana.org/domain/xn--6qq986b3xl",
+      "rel": "self",
+      "href": "https://rdap.iana.org/domain/xn--6qq986b3xl",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Terms of Service"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/tos"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "description": [
+        "Privacy Policy"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/policy"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,365 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "ldhName": "xn--mgbca7dzdo",
+  "unicodeName": "\u0627\u0628\u0648\u0638\u0628\u064a",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "gtld.alpha.aridns.net.au",
+      "ipAddresses": {
+        "v4": [
+          "37.209.192.10"
+        ],
+        "v6": [
+          "2001:dcd:1::10"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "gtld.beta.aridns.net.au",
+      "ipAddresses": {
+        "v4": [
+          "37.209.194.10"
+        ],
+        "v6": [
+          "2001:dcd:2::10"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "gtld.delta.aridns.net.au",
+      "ipAddresses": {
+        "v4": [
+          "37.209.198.10"
+        ],
+        "v6": [
+          "2001:dcd:4::10"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "gtld.gamma.aridns.net.au",
+      "ipAddresses": {
+        "v4": [
+          "37.209.196.10"
+        ],
+        "v6": [
+          "2001:dcd:3::10"
+        ]
+      }
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 1909,
+        "algorithm": 8,
+        "digestType": 1,
+        "digest": "D5A6F96664AE0D000A01B196C4348E7E231D95F8"
+      },
+      {
+        "keyTag": 1909,
+        "algorithm": 8,
+        "digestType": 2,
+        "digest": "F62B4E977CBA32CEF37856A9F919CE405EB998F04D4ABB309F1F9B86C105CA72"
+      }
+    ]
+  },
+  "status": [
+    "active"
+  ],
+  "port43": "whois.nic.xn--mgbca7dzdo",
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Abu Dhabi Systems and Information Centre"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Abu Dhabi Systems & Information Centre\nInternational Tower Al Karama Street\nAbu Dhabi\nUnited Arab Emirates"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2019-11-26T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Khadeeja Mohsen Al Faqeeh"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Abu Dhabi Systems & Information Centre"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Admin"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "International Tower Al Karama Street\nAbu Dhabi\nUnited Arab Emirates"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+97126961146"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+97126717333"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "adtld@adsic.abudhabi.ae"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2016-04-06T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Manager Systems, ae Domain Administration"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Telecommunications Regulatory Authority of UAE"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Technical Contact"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Al Waheeda street Al Memzar\nP.O.Box 116688\nDubai\nUnited Arab Emirates"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+97142300018"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+97142300011"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "gtldsupport@aeda.ae"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2016-04-06T00:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "last changed",
+      "eventDate": "2019-11-26T00:00:00+00:00"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "2016-03-03T00:00:00+00:00"
+    }
+  ],
+  "links": [
+    {
+      "rel": "alternate",
+      "href": "https://rdap.nic.xn--mgbca7dzdo",
+      "title": "RDAP Server",
+      "type": "application/rdap+json"
+    },
+    {
+      "value": "https://rdap.iana.org/domain/xn--mgbca7dzdo",
+      "rel": "self",
+      "href": "https://rdap.iana.org/domain/xn--mgbca7dzdo",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Terms of Service"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/tos"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "description": [
+        "Privacy Policy"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/policy"
+        }
+      ]
+    }
+  ]
+}

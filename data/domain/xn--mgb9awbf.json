@@ -1,0 +1,375 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "ldhName": "xn--mgb9awbf",
+  "unicodeName": "\u0639\u0645\u0627\u0646",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "cctld.alpha.aridns.net.au",
+      "ipAddresses": {
+        "v4": [
+          "37.209.192.6"
+        ],
+        "v6": [
+          "2001:dcd:1::6"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "cctld.beta.aridns.net.au",
+      "ipAddresses": {
+        "v4": [
+          "37.209.194.6"
+        ],
+        "v6": [
+          "2001:dcd:2::6"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "cctld.delta.aridns.net.au",
+      "ipAddresses": {
+        "v4": [
+          "37.209.198.6"
+        ],
+        "v6": [
+          "2001:dcd:4::6"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "cctld.gamma.aridns.net.au",
+      "ipAddresses": {
+        "v4": [
+          "37.209.196.6"
+        ],
+        "v6": [
+          "2001:dcd:3::6"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns1.registry.om",
+      "ipAddresses": {
+        "v4": [
+          "185.27.88.50"
+        ],
+        "v6": [
+          "2a00:9120:1::50"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns2.registry.om",
+      "ipAddresses": {
+        "v4": [
+          "185.27.89.50"
+        ],
+        "v6": [
+          "2a00:9120:2::50"
+        ]
+      }
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "status": [
+    "active"
+  ],
+  "port43": "whois.registry.om",
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Telecommunications Regulatory Authority (TRA)"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "P.O. Box 3555, P.C 111, Seeb\nMuscat\nOman"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2017-10-12T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Domain Name Exective Manager"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Telecommunications Regulatory Authority (TRA)"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Admin"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "P.O. Box 3555, P.C 111, Seeb\nMuscat\nOman"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "(+968) 24222082"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "(+968) 24222081"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "dnsmanager@tra.gov.om"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2015-12-29T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Domain Name Manager"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Telecommunications Regulatory Authority (TRA)"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Technical Contact"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "P.O. Box 3555, P.C 111, Seeb\nMuscat\nOman"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "(+968) 24222086"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "(+968) 24222081"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "dnsadmin@tra.gov.om"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2015-12-29T00:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "last changed",
+      "eventDate": "2023-03-07T00:00:00+00:00"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "2011-02-05T00:00:00+00:00"
+    }
+  ],
+  "links": [
+    {
+      "rel": "related",
+      "href": "http://www.registry.om",
+      "title": "Registration URL",
+      "type": "text/html"
+    },
+    {
+      "value": "https://rdap.iana.org/domain/xn--mgb9awbf",
+      "rel": "self",
+      "href": "https://rdap.iana.org/domain/xn--mgb9awbf",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Terms of Service"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/tos"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "description": [
+        "Privacy Policy"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/policy"
+        }
+      ]
+    }
+  ]
+}

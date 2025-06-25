@@ -1,0 +1,365 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "ldhName": "tatar",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "a.dns.ripn.net",
+      "ipAddresses": {
+        "v4": [
+          "193.232.128.6"
+        ],
+        "v6": [
+          "2001:678:17:0:193:232:128:6"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "b.dns.ripn.net",
+      "ipAddresses": {
+        "v4": [
+          "194.85.252.62"
+        ],
+        "v6": [
+          "2001:678:16:0:194:85:252:62"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "d.dns.ripn.net",
+      "ipAddresses": {
+        "v4": [
+          "194.190.124.17"
+        ],
+        "v6": [
+          "2001:678:18:0:194:190:124:17"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "e.dns.ripn.net",
+      "ipAddresses": {
+        "v4": [
+          "193.232.142.17"
+        ],
+        "v6": [
+          "2001:678:15:0:193:232:142:17"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "f.dns.ripn.net",
+      "ipAddresses": {
+        "v4": [
+          "193.232.156.17"
+        ],
+        "v6": [
+          "2001:678:14:0:193:232:156:17"
+        ]
+      }
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 21416,
+        "algorithm": 8,
+        "digestType": 2,
+        "digest": "E33B55B67391B0647FD2F59AEFDD211384B14B32AA2C2DA16B1D8A6311A12396"
+      }
+    ]
+  },
+  "status": [
+    "active"
+  ],
+  "port43": "whois.nic.tatar",
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Limited Liability Company \"Coordination Center of Regional Domain of Tatarstan Republic\""
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "52, Peterburgskaya St.\nKazan Republic of Tatarstan 420107\nRussian Federation"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2022-04-02T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Project Manager"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Limited Liability Company \"Coordination Center of Regional Domain of Tatarstan Republic\""
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Admin"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "52, Peterburgskaya St.\nKazan Republic of Tatarstan 420107\nRussian Federation"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+7-495-7302967"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "gtld-tatar@tcinet.ru"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2023-03-15T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Network enginner"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Technical Center of Internet"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Technical Contact"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "8 Marta street 1, bld 12\nMoscow 127083\nRussian Federation"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+7 495 730 29 69"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+7 495 730 29 68"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "gtld-tech@tcinet.ru"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2018-05-24T00:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "last changed",
+      "eventDate": "2024-12-03T00:00:00+00:00"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "2014-07-03T00:00:00+00:00"
+    }
+  ],
+  "links": [
+    {
+      "rel": "related",
+      "href": "http://www.dottatar.ru",
+      "title": "Registration URL",
+      "type": "text/html"
+    },
+    {
+      "rel": "alternate",
+      "href": "https://whois.nic.tatar/rdap/",
+      "title": "RDAP Server",
+      "type": "application/rdap+json"
+    },
+    {
+      "value": "https://rdap.iana.org/domain/tatar",
+      "rel": "self",
+      "href": "https://rdap.iana.org/domain/tatar",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Terms of Service"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/tos"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "description": [
+        "Privacy Policy"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/policy"
+        }
+      ]
+    }
+  ]
+}

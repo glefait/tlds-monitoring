@@ -1,0 +1,358 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "ldhName": "berlin",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "a.dns.nic.berlin",
+      "ipAddresses": {
+        "v4": [
+          "194.0.25.16"
+        ],
+        "v6": [
+          "2001:678:20::16"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "m.dns.nic.berlin",
+      "ipAddresses": {
+        "v4": [
+          "194.0.26.5"
+        ],
+        "v6": [
+          "2001:67c:10e0::5"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "n.dns.nic.berlin",
+      "ipAddresses": {
+        "v4": [
+          "194.0.24.5"
+        ],
+        "v6": [
+          "2001:678:24::5"
+        ]
+      }
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 47974,
+        "algorithm": 8,
+        "digestType": 2,
+        "digest": "B1DDC962A9293CDA1C2AE8F951C86A8F391248C50751AD61F642D46D0F644B41"
+      },
+      {
+        "keyTag": 7669,
+        "algorithm": 8,
+        "digestType": 2,
+        "digest": "169700D66838FC2A4FE16098924C9DA5F3D167DA2697461C144C50D47ED123B0"
+      }
+    ]
+  },
+  "status": [
+    "active"
+  ],
+  "port43": "whois.nic.berlin",
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "dotBERLIN GmbH & Co. KG"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Gustav-Mueller-Strasse 1\nBerlin 10829\nGermany"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2022-05-18T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Chief Executive Officer"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "dotBERLIN GmbH & Co. KG"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Admin"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Gustav-Mueller-Strasse 1\nBerlin 10829\nGermany"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+49 30 49782354"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+49 30 49782356"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "registry@dot.berlin"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2022-05-18T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Technical Operations"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "TLD-BOX Registrydienstleistungen GmbH"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Technical Contact"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Jakob-Haringer-Strasse 8/V\nSalzburg 5020\nAustria"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+43 662 234548 730"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+43 662 234548 29"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "iana@tld-box.at"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2022-05-18T00:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-05-13T00:00:00+00:00"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "2013-12-19T00:00:00+00:00"
+    }
+  ],
+  "links": [
+    {
+      "rel": "related",
+      "href": "http://nic.berlin/",
+      "title": "Registration URL",
+      "type": "text/html"
+    },
+    {
+      "rel": "alternate",
+      "href": "https://rdap.nic.berlin/v1/",
+      "title": "RDAP Server",
+      "type": "application/rdap+json"
+    },
+    {
+      "value": "https://rdap.iana.org/domain/berlin",
+      "rel": "self",
+      "href": "https://rdap.iana.org/domain/berlin",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Terms of Service"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/tos"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "description": [
+        "Privacy Policy"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/policy"
+        }
+      ]
+    }
+  ]
+}

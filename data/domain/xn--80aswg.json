@@ -1,0 +1,365 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "ldhName": "xn--80aswg",
+  "unicodeName": "\u0441\u0430\u0439\u0442",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "anycast10.irondns.net",
+      "ipAddresses": {
+        "v4": [
+          "195.253.64.12"
+        ],
+        "v6": [
+          "2a01:5b0:4::c"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "anycast23.irondns.net",
+      "ipAddresses": {
+        "v4": [
+          "195.253.65.11"
+        ],
+        "v6": [
+          "2a01:5b0:5::b"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "anycast24.irondns.net",
+      "ipAddresses": {
+        "v4": [
+          "195.253.65.12"
+        ],
+        "v6": [
+          "2a01:5b0:5::c"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "anycast9.irondns.net",
+      "ipAddresses": {
+        "v4": [
+          "195.253.64.11"
+        ],
+        "v6": [
+          "2a01:5b0:4::b"
+        ]
+      }
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 61281,
+        "algorithm": 10,
+        "digestType": 2,
+        "digest": "FD5803E5D6CA1B8B5B3345B8E6AEA0E640988D973AE153713A7BC890A84E3400"
+      }
+    ]
+  },
+  "status": [
+    "active"
+  ],
+  "port43": "whois.nic.xn--80aswg",
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "CORE Association"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "2, Cours de Rive\nGeneva CH-1204\nSwitzerland"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2019-08-09T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "TLD Administrative Contact"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "CORE Association"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Admin"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "2, Cours de Rive\nGeneva CH-1204\nSwitzerland"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+41 223 125 610"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+41 223 125 612"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "secretariat@corenic.org"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2015-03-31T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "TLD TechAdmin"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "CORE Association"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Technical Contact"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "2, Cours de Rive\nGeneva CH-1204\nSwitzerland"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+41 223 125 610"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+41 223 125 612"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "dnsmaster@corenic.org"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2019-08-09T00:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "last changed",
+      "eventDate": "2022-01-07T00:00:00+00:00"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "2013-10-21T00:00:00+00:00"
+    }
+  ],
+  "links": [
+    {
+      "rel": "related",
+      "href": "http://corenic.org",
+      "title": "Registration URL",
+      "type": "text/html"
+    },
+    {
+      "rel": "alternate",
+      "href": "https://rdap.nic.xn--80aswg/",
+      "title": "RDAP Server",
+      "type": "application/rdap+json"
+    },
+    {
+      "value": "https://rdap.iana.org/domain/xn--80aswg",
+      "rel": "self",
+      "href": "https://rdap.iana.org/domain/xn--80aswg",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Terms of Service"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/tos"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "description": [
+        "Privacy Policy"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/policy"
+        }
+      ]
+    }
+  ]
+}

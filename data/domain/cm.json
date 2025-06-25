@@ -1,0 +1,362 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "ldhName": "cm",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "auth02.ns.uu.net",
+      "ipAddresses": {
+        "v4": [
+          "198.6.1.82"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns-cm.afrinic.net",
+      "ipAddresses": {
+        "v4": [
+          "196.216.168.67"
+        ],
+        "v6": [
+          "2001:43f8:120::67"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns-cm.nic.fr",
+      "ipAddresses": {
+        "v4": [
+          "194.0.9.1"
+        ],
+        "v6": [
+          "2001:678:c::1"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns.itu.ch",
+      "ipAddresses": {
+        "v4": [
+          "156.106.192.121"
+        ],
+        "v6": [
+          "2a00:7580:60:2141::10"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns1.nic.cm",
+      "ipAddresses": {
+        "v4": [
+          "195.24.205.60"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns2.nic.cm",
+      "ipAddresses": {
+        "v4": [
+          "195.24.205.61"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "phloem.uoregon.edu",
+      "ipAddresses": {
+        "v4": [
+          "128.223.32.35"
+        ],
+        "v6": [
+          "2001:468:d01:20::80df:2023"
+        ]
+      }
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 45784,
+        "algorithm": 13,
+        "digestType": 2,
+        "digest": "BC03884AE075280B78A03306EBCD816E29E014A74247C68887FF1B37D22F81F5"
+      }
+    ]
+  },
+  "status": [
+    "active"
+  ],
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Agence Nationale des Technologies de l'Information et de la Communication (ANTIC)"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Street 1.792\nP.O. Box 6170\nYaound\u00e9\nCameroon"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2024-01-24T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Director General"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Agence Nationale des Technologies de l'Information et de la Communication (ANTIC)"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Admin"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Street 1.792\nP.O. Box 6170\nYaound\u00e9\nCameroon"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+237 694 40 58 68"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "dnc@antic.cm"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2024-01-24T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            ".CM System Administrator"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Agence Nationale des Technologies de l'Information et de la Communication (ANTIC)"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Technical Contact"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Street 1.792\nP.O. Box 6170\nYaound\u00e9\nCameroon"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+237 673 820 320"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "dotcm@antic.cm"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2024-01-24T00:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-04-30T00:00:00+00:00"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "1995-04-29T00:00:00+00:00"
+    }
+  ],
+  "links": [
+    {
+      "rel": "related",
+      "href": "https://www.nic.cm",
+      "title": "Registration URL",
+      "type": "text/html"
+    },
+    {
+      "value": "https://rdap.iana.org/domain/cm",
+      "rel": "self",
+      "href": "https://rdap.iana.org/domain/cm",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Terms of Service"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/tos"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "description": [
+        "Privacy Policy"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/policy"
+        }
+      ]
+    }
+  ]
+}

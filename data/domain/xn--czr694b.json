@@ -1,0 +1,360 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "ldhName": "xn--czr694b",
+  "unicodeName": "\u5546\u6807",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "a.zdnscloud.cn",
+      "ipAddresses": {
+        "v4": [
+          "203.99.24.1"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "b.zdnscloud.cn",
+      "ipAddresses": {
+        "v4": [
+          "203.99.25.1"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "c.zdnscloud.com",
+      "ipAddresses": {
+        "v4": [
+          "203.99.26.1"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "d.zdnscloud.com",
+      "ipAddresses": {
+        "v4": [
+          "203.99.27.1"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "f.zdnscloud.cn",
+      "ipAddresses": {
+        "v4": [
+          "116.169.54.111"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "g.zdnscloud.com",
+      "ipAddresses": {
+        "v4": [
+          "223.72.199.37"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "i.zdnscloud.cn",
+      "ipAddresses": {
+        "v6": [
+          "2401:8d00:1::1"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "j.zdnscloud.com",
+      "ipAddresses": {
+        "v6": [
+          "2401:8d00:2::1"
+        ]
+      }
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 61001,
+        "algorithm": 8,
+        "digestType": 2,
+        "digest": "B4DEA8C89AB832565A80719C8AF8FB5D7ED535A9C3E2361D8B494D45F6A05D5A"
+      }
+    ]
+  },
+  "status": [
+    "active"
+  ],
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Internet DotTrademark Organisation Limited"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Level 20, One International Finance Ctr, 1 Harbour View Street\nCentral\nChina"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2021-03-09T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "President"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Internet DotTrademark Organisation Limited"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Admin"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Rm 1502, Building 7, No. 9 Shouti South Road\nHaidian District\nBeijing\nChina"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+86.1056279700"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "icann@trademarkdomain.com"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2021-03-09T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "International BD Manager"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Internet DotTrademark Organisation Limited"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Technical Contact"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Rm 1502, Building 7, No. 9 Shouti South Road\nHaidian District\nBeijing\nChina"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+86.1056279700"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "icann@trademarkdomain.com"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2021-03-09T00:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "last changed",
+      "eventDate": "2024-12-17T00:00:00+00:00"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "2014-05-08T00:00:00+00:00"
+    }
+  ],
+  "links": [
+    {
+      "rel": "alternate",
+      "href": "https://rdap.zdnsgtld.com/xn--czr694b",
+      "title": "RDAP Server",
+      "type": "application/rdap+json"
+    },
+    {
+      "value": "https://rdap.iana.org/domain/xn--czr694b",
+      "rel": "self",
+      "href": "https://rdap.iana.org/domain/xn--czr694b",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Terms of Service"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/tos"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "description": [
+        "Privacy Policy"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/policy"
+        }
+      ]
+    }
+  ]
+}

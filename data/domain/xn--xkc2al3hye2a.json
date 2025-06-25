@@ -1,0 +1,357 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "ldhName": "xn--xkc2al3hye2a",
+  "unicodeName": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "h.nic.lk",
+      "ipAddresses": {
+        "v4": [
+          "43.252.12.206"
+        ],
+        "v6": [
+          "2404:8a00:0:a00::4005"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "m.nic.lk",
+      "ipAddresses": {
+        "v4": [
+          "202.129.235.229"
+        ],
+        "v6": [
+          "2407:c00:21:8:202:129:235:229"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns1.ac.lk",
+      "ipAddresses": {
+        "v4": [
+          "192.248.1.162"
+        ],
+        "v6": [
+          "2401:dd00:1::162"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "p.nic.lk",
+      "ipAddresses": {
+        "v4": [
+          "204.61.216.27"
+        ],
+        "v6": [
+          "2001:500:14:6027:ad::1"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "t.nic.lk",
+      "ipAddresses": {
+        "v4": [
+          "203.94.66.129"
+        ],
+        "v6": [
+          "2402:d000:100c::129"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "y.nic.lk",
+      "ipAddresses": {
+        "v4": [
+          "194.0.1.27"
+        ]
+      }
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 20795,
+        "algorithm": 13,
+        "digestType": 2,
+        "digest": "B4F519C811B7CA3D01D7F9E25ABF93ED87AAC59195F5344E032EE9183B9FA7C3"
+      }
+    ]
+  },
+  "status": [
+    "active"
+  ],
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "LK Domain Registry"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Bernards Business Park\n106 Dutugemunu St.\nDehiwala 10350\nSri Lanka"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2025-04-23T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Prof. Gihan Dias"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "LK Domain Registry"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Admin"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Bernards Business Park\n106 Dutugemunu St.\nDehiwala 10350\nSri Lanka"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+94 11 4216065"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "gihan@domains.lk"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2025-04-23T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Hostmaster"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "LK Domain Registry"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Technical Contact"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Bernards Business Park\n106 Dutugemunu St.\nDehiwala 10350\nSri Lanka"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+94 11 4216061"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "hostmaster@domains.lk"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2025-04-23T00:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-06-24T00:00:00+00:00"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "2010-08-19T00:00:00+00:00"
+    }
+  ],
+  "links": [
+    {
+      "rel": "related",
+      "href": "http://www.domains.lk",
+      "title": "Registration URL",
+      "type": "text/html"
+    },
+    {
+      "value": "https://rdap.iana.org/domain/xn--xkc2al3hye2a",
+      "rel": "self",
+      "href": "https://rdap.iana.org/domain/xn--xkc2al3hye2a",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Terms of Service"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/tos"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "description": [
+        "Privacy Policy"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/policy"
+        }
+      ]
+    }
+  ]
+}

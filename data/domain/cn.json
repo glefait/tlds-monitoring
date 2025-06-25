@@ -1,0 +1,385 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "ldhName": "cn",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "a.dns.cn",
+      "ipAddresses": {
+        "v4": [
+          "203.119.25.1"
+        ],
+        "v6": [
+          "2001:dc7::1"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "b.dns.cn",
+      "ipAddresses": {
+        "v4": [
+          "203.119.26.1"
+        ],
+        "v6": [
+          "2001:dc7:1::1"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "c.dns.cn",
+      "ipAddresses": {
+        "v4": [
+          "203.119.27.1"
+        ],
+        "v6": [
+          "2001:dc7:2::1"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "d.dns.cn",
+      "ipAddresses": {
+        "v4": [
+          "203.119.28.1"
+        ],
+        "v6": [
+          "2001:dc7:1000::1"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "e.dns.cn",
+      "ipAddresses": {
+        "v4": [
+          "203.119.29.1"
+        ],
+        "v6": [
+          "2001:dc7:3::1"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns.cernet.net",
+      "ipAddresses": {
+        "v4": [
+          "202.112.0.44"
+        ]
+      }
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 57724,
+        "algorithm": 8,
+        "digestType": 2,
+        "digest": "5D0423633EB24A499BE78AA22D1C0C9BA36218FF49FD95A4CDF1A4AD97C67044"
+      },
+      {
+        "keyTag": 33094,
+        "algorithm": 8,
+        "digestType": 2,
+        "digest": "CCCF13ED73A83244F7D2936F0B6C3507D85C3EBC5E1BE4FB644064BC5B5FE3B2"
+      }
+    ]
+  },
+  "status": [
+    "active"
+  ],
+  "port43": "whois.cnnic.cn",
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "China Internet Network Information Center (CNNIC)"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Building 4, No.9 Beijing Auto Museum West Road, Fengtai District\nBeijing 100070\nChina"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2025-03-28T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Yulin Liu"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "China Internet Network Information Center (CNNIC)"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Admin"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Building 4, No.9 West Road , Automobile Museum, Fengtai District\nBeijing 100070\nChina"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+8610-58813000"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+8610-59116190"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "ceo@cnnic.cn"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2025-06-06T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Anlei Hu"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "China Internet Network Information Center (CNNIC)"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Technical Contact"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Building 4, No.9 West Road , Automobile Museum, Fengtai District\nBeijing 100070\nChina"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+8610-59116801"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+8610-59116190"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "tech@cnnic.cn"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2025-03-28T00:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-06-06T00:00:00+00:00"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "1990-11-28T00:00:00+00:00"
+    }
+  ],
+  "links": [
+    {
+      "rel": "related",
+      "href": "http://www.cnnic.cn/",
+      "title": "Registration URL",
+      "type": "text/html"
+    },
+    {
+      "value": "https://rdap.iana.org/domain/cn",
+      "rel": "self",
+      "href": "https://rdap.iana.org/domain/cn",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Terms of Service"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/tos"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "description": [
+        "Privacy Policy"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/policy"
+        }
+      ]
+    }
+  ]
+}

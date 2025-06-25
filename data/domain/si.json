@@ -1,0 +1,388 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "ldhName": "si",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "b.dns.si",
+      "ipAddresses": {
+        "v4": [
+          "153.5.81.140"
+        ],
+        "v6": [
+          "2001:1470:8000:53::44"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "f.dns.si",
+      "ipAddresses": {
+        "v4": [
+          "194.146.106.62"
+        ],
+        "v6": [
+          "2001:67c:1010:15::53"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "h.dns.si",
+      "ipAddresses": {
+        "v4": [
+          "204.61.216.54"
+        ],
+        "v6": [
+          "2001:500:14:6054:ad::1"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "i.dns.si",
+      "ipAddresses": {
+        "v4": [
+          "194.0.25.22"
+        ],
+        "v6": [
+          "2001:678:20::22"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "k.dns.si",
+      "ipAddresses": {
+        "v4": [
+          "185.159.197.11"
+        ],
+        "v6": [
+          "2620:10a:80aa::11"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "l.dns.si",
+      "ipAddresses": {
+        "v4": [
+          "185.159.198.11"
+        ],
+        "v6": [
+          "2620:10a:80ab::11"
+        ]
+      }
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 1635,
+        "algorithm": 13,
+        "digestType": 2,
+        "digest": "C2977306E3439D4F8D40A1A7F5DEA9E93A408C9FB3C5AA32BAD08FEBF0EB848B"
+      }
+    ]
+  },
+  "status": [
+    "active"
+  ],
+  "port43": "whois.register.si",
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Academic and Research Network of Slovenia (ARNES)"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Tehnolo\u0161ki park 18\nLjubljana 1000\nSlovenia"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2022-07-05T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Barbara Pov\u0161e"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Academic and Research Network of Slovenia (ARNES)"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Admin"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Tehnolo\u0161ki park 18\nLjubljana 1000\nSlovenia"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+386 1 4798800"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+386 1 4798899"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "barbara.povse@register.si"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2017-05-11T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Benjamin Zwittnig"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Academic and Research Network of Slovenia (ARNES)"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Technical Contact"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Tehnolo\u0161ki park 18\nLjubljana 1000\nSlovenia"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+386 1 4798800"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+386 1 4798899"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "benjamin.zwittnig@register.si"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2017-05-11T00:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-03-26T00:00:00+00:00"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "1992-04-01T00:00:00+00:00"
+    }
+  ],
+  "links": [
+    {
+      "rel": "related",
+      "href": "https://www.registry.si/",
+      "title": "Registration URL",
+      "type": "text/html"
+    },
+    {
+      "rel": "alternate",
+      "href": "https://rdap.register.si/",
+      "title": "RDAP Server",
+      "type": "application/rdap+json"
+    },
+    {
+      "value": "https://rdap.iana.org/domain/si",
+      "rel": "self",
+      "href": "https://rdap.iana.org/domain/si",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Terms of Service"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/tos"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "description": [
+        "Privacy Policy"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/policy"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,343 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "ldhName": "xn--ngbrx",
+  "unicodeName": "\u0639\u0631\u0628",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "gtld.alpha.aridns.net.au",
+      "ipAddresses": {
+        "v4": [
+          "37.209.192.10"
+        ],
+        "v6": [
+          "2001:dcd:1::10"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "gtld.beta.aridns.net.au",
+      "ipAddresses": {
+        "v4": [
+          "37.209.194.10"
+        ],
+        "v6": [
+          "2001:dcd:2::10"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "gtld.delta.aridns.net.au",
+      "ipAddresses": {
+        "v4": [
+          "37.209.198.10"
+        ],
+        "v6": [
+          "2001:dcd:4::10"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "gtld.gamma.aridns.net.au",
+      "ipAddresses": {
+        "v4": [
+          "37.209.196.10"
+        ],
+        "v6": [
+          "2001:dcd:3::10"
+        ]
+      }
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 37096,
+        "algorithm": 8,
+        "digestType": 1,
+        "digest": "71BD52E2A76BEEF79D624F5294C98588F940402C"
+      },
+      {
+        "keyTag": 37096,
+        "algorithm": 8,
+        "digestType": 2,
+        "digest": "DD05B598B64707491E63A742D3E61EDBB57091B5B93C8E0D65422595AD255AD4"
+      }
+    ]
+  },
+  "status": [
+    "active"
+  ],
+  "port43": "whois.nic.xn--ngbrx",
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "League of Arab States"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "General Secretariat for the League of Arab States, Tahrir Square, P.O.Box 11642\nCairo\nEgypt"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2020-05-14T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Khaled Fouda"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "League of Arab States"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Admin"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "General Secretariat for the League of Arab States, Tahrir Square, P.O.Box 11642\nCairo\nEgypt"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+20227738092"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "atldsecondary@las.int"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2017-05-23T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Manager Systems, ae Domain Administration"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Telecommunications Regulatory Authority of UAE"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Technical Contact"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Al Waheeda street Al Memzar\nP.O.Box 116688\nDubai\nUnited Arab Emirates"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+97147774018"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "gtldsupport@aeda.ae"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2019-10-02T00:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "last changed",
+      "eventDate": "2020-05-14T00:00:00+00:00"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "2017-05-11T00:00:00+00:00"
+    }
+  ],
+  "links": [
+    {
+      "rel": "alternate",
+      "href": "https://rdap.nic.xn--ngbrx/",
+      "title": "RDAP Server",
+      "type": "application/rdap+json"
+    },
+    {
+      "value": "https://rdap.iana.org/domain/xn--ngbrx",
+      "rel": "self",
+      "href": "https://rdap.iana.org/domain/xn--ngbrx",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Terms of Service"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/tos"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "description": [
+        "Privacy Policy"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/policy"
+        }
+      ]
+    }
+  ]
+}

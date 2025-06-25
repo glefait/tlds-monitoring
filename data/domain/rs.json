@@ -1,0 +1,382 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "ldhName": "rs",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "a.nic.rs",
+      "ipAddresses": {
+        "v4": [
+          "91.199.17.59"
+        ],
+        "v6": [
+          "2001:67c:69c::59"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "b.nic.rs",
+      "ipAddresses": {
+        "v4": [
+          "195.178.32.2"
+        ],
+        "v6": [
+          "2a00:e90:0:3::3"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "c.nic.rs",
+      "ipAddresses": {
+        "v4": [
+          "45.142.220.81"
+        ],
+        "v6": [
+          "2a0e:dbc0:2::81"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "f.nic.rs",
+      "ipAddresses": {
+        "v4": [
+          "204.61.216.32"
+        ],
+        "v6": [
+          "2001:500:14:6032:ad::1"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "h.nic.rs",
+      "ipAddresses": {
+        "v4": [
+          "91.199.17.60"
+        ],
+        "v6": [
+          "2001:67c:69c::60"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "l.nic.rs",
+      "ipAddresses": {
+        "v4": [
+          "194.146.106.114"
+        ],
+        "v6": [
+          "2001:67c:1010:29::53"
+        ]
+      }
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 57382,
+        "algorithm": 13,
+        "digestType": 2,
+        "digest": "9ACA8316C4CE272097297CF5700E8A66E00AD0C83C4165BFCC90659438DC1794"
+      }
+    ]
+  },
+  "status": [
+    "active"
+  ],
+  "port43": "whois.rnids.rs",
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Serbian National Internet Domain Registry (RNIDS)"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Zorza Klemansoa 18a\nBelgrade 11008\nSerbia"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2021-07-20T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "RNIDS Admin Contact"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Serbian National Internet Domain Registry (RNIDS)"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Admin"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Zorza Klemansoa 18a\nBelgrade 11108\nSerbia"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+381 11 7281281"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+381 11 7281282"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "tld-admin@rnids.rs"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2025-02-06T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "RNIDS Tech Contact"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Serbian National Internet Domain Registry (RNIDS)"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Technical Contact"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Zorza Klemansoa 18a\nBelgrade 11108\nSerbia"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+381 11 7281281"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+381 11 7281282"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "tld-tech@rnids.rs"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2025-02-06T00:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-02-06T00:00:00+00:00"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "2007-09-24T00:00:00+00:00"
+    }
+  ],
+  "links": [
+    {
+      "rel": "related",
+      "href": "http://www.rnids.rs",
+      "title": "Registration URL",
+      "type": "text/html"
+    },
+    {
+      "value": "https://rdap.iana.org/domain/rs",
+      "rel": "self",
+      "href": "https://rdap.iana.org/domain/rs",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Terms of Service"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/tos"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "description": [
+        "Privacy Policy"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/policy"
+        }
+      ]
+    }
+  ]
+}

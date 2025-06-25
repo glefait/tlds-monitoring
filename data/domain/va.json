@@ -1,0 +1,355 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "ldhName": "va",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "a.nic.va",
+      "ipAddresses": {
+        "v4": [
+          "212.77.0.110"
+        ],
+        "v6": [
+          "2a01:b8:0:1:212:77:0:110"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "b.nic.va",
+      "ipAddresses": {
+        "v4": [
+          "212.77.0.2"
+        ],
+        "v6": [
+          "2a01:b8:0:1:212:77:0:2"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "c.nic.va",
+      "ipAddresses": {
+        "v4": [
+          "212.77.2.58"
+        ],
+        "v6": [
+          "2a01:b8::2:3a"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "osiris.namex.it",
+      "ipAddresses": {
+        "v4": [
+          "193.201.40.6"
+        ],
+        "v6": [
+          "2a0f:80:1::6"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "seth.namex.it",
+      "ipAddresses": {
+        "v4": [
+          "193.201.40.7"
+        ],
+        "v6": [
+          "2a0f:80:1::7"
+        ]
+      }
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "status": [
+    "active"
+  ],
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Holy See - Vatican City State"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Governatorato S.C.V.\nVatican City Vatican City State V-00120\nHoly See (Vatican City State)"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2016-10-14T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Director"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Department of Telecommunications"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Admin"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Palazzo del Belvedere\nVatican City Vatican City State V-00120\nHoly See (Vatican City State)"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+39 (06) 69890153"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+39 (06) 69885299"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "direzione.tlc@scv.va"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2016-10-14T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Responsible of the Vatican Internet Service Provider"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Department of Telecommunications - Vatican Internet Service Provider"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Technical Contact"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Cortile del Triangolo\nVatican City\nVatican City Vatican City State V-00120\nHoly See (Vatican City State)"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+39 (06) 69890506"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+39 (06) 69882934"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "dnsop@net.va"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2024-12-03T00:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "last changed",
+      "eventDate": "2024-12-03T00:00:00+00:00"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "1995-09-11T00:00:00+00:00"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.iana.org/domain/va",
+      "rel": "self",
+      "href": "https://rdap.iana.org/domain/va",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Terms of Service"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/tos"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "description": [
+        "Privacy Policy"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/policy"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,388 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "ldhName": "mu",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "v0n0.tld.mu",
+      "ipAddresses": {
+        "v4": [
+          "199.254.59.33"
+        ],
+        "v6": [
+          "2001:500:25::33"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "v0n1.tld.mu",
+      "ipAddresses": {
+        "v4": [
+          "199.254.60.33"
+        ],
+        "v6": [
+          "2001:500:26::33"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "v0n2.tld.mu",
+      "ipAddresses": {
+        "v4": [
+          "199.254.61.33"
+        ],
+        "v6": [
+          "2001:500:27::33"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "v0n3.tld.mu",
+      "ipAddresses": {
+        "v4": [
+          "199.254.62.33"
+        ],
+        "v6": [
+          "2001:500:28::33"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "v2n0.tld.mu",
+      "ipAddresses": {
+        "v4": [
+          "199.249.116.33"
+        ],
+        "v6": [
+          "2001:500:44::33"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "v2n1.tld.mu",
+      "ipAddresses": {
+        "v4": [
+          "199.249.124.33"
+        ],
+        "v6": [
+          "2001:500:4c::33"
+        ]
+      }
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 46330,
+        "algorithm": 8,
+        "digestType": 2,
+        "digest": "35D980186CAC1554EF565AC20A1B774A480A111D63D594C5913E83D7F5E3867E"
+      }
+    ]
+  },
+  "status": [
+    "active"
+  ],
+  "port43": "whois.tld.mu",
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Internet Direct Ltd"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "48 Remy Ollier Street\nPort Louis\nMauritius"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "1985-01-01T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Administrator"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Internet Direct Ltd."
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Admin"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "48 Remy Ollier Street\nPort-Louis\nMauritius"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+230-216-8888"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+230-216-6868"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "admin@nic.mu"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2003-08-05T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Tech Administrator"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Internet Direct Ltd"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Technical Contact"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "48 Remy Ollier Street\nPort Louis\nMauritius"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+230 216-8888"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+230 216-6868"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "tech@nic.mu"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2006-10-04T00:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-02-26T00:00:00+00:00"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "1995-10-06T00:00:00+00:00"
+    }
+  ],
+  "links": [
+    {
+      "rel": "related",
+      "href": "http://www.nic.mu/",
+      "title": "Registration URL",
+      "type": "text/html"
+    },
+    {
+      "rel": "alternate",
+      "href": "https://rdap.identitydigital.services/rdap/",
+      "title": "RDAP Server",
+      "type": "application/rdap+json"
+    },
+    {
+      "value": "https://rdap.iana.org/domain/mu",
+      "rel": "self",
+      "href": "https://rdap.iana.org/domain/mu",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Terms of Service"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/tos"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "description": [
+        "Privacy Policy"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/policy"
+        }
+      ]
+    }
+  ]
+}

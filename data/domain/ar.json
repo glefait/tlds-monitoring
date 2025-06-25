@@ -1,0 +1,354 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "ldhName": "ar",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "a.lactld.org",
+      "ipAddresses": {
+        "v4": [
+          "200.0.68.10"
+        ],
+        "v6": [
+          "2801:14:a000::10"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "c.dns.ar",
+      "ipAddresses": {
+        "v4": [
+          "200.108.148.50"
+        ],
+        "v6": [
+          "2801:140:10::10"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "d.dns.ar",
+      "ipAddresses": {
+        "v4": [
+          "192.140.126.50"
+        ],
+        "v6": [
+          "2801:140:dddd::50"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "e.dns.ar",
+      "ipAddresses": {
+        "v4": [
+          "170.238.66.50"
+        ],
+        "v6": [
+          "2801:140:eeee::50"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "f.dns.ar",
+      "ipAddresses": {
+        "v4": [
+          "130.59.31.20"
+        ],
+        "v6": [
+          "2001:620:0:ff::20"
+        ]
+      }
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 19606,
+        "algorithm": 8,
+        "digestType": 2,
+        "digest": "4415CF1A2CF10DE94B92BC020F21D1BF4163B2E90F2A6F6A5D2A1740339D566C"
+      }
+    ]
+  },
+  "status": [
+    "active"
+  ],
+  "port43": "whois.nic.ar",
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Presidencia de la Naci\u00f3n , Secretar\u00eda Legal y T\u00e9cnica"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Balcarce no. 50, Planta Baja\nBuenos Aires C1064AAB\nArgentina"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2024-04-18T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Director Nacional del Registro de Dominios de Internet"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Direcci\u00f3n Nacional del Registro de Nombres de Dominio de Internet - NIC Argentina"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Admin"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Suipacha 767 3rd floor\nBuenos Aires CABA C1008AAO\nArgentina"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+54 11 5238 1350"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "direccion@nic.ar"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2024-04-08T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Director Nacional del Registro de Dominios de Internet"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Direcci\u00f3n Nacional del Registro de Nombres de Dominio de Internet - NIC Argentina"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Technical Contact"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Suipacha 767 3rd floor\nBuenos Aires CABA C1008AAO\nArgentina"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+54 11 5238 1350"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "contacto_dgsi@nic.ar"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2024-04-18T00:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-04-17T00:00:00+00:00"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "1987-09-23T00:00:00+00:00"
+    }
+  ],
+  "links": [
+    {
+      "rel": "related",
+      "href": "https://nic.ar",
+      "title": "Registration URL",
+      "type": "text/html"
+    },
+    {
+      "rel": "alternate",
+      "href": "https://rdap.nic.ar",
+      "title": "RDAP Server",
+      "type": "application/rdap+json"
+    },
+    {
+      "value": "https://rdap.iana.org/domain/ar",
+      "rel": "self",
+      "href": "https://rdap.iana.org/domain/ar",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Terms of Service"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/tos"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "description": [
+        "Privacy Policy"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/policy"
+        }
+      ]
+    }
+  ]
+}

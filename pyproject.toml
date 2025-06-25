@@ -1,0 +1,27 @@
+[project]
+name = "tlds-monitoring"
+version = "0.1.0"
+description = "Collecting TLD artefacts"
+readme = "README.md"
+authors = [
+    { name = "Guillem Lefait", email = "guillem@datamq.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "click>=8.2.1",
+    "httpx>=0.28.1",
+]
+
+[project.scripts]
+get_root_tlds = "tlds_monitoring.root.tlds:main"
+get_root_tld_details = "tlds_monitoring.root.details:main"
+get_root_tld_details_simplification = "tlds_monitoring.root.simplification:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[dependency-groups]
+dev = [
+    "ruff>=0.12.0",
+]

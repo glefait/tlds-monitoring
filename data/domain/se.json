@@ -1,0 +1,419 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "ldhName": "se",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "a.ns.se",
+      "ipAddresses": {
+        "v4": [
+          "192.36.144.107"
+        ],
+        "v6": [
+          "2a01:3f0:0:301::53"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "b.ns.se",
+      "ipAddresses": {
+        "v4": [
+          "192.36.133.107"
+        ],
+        "v6": [
+          "2001:67c:254c:301::53"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "c.ns.se",
+      "ipAddresses": {
+        "v4": [
+          "192.36.135.107"
+        ],
+        "v6": [
+          "2001:67c:2554:301::53"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "f.ns.se",
+      "ipAddresses": {
+        "v4": [
+          "192.71.53.53"
+        ],
+        "v6": [
+          "2a01:3f0:0:305::53"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "g.ns.se",
+      "ipAddresses": {
+        "v4": [
+          "130.239.5.114"
+        ],
+        "v6": [
+          "2001:6b0:e:3::1"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "i.ns.se",
+      "ipAddresses": {
+        "v4": [
+          "194.146.106.22"
+        ],
+        "v6": [
+          "2001:67c:1010:5::53"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "m.ns.se",
+      "ipAddresses": {
+        "v4": [
+          "194.0.11.112"
+        ],
+        "v6": [
+          "2001:678:e:112::53"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "x.ns.se",
+      "ipAddresses": {
+        "v4": [
+          "213.108.25.4"
+        ],
+        "v6": [
+          "2001:67c:124c:e000::4"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "y.ns.se",
+      "ipAddresses": {
+        "v4": [
+          "185.159.197.150"
+        ],
+        "v6": [
+          "2620:10a:80aa::150"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "z.ns.se",
+      "ipAddresses": {
+        "v4": [
+          "185.159.198.150"
+        ],
+        "v6": [
+          "2620:10a:80ab::150"
+        ]
+      }
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 59407,
+        "algorithm": 8,
+        "digestType": 2,
+        "digest": "67A8E06FCEFDD9397F77F26C41ADE4EC142F299BCFA1827F0EF8FD87F2F63022"
+      }
+    ]
+  },
+  "status": [
+    "active"
+  ],
+  "port43": "whois.iis.se",
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "The Internet Infrastructure Foundation"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Box 92073\nStockholm SE-120 07\nSweden"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2020-06-08T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "SE Administrative Contact"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "The Internet Infrastructure Foundation"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Admin"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Box 92073\nStockholm SE-120 07\nSweden"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+46 8 452 35 00"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+46 8 452 35 02"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "registry@internetstiftelsen.se"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2020-03-18T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "SE Technical Contact"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Netnod Internet Exchange I Sverige AB"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Technical Contact"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Greta Garbos v\u00e4g 13\nSolna 169 40\nSweden"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+46 8 562 860 10"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "ops@netnod.se"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2020-06-08T00:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "last changed",
+      "eventDate": "2020-06-08T00:00:00+00:00"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "1986-09-04T00:00:00+00:00"
+    }
+  ],
+  "links": [
+    {
+      "rel": "related",
+      "href": "https://www.internetstiftelsen.se",
+      "title": "Registration URL",
+      "type": "text/html"
+    },
+    {
+      "value": "https://rdap.iana.org/domain/se",
+      "rel": "self",
+      "href": "https://rdap.iana.org/domain/se",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Terms of Service"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/tos"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "description": [
+        "Privacy Policy"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/policy"
+        }
+      ]
+    }
+  ]
+}

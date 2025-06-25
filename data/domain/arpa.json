@@ -1,0 +1,448 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "ldhName": "arpa",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "a.ns.arpa",
+      "ipAddresses": {
+        "v4": [
+          "198.41.0.4"
+        ],
+        "v6": [
+          "2001:503:ba3e::2:30"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "b.ns.arpa",
+      "ipAddresses": {
+        "v4": [
+          "170.247.170.2"
+        ],
+        "v6": [
+          "2801:1b8:10::b"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "c.ns.arpa",
+      "ipAddresses": {
+        "v4": [
+          "192.33.4.12"
+        ],
+        "v6": [
+          "2001:500:2::c"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "d.ns.arpa",
+      "ipAddresses": {
+        "v4": [
+          "199.7.91.13"
+        ],
+        "v6": [
+          "2001:500:2d::d"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "e.ns.arpa",
+      "ipAddresses": {
+        "v4": [
+          "192.203.230.10"
+        ],
+        "v6": [
+          "2001:500:a8::e"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "f.ns.arpa",
+      "ipAddresses": {
+        "v4": [
+          "192.5.5.241"
+        ],
+        "v6": [
+          "2001:500:2f::f"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "g.ns.arpa",
+      "ipAddresses": {
+        "v4": [
+          "192.112.36.4"
+        ],
+        "v6": [
+          "2001:500:12::d0d"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "h.ns.arpa",
+      "ipAddresses": {
+        "v4": [
+          "198.97.190.53"
+        ],
+        "v6": [
+          "2001:500:1::53"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "i.ns.arpa",
+      "ipAddresses": {
+        "v4": [
+          "192.36.148.17"
+        ],
+        "v6": [
+          "2001:7fe::53"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "k.ns.arpa",
+      "ipAddresses": {
+        "v4": [
+          "193.0.14.129"
+        ],
+        "v6": [
+          "2001:7fd::1"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "l.ns.arpa",
+      "ipAddresses": {
+        "v4": [
+          "199.7.83.42"
+        ],
+        "v6": [
+          "2001:500:9f::42"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "m.ns.arpa",
+      "ipAddresses": {
+        "v4": [
+          "202.12.27.33"
+        ],
+        "v6": [
+          "2001:dc3::35"
+        ]
+      }
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 42581,
+        "algorithm": 8,
+        "digestType": 2,
+        "digest": "F28391C1ED4DC0F151EDD251A3103DCE0B9A5A251ACF6E24073771D71F3C40F9"
+      }
+    ]
+  },
+  "status": [
+    "active"
+  ],
+  "port43": "whois.iana.org",
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Internet Architecture Board (IAB)"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "c/o IETF Administration LLC\n1000 N. West St.\nSuite 1200\nWilmington DE 19801\nUnited States"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2022-10-07T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Internet Architecture Board (IAB)"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Admin"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "c/o IETF Administration LLC\n1000 N. West St.\nSuite 1200\nWilmington DE 19801\nUnited States"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+1 510 492 4080"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+1 510 492 4001"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "iab@iab.org"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2020-07-15T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Internet Assigned Numbers Authority (IANA)"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Internet Corporation for Assigned Names and Numbers (ICANN)"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Technical Contact"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "12025 Waterfront Drive\nSuite 300\nLos Angeles CA 90094\nUnited States"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+1 310 301 5800"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+1 310 823-8649"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "tld-contact@iana.org"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2014-09-30T00:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "last changed",
+      "eventDate": "2023-11-27T00:00:00+00:00"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "1985-01-01T00:00:00+00:00"
+    }
+  ],
+  "links": [
+    {
+      "rel": "related",
+      "href": "https://www.iana.org/domains/arpa",
+      "title": "Registration URL",
+      "type": "text/html"
+    },
+    {
+      "value": "https://rdap.iana.org/domain/arpa",
+      "rel": "self",
+      "href": "https://rdap.iana.org/domain/arpa",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Terms of Service"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/tos"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "description": [
+        "Privacy Policy"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/policy"
+        }
+      ]
+    }
+  ]
+}

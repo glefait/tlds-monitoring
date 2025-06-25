@@ -1,0 +1,378 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "ldhName": "nz",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns1.dns.net.nz",
+      "ipAddresses": {
+        "v4": [
+          "202.46.190.130"
+        ],
+        "v6": [
+          "2001:dce:2000:2::130"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns2.dns.net.nz",
+      "ipAddresses": {
+        "v4": [
+          "202.46.187.130"
+        ],
+        "v6": [
+          "2001:dce:7000:2::130"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns3.dns.net.nz",
+      "ipAddresses": {
+        "v4": [
+          "202.46.188.130"
+        ],
+        "v6": [
+          "2001:dce:d453::53"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns4.dns.net.nz",
+      "ipAddresses": {
+        "v4": [
+          "202.46.189.130"
+        ],
+        "v6": [
+          "2001:dce:d454::53"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns5.dns.net.nz",
+      "ipAddresses": {
+        "v4": [
+          "185.159.197.130"
+        ],
+        "v6": [
+          "2620:10a:80aa::130"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns6.dns.net.nz",
+      "ipAddresses": {
+        "v4": [
+          "185.159.198.130"
+        ],
+        "v6": [
+          "2620:10a:80ab::130"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns7.dns.net.nz",
+      "ipAddresses": {
+        "v4": [
+          "194.146.106.54"
+        ],
+        "v6": [
+          "2001:67c:1010:13::53"
+        ]
+      }
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 934,
+        "algorithm": 8,
+        "digestType": 2,
+        "digest": "9D58F1627C135043F2CB12DF20545C53F02F1BB78E7ED562C802084DFB672E2E"
+      },
+      {
+        "keyTag": 39170,
+        "algorithm": 8,
+        "digestType": 2,
+        "digest": "ADB8214CCF90D5A927E27197CB6DAE06682358AB25735807C3CD7CD95BAA11F7"
+      }
+    ]
+  },
+  "status": [
+    "active"
+  ],
+  "port43": "whois.irs.net.nz",
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "InternetNZ"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Level 13\n18 Willis Street\nWellington Central\nWellington 6011\nNew Zealand"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2022-11-01T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Tumuwhanake | GM Customer and Product"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "InternetNZ"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Admin"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Level 13\n18 Willis Street\nWellington Central\nWellington 6011\nNew Zealand"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+64 21 417 903"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "iana@internetnz.net.nz"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2022-10-25T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            ".NZ Operations Manager"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "InternetNZ"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Technical Contact"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Level 13\n18 Willis Street\nWellington Central\nWellington 6011\nNew Zealand"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+64 21 783 399"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "ianatech@internetnz.net.nz"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2022-05-17T00:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "last changed",
+      "eventDate": "2024-11-26T00:00:00+00:00"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "1987-01-19T00:00:00+00:00"
+    }
+  ],
+  "links": [
+    {
+      "rel": "related",
+      "href": "http://www.dnc.org.nz/",
+      "title": "Registration URL",
+      "type": "text/html"
+    },
+    {
+      "value": "https://rdap.iana.org/domain/nz",
+      "rel": "self",
+      "href": "https://rdap.iana.org/domain/nz",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Terms of Service"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/tos"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "description": [
+        "Privacy Policy"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/policy"
+        }
+      ]
+    }
+  ]
+}

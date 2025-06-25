@@ -1,0 +1,380 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "ldhName": "xn--mgbx4cd0ab",
+  "unicodeName": "\u0645\u0644\u064a\u0633\u064a\u0627",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "a.mynic.centralnic-dns.com",
+      "ipAddresses": {
+        "v4": [
+          "194.169.218.114"
+        ],
+        "v6": [
+          "2001:67c:13cc::1:114"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "a.nic.my",
+      "ipAddresses": {
+        "v4": [
+          "103.44.108.53"
+        ],
+        "v6": [
+          "2001:ddc:0:53::53"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "a1.nic.my",
+      "ipAddresses": {
+        "v4": [
+          "202.171.47.204"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "b.mynic.centralnic-dns.com",
+      "ipAddresses": {
+        "v4": [
+          "185.24.64.114"
+        ],
+        "v6": [
+          "2a04:2b00:13cc::1:114"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "c.mynic.centralnic-dns.com",
+      "ipAddresses": {
+        "v4": [
+          "212.18.248.114"
+        ],
+        "v6": [
+          "2a04:2b00:13ee::114"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "d.mynic.centralnic-dns.com",
+      "ipAddresses": {
+        "v4": [
+          "212.18.249.114"
+        ],
+        "v6": [
+          "2a04:2b00:13ff::114"
+        ]
+      }
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 15766,
+        "algorithm": 13,
+        "digestType": 2,
+        "digest": "E1B9DF06C9B2E9F67AA4F7AFE4A20D0CC055ABBAE1AE5C72E967F2F11D417B71"
+      }
+    ]
+  },
+  "status": [
+    "active"
+  ],
+  "port43": "whois.mynic.my",
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "MYNIC Berhad"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Level 3, Tower 2, Menara Cyber Axis\nJalan Impact\nCyberjaya Selangor Darul Ehsan 63000\nMalaysia"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2021-02-08T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Datuk Ts. Hasnul Fadhly Hasan"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "MYNIC Berhad"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Admin"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Level 3, Tower 2, Menara Cyber Axis\nJalan Impact\nCyberjaya Selangor Darul Ehsan 63000\nMalaysia"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+603 8008 2000"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+603 8008 2020"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "dnsadmin@mynic.my"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2023-02-22T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Datuk Ts. Hasnul Fadhly Hasan"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "MYNIC Berhad"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Technical Contact"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Level 3, Tower 2, Menara Cyber Axis\nJalan Impact\nCyberjaya Selangor Darul Ehsan 63000\nMalaysia"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+603 8008 2000"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+603 8008 2020"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "dnsadmin@mynic.my"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2023-02-22T00:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-05-02T00:00:00+00:00"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "2011-10-22T00:00:00+00:00"
+    }
+  ],
+  "links": [
+    {
+      "rel": "related",
+      "href": "http://www.mynic.my",
+      "title": "Registration URL",
+      "type": "text/html"
+    },
+    {
+      "value": "https://rdap.iana.org/domain/xn--mgbx4cd0ab",
+      "rel": "self",
+      "href": "https://rdap.iana.org/domain/xn--mgbx4cd0ab",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Terms of Service"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/tos"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "description": [
+        "Privacy Policy"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/policy"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,383 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "ldhName": "xn--pgbs0dh",
+  "unicodeName": "\u062a\u0648\u0646\u0633",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns-tn.afrinic.net",
+      "ipAddresses": {
+        "v4": [
+          "196.216.168.25"
+        ],
+        "v6": [
+          "2001:43f8:120::25"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns1.ati.tn",
+      "ipAddresses": {
+        "v4": [
+          "41.228.62.63"
+        ],
+        "v6": [
+          "2c0f:fab0:ffff:4:41:228:62:63"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns2.ati.tn",
+      "ipAddresses": {
+        "v4": [
+          "41.228.63.62"
+        ],
+        "v6": [
+          "2c0f:fab0:ffff:5:41:228:63:62"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns2.nic.fr",
+      "ipAddresses": {
+        "v4": [
+          "192.93.0.4"
+        ],
+        "v6": [
+          "2001:660:3005:1::1:2"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "pch.ati.tn",
+      "ipAddresses": {
+        "v4": [
+          "204.61.216.94"
+        ],
+        "v6": [
+          "2001:500:14:6094:ad::1"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "rip.psg.com",
+      "ipAddresses": {
+        "v4": [
+          "147.28.0.39"
+        ],
+        "v6": [
+          "2001:418:1::39"
+        ]
+      }
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 23341,
+        "algorithm": 8,
+        "digestType": 2,
+        "digest": "D7A6ED1FD619775C26CEB15A96586B3C1D7AC38574E44F1ABC100FF2F50198A2"
+      }
+    ]
+  },
+  "status": [
+    "active"
+  ],
+  "port43": "whois.ati.tn",
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Agence Tunisienne d'Internet"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "13 Rue Jugurtha Mutuelle-ville\nTunis 1002\nTunisia"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2020-06-29T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Mrs. Wafa Dahmani"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Agence Tunisienne d'Internet"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Admin"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "13 Rue Jugurtha Mutuelle-ville\nTunis 1002\nTunisia"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+216 71 846 100"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+216 71 846 600"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "nicadmin@ati.tn"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2012-10-01T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Network Information Center - NIC"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Agence Tunisienne d'Internet"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Technical Contact"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "13 Rue Jugurtha Mutuelle-ville\nTunis 1002\nTunisia"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+216 71 846 100"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+216 71 846 600"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "nic@ati.tn"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2017-06-12T00:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "last changed",
+      "eventDate": "2023-03-07T00:00:00+00:00"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "2010-08-19T00:00:00+00:00"
+    }
+  ],
+  "links": [
+    {
+      "rel": "related",
+      "href": "http://www.ati.tn",
+      "title": "Registration URL",
+      "type": "text/html"
+    },
+    {
+      "value": "https://rdap.iana.org/domain/xn--pgbs0dh",
+      "rel": "self",
+      "href": "https://rdap.iana.org/domain/xn--pgbs0dh",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Terms of Service"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/tos"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "description": [
+        "Privacy Policy"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/policy"
+        }
+      ]
+    }
+  ]
+}

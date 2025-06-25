@@ -1,0 +1,400 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "ldhName": "cr",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "a.lactld.org",
+      "ipAddresses": {
+        "v4": [
+          "200.0.68.10"
+        ],
+        "v6": [
+          "2801:14:a000::10"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ca1.nic.cr",
+      "ipAddresses": {
+        "v4": [
+          "185.159.197.100"
+        ],
+        "v6": [
+          "2620:10a:80aa::100"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ca2.nic.cr",
+      "ipAddresses": {
+        "v4": [
+          "185.159.198.100"
+        ],
+        "v6": [
+          "2620:10a:80ab::100"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "de.nic.cr",
+      "ipAddresses": {
+        "v4": [
+          "194.0.11.107"
+        ],
+        "v6": [
+          "2001:678:e:107::53"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "dns.nic.cr",
+      "ipAddresses": {
+        "v4": [
+          "200.107.82.100"
+        ],
+        "v6": [
+          "2001:13c7:7004:1::d100"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "p.nic.cr",
+      "ipAddresses": {
+        "v4": [
+          "204.61.216.89"
+        ],
+        "v6": [
+          "2001:500:14:6089:ad::1"
+        ]
+      }
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 58628,
+        "algorithm": 13,
+        "digestType": 2,
+        "digest": "774366BE4CB919E7A17116BEAC78E6B2AFF1C87CBF0462A17E9B03CEDE12DAAE"
+      },
+      {
+        "keyTag": 58628,
+        "algorithm": 13,
+        "digestType": 4,
+        "digest": "E574F2FC644D92A320775C9C5083166C5A6305652762A62F859405FF64FA61DB503221C353D3BE30F082E6E65C9E75C4"
+      }
+    ]
+  },
+  "status": [
+    "active"
+  ],
+  "port43": "whois.nic.cr",
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "National Academy of Sciences\nAcademia Nacional de Ciencias"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "\n        "
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "San Pedro Montes de Oca\nSan Jos\u00e9 1367-2050\nCosta Rica"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2022-10-19T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Guy F. de Teramond"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "\n        "
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Admin"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "San Pedro Montes de Oca\nSan Jos\u00e9 1367-2050\nCosta Rica"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+506 2283 4814"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+506 2283 4101"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "gdt@ns.cr"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2011-03-14T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Ricardo Samper Jimenez"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "National Academy of Sciences Academia Nacional de Ciencias"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Technical Contact"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Barrio Francisco Peralta, de la Casa Italia 100 metros al oeste y 15 metros sur\nSan Jos\u00e9 1367-2050\nCosta Rica"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+506 2280-6453"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+506 2280-5261"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "rsamper@nic.cr"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2024-10-25T00:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-02-18T00:00:00+00:00"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "1990-09-10T00:00:00+00:00"
+    }
+  ],
+  "links": [
+    {
+      "rel": "related",
+      "href": "http://www.nic.cr/",
+      "title": "Registration URL",
+      "type": "text/html"
+    },
+    {
+      "rel": "alternate",
+      "href": "https://rdap.nic.cr/",
+      "title": "RDAP Server",
+      "type": "application/rdap+json"
+    },
+    {
+      "value": "https://rdap.iana.org/domain/cr",
+      "rel": "self",
+      "href": "https://rdap.iana.org/domain/cr",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Terms of Service"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/tos"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "description": [
+        "Privacy Policy"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/policy"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,382 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "ldhName": "clubmed",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "v0n0.nic.clubmed",
+      "ipAddresses": {
+        "v4": [
+          "65.22.108.12"
+        ],
+        "v6": [
+          "2a01:8840:6a::12"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "v0n1.nic.clubmed",
+      "ipAddresses": {
+        "v4": [
+          "65.22.109.12"
+        ],
+        "v6": [
+          "2a01:8840:6b::12"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "v0n2.nic.clubmed",
+      "ipAddresses": {
+        "v4": [
+          "65.22.110.12"
+        ],
+        "v6": [
+          "2a01:8840:6c::12"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "v0n3.nic.clubmed",
+      "ipAddresses": {
+        "v4": [
+          "161.232.32.12"
+        ],
+        "v6": [
+          "2a01:8840:108::12"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "v2n0.nic.clubmed",
+      "ipAddresses": {
+        "v4": [
+          "65.22.111.12"
+        ],
+        "v6": [
+          "2a01:8840:6d::12"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "v2n1.nic.clubmed",
+      "ipAddresses": {
+        "v4": [
+          "161.232.33.12"
+        ],
+        "v6": [
+          "2a01:8840:109::12"
+        ]
+      }
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 21826,
+        "algorithm": 8,
+        "digestType": 2,
+        "digest": "5BAA5F5647BAEF29365E3F37D0914E0ABE5F4D62AFCA9CF59863FB94AA5964E7"
+      }
+    ]
+  },
+  "status": [
+    "active"
+  ],
+  "port43": "whois.nic.clubmed",
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Club M\u00e9diterran\u00e9e S.A."
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "11 rue de Cambrai\nParis 75019\nFrance"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2019-08-16T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Global E-Business Manager"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Club M\u00e9diterran\u00e9e S.A."
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Admin"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "11 rue de Cambrai\nParis 75019\nFrance"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+33 1 53 35 35 53"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+33 1 53 35 36 10"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "ngtld-clubmed@cscinfo.com"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2015-10-02T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Howard Eland, Senior Director, DNS Infrastructure Group"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Identity Digital Inc."
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Technical Contact"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+1.425.298.2200"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+1.425.671.0020"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "tldtech@identity.digital"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2024-03-28T00:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "last changed",
+      "eventDate": "2024-03-31T00:00:00+00:00"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "2015-09-24T00:00:00+00:00"
+    }
+  ],
+  "links": [
+    {
+      "rel": "alternate",
+      "href": "https://rdap.identitydigital.services/rdap/",
+      "title": "RDAP Server",
+      "type": "application/rdap+json"
+    },
+    {
+      "value": "https://rdap.iana.org/domain/clubmed",
+      "rel": "self",
+      "href": "https://rdap.iana.org/domain/clubmed",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Terms of Service"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/tos"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "description": [
+        "Privacy Policy"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/policy"
+        }
+      ]
+    }
+  ]
+}

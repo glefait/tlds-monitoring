@@ -1,0 +1,385 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "ldhName": "th",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "a.thains.co.th",
+      "ipAddresses": {
+        "v4": [
+          "122.155.23.64"
+        ],
+        "v6": [
+          "2001:c38:2000:183::30"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "b.thains.co.th",
+      "ipAddresses": {
+        "v4": [
+          "203.159.64.64"
+        ],
+        "v6": [
+          "2405:3340:e011:3000::30"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "c.thains.co.th",
+      "ipAddresses": {
+        "v4": [
+          "194.0.1.28"
+        ],
+        "v6": [
+          "2001:678:4::1c"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "nn1.thains.co.th",
+      "ipAddresses": {
+        "v4": [
+          "194.146.106.154"
+        ],
+        "v6": [
+          "2001:67c:1010:39::53"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns.thnic.net",
+      "ipAddresses": {
+        "v4": [
+          "202.28.0.1"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "p.thains.co.th",
+      "ipAddresses": {
+        "v4": [
+          "204.61.216.126"
+        ],
+        "v6": [
+          "2001:500:14:6126:ad::1"
+        ]
+      }
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 19117,
+        "algorithm": 8,
+        "digestType": 2,
+        "digest": "E26BF35F73234AC50C600632FC717AE491F4A8B4F662FB29234F5499ACFEBF64"
+      }
+    ]
+  },
+  "status": [
+    "active"
+  ],
+  "port43": "whois.thnic.co.th",
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Thai Network Information Center Foundation"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "159 Thanon Phichai\nKhwaeng Thanon Nakhon Chaisi, Khet Dusit\nBangkok 10300\nThailand"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2021-08-02T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Chaya Limchitti"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Thai Network Information Center Foundation"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Admin"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "159 Thanon Phichai\nKhwaeng Thanon Nakhon Chaisi, Khet Dusit\nBangkok 10300\nThailand"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+66-2-244-8261"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+66-2-244-8264"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "chaya@thnic.or.th"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2017-10-16T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Pensri Arunwatanamongkol"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Thai Network Information Center Foundation"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Technical Contact"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "159 Thanon Phichai\nKhwaeng Thanon Nakhon Chaisi, Khet Dusit\nBangkok 10300\nThailand"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+66 2 564 8039"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+66 2 564 8040"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "pensri@thnic.or.th"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2010-09-23T00:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-01-23T00:00:00+00:00"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "1988-09-07T00:00:00+00:00"
+    }
+  ],
+  "links": [
+    {
+      "rel": "related",
+      "href": "http://www.thnic.co.th",
+      "title": "Registration URL",
+      "type": "text/html"
+    },
+    {
+      "rel": "alternate",
+      "href": "https://rdap.thains.co.th",
+      "title": "RDAP Server",
+      "type": "application/rdap+json"
+    },
+    {
+      "value": "https://rdap.iana.org/domain/th",
+      "rel": "self",
+      "href": "https://rdap.iana.org/domain/th",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Terms of Service"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/tos"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "description": [
+        "Privacy Policy"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/policy"
+        }
+      ]
+    }
+  ]
+}

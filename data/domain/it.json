@@ -1,0 +1,360 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "ldhName": "it",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "a.dns.it",
+      "ipAddresses": {
+        "v4": [
+          "194.0.16.215"
+        ],
+        "v6": [
+          "2001:678:12:0:194:0:16:215"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "dns.nic.it",
+      "ipAddresses": {
+        "v4": [
+          "192.12.192.5"
+        ],
+        "v6": [
+          "2a00:d40:1:1::5"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "m.dns.it",
+      "ipAddresses": {
+        "v4": [
+          "217.29.76.4"
+        ],
+        "v6": [
+          "2001:1ac0:0:200:0:a5d1:6004:2"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "nameserver.cnr.it",
+      "ipAddresses": {
+        "v4": [
+          "194.119.192.34"
+        ],
+        "v6": [
+          "2a00:1620:c0:220:194:119:192:34"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "r.dns.it",
+      "ipAddresses": {
+        "v4": [
+          "193.206.141.46"
+        ],
+        "v6": [
+          "2001:760:ffff:ffff::ca"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "v.dns.it",
+      "ipAddresses": {
+        "v4": [
+          "194.0.25.44"
+        ],
+        "v6": [
+          "2001:678:20::44"
+        ]
+      }
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 41901,
+        "algorithm": 10,
+        "digestType": 2,
+        "digest": "47F7F7BA21E48591F6172EED13E35B66B93AD9F2880FC9BADA64F68CE28EBB90"
+      }
+    ]
+  },
+  "status": [
+    "active"
+  ],
+  "port43": "whois.nic.it",
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "IIT - CNR"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Via Moruzzi, 1\nPisa I-56124\nItaly"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2019-09-25T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Andrea Passarella"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "IIT - CNR"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Admin"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Via Moruzzi, 1\nPisa I-56124\nItaly"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+39 050 315 2112"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "direttore@iit.cnr.it"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2024-11-06T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Maurizio Martinelli"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "IIT - CNR"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Technical Contact"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Via Moruzzi, 1\nPisa I-56124\nItaly"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+39 050 315 2087"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "maurizio.martinelli@iit.cnr.it"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2024-11-06T00:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-01-28T00:00:00+00:00"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "1987-12-23T00:00:00+00:00"
+    }
+  ],
+  "links": [
+    {
+      "rel": "related",
+      "href": "https://www.nic.it/",
+      "title": "Registration URL",
+      "type": "text/html"
+    },
+    {
+      "value": "https://rdap.iana.org/domain/it",
+      "rel": "self",
+      "href": "https://rdap.iana.org/domain/it",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Terms of Service"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/tos"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "description": [
+        "Privacy Policy"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/policy"
+        }
+      ]
+    }
+  ]
+}

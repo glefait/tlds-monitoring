@@ -1,0 +1,328 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "ldhName": "gw",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "gw01.dns.pt",
+      "ipAddresses": {
+        "v4": [
+          "185.39.208.19"
+        ],
+        "v6": [
+          "2a04:6d80::19"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "gw03.dns.pt",
+      "ipAddresses": {
+        "v4": [
+          "204.61.216.114"
+        ],
+        "v6": [
+          "2001:500:14:6114:ad::1"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "h.dns.pt",
+      "ipAddresses": {
+        "v4": [
+          "194.146.106.138"
+        ],
+        "v6": [
+          "2001:67c:1010:35::53"
+        ]
+      }
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 31518,
+        "algorithm": 10,
+        "digestType": 2,
+        "digest": "CAE77FE2299B3A08A4C78B400327C2A62BF65421D4BD98836228800C3B0722AA"
+      }
+    ]
+  },
+  "status": [
+    "active"
+  ],
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Autoridade Reguladora Nacional - Tecnologias de Informa\u00e7\u00e3o e Comunica\u00e7\u00e3o da Guin\u00e9-Bissau"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Avenida Domingos Ramos\nPra\u00e7a Ernesto Che Guevara\nBissau 1372\nGuinea-Bissau"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2022-07-11T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Davi Severiano Goia Cabral D'almada"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Autoridade Reguladora Nacional - Tecnologias de Informa\u00e7\u00e3o e Comunica\u00e7\u00e3o da Guin\u00e9-Bissau"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Admin"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Enterramento, Traseiros do Hospital Militar\nBissau 1372\nGuinea-Bissau"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+245 955400003"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "d.almada@arn.gw"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2022-07-11T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Assis Neves Guerreiro"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Associa\u00e7\u00e3o DNS.PT (DNS.PT)"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Technical Contact"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Rua Latino Coelho, no.13, 5 piso\nLisboa 1050-132\nPortugal"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+351 211308200"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+351 211312720"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "assis.guerreiro@dns.pt"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2014-09-12T00:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "last changed",
+      "eventDate": "2022-07-11T00:00:00+00:00"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "1997-02-04T00:00:00+00:00"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.iana.org/domain/gw",
+      "rel": "self",
+      "href": "https://rdap.iana.org/domain/gw",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Terms of Service"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/tos"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "description": [
+        "Privacy Policy"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/policy"
+        }
+      ]
+    }
+  ]
+}

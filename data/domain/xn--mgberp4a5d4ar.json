@@ -1,0 +1,408 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "ldhName": "xn--mgberp4a5d4ar",
+  "unicodeName": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "c1.dns.sa",
+      "ipAddresses": {
+        "v4": [
+          "86.111.192.9"
+        ],
+        "v6": [
+          "2001:67c:18c8:c0::c1"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "c2.dns.sa",
+      "ipAddresses": {
+        "v4": [
+          "86.111.196.9"
+        ],
+        "v6": [
+          "2001:67c:130:10::9"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "i1.dns.sa",
+      "ipAddresses": {
+        "v4": [
+          "212.138.118.118"
+        ],
+        "v6": [
+          "2001:1490:0:800::118"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "m1.dns.sa",
+      "ipAddresses": {
+        "v4": [
+          "86.51.77.213"
+        ],
+        "v6": [
+          "2a02:ce0:1:30::5"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "m2.dns.sa",
+      "ipAddresses": {
+        "v4": [
+          "86.51.28.37"
+        ],
+        "v6": [
+          "2a02:ce0:1:91::5"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "n1.dns.sa",
+      "ipAddresses": {
+        "v4": [
+          "194.146.106.102"
+        ],
+        "v6": [
+          "2001:67c:1010:26::53"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "p1.dns.sa",
+      "ipAddresses": {
+        "v4": [
+          "204.61.216.41"
+        ],
+        "v6": [
+          "2001:500:14:6041:ad::1"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "s1.dns.sa",
+      "ipAddresses": {
+        "v4": [
+          "37.107.223.170"
+        ],
+        "v6": [
+          "2001:16a0:1:3002::2"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "sh1.dns.sa",
+      "ipAddresses": {
+        "v4": [
+          "213.236.36.92"
+        ],
+        "v6": [
+          "2a02:d70:64:68::2"
+        ]
+      }
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 51067,
+        "algorithm": 8,
+        "digestType": 2,
+        "digest": "71A90D5298B157332CF6DC7BC2105982054A8D5F5C74C67DEBBBEE3AFBE114D3"
+      }
+    ]
+  },
+  "status": [
+    "active"
+  ],
+  "port43": "whois.nic.net.sa",
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Communications, Space and Technology Commission"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "P.O. Box 75606\nCST Main Building, AlRuhmaniah Area\nKing Fahad Street\nRiyadh 11588\nSaudi Arabia"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2023-08-31T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Head of Saudi Network Information Center"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Communications, Space and Technology Commission"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Admin"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "SaudiNIC\nCommunications, Space and Technology Commission (CST)\nP.O Box 75606\nRiyadh 11588\nSaudi Arabia"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+966114618216"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+966114619497"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "tld-admin-contact@nic.net.sa"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2023-08-31T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Saudi Domain Names Director"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Communications, Space and Technology Commission"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Technical Contact"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "SaudiNIC\nCommunications, Space and Technology Commission (CST)\nP.O Box 75606\nRiyadh 11588\nSaudi Arabia"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+966114618179"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "tld-tech-contact@nic.net.sa"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2023-08-31T00:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-03-10T00:00:00+00:00"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "2010-05-05T00:00:00+00:00"
+    }
+  ],
+  "links": [
+    {
+      "rel": "related",
+      "href": "http://www.nic.net.sa/",
+      "title": "Registration URL",
+      "type": "text/html"
+    },
+    {
+      "value": "https://rdap.iana.org/domain/xn--mgberp4a5d4ar",
+      "rel": "self",
+      "href": "https://rdap.iana.org/domain/xn--mgberp4a5d4ar",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Terms of Service"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/tos"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "description": [
+        "Privacy Policy"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/policy"
+        }
+      ]
+    }
+  ]
+}

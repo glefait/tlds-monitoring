@@ -1,0 +1,403 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "ldhName": "jp",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "a.dns.jp",
+      "ipAddresses": {
+        "v4": [
+          "203.119.1.1"
+        ],
+        "v6": [
+          "2001:dc4::1"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "b.dns.jp",
+      "ipAddresses": {
+        "v4": [
+          "202.12.30.131"
+        ],
+        "v6": [
+          "2001:dc2::1"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "c.dns.jp",
+      "ipAddresses": {
+        "v4": [
+          "156.154.100.5"
+        ],
+        "v6": [
+          "2001:502:ad09::5"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "d.dns.jp",
+      "ipAddresses": {
+        "v4": [
+          "210.138.175.244"
+        ],
+        "v6": [
+          "2001:240::53"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "e.dns.jp",
+      "ipAddresses": {
+        "v4": [
+          "192.50.43.53"
+        ],
+        "v6": [
+          "2001:200:c000::35"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "f.dns.jp",
+      "ipAddresses": {
+        "v4": [
+          "150.100.6.8"
+        ],
+        "v6": [
+          "2001:2f8:0:100::153"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "g.dns.jp",
+      "ipAddresses": {
+        "v4": [
+          "203.119.40.1"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "h.dns.jp",
+      "ipAddresses": {
+        "v4": [
+          "161.232.72.25"
+        ],
+        "v6": [
+          "2a01:8840:1bc::25"
+        ]
+      }
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 35821,
+        "algorithm": 8,
+        "digestType": 2,
+        "digest": "41AD6EC23454A202D05BD75D9C323825C9822B9850CB1793CAB2DA2814C74140"
+      }
+    ]
+  },
+  "status": [
+    "active"
+  ],
+  "port43": "whois.jprs.jp",
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Japan Registry Services Co., Ltd."
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Chiyoda First Bldg. East 13F\n3-8-1 Nishi-Kanda\nChiyoda-ku Tokyo 101-0065\nJapan"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2022-11-09T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Koki Higashida"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Japan Registry Services Co., Ltd."
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Admin"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Chiyoda First Bldg. East 13F\n3-8-1 Nishi-Kanda\nChiyoda-ku Tokyo 101-0065\nJapan"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+81 3 5215 8451"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+81 3 5215 8452"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "higashida@jprs.co.jp"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2005-06-16T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Koki Higashida"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Japan Registry Services Co., Ltd."
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Technical Contact"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Chiyoda First Bldg. East 13F\n3-8-1 Nishi-Kanda\nChiyoda-ku Tokyo 101-0065\nJapan"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+81 3 5215 8480"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+81 3 5215 8452"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "tech-admin@jprs.jp"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2020-01-31T00:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "last changed",
+      "eventDate": "2024-11-06T00:00:00+00:00"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "1986-08-05T00:00:00+00:00"
+    }
+  ],
+  "links": [
+    {
+      "rel": "related",
+      "href": "https://jprs.jp/",
+      "title": "Registration URL",
+      "type": "text/html"
+    },
+    {
+      "value": "https://rdap.iana.org/domain/jp",
+      "rel": "self",
+      "href": "https://rdap.iana.org/domain/jp",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Terms of Service"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/tos"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "description": [
+        "Privacy Policy"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/policy"
+        }
+      ]
+    }
+  ]
+}

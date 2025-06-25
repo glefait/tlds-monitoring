@@ -1,0 +1,395 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "ldhName": "co",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns1.cctld.co",
+      "ipAddresses": {
+        "v4": [
+          "37.209.192.14"
+        ],
+        "v6": [
+          "2001:dcd:1::14"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns2.cctld.co",
+      "ipAddresses": {
+        "v4": [
+          "37.209.194.14"
+        ],
+        "v6": [
+          "2001:dcd:2::14"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns3.cctld.co",
+      "ipAddresses": {
+        "v4": [
+          "37.209.196.14"
+        ],
+        "v6": [
+          "2001:dcd:3::14"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns4.cctld.co",
+      "ipAddresses": {
+        "v4": [
+          "156.154.103.25"
+        ],
+        "v6": [
+          "2610:a1:1010::21"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns5.cctld.co",
+      "ipAddresses": {
+        "v4": [
+          "156.154.104.25"
+        ],
+        "v6": [
+          "2610:a1:1011::21"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns6.cctld.co",
+      "ipAddresses": {
+        "v4": [
+          "156.154.105.25"
+        ],
+        "v6": [
+          "2610:a1:1012::21"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns7.cctld.co",
+      "ipAddresses": {
+        "v4": [
+          "204.74.105.1"
+        ],
+        "v6": [
+          "2610:a1:3180::53"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns8.cctld.co",
+      "ipAddresses": {
+        "v4": [
+          "204.74.107.1"
+        ],
+        "v6": [
+          "2610:a1:3280::53"
+        ]
+      }
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 62110,
+        "algorithm": 8,
+        "digestType": 2,
+        "digest": "4857EE1A85E661C92156AD09B40139DAE7D5BE37D117A1223289F0E20CF9D654"
+      }
+    ]
+  },
+  "status": [
+    "active"
+  ],
+  "port43": "whois.nic.co",
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Ministry of Information and Communications Technologies (MinTIC)"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Edificio Murillo Toro\nCra.8 #Entre Calles 12A y 12B\nBogot\u00e1 D.C. Cundinamarca 111711\nColombia"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2022-11-21T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Thiago Grijo Dal-Toe"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Ministry of Information and Communications Technologies (MinTIC)"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Admin"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Edificio Murillo Toro\nCra.8 #Entre Calles 12A y 12B\nBogot\u00e1 D.C. Cundinamarca 111711\nColombia"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+57 (601) 344 3460"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+57 (601) 344 2248"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "cctld.co@mintic.gov.co"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2024-09-17T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Gonzalo Romero"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            ".CO Internet S.A.S."
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Technical Contact"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Calle 93B # 12-28\nOficina 203\nBarrio Chico Norte (Chapinero)\nBogot\u00e1 D.C. 110221\nColombia"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+57 (601) 794 89 99"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "gonzalo@cointernet.com.co"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2025-06-20T00:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-06-20T00:00:00+00:00"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "1991-12-24T00:00:00+00:00"
+    }
+  ],
+  "links": [
+    {
+      "rel": "related",
+      "href": "http://www.cointernet.com.co",
+      "title": "Registration URL",
+      "type": "text/html"
+    },
+    {
+      "value": "https://rdap.iana.org/domain/co",
+      "rel": "self",
+      "href": "https://rdap.iana.org/domain/co",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Terms of Service"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/tos"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "description": [
+        "Privacy Policy"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/policy"
+        }
+      ]
+    }
+  ]
+}

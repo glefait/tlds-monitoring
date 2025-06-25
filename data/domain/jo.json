@@ -1,0 +1,367 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "ldhName": "jo",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "amra.nic.gov.jo",
+      "ipAddresses": {
+        "v4": [
+          "193.188.66.103"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "cloudns.nic.net.jo",
+      "ipAddresses": {
+        "v4": [
+          "54.155.28.251"
+        ],
+        "v6": [
+          "2a05:d018:123c:3500:3e00:7185:3a6e:e082"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "jo.cctld.authdns.ripe.net",
+      "ipAddresses": {
+        "v4": [
+          "193.0.9.83"
+        ],
+        "v6": [
+          "2001:67c:e0::83"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "jordan1st.nic.gov.jo",
+      "ipAddresses": {
+        "v4": [
+          "193.188.69.19"
+        ],
+        "v6": [
+          "2a02:9c0:0:19::19"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "petra.nic.gov.jo",
+      "ipAddresses": {
+        "v4": [
+          "193.188.66.2"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "rip.psg.com",
+      "ipAddresses": {
+        "v4": [
+          "147.28.0.39"
+        ],
+        "v6": [
+          "2001:418:1::39"
+        ]
+      }
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "status": [
+    "active"
+  ],
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Ministry of Digital Economy and Entrepreneurship (MoDEE)"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "8th Circle - Bayader Wadi Al Seer\nP.O. Box 9903\nAmman 11191\nJordan"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2022-09-12T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Jordan Domains Registry Admin"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Ministry of Digital Economy and Entrepreneurship (MoDEE)"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Admin"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "8th Circle - Bayader Wadi Al Seer\nP.O. Box 9903\nAmman 11191\nJordan"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+962 6 5805700"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+962 6 5861059"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "AdminCCtld@modee.gov.jo"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2024-02-26T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Jordan Domains Registry Technical"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Ministry of Digital Economy and Entrepreneurship (MoDEE)"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Technical Contact"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "8th Circle - Bayader Wadi Al Seer\nP.O. Box 9903\nAmman 11191\nJordan"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+962 6 5300263"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+962 6 5861059"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "TechCCtld@modee.gov.jo"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2024-02-26T00:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "last changed",
+      "eventDate": "2024-03-04T00:00:00+00:00"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "1994-11-23T00:00:00+00:00"
+    }
+  ],
+  "links": [
+    {
+      "rel": "related",
+      "href": "https://www.dns.jo",
+      "title": "Registration URL",
+      "type": "text/html"
+    },
+    {
+      "value": "https://rdap.iana.org/domain/jo",
+      "rel": "self",
+      "href": "https://rdap.iana.org/domain/jo",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Terms of Service"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/tos"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "description": [
+        "Privacy Policy"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/policy"
+        }
+      ]
+    }
+  ]
+}

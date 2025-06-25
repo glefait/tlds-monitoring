@@ -1,0 +1,330 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "ldhName": "xn--54b7fta0cc",
+  "unicodeName": "\u09ac\u09be\u0982\u09b2\u09be",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "bayanno.btcl.net.bd",
+      "ipAddresses": {
+        "v4": [
+          "180.211.212.213"
+        ],
+        "v6": [
+          "2407:5000:88:2::3"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "bd-ns.anycast.pch.net",
+      "ipAddresses": {
+        "v4": [
+          "204.61.216.108"
+        ],
+        "v6": [
+          "2001:500:14:6108:ad::1"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ekushey.btcl.net.bd",
+      "ipAddresses": {
+        "v4": [
+          "123.49.50.51"
+        ],
+        "v6": [
+          "2407:5000:88:1::2"
+        ]
+      }
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 63049,
+        "algorithm": 8,
+        "digestType": 1,
+        "digest": "91E8936DFE81E7350DAF041BD12B77F29643A13D"
+      },
+      {
+        "keyTag": 63049,
+        "algorithm": 8,
+        "digestType": 2,
+        "digest": "DCDD04C4493E029DEE060D18A91E87BE930B9CE4C54FC7921F51F27455843DCB"
+      }
+    ]
+  },
+  "status": [
+    "active"
+  ],
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Posts and Telecommunications Division"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Ministry of Posts, Telecommunications and Information Technology, Government of the People's Republic of Bangladesh\nAbdul Goni Road\nDhaka 1000\nBangladesh"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2024-05-29T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Deputy Secretary"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Posts and Telecommunications Division"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Admin"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Ministry of Posts, Telecommunications and Information Technology,\nAbdul Goni Road\nDhaka 1000\nBangladesh"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+8802 22335448"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "telecom1@ptd.gov.bd"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2024-05-29T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Deputy General Manager (Domain)"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Bangladesh Telecommunications Company Limited (BTCL)"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "Technical Contact"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Telejogajog Bhaban, 37/E, Eskaton Garden\nDhaka 1000\nBangladesh"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "voice"
+              ]
+            },
+            "text",
+            "+880249354200"
+          ],
+          [
+            "email",
+            {
+              "type": [
+                "work"
+              ]
+            },
+            "text",
+            "dgm.domain@btcl.gov.bd"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "last changed",
+          "eventDate": "2023-03-17T00:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "last changed",
+      "eventDate": "2024-05-29T00:00:00+00:00"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "2011-03-30T00:00:00+00:00"
+    }
+  ],
+  "links": [
+    {
+      "rel": "related",
+      "href": "http://domainreg.btcl.com.bd/",
+      "title": "Registration URL",
+      "type": "text/html"
+    },
+    {
+      "value": "https://rdap.iana.org/domain/xn--54b7fta0cc",
+      "rel": "self",
+      "href": "https://rdap.iana.org/domain/xn--54b7fta0cc",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Terms of Service"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/tos"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "description": [
+        "Privacy Policy"
+      ],
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.icann.org/privacy/policy"
+        }
+      ]
+    }
+  ]
+}
