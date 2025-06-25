@@ -16,7 +16,11 @@ def simplify_root_tld(root_tlds_details):
             "secureDNS": entity["secureDNS"],
             "status": entity["status"],
             "port43": entity["port43"] if "port43" in entity else None,
+            "registration": None,
         }
+        for link in entity["links"]:
+            if "title" in link and link["title"] == "Registration URL":
+                simplified["registration"] = link["href"]
         for ns in entity["nameservers"]:
             if ns["objectClassName"] == "nameserver":
                 ns_name = ns["ldhName"]
@@ -48,6 +52,8 @@ def simplify_root_tld(root_tlds_details):
                                 "label"
                             ].strip()
                     elif vcard[0] in simplified["entities"][r]:
+                        if vcard[0] == "tel" and "fax" in vcard[1]:
+                            continue  # ignore fax
                         simplified["entities"][r][vcard[0]] = vcard[3].strip()
         root_tlds_simplified[tld] = simplified
     return root_tlds_simplified
