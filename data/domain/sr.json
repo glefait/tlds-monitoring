@@ -44,6 +44,7 @@
   "status": [
     "active"
   ],
+  "port43": "whois.sr",
   "entities": [
     {
       "objectClassName": "entity",
@@ -259,7 +260,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2024-07-19T00:00:00+00:00"
+      "eventDate": "2025-06-27T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
@@ -272,6 +273,12 @@
       "href": "https://isp.datasur.sr/",
       "title": "Registration URL",
       "type": "text/html"
+    },
+    {
+      "rel": "alternate",
+      "href": "https://whois.sr/rdap/",
+      "title": "RDAP Server",
+      "type": "application/rdap+json"
     },
     {
       "value": "https://rdap.iana.org/domain/sr",

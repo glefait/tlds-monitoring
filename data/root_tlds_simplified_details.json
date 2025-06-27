@@ -91590,7 +91590,7 @@
     "status": [
       "active"
     ],
-    "port43": null,
+    "port43": "whois.sr",
     "registration": "https://isp.datasur.sr/"
   },
   "srl": {
