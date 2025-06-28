@@ -16,17 +16,21 @@ def simplify_root_tld(root_tlds_details):
             "secureDNS": entity["secureDNS"],
             "status": entity["status"],
             "port43": entity["port43"] if "port43" in entity else None,
-            "registration": None,
+            "registration_url": None,
+            "creation_date": None,
         }
         for link in entity["links"]:
             if "title" in link and link["title"] == "Registration URL":
-                simplified["registration"] = link["href"]
+                simplified["registration_url"] = link["href"]
         for ns in entity["nameservers"]:
             if ns["objectClassName"] == "nameserver":
                 ns_name = ns["ldhName"]
                 simplified["nameservers"][ns_name] = {}
                 for z in ns["ipAddresses"]:
                     simplified["nameservers"][ns_name][z] = ns["ipAddresses"][z]
+        for event in entity["events"]:
+            if event["eventAction"] == "registration":
+                simplified["creation_date"] = event["eventDate"]
         roles = ["registrant", "technical", "administrative"]
         for e in entity["entities"]:
             for r in e["roles"]:
@@ -40,6 +44,7 @@ def simplify_root_tld(root_tlds_details):
                     "adr": None,
                     "tel": None,
                     "email": None,
+                    "last_change_date": None,
                 }
                 # vcardArray = ['vcard', {}]
                 assert len(e["vcardArray"]) == 2, "vcardArray should have 2 elements"
@@ -55,6 +60,11 @@ def simplify_root_tld(root_tlds_details):
                         if vcard[0] == "tel" and "fax" in vcard[1]:
                             continue  # ignore fax
                         simplified["entities"][r][vcard[0]] = vcard[3].strip()
+                for event in e["events"]:
+                    if event["eventAction"] == "last changed":
+                        simplified["entities"][r]["last_change_date"] = event[
+                            "eventDate"
+                        ]
         root_tlds_simplified[tld] = simplified
     return root_tlds_simplified
 
