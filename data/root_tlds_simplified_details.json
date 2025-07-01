@@ -25993,12 +25993,12 @@
     },
     "entities": {
       "registrant": {
-        "fn": "CENIAInternet\nIndustria y San Jose\nCapitolio Nacional",
-        "org": "",
-        "adr": null,
+        "fn": "CENIAInternet",
+        "org": null,
+        "adr": "Industria y San Jose\nCapitolio Nacional\nLa Habana CP 10200\nCuba",
         "tel": null,
         "email": null,
-        "last_change_date": "2020-02-14T00:00:00+00:00"
+        "last_change_date": "2025-06-30T00:00:00+00:00"
       },
       "administrative": {
         "fn": "CU-DOM Administrative Contact",

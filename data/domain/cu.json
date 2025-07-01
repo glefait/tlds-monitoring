@@ -94,19 +94,30 @@
             "fn",
             {},
             "text",
-            "CENIAInternet\nIndustria y San Jose\nCapitolio Nacional"
-          ],
-          [
-            "org",
-            {},
-            "text",
-            "\n        "
+            "CENIAInternet"
           ],
           [
             "role",
             {},
             "text",
             "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Industria y San Jose\nCapitolio Nacional\nLa Habana CP 10200\nCuba"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
           ]
         ]
       ],
@@ -116,7 +127,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2020-02-14T00:00:00+00:00"
+          "eventDate": "2025-06-30T00:00:00+00:00"
         }
       ]
     },
@@ -302,7 +313,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2024-10-14T00:00:00+00:00"
+      "eventDate": "2025-06-30T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
