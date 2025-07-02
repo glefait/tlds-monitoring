@@ -85,6 +85,23 @@
             {},
             "text",
             "Registrant"
+          ],
+          [
+            "adr",
+            {
+              "type": "work",
+              "label": "Kenneth S. Julien Building, Third Floor, Room 305\nSt. Augustine\nTrinidad and Tobago"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
           ]
         ]
       ],
@@ -94,7 +111,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2022-12-07T00:00:00+00:00"
+          "eventDate": "2025-07-01T00:00:00+00:00"
         }
       ]
     },
@@ -260,7 +277,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2022-12-07T00:00:00+00:00"
+      "eventDate": "2025-07-01T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
