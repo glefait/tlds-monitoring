@@ -161,7 +161,7 @@
             "fn",
             {},
             "text",
-            "NU Administrative Contact"
+            "Emani Fakaotimanava-Lui"
           ],
           [
             "org",
@@ -179,7 +179,7 @@
             "adr",
             {
               "type": "work",
-              "label": "P.O. Box 91\nAlofi 1010\nNiue"
+              "label": "Main Road\nOmahi\nAlofi Tokelau 1010\nNiue"
             },
             "text",
             [
@@ -201,7 +201,7 @@
               ]
             },
             "text",
-            "+683 4235"
+            "+64212352355"
           ],
           [
             "tel",
@@ -232,7 +232,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2019-12-17T00:00:00+00:00"
+          "eventDate": "2025-07-03T00:00:00+00:00"
         }
       ]
     },
@@ -330,7 +330,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2022-09-19T00:00:00+00:00"
+      "eventDate": "2025-07-03T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
