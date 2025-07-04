@@ -301,7 +301,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2025-06-11T00:00:00+00:00"
+      "eventDate": "2025-07-04T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
@@ -317,7 +317,7 @@
     },
     {
       "rel": "alternate",
-      "href": "https://rdap.identitydigital.services/rdap/",
+      "href": "https://rdap.mobile-registry.com/rdap/",
       "title": "RDAP Server",
       "type": "application/rdap+json"
     },
