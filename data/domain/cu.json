@@ -13,7 +13,7 @@
           "193.0.9.70"
         ],
         "v6": [
-          "2001:67c:e0::70"
+          "2a13:27c0:30::70"
         ]
       }
     },
@@ -313,7 +313,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2025-06-30T00:00:00+00:00"
+      "eventDate": "2025-07-09T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
