@@ -13,7 +13,7 @@
           "193.0.9.82"
         ],
         "v6": [
-          "2001:67c:e0::82"
+          "2a13:27c0:30::82"
         ]
       }
     },
@@ -23,15 +23,6 @@
       "ipAddresses": {
         "v4": [
           "196.2.1.6"
-        ]
-      }
-    },
-    {
-      "objectClassName": "nameserver",
-      "ldhName": "ns.utechjamaica.edu.jm",
-      "ipAddresses": {
-        "v4": [
-          "200.9.115.2"
         ]
       }
     },
@@ -300,7 +291,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2020-03-09T00:00:00+00:00"
+      "eventDate": "2025-07-10T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
