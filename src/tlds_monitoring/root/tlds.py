@@ -1,10 +1,12 @@
 import hashlib
+import re
+
 import httpx
 import json
 import os
 import click
 
-from tlds_monitoring.root import ROOT_TLD_FILE
+from tlds_monitoring.root import ROOT_TLD_FILE, ROOT_TLD_TYPE_FILE
 
 
 def get_root_tlds():
@@ -28,6 +30,29 @@ def get_root_tlds():
     return root_tlds
 
 
+def get_root_tld_types():
+    html = httpx.get("https://www.iana.org/domains/root/db").text
+    table_rows = html.split("<tbody>")[1].split("</tbody>")[0]
+    root_tld_types = {}
+    for row in table_rows.split("</tr>")[:-1]:
+        if (
+            (m_domain := re.search(r"/domains/root/db/(.*?)\.html", row)) is not None
+        ) & (
+            (
+                m_type := re.search(
+                    r"<td>((?:generic|generic-restricted|infrastructure|test|sponsored|country-code))</td>",
+                    row,
+                )
+            )
+            is not None
+        ):
+            root_tld_types[m_domain.group(1)] = m_type.group(1)
+        else:
+            # it's okay to fail
+            raise ValueError(f"Unexpected format found in row {row}")
+    return root_tld_types
+
+
 @click.command()
 @click.option(
     "--data-path", default="data", required=True, help="Directory to write data"
@@ -38,6 +63,11 @@ def main(data_path: str):
     # write root TLDs
     with open(os.path.join(data_path, f"{ROOT_TLD_FILE}.json"), "w") as f:
         json.dump(root_tlds, indent=2, fp=f)
+
+    # get TLD types. TLDs not in root DB anymore are not filtered.
+    root_tld_types = get_root_tld_types()
+    with open(os.path.join(data_path, f"{ROOT_TLD_TYPE_FILE}.json"), "w") as f:
+        json.dump(root_tld_types, indent=2, fp=f)
 
 
 if __name__ == "__main__":
