@@ -43,24 +43,6 @@
     },
     {
       "objectClassName": "nameserver",
-      "ldhName": "frankfurt.tonic.to",
-      "ipAddresses": {
-        "v4": [
-          "46.101.233.168"
-        ]
-      }
-    },
-    {
-      "objectClassName": "nameserver",
-      "ldhName": "helsinki.tonic.to",
-      "ipAddresses": {
-        "v4": [
-          "95.216.159.42"
-        ]
-      }
-    },
-    {
-      "objectClassName": "nameserver",
       "ldhName": "newyork.tonic.to",
       "ipAddresses": {
         "v4": [
@@ -70,28 +52,49 @@
     },
     {
       "objectClassName": "nameserver",
-      "ldhName": "singapore.tonic.to",
+      "ldhName": "ns01.trs-dns.com",
       "ipAddresses": {
         "v4": [
-          "188.166.187.0"
+          "64.96.1.1"
+        ],
+        "v6": [
+          "2620:57:4001::1"
         ]
       }
     },
     {
       "objectClassName": "nameserver",
-      "ldhName": "sydney.tonic.to",
+      "ldhName": "ns01.trs-dns.net",
       "ipAddresses": {
         "v4": [
-          "104.156.232.193"
+          "64.96.2.1"
+        ],
+        "v6": [
+          "2620:57:4002::1"
         ]
       }
     },
     {
       "objectClassName": "nameserver",
-      "ldhName": "tonic.to",
+      "ldhName": "ns10.trs-dns.info",
       "ipAddresses": {
         "v4": [
-          "149.28.204.240"
+          "64.78.204.1"
+        ],
+        "v6": [
+          "2620:171:812:1534:8::1"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns10.trs-dns.org",
+      "ipAddresses": {
+        "v4": [
+          "64.78.205.1"
+        ],
+        "v6": [
+          "2620:171:813:1534:8::1"
         ]
       }
     }
@@ -346,7 +349,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2023-08-16T00:00:00+00:00"
+      "eventDate": "2025-07-14T00:00:00+00:00"
     },
     {
       "eventAction": "registration",

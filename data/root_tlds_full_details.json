@@ -228214,7 +228214,7 @@
             "193.0.9.83"
           ],
           "v6": [
-            "2001:67c:e0::83"
+            "2a13:27c0:30::83"
           ]
         }
       },
@@ -228495,7 +228495,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2024-03-04T00:00:00+00:00"
+        "eventDate": "2025-07-14T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -308996,7 +308996,7 @@
             "193.0.9.102"
           ],
           "v6": [
-            "2001:67c:e0::102"
+            "2a13:27c0:30::102"
           ]
         }
       },
@@ -309277,7 +309277,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2024-07-19T00:00:00+00:00"
+        "eventDate": "2025-07-14T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -411595,7 +411595,7 @@
             "193.0.9.114"
           ],
           "v6": [
-            "2001:67c:e0::114"
+            "2a13:27c0:30::114"
           ]
         }
       }
@@ -411849,7 +411849,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2023-03-07T00:00:00+00:00"
+        "eventDate": "2025-07-14T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -427653,24 +427653,6 @@
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "frankfurt.tonic.to",
-        "ipAddresses": {
-          "v4": [
-            "46.101.233.168"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "helsinki.tonic.to",
-        "ipAddresses": {
-          "v4": [
-            "95.216.159.42"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
         "ldhName": "newyork.tonic.to",
         "ipAddresses": {
           "v4": [
@@ -427680,28 +427662,49 @@
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "singapore.tonic.to",
+        "ldhName": "ns01.trs-dns.com",
         "ipAddresses": {
           "v4": [
-            "188.166.187.0"
+            "64.96.1.1"
+          ],
+          "v6": [
+            "2620:57:4001::1"
           ]
         }
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "sydney.tonic.to",
+        "ldhName": "ns01.trs-dns.net",
         "ipAddresses": {
           "v4": [
-            "104.156.232.193"
+            "64.96.2.1"
+          ],
+          "v6": [
+            "2620:57:4002::1"
           ]
         }
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "tonic.to",
+        "ldhName": "ns10.trs-dns.info",
         "ipAddresses": {
           "v4": [
-            "149.28.204.240"
+            "64.78.204.1"
+          ],
+          "v6": [
+            "2620:171:812:1534:8::1"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "ns10.trs-dns.org",
+        "ipAddresses": {
+          "v4": [
+            "64.78.205.1"
+          ],
+          "v6": [
+            "2620:171:813:1534:8::1"
           ]
         }
       }
@@ -427956,7 +427959,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2023-08-16T00:00:00+00:00"
+        "eventDate": "2025-07-14T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -505347,7 +505350,7 @@
             "193.0.9.83"
           ],
           "v6": [
-            "2001:67c:e0::83"
+            "2a13:27c0:30::83"
           ]
         }
       },
@@ -507983,12 +507986,6 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 8036,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "7C0B166DEA37CEFABFB7C1D3FE40B612FE0E72F50563BC6597E70FE73A60F496"
-        },
-        {
           "keyTag": 29871,
           "algorithm": 13,
           "digestType": 2,
@@ -508237,7 +508234,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-06-25T00:00:00+00:00"
+        "eventDate": "2025-07-14T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
