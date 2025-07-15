@@ -93124,6 +93124,7 @@
     "status": [
       "active"
     ],
+    "port43": "whois.nic.cm",
     "entities": [
       {
         "objectClassName": "entity",
@@ -93339,7 +93340,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-04-30T00:00:00+00:00"
+        "eventDate": "2025-07-15T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -93352,6 +93353,12 @@
         "href": "https://www.nic.cm",
         "title": "Registration URL",
         "type": "text/html"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://rdap.nic.cm/",
+        "title": "RDAP Server",
+        "type": "application/rdap+json"
       },
       {
         "value": "https://rdap.iana.org/domain/cm",
@@ -438418,7 +438425,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-03-08T00:00:00+00:00"
+        "eventDate": "2025-07-15T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -438431,6 +438438,12 @@
         "href": "http://rs.twnic.net.tw",
         "title": "Registration URL",
         "type": "text/html"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://ccrdap.twnic.tw/tw/",
+        "title": "RDAP Server",
+        "type": "application/rdap+json"
       },
       {
         "value": "https://rdap.iana.org/domain/tw",
@@ -501407,7 +501420,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2024-12-27T00:00:00+00:00"
+        "eventDate": "2025-07-15T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -501420,6 +501433,12 @@
         "href": "http://rs.twnic.net.tw",
         "title": "Registration URL",
         "type": "text/html"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://ccrdap.twnic.tw/taiwan/",
+        "title": "RDAP Server",
+        "type": "application/rdap+json"
       },
       {
         "value": "https://rdap.iana.org/domain/xn--kpry57d",

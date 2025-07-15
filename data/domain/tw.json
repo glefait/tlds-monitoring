@@ -360,7 +360,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2025-03-08T00:00:00+00:00"
+      "eventDate": "2025-07-15T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
@@ -373,6 +373,12 @@
       "href": "http://rs.twnic.net.tw",
       "title": "Registration URL",
       "type": "text/html"
+    },
+    {
+      "rel": "alternate",
+      "href": "https://ccrdap.twnic.tw/tw/",
+      "title": "RDAP Server",
+      "type": "application/rdap+json"
     },
     {
       "value": "https://rdap.iana.org/domain/tw",

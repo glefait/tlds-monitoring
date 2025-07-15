@@ -22472,7 +22472,7 @@
     "status": [
       "active"
     ],
-    "port43": null,
+    "port43": "whois.nic.cm",
     "registration_url": "https://www.nic.cm",
     "creation_date": "1995-04-29T00:00:00+00:00"
   },

@@ -95,6 +95,7 @@
   "status": [
     "active"
   ],
+  "port43": "whois.nic.cm",
   "entities": [
     {
       "objectClassName": "entity",
@@ -310,7 +311,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2025-04-30T00:00:00+00:00"
+      "eventDate": "2025-07-15T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
@@ -323,6 +324,12 @@
       "href": "https://www.nic.cm",
       "title": "Registration URL",
       "type": "text/html"
+    },
+    {
+      "rel": "alternate",
+      "href": "https://rdap.nic.cm/",
+      "title": "RDAP Server",
+      "type": "application/rdap+json"
     },
     {
       "value": "https://rdap.iana.org/domain/cm",
