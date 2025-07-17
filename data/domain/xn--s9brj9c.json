@@ -59,12 +59,6 @@
     "delegationSigned": true,
     "dsData": [
       {
-        "keyTag": 20806,
-        "algorithm": 8,
-        "digestType": 2,
-        "digest": "F3BF5883656C3276312814D967CBA8DF291B0969C074788B505B56F048661310"
-      },
-      {
         "keyTag": 56582,
         "algorithm": 13,
         "digestType": 2,
@@ -313,7 +307,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2025-06-25T00:00:00+00:00"
+      "eventDate": "2025-07-17T00:00:00+00:00"
     },
     {
       "eventAction": "registration",

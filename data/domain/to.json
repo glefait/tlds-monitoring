@@ -7,51 +7,6 @@
   "nameservers": [
     {
       "objectClassName": "nameserver",
-      "ldhName": "cd5.tonic.to",
-      "ipAddresses": {
-        "v4": [
-          "185.136.96.197"
-        ]
-      }
-    },
-    {
-      "objectClassName": "nameserver",
-      "ldhName": "cd6.tonic.to",
-      "ipAddresses": {
-        "v4": [
-          "185.136.97.197"
-        ]
-      }
-    },
-    {
-      "objectClassName": "nameserver",
-      "ldhName": "cd7.tonic.to",
-      "ipAddresses": {
-        "v4": [
-          "185.136.98.197"
-        ]
-      }
-    },
-    {
-      "objectClassName": "nameserver",
-      "ldhName": "cd8.tonic.to",
-      "ipAddresses": {
-        "v4": [
-          "185.136.99.197"
-        ]
-      }
-    },
-    {
-      "objectClassName": "nameserver",
-      "ldhName": "newyork.tonic.to",
-      "ipAddresses": {
-        "v4": [
-          "162.243.211.202"
-        ]
-      }
-    },
-    {
-      "objectClassName": "nameserver",
       "ldhName": "ns01.trs-dns.com",
       "ipAddresses": {
         "v4": [
@@ -349,7 +304,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2025-07-14T00:00:00+00:00"
+      "eventDate": "2025-07-17T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
