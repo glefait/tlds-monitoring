@@ -377711,7 +377711,7 @@
               "org",
               {},
               "text",
-              "Netnod Internet Exchange I Sverige AB"
+              "Netnod AB"
             ],
             [
               "role",
@@ -377755,7 +377755,7 @@
                 ]
               },
               "text",
-              "ops@netnod.se"
+              "noc@netnod.se"
             ]
           ]
         ],
@@ -377765,7 +377765,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2020-06-08T00:00:00+00:00"
+            "eventDate": "2025-07-17T00:00:00+00:00"
           }
         ]
       }
@@ -377773,7 +377773,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2020-06-08T00:00:00+00:00"
+        "eventDate": "2025-07-17T00:00:00+00:00"
       },
       {
         "eventAction": "registration",

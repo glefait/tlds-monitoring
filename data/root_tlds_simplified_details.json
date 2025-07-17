@@ -90588,11 +90588,11 @@
       },
       "technical": {
         "fn": "SE Technical Contact",
-        "org": "Netnod Internet Exchange I Sverige AB",
+        "org": "Netnod AB",
         "adr": "Greta Garbos v\u00e4g 13\nSolna 169 40\nSweden",
         "tel": "+46 8 562 860 10",
-        "email": "ops@netnod.se",
-        "last_change_date": "2020-06-08T00:00:00+00:00"
+        "email": "noc@netnod.se",
+        "last_change_date": "2025-07-17T00:00:00+00:00"
       }
     },
     "secureDNS": {
