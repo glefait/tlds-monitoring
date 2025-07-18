@@ -117902,12 +117902,6 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 28162,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "9E1E18C1AEB006AD617593EC2D2971E33BB22048316D1BB9F67DDD5EB00708C3"
-        },
-        {
           "keyTag": 3991,
           "algorithm": 8,
           "digestType": 2,
@@ -117995,12 +117989,6 @@
     "secureDNS": {
       "delegationSigned": true,
       "dsData": [
-        {
-          "keyTag": 28162,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "30B55F108E07F9C2397F0D233324E02E667A137569FF91FC0311DCB73CEA1571"
-        },
         {
           "keyTag": 3991,
           "algorithm": 8,
