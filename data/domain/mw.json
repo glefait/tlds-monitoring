@@ -10,7 +10,7 @@
       "ldhName": "chambo.sdnp.org.mw",
       "ipAddresses": {
         "v4": [
-          "41.221.99.135",
+          "102.219.183.67",
           "196.45.188.5"
         ]
       }
@@ -45,7 +45,7 @@
           "193.0.9.99"
         ],
         "v6": [
-          "2001:67c:e0::99"
+          "2a13:27c0:30::99"
         ]
       }
     },
@@ -336,7 +336,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2022-11-15T00:00:00+00:00"
+      "eventDate": "2025-07-22T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
