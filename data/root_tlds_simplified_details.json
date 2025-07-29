@@ -102870,20 +102870,20 @@
         "last_change_date": "2024-04-26T00:00:00+00:00"
       },
       "administrative": {
-        "fn": "Xiangli Li",
+        "fn": "Sven Chen",
         "org": "Jiangsu Bangning Science & technology Co.,Ltd.",
         "adr": "3th Floor, BangNing Technology Park, 2 YuHua Avenue\nYuhuatai District\nNanjing Jiangsu\nChina",
         "tel": "+86 2586883476",
-        "email": "newgtld@55hl.com",
-        "last_change_date": "2015-04-14T00:00:00+00:00"
+        "email": "support@nic.top",
+        "last_change_date": "2025-07-29T00:00:00+00:00"
       },
       "technical": {
-        "fn": "Lin Dong",
+        "fn": "YiFeng Shen",
         "org": "Jiangsu Bangning Science & technology Co.,Ltd.",
         "adr": "3th Floor, BangNing Technology Park, 2 YuHua Avenue\nYuhuatai District\nNanjing Jiangsu\nChina",
         "tel": "+86 02586883476",
-        "email": "kf@55hl.com",
-        "last_change_date": "2014-08-04T00:00:00+00:00"
+        "email": "tech@nic.top",
+        "last_change_date": "2025-07-29T00:00:00+00:00"
       }
     },
     "secureDNS": {
