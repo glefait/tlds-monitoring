@@ -71742,49 +71742,73 @@
     "nameservers": [
       {
         "objectClassName": "nameserver",
-        "ldhName": "ac1.nstld.com",
+        "ldhName": "a.nic.capitalone",
         "ipAddresses": {
           "v4": [
-            "192.42.173.30"
+            "37.209.192.9"
           ],
           "v6": [
-            "2001:500:120::30"
+            "2001:dcd:1::9"
           ]
         }
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "ac2.nstld.com",
+        "ldhName": "b.nic.capitalone",
         "ipAddresses": {
           "v4": [
-            "192.42.174.30"
+            "37.209.194.9"
           ],
           "v6": [
-            "2001:500:121::30"
+            "2001:dcd:2::9"
           ]
         }
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "ac3.nstld.com",
+        "ldhName": "c.nic.capitalone",
         "ipAddresses": {
           "v4": [
-            "192.42.175.30"
+            "37.209.196.9"
           ],
           "v6": [
-            "2001:500:122::30"
+            "2001:dcd:3::9"
           ]
         }
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "ac4.nstld.com",
+        "ldhName": "x.nic.capitalone",
         "ipAddresses": {
           "v4": [
-            "192.42.176.30"
+            "156.154.172.82"
           ],
           "v6": [
-            "2001:500:123::30"
+            "2610:a1:1074::1:82"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "y.nic.capitalone",
+        "ipAddresses": {
+          "v4": [
+            "156.154.173.82"
+          ],
+          "v6": [
+            "2610:a1:1075::1:82"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "z.nic.capitalone",
+        "ipAddresses": {
+          "v4": [
+            "156.154.174.82"
+          ],
+          "v6": [
+            "2610:a1:1076::1:82"
           ]
         }
       }
@@ -72036,7 +72060,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-07-23T00:00:00+00:00"
+        "eventDate": "2025-07-29T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -307423,49 +307447,73 @@
     "nameservers": [
       {
         "objectClassName": "nameserver",
-        "ldhName": "ac1.nstld.com",
+        "ldhName": "a.nic.norton",
         "ipAddresses": {
           "v4": [
-            "192.42.173.30"
+            "37.209.192.9"
           ],
           "v6": [
-            "2001:500:120::30"
+            "2001:dcd:1::9"
           ]
         }
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "ac2.nstld.com",
+        "ldhName": "b.nic.norton",
         "ipAddresses": {
           "v4": [
-            "192.42.174.30"
+            "37.209.194.9"
           ],
           "v6": [
-            "2001:500:121::30"
+            "2001:dcd:2::9"
           ]
         }
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "ac3.nstld.com",
+        "ldhName": "c.nic.norton",
         "ipAddresses": {
           "v4": [
-            "192.42.175.30"
+            "37.209.196.9"
           ],
           "v6": [
-            "2001:500:122::30"
+            "2001:dcd:3::9"
           ]
         }
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "ac4.nstld.com",
+        "ldhName": "x.nic.norton",
         "ipAddresses": {
           "v4": [
-            "192.42.176.30"
+            "156.154.172.82"
           ],
           "v6": [
-            "2001:500:123::30"
+            "2610:a1:1074::1:82"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "y.nic.norton",
+        "ipAddresses": {
+          "v4": [
+            "156.154.173.82"
+          ],
+          "v6": [
+            "2610:a1:1075::1:82"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "z.nic.norton",
+        "ipAddresses": {
+          "v4": [
+            "156.154.174.82"
+          ],
+          "v6": [
+            "2610:a1:1076::1:82"
           ]
         }
       }
@@ -307717,7 +307765,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-07-24T00:00:00+00:00"
+        "eventDate": "2025-07-29T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
