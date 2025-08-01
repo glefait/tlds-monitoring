@@ -60,7 +60,7 @@
   "status": [
     "active"
   ],
-  "port43": "whois.tonic.to",
+  "port43": "whois.tonicregistry.to",
   "entities": [
     {
       "objectClassName": "entity",
@@ -304,7 +304,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2025-07-17T00:00:00+00:00"
+      "eventDate": "2025-08-01T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
@@ -317,6 +317,12 @@
       "href": "http://www.tonic.to/",
       "title": "Registration URL",
       "type": "text/html"
+    },
+    {
+      "rel": "alternate",
+      "href": "https://rdap.tonicregistry.to/rdap/",
+      "title": "RDAP Server",
+      "type": "application/rdap+json"
     },
     {
       "value": "https://rdap.iana.org/domain/to",
