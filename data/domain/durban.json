@@ -19,13 +19,25 @@
     },
     {
       "objectClassName": "nameserver",
-      "ldhName": "nsp.netnod.se",
+      "ldhName": "ns2.dns.net.za",
       "ipAddresses": {
         "v4": [
-          "194.58.198.33"
+          "196.29.59.175"
         ],
         "v6": [
-          "2a01:3f1:3033::53"
+          "2001:43f8:790:5901::c41d:3baf"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns4.dns.net.za",
+      "ipAddresses": {
+        "v4": [
+          "77.72.229.251"
+        ],
+        "v6": [
+          "2a01:3f0:0:314::53"
         ]
       }
     }
@@ -33,12 +45,6 @@
   "secureDNS": {
     "delegationSigned": true,
     "dsData": [
-      {
-        "keyTag": 48265,
-        "algorithm": 8,
-        "digestType": 2,
-        "digest": "57603308E8A6D14065F069A08C050CDE3AD0C769DD2BECE4DA5FCC9456BAFB32"
-      },
       {
         "keyTag": 62936,
         "algorithm": 8,
@@ -277,7 +283,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2025-02-21T00:00:00+00:00"
+      "eventDate": "2025-08-05T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
