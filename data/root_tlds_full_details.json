@@ -28693,16 +28693,16 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 51895,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "6C7D509BD4DF32AF255FF847152B7B00316AC0BA44B853B3C9F9C7119AAA599C"
-        },
-        {
           "keyTag": 1775,
           "algorithm": 8,
           "digestType": 2,
           "digest": "64DFDDDD2C68AA5CC67E58CD88F1FBD7804F911AA3D3314CB59539763A0AF89F"
+        },
+        {
+          "keyTag": 32902,
+          "algorithm": 8,
+          "digestType": 2,
+          "digest": "E80A9F8ECA018ADE79925DA724A0CB0DBCF03C9A7049D20C9FB74B716AB7D329"
         }
       ]
     },
@@ -28947,7 +28947,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2024-08-08T00:00:00+00:00"
+        "eventDate": "2025-08-07T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
