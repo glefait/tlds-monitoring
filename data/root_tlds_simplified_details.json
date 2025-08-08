@@ -42768,20 +42768,20 @@
         "last_change_date": "2024-04-10T00:00:00+00:00"
       },
       "administrative": {
-        "fn": "SVice President, Engineering",
-        "org": "Identity Digital Inc.",
-        "adr": "10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States",
+        "fn": "Vice President, Engineering",
+        "org": "Identity Digital Limited",
+        "adr": "c/o Identity Digital Inc.\n10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States",
         "tel": "+1.425.671.0020",
         "email": "tldadmin@identity.digital",
-        "last_change_date": "2024-04-10T00:00:00+00:00"
+        "last_change_date": "2025-08-08T00:00:00+00:00"
       },
       "technical": {
         "fn": "Senior Director, DNS Infrastructure Group",
-        "org": "Identity Digital Inc.",
-        "adr": "10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States",
+        "org": "Identity Digital Limited",
+        "adr": "c/o Identity Digital Inc.\n10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States",
         "tel": "+1.425.671.0020",
         "email": "tldtech@identity.digital",
-        "last_change_date": "2024-04-10T00:00:00+00:00"
+        "last_change_date": "2025-08-08T00:00:00+00:00"
       }
     },
     "secureDNS": {
@@ -42798,8 +42798,8 @@
     "status": [
       "active"
     ],
-    "port43": "whois.nic.global",
-    "registration_url": "https://donuts.domains/",
+    "port43": null,
+    "registration_url": "https://identity.digital/",
     "creation_date": "2014-05-29T00:00:00+00:00"
   },
   "globo": {

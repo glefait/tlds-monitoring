@@ -177533,7 +177533,6 @@
     "status": [
       "active"
     ],
-    "port43": "whois.nic.global",
     "entities": [
       {
         "objectClassName": "entity",
@@ -177602,13 +177601,13 @@
               "fn",
               {},
               "text",
-              "SVice President, Engineering"
+              "Vice President, Engineering"
             ],
             [
               "org",
               {},
               "text",
-              "Identity Digital Inc."
+              "Identity Digital Limited"
             ],
             [
               "role",
@@ -177620,7 +177619,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States"
+                "label": "c/o Identity Digital Inc.\n10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States"
               },
               "text",
               [
@@ -177673,7 +177672,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2024-04-10T00:00:00+00:00"
+            "eventDate": "2025-08-08T00:00:00+00:00"
           }
         ]
       },
@@ -177698,7 +177697,7 @@
               "org",
               {},
               "text",
-              "Identity Digital Inc."
+              "Identity Digital Limited"
             ],
             [
               "role",
@@ -177710,7 +177709,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States"
+                "label": "c/o Identity Digital Inc.\n10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States"
               },
               "text",
               [
@@ -177763,7 +177762,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2024-04-10T00:00:00+00:00"
+            "eventDate": "2025-08-08T00:00:00+00:00"
           }
         ]
       }
@@ -177771,7 +177770,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2024-04-10T00:00:00+00:00"
+        "eventDate": "2025-08-08T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -177781,7 +177780,7 @@
     "links": [
       {
         "rel": "related",
-        "href": "https://donuts.domains/",
+        "href": "https://identity.digital/",
         "title": "Registration URL",
         "type": "text/html"
       },
