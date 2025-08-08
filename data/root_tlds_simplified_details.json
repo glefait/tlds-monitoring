@@ -17339,12 +17339,12 @@
         "last_change_date": "2024-08-09T00:00:00+00:00"
       },
       "technical": {
-        "fn": "Registry Customer Service",
-        "org": "Verisign, Inc.",
-        "adr": "12061 Bluemont Way\nReston VA 20190\nUnited States",
-        "tel": "+1-703-948-3978",
-        "email": "info@verisign-grs.com",
-        "last_change_date": "2016-08-10T00:00:00+00:00"
+        "fn": "IANA Contact",
+        "org": "GoDaddy Registry",
+        "adr": "100 S. Mill Ave, Suite 1600\nTempe AZ 85281\nUnited States",
+        "tel": "+1 480 505 8800",
+        "email": "iana@registry.godaddy",
+        "last_change_date": "2025-08-08T00:00:00+00:00"
       }
     },
     "secureDNS": {
@@ -73562,12 +73562,12 @@
         "last_change_date": "2019-04-11T00:00:00+00:00"
       },
       "technical": {
-        "fn": "Registry Customer Service",
-        "org": "Verisign, Inc.",
-        "adr": "12061 Bluemont Way\nReston VA 20190\nUnited States",
-        "tel": "1-703-948-3978",
-        "email": "info@verisign-grs.com",
-        "last_change_date": "2015-12-03T00:00:00+00:00"
+        "fn": "IANA Contact",
+        "org": "GoDaddy Registry",
+        "adr": "100 S. Mill Ave, Suite 1600\nTempe AZ 85281\nUnited States",
+        "tel": "+1 480 505 8800",
+        "email": "iana@registry.godaddy",
+        "last_change_date": "2025-08-08T00:00:00+00:00"
       }
     },
     "secureDNS": {
