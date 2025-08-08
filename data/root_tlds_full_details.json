@@ -359835,7 +359835,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "Av. Presidente Vargas, 3131 Sala 1204\nRio de Janeiro RJ 20210-030\nBrazil"
+                "label": "Rua Beatriz Larragoiti Lucas 121 7o andar\nRio de Janeiro RJ 20211-175\nBrazil"
               },
               "text",
               [
@@ -359856,7 +359856,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2021-09-30T00:00:00+00:00"
+            "eventDate": "2025-08-07T00:00:00+00:00"
           }
         ]
       },
@@ -359875,12 +359875,6 @@
               "fn",
               {},
               "text",
-              "Diretor Presidente"
-            ],
-            [
-              "org",
-              {},
-              "text",
               "Empresa Municipal de Inform\u00e1tica SA - IPLANRIO"
             ],
             [
@@ -359893,7 +359887,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "Av. Presidente Vargas, 3131 - 13. andar\nRio de Janeiro RJ 20210-030\nBrazil"
+                "label": "Rua Beatriz Larragoiti Lucas 121 7o andar\nRio de Janeiro RJ 20211-175\nBrazil"
               },
               "text",
               [
@@ -359935,7 +359929,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2021-09-30T00:00:00+00:00"
+            "eventDate": "2025-08-07T00:00:00+00:00"
           }
         ]
       },
@@ -360022,7 +360016,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2023-11-14T00:00:00+00:00"
+        "eventDate": "2025-08-07T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
