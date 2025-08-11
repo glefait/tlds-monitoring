@@ -311648,12 +311648,6 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 934,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "9D58F1627C135043F2CB12DF20545C53F02F1BB78E7ED562C802084DFB672E2E"
-        },
-        {
           "keyTag": 39170,
           "algorithm": 8,
           "digestType": 2,
@@ -311886,7 +311880,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-08-01T00:00:00+00:00"
+        "eventDate": "2025-08-11T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
