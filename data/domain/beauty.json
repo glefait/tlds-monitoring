@@ -103,7 +103,7 @@
             "adr",
             {
               "type": "work",
-              "label": "2121 E Tropicana Ave, Suite 2\nLas Vegas NV 89119\nUnited States"
+              "label": "4425 Spring Mountain Rd., Suite 2\nLas Vegas NV 89102\nUnited States"
             },
             "text",
             [
@@ -124,7 +124,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2022-08-16T00:00:00+00:00"
+          "eventDate": "2025-08-12T00:00:00+00:00"
         }
       ]
     },
@@ -161,7 +161,7 @@
             "adr",
             {
               "type": "work",
-              "label": "2121 E Tropicana Ave, Suite 2\nLas Vegas NV 89119\nUnited States"
+              "label": "4425 Spring Mountain Rd., Suite 2\nLas Vegas NV 89102\nUnited States"
             },
             "text",
             [
@@ -203,7 +203,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2022-08-16T00:00:00+00:00"
+          "eventDate": "2025-08-12T00:00:00+00:00"
         }
       ]
     },
@@ -301,7 +301,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2024-03-01T00:00:00+00:00"
+      "eventDate": "2025-08-12T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
