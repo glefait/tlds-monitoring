@@ -72061,7 +72061,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-08-08T00:00:00+00:00"
+        "eventDate": "2025-08-13T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -72077,7 +72077,7 @@
       },
       {
         "rel": "alternate",
-        "href": "https://tld-rdap.verisign.com/capitalone/v1/",
+        "href": "https://rdap.nic.capitalone",
         "title": "RDAP Server",
         "type": "application/rdap+json"
       },
