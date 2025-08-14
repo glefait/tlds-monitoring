@@ -257,7 +257,7 @@
             "org",
             {},
             "text",
-            "Donuts Inc."
+            "Identity Digital Limited"
           ],
           [
             "role",
@@ -269,7 +269,7 @@
             "adr",
             {
               "type": "work",
-              "label": "10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States"
+              "label": "c/o Identity Digital Inc.\n10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States"
             },
             "text",
             [
@@ -291,7 +291,7 @@
               ]
             },
             "text",
-            "1.425.298.2200"
+            "+1.425.298.2200"
           ],
           [
             "tel",
@@ -302,7 +302,7 @@
               ]
             },
             "text",
-            "1.425.671.0020"
+            "+1.425.671.0020"
           ],
           [
             "email",
@@ -312,7 +312,7 @@
               ]
             },
             "text",
-            "tldtech@donuts.email"
+            "tldtech@identity.digital"
           ]
         ]
       ],
@@ -322,7 +322,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2022-06-03T00:00:00+00:00"
+          "eventDate": "2025-08-14T00:00:00+00:00"
         }
       ]
     }
@@ -330,7 +330,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2022-06-03T00:00:00+00:00"
+      "eventDate": "2025-08-14T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
