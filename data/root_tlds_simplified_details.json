@@ -13545,7 +13545,7 @@
     "status": [
       "active"
     ],
-    "port43": "whois.gtlds.nic.br",
+    "port43": null,
     "registration_url": null,
     "creation_date": "2015-05-29T00:00:00+00:00"
   },
@@ -36377,7 +36377,7 @@
     "status": [
       "active"
     ],
-    "port43": "whois.gtlds.nic.br",
+    "port43": null,
     "registration_url": null,
     "creation_date": "2015-05-29T00:00:00+00:00"
   },
@@ -86220,7 +86220,7 @@
     "status": [
       "active"
     ],
-    "port43": "whois.gtlds.nic.br",
+    "port43": null,
     "registration_url": "https://nic.rio/",
     "creation_date": "2014-05-15T00:00:00+00:00"
   },
@@ -105980,7 +105980,7 @@
     "status": [
       "active"
     ],
-    "port43": "whois.gtlds.nic.br",
+    "port43": null,
     "registration_url": "https://nic.uol/",
     "creation_date": "2014-08-07T00:00:00+00:00"
   },

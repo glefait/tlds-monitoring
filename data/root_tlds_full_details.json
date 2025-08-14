@@ -56145,7 +56145,6 @@
     "status": [
       "active"
     ],
-    "port43": "whois.gtlds.nic.br",
     "entities": [
       {
         "objectClassName": "entity",
@@ -56361,7 +56360,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2023-11-14T00:00:00+00:00"
+        "eventDate": "2025-08-14T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -150543,7 +150542,6 @@
     "status": [
       "active"
     ],
-    "port43": "whois.gtlds.nic.br",
     "entities": [
       {
         "objectClassName": "entity",
@@ -150759,7 +150757,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2023-11-14T00:00:00+00:00"
+        "eventDate": "2025-08-14T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -307757,7 +307755,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-08-08T00:00:00+00:00"
+        "eventDate": "2025-08-14T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -307773,7 +307771,7 @@
       },
       {
         "rel": "alternate",
-        "href": "https://tld-rdap.verisign.com/norton/v1/",
+        "href": "https://rdap.nic.norton",
         "title": "RDAP Server",
         "type": "application/rdap+json"
       },
@@ -359777,7 +359775,6 @@
     "status": [
       "active"
     ],
-    "port43": "whois.gtlds.nic.br",
     "entities": [
       {
         "objectClassName": "entity",
@@ -359987,7 +359984,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-08-07T00:00:00+00:00"
+        "eventDate": "2025-08-14T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -441891,7 +441888,6 @@
     "status": [
       "active"
     ],
-    "port43": "whois.gtlds.nic.br",
     "entities": [
       {
         "objectClassName": "entity",
@@ -442107,7 +442103,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2023-11-14T00:00:00+00:00"
+        "eventDate": "2025-08-14T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
