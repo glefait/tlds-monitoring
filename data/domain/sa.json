@@ -103,6 +103,18 @@
     },
     {
       "objectClassName": "nameserver",
+      "ldhName": "s2.dns.sa",
+      "ipAddresses": {
+        "v4": [
+          "37.107.255.170"
+        ],
+        "v6": [
+          "2001:16a0:2:3002::2"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
       "ldhName": "sh1.dns.sa",
       "ipAddresses": {
         "v4": [
@@ -366,7 +378,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2025-03-10T00:00:00+00:00"
+      "eventDate": "2025-08-19T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
