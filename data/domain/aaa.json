@@ -120,7 +120,7 @@
             "adr",
             {
               "type": "work",
-              "label": "1000 AAA Drive\nHeathrow FL 32746\nUnited States"
+              "label": "1000 AAA Drive\nHeathrow FL 32746\nUnited States of America (the)"
             },
             "text",
             [
@@ -178,7 +178,7 @@
             "adr",
             {
               "type": "work",
-              "label": "1120 S. Rackham Way, Suite 300\nMeridian ID 83642\nUnited States"
+              "label": "1120 S. Rackham Way, Suite 300\nMeridian ID 83642\nUnited States of America (the)"
             },
             "text",
             [
@@ -257,7 +257,7 @@
             "adr",
             {
               "type": "work",
-              "label": "100 S. Mill Ave, Suite 1600\nTempe AZ 85281\nUnited States"
+              "label": "100 S. Mill Ave, Suite 1600\nTempe AZ 85281\nUnited States of America (the)"
             },
             "text",
             [

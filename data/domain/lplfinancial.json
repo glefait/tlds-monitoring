@@ -102,7 +102,7 @@
             "adr",
             {
               "type": "work",
-              "label": "4828 Parkway Plaza Blvd\nCharlotte NC 28217\nUnited States"
+              "label": "4828 Parkway Plaza Blvd\nCharlotte NC 28217\nUnited States of America (the)"
             },
             "text",
             [
@@ -160,7 +160,7 @@
             "adr",
             {
               "type": "work",
-              "label": "4707 Executive Drive\nSan Diego CA 91921-3091\nUnited States"
+              "label": "4707 Executive Drive\nSan Diego CA 91921-3091\nUnited States of America (the)"
             },
             "text",
             [
@@ -239,7 +239,7 @@
             "adr",
             {
               "type": "work",
-              "label": "Saddlers House, 4th Floor\n44 Gutter Lane\nLondon EC2V 6BR\nUnited Kingdom"
+              "label": "Saddlers House, 4th Floor\n44 Gutter Lane\nLondon EC2V 6BR\nUnited Kingdom of Great Britain and Northern Ireland (the)"
             },
             "text",
             [

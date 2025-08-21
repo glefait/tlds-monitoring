@@ -120,7 +120,7 @@
             "adr",
             {
               "type": "work",
-              "label": "1211 Avenue of the Americas\nNew York NY 10036\nUnited States"
+              "label": "1211 Avenue of the Americas\nNew York NY 10036\nUnited States of America (the)"
             },
             "text",
             [
@@ -178,7 +178,7 @@
             "adr",
             {
               "type": "work",
-              "label": "2121 Avenue of the Stars\nSuite 900\nLos Angeles CA 90067\nUnited States"
+              "label": "2121 Avenue of the Stars\nSuite 900\nLos Angeles CA 90067\nUnited States of America (the)"
             },
             "text",
             [
@@ -257,7 +257,7 @@
             "adr",
             {
               "type": "work",
-              "label": "100 S. Mill Ave, Suite 1600\nTempe AZ 85281\nUnited States"
+              "label": "100 S. Mill Ave, Suite 1600\nTempe AZ 85281\nUnited States of America (the)"
             },
             "text",
             [

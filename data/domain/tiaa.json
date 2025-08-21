@@ -120,7 +120,7 @@
             "adr",
             {
               "type": "work",
-              "label": "730 Third Avenue\nNew York NY 10017\nUnited States"
+              "label": "730 Third Avenue\nNew York NY 10017\nUnited States of America (the)"
             },
             "text",
             [
@@ -178,7 +178,7 @@
             "adr",
             {
               "type": "work",
-              "label": "730 Third Avenue\nNew York NY 10017\nUnited States"
+              "label": "730 Third Avenue\nNew York NY 10017\nUnited States of America (the)"
             },
             "text",
             [
@@ -268,7 +268,7 @@
             "adr",
             {
               "type": "work",
-              "label": "10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States"
+              "label": "10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)"
             },
             "text",
             [

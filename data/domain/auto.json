@@ -96,7 +96,7 @@
             "adr",
             {
               "type": "work",
-              "label": "4425 Spring Mountain Rd., Suite 2\nLas Vegas NV 89102\nUnited States"
+              "label": "4425 Spring Mountain Rd., Suite 2\nLas Vegas NV 89102\nUnited States of America (the)"
             },
             "text",
             [
@@ -154,7 +154,7 @@
             "adr",
             {
               "type": "work",
-              "label": "2121 E Tropicana Ave, Suite 2\nLas Vegas NV 89119\nUnited States"
+              "label": "2121 E Tropicana Ave, Suite 2\nLas Vegas NV 89119\nUnited States of America (the)"
             },
             "text",
             [
@@ -233,7 +233,7 @@
             "adr",
             {
               "type": "work",
-              "label": "Saddlers House, 4th Floor\n44 Gutter Lane\nLondon EC2V 6BR\nUnited Kingdom"
+              "label": "Saddlers House, 4th Floor\n44 Gutter Lane\nLondon EC2V 6BR\nUnited Kingdom of Great Britain and Northern Ireland (the)"
             },
             "text",
             [

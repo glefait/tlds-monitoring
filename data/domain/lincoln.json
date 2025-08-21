@@ -120,7 +120,7 @@
             "adr",
             {
               "type": "work",
-              "label": "Office Of General Counsel\n330 Town Center Drive, Suite 800\nDearborn MI 48126\nUnited States"
+              "label": "Office Of General Counsel\n330 Town Center Drive, Suite 800\nDearborn MI 48126\nUnited States of America (the)"
             },
             "text",
             [
@@ -178,7 +178,7 @@
             "adr",
             {
               "type": "work",
-              "label": "One American Road\nDearborn MI 48126\nUnited States"
+              "label": "One American Road\nDearborn MI 48126\nUnited States of America (the)"
             },
             "text",
             [
@@ -268,7 +268,7 @@
             "adr",
             {
               "type": "work",
-              "label": "100 S. Mill Ave, Suite 1600\nTempe AZ 85281\nUnited States"
+              "label": "100 S. Mill Ave, Suite 1600\nTempe AZ 85281\nUnited States of America (the)"
             },
             "text",
             [

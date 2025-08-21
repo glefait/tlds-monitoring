@@ -102,7 +102,7 @@
             "adr",
             {
               "type": "work",
-              "label": "600 Yosemite Blvd.\nModesto CA 95354\nUnited States"
+              "label": "600 Yosemite Blvd.\nModesto CA 95354\nUnited States of America (the)"
             },
             "text",
             [
@@ -160,7 +160,7 @@
             "adr",
             {
               "type": "work",
-              "label": "600 Yosemite Blvd.\nModesto CA 95354\nUnited States"
+              "label": "600 Yosemite Blvd.\nModesto CA 95354\nUnited States of America (the)"
             },
             "text",
             [
@@ -250,7 +250,7 @@
             "adr",
             {
               "type": "work",
-              "label": "10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States"
+              "label": "10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)"
             },
             "text",
             [

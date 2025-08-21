@@ -96,7 +96,7 @@
             "adr",
             {
               "type": "work",
-              "label": "CSD/CB - Attn: .gov TLD\nCISA - NGR STOP 0645\n1110 N. Glebe Rd.\nArlington VA 20598-0645\nUnited States"
+              "label": "CSD/CB - Attn: .gov TLD\nCISA - NGR STOP 0645\n1110 N. Glebe Rd.\nArlington VA 20598-0645\nUnited States of America (the)"
             },
             "text",
             [
@@ -154,7 +154,7 @@
             "adr",
             {
               "type": "work",
-              "label": "1110 N. Glebe Rd.\nArlington VA 20598-0645\nUnited States"
+              "label": "1110 N. Glebe Rd.\nArlington VA 20598-0645\nUnited States of America (the)"
             },
             "text",
             [
@@ -233,7 +233,7 @@
             "adr",
             {
               "type": "work",
-              "label": "101 Townsend St.\nSan Francisco CA 94107\nUnited States"
+              "label": "101 Townsend St.\nSan Francisco CA 94107\nUnited States of America (the)"
             },
             "text",
             [

@@ -96,7 +96,7 @@
             "adr",
             {
               "type": "work",
-              "label": "1001 Brickell Bay Drive, Suite 2700 Q-2\nMiami FL 33131\nUnited States"
+              "label": "1001 Brickell Bay Drive, Suite 2700 Q-2\nMiami FL 33131\nUnited States of America (the)"
             },
             "text",
             [
@@ -244,7 +244,7 @@
             "adr",
             {
               "type": "work",
-              "label": "300 Welsh Road\nBuilding 3, Suite 105\nHorsham PA 19044\nUnited States"
+              "label": "300 Welsh Road\nBuilding 3, Suite 105\nHorsham PA 19044\nUnited States of America (the)"
             },
             "text",
             [

@@ -120,7 +120,7 @@
             "adr",
             {
               "type": "work",
-              "label": "25 E. 78th Street\nNew York NY 10075\nUnited States"
+              "label": "25 E. 78th Street\nNew York NY 10075\nUnited States of America (the)"
             },
             "text",
             [
@@ -178,7 +178,7 @@
             "adr",
             {
               "type": "work",
-              "label": "731 Lexington Avenue\nNew York NY 10022\nUnited States"
+              "label": "731 Lexington Avenue\nNew York NY 10022\nUnited States of America (the)"
             },
             "text",
             [
@@ -268,7 +268,7 @@
             "adr",
             {
               "type": "work",
-              "label": "10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States"
+              "label": "10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)"
             },
             "text",
             [

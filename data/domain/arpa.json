@@ -192,7 +192,7 @@
             "adr",
             {
               "type": "work",
-              "label": "c/o IETF Administration LLC\n1000 N. West St.\nSuite 1200\nWilmington DE 19801\nUnited States"
+              "label": "c/o IETF Administration LLC\n1000 N. West St.\nSuite 1200\nWilmington DE 19801\nUnited States of America (the)"
             },
             "text",
             [
@@ -244,7 +244,7 @@
             "adr",
             {
               "type": "work",
-              "label": "c/o IETF Administration LLC\n1000 N. West St.\nSuite 1200\nWilmington DE 19801\nUnited States"
+              "label": "c/o IETF Administration LLC\n1000 N. West St.\nSuite 1200\nWilmington DE 19801\nUnited States of America (the)"
             },
             "text",
             [
@@ -334,7 +334,7 @@
             "adr",
             {
               "type": "work",
-              "label": "12025 Waterfront Drive\nSuite 300\nLos Angeles CA 90094\nUnited States"
+              "label": "12025 Waterfront Drive\nSuite 300\nLos Angeles CA 90094\nUnited States of America (the)"
             },
             "text",
             [

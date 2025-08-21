@@ -145,7 +145,7 @@
             "adr",
             {
               "type": "work",
-              "label": "12025 Waterfront Dr., Suite 300\nLos Angeles CA 90094\nUnited States"
+              "label": "12025 Waterfront Dr., Suite 300\nLos Angeles CA 90094\nUnited States of America (the)"
             },
             "text",
             [
@@ -203,7 +203,7 @@
             "adr",
             {
               "type": "work",
-              "label": "12025 Waterfront Dr., Suite 300\nLos Angeles CA 90094\nUnited States"
+              "label": "12025 Waterfront Dr., Suite 300\nLos Angeles CA 90094\nUnited States of America (the)"
             },
             "text",
             [
@@ -293,7 +293,7 @@
             "adr",
             {
               "type": "work",
-              "label": "Minerva House, Edmund Halley Road, Oxford Science Park\nOxford Oxon OX4 4DQ\nUnited Kingdom"
+              "label": "Minerva House, Edmund Halley Road, Oxford Science Park\nOxford Oxon OX4 4DQ\nUnited Kingdom of Great Britain and Northern Ireland (the)"
             },
             "text",
             [

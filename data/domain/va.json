@@ -100,7 +100,7 @@
             "adr",
             {
               "type": "work",
-              "label": "Governatorato S.C.V.\nVatican City Vatican City State V-00120\nHoly See (Vatican City State)"
+              "label": "Governatorato S.C.V.\nVatican City Vatican City State V-00120\nHoly See (the)"
             },
             "text",
             [
@@ -158,7 +158,7 @@
             "adr",
             {
               "type": "work",
-              "label": "Palazzo del Belvedere\nVatican City Vatican City State V-00120\nHoly See (Vatican City State)"
+              "label": "Palazzo del Belvedere\nVatican City Vatican City State V-00120\nHoly See (the)"
             },
             "text",
             [
@@ -248,7 +248,7 @@
             "adr",
             {
               "type": "work",
-              "label": "Cortile del Triangolo\nVatican City\nVatican City Vatican City State V-00120\nHoly See (Vatican City State)"
+              "label": "Cortile del Triangolo\nVatican City\nVatican City Vatican City State V-00120\nHoly See (the)"
             },
             "text",
             [

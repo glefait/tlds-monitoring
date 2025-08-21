@@ -82,7 +82,7 @@
             "adr",
             {
               "type": "work",
-              "label": "Rue de l'Uranium\nNiamey 208\nNiger"
+              "label": "Rue de l'Uranium\nNiamey 208\nNiger (the)"
             },
             "text",
             [
@@ -140,7 +140,7 @@
             "adr",
             {
               "type": "work",
-              "label": "Avenue du G\u00e9n\u00e9ral De Gaulle\nNiamey 208\nNiger"
+              "label": "Avenue du G\u00e9n\u00e9ral De Gaulle\nNiamey 208\nNiger (the)"
             },
             "text",
             [
@@ -230,7 +230,7 @@
             "adr",
             {
               "type": "work",
-              "label": "64 Rue du Stade\nNiamey 208\nNiger"
+              "label": "64 Rue du Stade\nNiamey 208\nNiger (the)"
             },
             "text",
             [

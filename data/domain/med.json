@@ -144,7 +144,7 @@
             "adr",
             {
               "type": "work",
-              "label": "3029 Prospect Ave\nCleveland OH 44115\nUnited States"
+              "label": "3029 Prospect Ave\nCleveland OH 44115\nUnited States of America (the)"
             },
             "text",
             [
@@ -202,7 +202,7 @@
             "adr",
             {
               "type": "work",
-              "label": "3029 Prospect Ave\nCleveland OH 44115\nUnited States"
+              "label": "3029 Prospect Ave\nCleveland OH 44115\nUnited States of America (the)"
             },
             "text",
             [
@@ -292,7 +292,7 @@
             "adr",
             {
               "type": "work",
-              "label": "Minerva House\nEdmund Halley Road\nOxford Science Park\nOxford OX4 4DQ\nUnited Kingdom"
+              "label": "Minerva House\nEdmund Halley Road\nOxford Science Park\nOxford OX4 4DQ\nUnited Kingdom of Great Britain and Northern Ireland (the)"
             },
             "text",
             [

@@ -144,7 +144,7 @@
             "adr",
             {
               "type": "work",
-              "label": "1000 Potomac Street NW #350\nWashington DC 20007\nUnited States"
+              "label": "1000 Potomac Street NW #350\nWashington DC 20007\nUnited States of America (the)"
             },
             "text",
             [
@@ -202,7 +202,7 @@
             "adr",
             {
               "type": "work",
-              "label": "1000 Potomac Street NW #350\nWashington DC 20007\nUnited States"
+              "label": "1000 Potomac Street NW #350\nWashington DC 20007\nUnited States of America (the)"
             },
             "text",
             [
@@ -292,7 +292,7 @@
             "adr",
             {
               "type": "work",
-              "label": "Minerva House, Edmund Halley Road, Oxford Science Park\nOxford OX4 4DQ\nUnited Kingdom"
+              "label": "Minerva House, Edmund Halley Road, Oxford Science Park\nOxford OX4 4DQ\nUnited Kingdom of Great Britain and Northern Ireland (the)"
             },
             "text",
             [

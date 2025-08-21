@@ -102,7 +102,7 @@
             "adr",
             {
               "type": "work",
-              "label": "1875 I ST NW\nWashington DC 20006\nUnited States"
+              "label": "1875 I ST NW\nWashington DC 20006\nUnited States of America (the)"
             },
             "text",
             [
@@ -160,7 +160,7 @@
             "adr",
             {
               "type": "work",
-              "label": "1875 I ST NW\nWashington DC 20006\nUnited States"
+              "label": "1875 I ST NW\nWashington DC 20006\nUnited States of America (the)"
             },
             "text",
             [
@@ -250,7 +250,7 @@
             "adr",
             {
               "type": "work",
-              "label": "Saddlers House, 4th Floor\n44 Gutter Lane\nLondon EC2V 6BR\nUnited Kingdom"
+              "label": "Saddlers House, 4th Floor\n44 Gutter Lane\nLondon EC2V 6BR\nUnited Kingdom of Great Britain and Northern Ireland (the)"
             },
             "text",
             [

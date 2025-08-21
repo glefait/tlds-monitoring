@@ -102,7 +102,7 @@
             "adr",
             {
               "type": "work",
-              "label": "Abu Dhabi Systems & Information Centre\nInternational Tower Al Karama Street\nAbu Dhabi\nUnited Arab Emirates"
+              "label": "Abu Dhabi Systems & Information Centre\nInternational Tower Al Karama Street\nAbu Dhabi\nUnited Arab Emirates (the)"
             },
             "text",
             [
@@ -160,7 +160,7 @@
             "adr",
             {
               "type": "work",
-              "label": "International Tower Al Karama Street\nAbu Dhabi\nUnited Arab Emirates"
+              "label": "International Tower Al Karama Street\nAbu Dhabi\nUnited Arab Emirates (the)"
             },
             "text",
             [
@@ -250,7 +250,7 @@
             "adr",
             {
               "type": "work",
-              "label": "Al Waheeda street Al Memzar\nP.O.Box 116688\nDubai\nUnited Arab Emirates"
+              "label": "Al Waheeda street Al Memzar\nP.O.Box 116688\nDubai\nUnited Arab Emirates (the)"
             },
             "text",
             [

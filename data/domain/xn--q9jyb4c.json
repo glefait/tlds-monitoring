@@ -109,7 +109,7 @@
             "adr",
             {
               "type": "work",
-              "label": "1600 Amphitheatre Parkway\nMountain View CA 94043\nUnited States"
+              "label": "1600 Amphitheatre Parkway\nMountain View CA 94043\nUnited States of America (the)"
             },
             "text",
             [
@@ -167,7 +167,7 @@
             "adr",
             {
               "type": "work",
-              "label": "111 8th Avenue\nNew York NY 10011\nUnited States"
+              "label": "111 8th Avenue\nNew York NY 10011\nUnited States of America (the)"
             },
             "text",
             [
@@ -257,7 +257,7 @@
             "adr",
             {
               "type": "work",
-              "label": "76 Ninth Avenue, 4th Floor\nNew York NY 10011\nUnited States"
+              "label": "76 Ninth Avenue, 4th Floor\nNew York NY 10011\nUnited States of America (the)"
             },
             "text",
             [

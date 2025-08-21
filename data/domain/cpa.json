@@ -120,7 +120,7 @@
             "adr",
             {
               "type": "work",
-              "label": "220 Leigh Farm Road\nDurham NC 27707-8110\nUnited States"
+              "label": "220 Leigh Farm Road\nDurham NC 27707-8110\nUnited States of America (the)"
             },
             "text",
             [
@@ -178,7 +178,7 @@
             "adr",
             {
               "type": "work",
-              "label": "PO Box 4836\nNew York NY 10185\nUnited States"
+              "label": "PO Box 4836\nNew York NY 10185\nUnited States of America (the)"
             },
             "text",
             [
@@ -268,7 +268,7 @@
             "adr",
             {
               "type": "work",
-              "label": "PO Box 4836\nNew York NY 10185\nUnited States"
+              "label": "PO Box 4836\nNew York NY 10185\nUnited States of America (the)"
             },
             "text",
             [

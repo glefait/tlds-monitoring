@@ -102,7 +102,7 @@
             "adr",
             {
               "type": "work",
-              "label": "420 Fort Duquesne Boulevard, Suite 1900\nPittsburgh PA 15222\nUnited States"
+              "label": "420 Fort Duquesne Boulevard, Suite 1900\nPittsburgh PA 15222\nUnited States of America (the)"
             },
             "text",
             [
@@ -160,7 +160,7 @@
             "adr",
             {
               "type": "work",
-              "label": "420 Fort Duquesne Boulevard\nPittsburgh PA 15222\nUnited States"
+              "label": "420 Fort Duquesne Boulevard\nPittsburgh PA 15222\nUnited States of America (the)"
             },
             "text",
             [

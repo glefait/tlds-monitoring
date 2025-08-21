@@ -120,7 +120,7 @@
             "adr",
             {
               "type": "work",
-              "label": "200 Vesey Street\nNew York NY 10285\nUnited States"
+              "label": "200 Vesey Street\nNew York NY 10285\nUnited States of America (the)"
             },
             "text",
             [
@@ -178,7 +178,7 @@
             "adr",
             {
               "type": "work",
-              "label": "200 Vesey Street\nNew York NY 10285\nUnited States"
+              "label": "200 Vesey Street\nNew York NY 10285\nUnited States of America (the)"
             },
             "text",
             [
@@ -268,7 +268,7 @@
             "adr",
             {
               "type": "work",
-              "label": "100 S. Mill Ave, Suite 1600\nTempe AZ 85281\nUnited States"
+              "label": "100 S. Mill Ave, Suite 1600\nTempe AZ 85281\nUnited States of America (the)"
             },
             "text",
             [

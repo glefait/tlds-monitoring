@@ -108,7 +108,7 @@
             "adr",
             {
               "type": "work",
-              "label": "One Johnson & Johnson Plaza\nNew Brunswick NJ 08933\nUnited States"
+              "label": "One Johnson & Johnson Plaza\nNew Brunswick NJ 08933\nUnited States of America (the)"
             },
             "text",
             [
@@ -166,7 +166,7 @@
             "adr",
             {
               "type": "work",
-              "label": "Saddlers House, 4th Floor 44 Gutter Lane\nLondon EC2V 6BR\nUnited Kingdom"
+              "label": "Saddlers House, 4th Floor 44 Gutter Lane\nLondon EC2V 6BR\nUnited Kingdom of Great Britain and Northern Ireland (the)"
             },
             "text",
             [
@@ -256,7 +256,7 @@
             "adr",
             {
               "type": "work",
-              "label": "Saddlers House\n4th Floor\n44 Gutter Lane\nLondon EC2V 6BR\nUnited Kingdom"
+              "label": "Saddlers House\n4th Floor\n44 Gutter Lane\nLondon EC2V 6BR\nUnited Kingdom of Great Britain and Northern Ireland (the)"
             },
             "text",
             [

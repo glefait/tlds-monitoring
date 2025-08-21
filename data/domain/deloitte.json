@@ -102,7 +102,7 @@
             "adr",
             {
               "type": "work",
-              "label": "30 Rockefeller Plaza\nNew York NY 10112-0015\nUnited States"
+              "label": "30 Rockefeller Plaza\nNew York NY 10112-0015\nUnited States of America (the)"
             },
             "text",
             [
@@ -160,7 +160,7 @@
             "adr",
             {
               "type": "work",
-              "label": "111 S Wacker Dr\nChicago IL 60606\nUnited States"
+              "label": "111 S Wacker Dr\nChicago IL 60606\nUnited States of America (the)"
             },
             "text",
             [
@@ -239,7 +239,7 @@
             "adr",
             {
               "type": "work",
-              "label": "4022 Sells Drive\nHermitage TN 37076\nUnited States"
+              "label": "4022 Sells Drive\nHermitage TN 37076\nUnited States of America (the)"
             },
             "text",
             [

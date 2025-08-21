@@ -144,7 +144,7 @@
             "adr",
             {
               "type": "work",
-              "label": "179 Franklin Street\n3rd Floor\nNew York NY 10013\nUnited States"
+              "label": "179 Franklin Street\n3rd Floor\nNew York NY 10013\nUnited States of America (the)"
             },
             "text",
             [
@@ -202,7 +202,7 @@
             "adr",
             {
               "type": "work",
-              "label": "101 Elliott Avenue West, Suite 400\nSeattle WA 98119\nUnited States"
+              "label": "101 Elliott Avenue West, Suite 400\nSeattle WA 98119\nUnited States of America (the)"
             },
             "text",
             [
@@ -292,7 +292,7 @@
             "adr",
             {
               "type": "work",
-              "label": "Minerva House\nEdmund Halley Road\nOxford Science Park\nOxford OX4 4DQ\nUnited Kingdom"
+              "label": "Minerva House\nEdmund Halley Road\nOxford Science Park\nOxford OX4 4DQ\nUnited Kingdom of Great Britain and Northern Ireland (the)"
             },
             "text",
             [

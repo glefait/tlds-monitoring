@@ -120,7 +120,7 @@
             "adr",
             {
               "type": "work",
-              "label": "2 Folsom Street\nSan Francisco CA 94105\nUnited States"
+              "label": "2 Folsom Street\nSan Francisco CA 94105\nUnited States of America (the)"
             },
             "text",
             [
@@ -178,7 +178,7 @@
             "adr",
             {
               "type": "work",
-              "label": "1000 Potomac Street NW #350\nWashington DC 20007\nUnited States"
+              "label": "1000 Potomac Street NW #350\nWashington DC 20007\nUnited States of America (the)"
             },
             "text",
             [
@@ -268,7 +268,7 @@
             "adr",
             {
               "type": "work",
-              "label": "100 S. Mill Ave, Suite 1600\nTempe AZ 85281\nUnited States"
+              "label": "100 S. Mill Ave, Suite 1600\nTempe AZ 85281\nUnited States of America (the)"
             },
             "text",
             [
