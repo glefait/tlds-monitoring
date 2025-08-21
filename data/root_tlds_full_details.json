@@ -78662,13 +78662,7 @@
               "fn",
               {},
               "text",
-              "eNIC Cocos (Keeling) Islands Pty.\nLtd. d/b/a Island Internet Services"
-            ],
-            [
-              "org",
-              {},
-              "text",
-              "\n        "
+              "eNIC Cocos (Keeling) Islands Pty. Ltd. d/b/a Island Internet Services"
             ],
             [
               "role",
@@ -78701,7 +78695,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2021-03-05T00:00:00+00:00"
+            "eventDate": "2025-08-21T00:00:00+00:00"
           }
         ]
       },
@@ -78889,7 +78883,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2023-10-04T00:00:00+00:00"
+        "eventDate": "2025-08-21T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -125123,13 +125117,7 @@
               "fn",
               {},
               "text",
-              "Pontificia Universidad Catolica Madre y Maestra\nRecinto Santo Tomas de Aquino"
-            ],
-            [
-              "org",
-              {},
-              "text",
-              "\n        "
+              "Pontificia Universidad Catolica Madre y Maestra, Recinto Santo Tomas de Aquino"
             ],
             [
               "role",
@@ -125162,7 +125150,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2022-10-12T00:00:00+00:00"
+            "eventDate": "2025-08-21T00:00:00+00:00"
           }
         ]
       },
@@ -125350,7 +125338,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2023-01-18T00:00:00+00:00"
+        "eventDate": "2025-08-21T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -243175,13 +243163,7 @@
               "fn",
               {},
               "text",
-              "Lao National Internet Center (LANIC), \nMinistry of Technology and Communications"
-            ],
-            [
-              "org",
-              {},
-              "text",
-              "\n        "
+              "Lao National Internet Center (LANIC), Ministry of Technology and Communications"
             ],
             [
               "role",
@@ -243214,7 +243196,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2023-03-17T00:00:00+00:00"
+            "eventDate": "2025-08-21T00:00:00+00:00"
           }
         ]
       },
@@ -243402,7 +243384,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2023-03-17T00:00:00+00:00"
+        "eventDate": "2025-08-21T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -405967,13 +405949,7 @@
               "fn",
               {},
               "text",
-              "Russian Institute for Development of Public Networks\n(ROSNIIROS)"
-            ],
-            [
-              "org",
-              {},
-              "text",
-              "\n        "
+              "Russian Institute for Development of Public Networks (ROSNIIROS)"
             ],
             [
               "role",
@@ -406006,7 +405982,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2022-10-20T00:00:00+00:00"
+            "eventDate": "2025-08-21T00:00:00+00:00"
           }
         ]
       },
@@ -406188,7 +406164,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-06-03T00:00:00+00:00"
+        "eventDate": "2025-08-21T00:00:00+00:00"
       },
       {
         "eventAction": "registration",

@@ -97,13 +97,7 @@
             "fn",
             {},
             "text",
-            "Russian Institute for Development of Public Networks\n(ROSNIIROS)"
-          ],
-          [
-            "org",
-            {},
-            "text",
-            "\n        "
+            "Russian Institute for Development of Public Networks (ROSNIIROS)"
           ],
           [
             "role",
@@ -136,7 +130,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2022-10-20T00:00:00+00:00"
+          "eventDate": "2025-08-21T00:00:00+00:00"
         }
       ]
     },
@@ -318,7 +312,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2025-06-03T00:00:00+00:00"
+      "eventDate": "2025-08-21T00:00:00+00:00"
     },
     {
       "eventAction": "registration",

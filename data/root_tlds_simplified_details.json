@@ -19001,12 +19001,12 @@
     },
     "entities": {
       "registrant": {
-        "fn": "eNIC Cocos (Keeling) Islands Pty.\nLtd. d/b/a Island Internet Services",
-        "org": "",
+        "fn": "eNIC Cocos (Keeling) Islands Pty. Ltd. d/b/a Island Internet Services",
+        "org": null,
         "adr": "Level 10, 5 Queens Road\nMelbourne VIC 3004\nAustralia",
         "tel": null,
         "email": null,
-        "last_change_date": "2021-03-05T00:00:00+00:00"
+        "last_change_date": "2025-08-21T00:00:00+00:00"
       },
       "administrative": {
         "fn": "Mario West, Managing Director",
@@ -30241,12 +30241,12 @@
     },
     "entities": {
       "registrant": {
-        "fn": "Pontificia Universidad Catolica Madre y Maestra\nRecinto Santo Tomas de Aquino",
-        "org": "",
+        "fn": "Pontificia Universidad Catolica Madre y Maestra, Recinto Santo Tomas de Aquino",
+        "org": null,
         "adr": "Ave. Abraham Lincoln Esq. Romulo Betancourt\nSanto Domingo 2748\nDominican Republic",
         "tel": null,
         "email": null,
-        "last_change_date": "2022-10-12T00:00:00+00:00"
+        "last_change_date": "2025-08-21T00:00:00+00:00"
       },
       "administrative": {
         "fn": "VICERRECTORIA DE ADMINISTRACION Y FINANZAS",
@@ -58235,12 +58235,12 @@
     },
     "entities": {
       "registrant": {
-        "fn": "Lao National Internet Center (LANIC), \nMinistry of Technology and Communications",
-        "org": "",
+        "fn": "Lao National Internet Center (LANIC), Ministry of Technology and Communications",
+        "org": null,
         "adr": "Lane Xang Avenue, Chanthaboury\nVientiane 01000\nLao People's Democratic Republic",
         "tel": null,
         "email": null,
-        "last_change_date": "2023-03-17T00:00:00+00:00"
+        "last_change_date": "2025-08-21T00:00:00+00:00"
       },
       "administrative": {
         "fn": "Deputy Director General of LANIC",
@@ -97363,12 +97363,12 @@
     },
     "entities": {
       "registrant": {
-        "fn": "Russian Institute for Development of Public Networks\n(ROSNIIROS)",
-        "org": "",
+        "fn": "Russian Institute for Development of Public Networks (ROSNIIROS)",
+        "org": null,
         "adr": "1, Kurchatov Sq.\nMoscow 123182\nRussian Federation",
         "tel": null,
         "email": null,
-        "last_change_date": "2022-10-20T00:00:00+00:00"
+        "last_change_date": "2025-08-21T00:00:00+00:00"
       },
       "administrative": {
         "fn": "ROSNIIROS",

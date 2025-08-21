@@ -85,13 +85,7 @@
             "fn",
             {},
             "text",
-            "eNIC Cocos (Keeling) Islands Pty.\nLtd. d/b/a Island Internet Services"
-          ],
-          [
-            "org",
-            {},
-            "text",
-            "\n        "
+            "eNIC Cocos (Keeling) Islands Pty. Ltd. d/b/a Island Internet Services"
           ],
           [
             "role",
@@ -124,7 +118,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2021-03-05T00:00:00+00:00"
+          "eventDate": "2025-08-21T00:00:00+00:00"
         }
       ]
     },
@@ -312,7 +306,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2023-10-04T00:00:00+00:00"
+      "eventDate": "2025-08-21T00:00:00+00:00"
     },
     {
       "eventAction": "registration",

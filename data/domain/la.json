@@ -91,13 +91,7 @@
             "fn",
             {},
             "text",
-            "Lao National Internet Center (LANIC), \nMinistry of Technology and Communications"
-          ],
-          [
-            "org",
-            {},
-            "text",
-            "\n        "
+            "Lao National Internet Center (LANIC), Ministry of Technology and Communications"
           ],
           [
             "role",
@@ -130,7 +124,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2023-03-17T00:00:00+00:00"
+          "eventDate": "2025-08-21T00:00:00+00:00"
         }
       ]
     },
@@ -318,7 +312,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2023-03-17T00:00:00+00:00"
+      "eventDate": "2025-08-21T00:00:00+00:00"
     },
     {
       "eventAction": "registration",

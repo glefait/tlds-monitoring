@@ -113,13 +113,7 @@
             "fn",
             {},
             "text",
-            "Pontificia Universidad Catolica Madre y Maestra\nRecinto Santo Tomas de Aquino"
-          ],
-          [
-            "org",
-            {},
-            "text",
-            "\n        "
+            "Pontificia Universidad Catolica Madre y Maestra, Recinto Santo Tomas de Aquino"
           ],
           [
             "role",
@@ -152,7 +146,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2022-10-12T00:00:00+00:00"
+          "eventDate": "2025-08-21T00:00:00+00:00"
         }
       ]
     },
@@ -340,7 +334,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2023-01-18T00:00:00+00:00"
+      "eventDate": "2025-08-21T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
