@@ -43,13 +43,37 @@
     },
     {
       "objectClassName": "nameserver",
-      "ldhName": "d.nic.tv",
+      "ldhName": "x.nic.tv",
       "ipAddresses": {
         "v4": [
-          "37.209.198.6"
+          "156.154.103.22"
         ],
         "v6": [
-          "2001:dcd:4::6"
+          "2610:a1:1010::22"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "y.nic.tv",
+      "ipAddresses": {
+        "v4": [
+          "156.154.104.22"
+        ],
+        "v6": [
+          "2610:a1:1011::22"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "z.nic.tv",
+      "ipAddresses": {
+        "v4": [
+          "156.154.105.22"
+        ],
+        "v6": [
+          "2610:a1:1012::22"
         ]
       }
     }
@@ -288,7 +312,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2024-05-20T00:00:00+00:00"
+      "eventDate": "2025-08-21T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
