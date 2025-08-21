@@ -122,7 +122,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.twnic.net.tw",
   "entities": [
     {
       "objectClassName": "entity",

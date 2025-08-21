@@ -80,7 +80,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.nic.cat",
   "entities": [
     {
       "objectClassName": "entity",

@@ -39,7 +39,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.mediaserv.net",
   "entities": [
     {
       "objectClassName": "entity",

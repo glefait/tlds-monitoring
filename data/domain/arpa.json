@@ -164,7 +164,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.iana.org",
   "entities": [
     {
       "objectClassName": "entity",

@@ -62,7 +62,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.dns.hr",
   "entities": [
     {
       "objectClassName": "entity",

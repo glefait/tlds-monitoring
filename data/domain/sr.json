@@ -44,7 +44,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.sr",
   "entities": [
     {
       "objectClassName": "entity",

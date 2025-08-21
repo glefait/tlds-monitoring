@@ -62,7 +62,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.nic.berlin",
   "entities": [
     {
       "objectClassName": "entity",

@@ -80,7 +80,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.website.ws",
   "entities": [
     {
       "objectClassName": "entity",

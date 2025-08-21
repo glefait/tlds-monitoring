@@ -58,7 +58,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.cmc.iq",
   "entities": [
     {
       "objectClassName": "entity",

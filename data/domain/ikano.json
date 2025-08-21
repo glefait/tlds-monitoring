@@ -62,7 +62,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.nic.ikano",
   "entities": [
     {
       "objectClassName": "entity",

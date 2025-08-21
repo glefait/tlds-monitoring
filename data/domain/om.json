@@ -84,7 +84,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.registry.om",
   "entities": [
     {
       "objectClassName": "entity",

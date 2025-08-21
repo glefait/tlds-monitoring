@@ -92,7 +92,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.nic.chintai",
   "entities": [
     {
       "objectClassName": "entity",

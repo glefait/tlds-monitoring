@@ -58,7 +58,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.marnet.mk",
   "entities": [
     {
       "objectClassName": "entity",

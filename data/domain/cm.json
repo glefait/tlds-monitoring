@@ -95,7 +95,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.nic.cm",
   "entities": [
     {
       "objectClassName": "entity",

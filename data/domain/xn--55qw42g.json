@@ -81,7 +81,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.conac.cn",
   "entities": [
     {
       "objectClassName": "entity",

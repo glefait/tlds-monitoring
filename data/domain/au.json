@@ -86,7 +86,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.auda.org.au",
   "entities": [
     {
       "objectClassName": "entity",

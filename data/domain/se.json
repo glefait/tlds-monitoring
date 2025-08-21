@@ -140,7 +140,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.iis.se",
   "entities": [
     {
       "objectClassName": "entity",

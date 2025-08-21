@@ -62,7 +62,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.nic.hamburg",
   "entities": [
     {
       "objectClassName": "entity",

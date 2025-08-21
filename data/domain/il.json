@@ -110,7 +110,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.isoc.org.il",
   "entities": [
     {
       "objectClassName": "entity",

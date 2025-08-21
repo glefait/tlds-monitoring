@@ -89,7 +89,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.thnic.co.th",
   "entities": [
     {
       "objectClassName": "entity",

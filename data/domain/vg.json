@@ -60,7 +60,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.nic.vg",
   "entities": [
     {
       "objectClassName": "entity",

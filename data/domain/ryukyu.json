@@ -65,7 +65,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.nic.ryukyu",
   "entities": [
     {
       "objectClassName": "entity",

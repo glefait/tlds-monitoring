@@ -101,7 +101,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.nic.org.uy",
   "entities": [
     {
       "objectClassName": "entity",

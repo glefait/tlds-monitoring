@@ -116,7 +116,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.nic.gop",
   "entities": [
     {
       "objectClassName": "entity",

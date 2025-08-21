@@ -68,7 +68,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.uniregistry.net",
   "entities": [
     {
       "objectClassName": "entity",

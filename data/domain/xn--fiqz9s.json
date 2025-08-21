@@ -81,7 +81,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.cnnic.cn",
   "entities": [
     {
       "objectClassName": "entity",

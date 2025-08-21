@@ -92,7 +92,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.registro.br",
   "entities": [
     {
       "objectClassName": "entity",

@@ -98,7 +98,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.nic.george",
   "entities": [
     {
       "objectClassName": "entity",

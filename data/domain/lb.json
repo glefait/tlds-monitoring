@@ -128,7 +128,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.lbdr.org.lb",
   "entities": [
     {
       "objectClassName": "entity",

@@ -56,7 +56,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.nic.durban",
   "entities": [
     {
       "objectClassName": "entity",

@@ -56,7 +56,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.afilias-srs.net",
   "entities": [
     {
       "objectClassName": "entity",

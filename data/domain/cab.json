@@ -92,7 +92,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.nic.cab",
   "entities": [
     {
       "objectClassName": "entity",

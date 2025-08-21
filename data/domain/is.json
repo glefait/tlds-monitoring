@@ -80,7 +80,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.isnic.is",
   "entities": [
     {
       "objectClassName": "entity",

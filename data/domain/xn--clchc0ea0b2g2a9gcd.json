@@ -81,7 +81,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.ta.sgnic.sg",
   "entities": [
     {
       "objectClassName": "entity",

@@ -110,7 +110,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.irs.net.nz",
   "entities": [
     {
       "objectClassName": "entity",

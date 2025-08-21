@@ -69,7 +69,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.nixiregistry.in",
   "entities": [
     {
       "objectClassName": "entity",

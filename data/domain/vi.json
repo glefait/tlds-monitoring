@@ -33,7 +33,6 @@
   "status": [
     "active"
   ],
-  "port43": "virgil.nic.vi",
   "entities": [
     {
       "objectClassName": "entity",

@@ -60,7 +60,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.tonicregistry.to",
   "entities": [
     {
       "objectClassName": "entity",
@@ -77,13 +76,7 @@
             "fn",
             {},
             "text",
-            "Government of the Kingdom of Tonga\nH.R.H. Crown Prince Tupouto'a\nc/o Consulate of Tonga"
-          ],
-          [
-            "org",
-            {},
-            "text",
-            "\n        "
+            "Government of the Kingdom of Tonga, H.R.H. Crown Prince Tupouto'a, c/o Consulate of Tonga"
           ],
           [
             "role",
@@ -116,7 +109,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2022-06-01T00:00:00+00:00"
+          "eventDate": "2025-08-21T00:00:00+00:00"
         }
       ]
     },
@@ -304,7 +297,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2025-08-01T00:00:00+00:00"
+      "eventDate": "2025-08-21T00:00:00+00:00"
     },
     {
       "eventAction": "registration",

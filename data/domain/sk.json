@@ -110,7 +110,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.sk-nic.sk",
   "entities": [
     {
       "objectClassName": "entity",

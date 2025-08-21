@@ -141,7 +141,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.nic.net.sa",
   "entities": [
     {
       "objectClassName": "entity",

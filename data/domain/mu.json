@@ -92,7 +92,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.tld.mu",
   "entities": [
     {
       "objectClassName": "entity",

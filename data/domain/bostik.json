@@ -56,7 +56,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.nic.bostik",
   "entities": [
     {
       "objectClassName": "entity",

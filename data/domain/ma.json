@@ -114,7 +114,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.registre.ma",
   "entities": [
     {
       "objectClassName": "entity",

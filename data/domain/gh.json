@@ -42,7 +42,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.nic.gh",
   "entities": [
     {
       "objectClassName": "entity",

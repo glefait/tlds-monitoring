@@ -128,7 +128,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.dns.pt",
   "entities": [
     {
       "objectClassName": "entity",

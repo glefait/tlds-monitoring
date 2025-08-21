@@ -98,7 +98,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.nic.fm",
   "entities": [
     {
       "objectClassName": "entity",

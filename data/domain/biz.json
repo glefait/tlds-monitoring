@@ -110,7 +110,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.nic.biz",
   "entities": [
     {
       "objectClassName": "entity",

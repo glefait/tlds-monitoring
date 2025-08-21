@@ -176,7 +176,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.verisign-grs.com",
   "entities": [
     {
       "objectClassName": "entity",

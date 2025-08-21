@@ -77,7 +77,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.nic.ec",
   "entities": [
     {
       "objectClassName": "entity",

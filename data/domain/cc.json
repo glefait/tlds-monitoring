@@ -68,7 +68,6 @@
   "status": [
     "active"
   ],
-  "port43": "ccwhois.verisign-grs.com",
   "entities": [
     {
       "objectClassName": "entity",

@@ -101,7 +101,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.nic.lv",
   "entities": [
     {
       "objectClassName": "entity",

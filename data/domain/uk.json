@@ -116,7 +116,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.nic.uk",
   "entities": [
     {
       "objectClassName": "entity",

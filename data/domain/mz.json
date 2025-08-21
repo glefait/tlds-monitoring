@@ -72,7 +72,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.nic.mz",
   "entities": [
     {
       "objectClassName": "entity",

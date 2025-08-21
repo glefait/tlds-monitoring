@@ -89,7 +89,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.norid.no",
   "entities": [
     {
       "objectClassName": "entity",

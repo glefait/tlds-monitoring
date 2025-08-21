@@ -62,7 +62,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.registre.bf",
   "entities": [
     {
       "objectClassName": "entity",

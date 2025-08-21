@@ -80,7 +80,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.tcinet.ru",
   "entities": [
     {
       "objectClassName": "entity",

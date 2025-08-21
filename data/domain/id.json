@@ -80,7 +80,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.id",
   "entities": [
     {
       "objectClassName": "entity",

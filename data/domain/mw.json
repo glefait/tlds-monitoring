@@ -92,7 +92,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.nic.mw",
   "entities": [
     {
       "objectClassName": "entity",
@@ -109,13 +108,7 @@
             "fn",
             {},
             "text",
-            "Malawi Sustainable Development Network Programme\n(Malawi SDNP)"
-          ],
-          [
-            "org",
-            {},
-            "text",
-            "\n        "
+            "Malawi Sustainable Development Network Programme (Malawi SDNP)"
           ],
           [
             "role",
@@ -148,7 +141,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2022-11-15T00:00:00+00:00"
+          "eventDate": "2025-08-21T00:00:00+00:00"
         }
       ]
     },
@@ -336,7 +329,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2025-07-22T00:00:00+00:00"
+      "eventDate": "2025-08-21T00:00:00+00:00"
     },
     {
       "eventAction": "registration",

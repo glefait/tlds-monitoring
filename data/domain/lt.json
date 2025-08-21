@@ -86,7 +86,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.domreg.lt",
   "entities": [
     {
       "objectClassName": "entity",

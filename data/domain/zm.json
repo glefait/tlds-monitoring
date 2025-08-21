@@ -54,7 +54,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.zicta.zm",
   "entities": [
     {
       "objectClassName": "entity",

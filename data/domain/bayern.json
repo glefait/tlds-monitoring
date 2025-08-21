@@ -116,7 +116,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.nic.bayern",
   "entities": [
     {
       "objectClassName": "entity",

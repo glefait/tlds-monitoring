@@ -45,7 +45,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.nic.kn",
   "entities": [
     {
       "objectClassName": "entity",

@@ -89,7 +89,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.dmdomains.dm",
   "entities": [
     {
       "objectClassName": "entity",

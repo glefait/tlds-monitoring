@@ -30,7 +30,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.registry.pf",
   "entities": [
     {
       "objectClassName": "entity",

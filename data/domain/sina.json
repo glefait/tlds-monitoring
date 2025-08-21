@@ -68,7 +68,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.nic.sina",
   "entities": [
     {
       "objectClassName": "entity",

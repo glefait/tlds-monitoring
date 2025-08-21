@@ -92,7 +92,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.register.bg",
   "entities": [
     {
       "objectClassName": "entity",

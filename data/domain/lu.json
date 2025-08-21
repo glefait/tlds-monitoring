@@ -92,7 +92,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.dns.lu",
   "entities": [
     {
       "objectClassName": "entity",

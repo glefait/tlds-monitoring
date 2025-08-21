@@ -97,7 +97,6 @@
   "status": [
     "active"
   ],
-  "port43": "whois.monic.mo",
   "entities": [
     {
       "objectClassName": "entity",
