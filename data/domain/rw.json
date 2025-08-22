@@ -7,16 +7,7 @@
   "nameservers": [
     {
       "objectClassName": "nameserver",
-      "ldhName": "ans.dnsstudy.africa",
-      "ipAddresses": {
-        "v4": [
-          "192.96.24.69"
-        ]
-      }
-    },
-    {
-      "objectClassName": "nameserver",
-      "ldhName": "fork.sth.dnsnode.net",
+      "ldhName": "dnsnode.ricta.org.rw",
       "ipAddresses": {
         "v4": [
           "77.72.229.254"
@@ -28,7 +19,7 @@
     },
     {
       "objectClassName": "nameserver",
-      "ldhName": "ns-rw.afrinic.net",
+      "ldhName": "ns-afrinic.ricta.org.rw",
       "ipAddresses": {
         "v4": [
           "196.216.168.28"
@@ -313,7 +304,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2025-06-11T00:00:00+00:00"
+      "eventDate": "2025-08-22T00:00:00+00:00"
     },
     {
       "eventAction": "registration",

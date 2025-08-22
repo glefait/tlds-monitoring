@@ -26016,19 +26016,19 @@
       },
       "administrative": {
         "fn": "CU-DOM Administrative Contact",
-        "org": "",
-        "adr": null,
+        "org": "CENIAInternet",
+        "adr": "Industria y San Jose\nCapitolio Nacional\nLa Habana CP 10200\nCuba",
         "tel": "+537 2048202",
         "email": "cu-admin@ceniai.inf.cu",
-        "last_change_date": "2008-12-22T00:00:00+00:00"
+        "last_change_date": "2025-08-22T00:00:00+00:00"
       },
       "technical": {
         "fn": "CU-DOM Technical Contact",
-        "org": "",
-        "adr": null,
+        "org": "CENIAInternet",
+        "adr": "Industria y San Jose\nCapitolio Nacional\nLa Habana CP 10200\nCuba",
         "tel": "+537 2048202",
         "email": "cu-tech@ceniai.inf.cu",
-        "last_change_date": "2008-12-22T00:00:00+00:00"
+        "last_change_date": "2025-08-22T00:00:00+00:00"
       }
     },
     "secureDNS": {
@@ -87350,12 +87350,7 @@
   "rw": {
     "unicodeName": "rw",
     "nameservers": {
-      "ans.dnsstudy.africa": {
-        "v4": [
-          "192.96.24.69"
-        ]
-      },
-      "fork.sth.dnsnode.net": {
+      "dnsnode.ricta.org.rw": {
         "v4": [
           "77.72.229.254"
         ],
@@ -87363,7 +87358,7 @@
           "2a01:3f0:0:306::53"
         ]
       },
-      "ns-rw.afrinic.net": {
+      "ns-afrinic.ricta.org.rw": {
         "v4": [
           "196.216.168.28"
         ],
