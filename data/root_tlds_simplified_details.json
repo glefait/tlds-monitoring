@@ -25207,12 +25207,12 @@
     },
     "entities": {
       "registrant": {
-        "fn": "National Academy of Sciences\nAcademia Nacional de Ciencias",
-        "org": "",
+        "fn": "National Academy of Sciences (Academia Nacional de Ciencias)",
+        "org": null,
         "adr": "San Pedro Montes de Oca\nSan Jos\u00e9 1367-2050\nCosta Rica",
         "tel": null,
         "email": null,
-        "last_change_date": "2022-10-19T00:00:00+00:00"
+        "last_change_date": "2025-08-22T00:00:00+00:00"
       },
       "administrative": {
         "fn": "Guy F. de Teramond",
@@ -32383,12 +32383,12 @@
     },
     "entities": {
       "registrant": {
-        "fn": "Egyptian Universities Network (EUN)\nSupreme Council of Universities",
-        "org": "",
+        "fn": "Egyptian Universities Network (EUN), Supreme Council of Universities",
+        "org": null,
         "adr": "Cairo University\nGiza - Orman\nCairo 268\nEgypt",
         "tel": null,
         "email": null,
-        "last_change_date": "2008-02-07T00:00:00+00:00"
+        "last_change_date": "2025-08-22T00:00:00+00:00"
       },
       "administrative": {
         "fn": "Egyptian Universities Network (EUN)",
@@ -63573,12 +63573,12 @@
     },
     "entities": {
       "registrant": {
-        "fn": "University of Latvia\nInstitute of Mathematics and Computer Science\nDepartment of Network Solutions (DNS)",
-        "org": "",
+        "fn": "University of Latvia, Institute of Mathematics and Computer Science, Department of Network Solutions (DNS)",
+        "org": null,
         "adr": "Rainis Boulevard 29\nRiga LV-1459\nLatvia",
         "tel": null,
         "email": null,
-        "last_change_date": "2021-12-23T00:00:00+00:00"
+        "last_change_date": "2025-08-22T00:00:00+00:00"
       },
       "administrative": {
         "fn": "Guntis Barzdins",
@@ -78012,12 +78012,12 @@
     },
     "entities": {
       "registrant": {
-        "fn": "PNG DNS Administration\nVice Chancellors Office\nThe Papua New Guinea University of Technology",
-        "org": "",
+        "fn": "PNG DNS Administration, Vice Chancellors Office, The Papua New Guinea University of Technology",
+        "org": null,
         "adr": "Private Mail Bag\nLae Morobe\nPapua New Guinea",
         "tel": null,
         "email": null,
-        "last_change_date": "2021-02-01T00:00:00+00:00"
+        "last_change_date": "2025-08-22T00:00:00+00:00"
       },
       "administrative": {
         "fn": "Network & Communications Manager",
@@ -82487,12 +82487,12 @@
     },
     "entities": {
       "registrant": {
-        "fn": "Ministry Of Telecommunications &\nInformation Technology,\nGovernment Computer Center.",
-        "org": "",
+        "fn": "Ministry of Telecommunications & Information Technology, Government Computer Center",
+        "org": null,
         "adr": "Al-Irsal Street.\nRamallah 674\nPalestine, State of",
         "tel": null,
         "email": null,
-        "last_change_date": "2021-02-04T00:00:00+00:00"
+        "last_change_date": "2025-08-22T00:00:00+00:00"
       },
       "administrative": {
         "fn": "MTIT Representative, PNINA Chairman",
@@ -104357,12 +104357,12 @@
     },
     "entities": {
       "registrant": {
-        "fn": "University of the West Indies\nFaculty of Engineering",
-        "org": "",
+        "fn": "University of the West Indies, Faculty of Engineering",
+        "org": null,
         "adr": "Kenneth S. Julien Building, Third Floor, Room 305\nSt. Augustine\nTrinidad and Tobago",
         "tel": null,
         "email": null,
-        "last_change_date": "2025-07-01T00:00:00+00:00"
+        "last_change_date": "2025-08-22T00:00:00+00:00"
       },
       "administrative": {
         "fn": "Dr. Patrick Hosein",

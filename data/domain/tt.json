@@ -72,13 +72,7 @@
             "fn",
             {},
             "text",
-            "University of the West Indies\nFaculty of Engineering"
-          ],
-          [
-            "org",
-            {},
-            "text",
-            "\n        "
+            "University of the West Indies, Faculty of Engineering"
           ],
           [
             "role",
@@ -111,7 +105,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2025-07-01T00:00:00+00:00"
+          "eventDate": "2025-08-22T00:00:00+00:00"
         }
       ]
     },
@@ -277,7 +271,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2025-07-07T00:00:00+00:00"
+      "eventDate": "2025-08-22T00:00:00+00:00"
     },
     {
       "eventAction": "registration",

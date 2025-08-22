@@ -117,13 +117,7 @@
             "fn",
             {},
             "text",
-            "University of Latvia\nInstitute of Mathematics and Computer Science\nDepartment of Network Solutions (DNS)"
-          ],
-          [
-            "org",
-            {},
-            "text",
-            "\n        "
+            "University of Latvia, Institute of Mathematics and Computer Science, Department of Network Solutions (DNS)"
           ],
           [
             "role",
@@ -156,7 +150,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2021-12-23T00:00:00+00:00"
+          "eventDate": "2025-08-22T00:00:00+00:00"
         }
       ]
     },
@@ -344,7 +338,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2024-10-04T00:00:00+00:00"
+      "eventDate": "2025-08-22T00:00:00+00:00"
     },
     {
       "eventAction": "registration",

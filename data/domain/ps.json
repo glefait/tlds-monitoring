@@ -94,13 +94,7 @@
             "fn",
             {},
             "text",
-            "Ministry Of Telecommunications &\nInformation Technology,\nGovernment Computer Center."
-          ],
-          [
-            "org",
-            {},
-            "text",
-            "\n        "
+            "Ministry of Telecommunications & Information Technology, Government Computer Center"
           ],
           [
             "role",
@@ -133,7 +127,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2021-02-04T00:00:00+00:00"
+          "eventDate": "2025-08-22T00:00:00+00:00"
         }
       ]
     },
@@ -321,7 +315,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2024-11-13T00:00:00+00:00"
+      "eventDate": "2025-08-22T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
