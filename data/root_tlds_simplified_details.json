@@ -37259,19 +37259,19 @@
       },
       "administrative": {
         "fn": "Director IT Services",
-        "org": "The University of the South Pacific",
-        "adr": "IT Services\nLaucala Bay Campus,\nICT Building A\nSuva\nFiji",
+        "org": "The University of the South Pacific, IT Services",
+        "adr": "Japan ICT Building\nLaucala Bay Campus\nSuva\nFiji",
         "tel": "+679 3232117",
         "email": "domreg@usp.ac.fj",
-        "last_change_date": "2023-02-28T00:00:00+00:00"
+        "last_change_date": "2025-08-25T00:00:00+00:00"
       },
       "technical": {
         "fn": "Manager Systems & Networks Infrastructure",
-        "org": "The University of the South Pacific",
-        "adr": "IT Services\nLaucala Bay Campus,\nICT Building A\nSuva\nFiji",
+        "org": "The University of the South Pacific, IT Services",
+        "adr": "Japan ICT Building A\nLaucala Bay Campus\nSuva\nFiji",
         "tel": "+679 3232117",
         "email": "sysadmin@usp.ac.fj",
-        "last_change_date": "2023-04-24T00:00:00+00:00"
+        "last_change_date": "2025-08-25T00:00:00+00:00"
       }
     },
     "secureDNS": {

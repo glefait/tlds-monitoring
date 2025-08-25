@@ -154,7 +154,7 @@
             "org",
             {},
             "text",
-            "The University of the South Pacific"
+            "The University of the South Pacific, IT Services"
           ],
           [
             "role",
@@ -166,7 +166,7 @@
             "adr",
             {
               "type": "work",
-              "label": "IT Services\nLaucala Bay Campus,\nICT Building A\nSuva\nFiji"
+              "label": "Japan ICT Building\nLaucala Bay Campus\nSuva\nFiji"
             },
             "text",
             [
@@ -208,7 +208,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2023-02-28T00:00:00+00:00"
+          "eventDate": "2025-08-25T00:00:00+00:00"
         }
       ]
     },
@@ -233,7 +233,7 @@
             "org",
             {},
             "text",
-            "The University of the South Pacific"
+            "The University of the South Pacific, IT Services"
           ],
           [
             "role",
@@ -245,7 +245,7 @@
             "adr",
             {
               "type": "work",
-              "label": "IT Services\nLaucala Bay Campus,\nICT Building A\nSuva\nFiji"
+              "label": "Japan ICT Building A\nLaucala Bay Campus\nSuva\nFiji"
             },
             "text",
             [
@@ -287,7 +287,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2023-04-24T00:00:00+00:00"
+          "eventDate": "2025-08-25T00:00:00+00:00"
         }
       ]
     }
@@ -295,7 +295,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2025-04-21T00:00:00+00:00"
+      "eventDate": "2025-08-25T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
