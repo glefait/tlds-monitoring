@@ -221,7 +221,7 @@
             "org",
             {},
             "text",
-            "Afilias"
+            "Identity Digital Limited"
           ],
           [
             "role",
@@ -233,7 +233,7 @@
             "adr",
             {
               "type": "work",
-              "label": "300 Welsh Road\nBuilding 3, Suite 105\nHorsham PA 19044\nUnited States of America (the)"
+              "label": "c/o Identity Digital Inc.\n10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)"
             },
             "text",
             [
@@ -255,7 +255,7 @@
               ]
             },
             "text",
-            "+1 215 706 5700"
+            "+1.425.298.2200"
           ],
           [
             "tel",
@@ -266,7 +266,7 @@
               ]
             },
             "text",
-            "+1 215 706 5701"
+            "+1.425.671.0020"
           ],
           [
             "email",
@@ -276,7 +276,7 @@
               ]
             },
             "text",
-            "tld-tech-poc@afilias.info"
+            "tldtech@identity.digital"
           ]
         ]
       ],
@@ -286,7 +286,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2015-09-26T00:00:00+00:00"
+          "eventDate": "2025-08-27T00:00:00+00:00"
         }
       ]
     }
@@ -294,7 +294,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2023-08-07T00:00:00+00:00"
+      "eventDate": "2025-08-27T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
