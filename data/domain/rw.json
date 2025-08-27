@@ -31,6 +31,18 @@
     },
     {
       "objectClassName": "nameserver",
+      "ldhName": "ns1.gransy.ricta.org.rw",
+      "ipAddresses": {
+        "v4": [
+          "185.38.108.108"
+        ],
+        "v6": [
+          "2a00:fea0:dead::beef"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
       "ldhName": "ns1.ricta.org.rw",
       "ipAddresses": {
         "v4": [
@@ -304,7 +316,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2025-08-22T00:00:00+00:00"
+      "eventDate": "2025-08-26T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
