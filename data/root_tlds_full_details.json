@@ -26866,13 +26866,13 @@
               "fn",
               {},
               "text",
-              "DotAsia Technical Contact"
+              "Senior Director, DNS Infrastructure Group"
             ],
             [
               "org",
               {},
               "text",
-              "DotAsia Organisation Ltd."
+              "Identity Digital Limited c/o Identity Digital Inc."
             ],
             [
               "role",
@@ -26884,7 +26884,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "12/F, Daily House\n35-37 Haiphong Road\nTsim Sha Tsui Kowloon\nHong Kong"
+                "label": "10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)"
               },
               "text",
               [
@@ -26906,7 +26906,7 @@
                 ]
               },
               "text",
-              "+852 8171 1714"
+              "+1.425.298.2200"
             ],
             [
               "tel",
@@ -26917,7 +26917,7 @@
                 ]
               },
               "text",
-              "+852 2125 8484"
+              "+1.425.671.0020"
             ],
             [
               "email",
@@ -26927,7 +26927,7 @@
                 ]
               },
               "text",
-              "tech@iana.whois.asia"
+              "tldtech@identity.digital"
             ]
           ]
         ],
@@ -26937,7 +26937,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2023-01-18T00:00:00+00:00"
+            "eventDate": "2025-08-28T00:00:00+00:00"
           }
         ]
       }
@@ -26945,7 +26945,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2023-08-03T00:00:00+00:00"
+        "eventDate": "2025-08-28T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -54347,7 +54347,7 @@
               "org",
               {},
               "text",
-              "Afilias"
+              "Identity Digital Limited"
             ],
             [
               "role",
@@ -54359,7 +54359,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "300 Welsh Road\nBuilding 3, Suite 105\nHorsham PA 19044\nUnited States of America (the)"
+                "label": "c/o Identity Digital Inc.\n10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)"
               },
               "text",
               [
@@ -54381,7 +54381,7 @@
                 ]
               },
               "text",
-              "+1 215 706 5700"
+              "+1.425.298.2200"
             ],
             [
               "tel",
@@ -54392,7 +54392,7 @@
                 ]
               },
               "text",
-              "+1 215 706 5701"
+              "+1.425.671.0020"
             ],
             [
               "email",
@@ -54402,7 +54402,7 @@
                 ]
               },
               "text",
-              "tld-tech-poc@afilias.info"
+              "tldtech@identity.digital"
             ]
           ]
         ],
@@ -54412,7 +54412,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2014-08-14T00:00:00+00:00"
+            "eventDate": "2025-08-28T00:00:00+00:00"
           }
         ]
       }
@@ -54420,7 +54420,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2023-08-28T00:00:00+00:00"
+        "eventDate": "2025-08-28T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -221683,7 +221683,7 @@
               "org",
               {},
               "text",
-              "Afilias"
+              "Identity Digital Limited"
             ],
             [
               "role",
@@ -221695,7 +221695,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "300 Welsh Road\nBuilding 3, Suite 105\nHorsham PA 19044\nUnited States of America (the)"
+                "label": "c/o Identity Digital Inc.\n10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)"
               },
               "text",
               [
@@ -221717,7 +221717,7 @@
                 ]
               },
               "text",
-              "+1 215.706.5700"
+              "+1.425.298.2200"
             ],
             [
               "tel",
@@ -221728,7 +221728,7 @@
                 ]
               },
               "text",
-              "+1 215.706.5701"
+              "+1.425.671.0020"
             ],
             [
               "email",
@@ -221738,7 +221738,7 @@
                 ]
               },
               "text",
-              "tld-tech-poc@afilias.info"
+              "tldtech@identity.digital"
             ]
           ]
         ],
@@ -221748,7 +221748,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2015-07-11T00:00:00+00:00"
+            "eventDate": "2025-08-28T00:00:00+00:00"
           }
         ]
       }
@@ -221756,7 +221756,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2023-08-03T00:00:00+00:00"
+        "eventDate": "2025-08-28T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -222046,7 +222046,7 @@
               "org",
               {},
               "text",
-              "Afilias"
+              "Identity Digital Limited"
             ],
             [
               "role",
@@ -222058,7 +222058,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "300 Welsh Road\nBuilding 3, Suite 105\nHorsham PA 19044\nUnited States of America (the)"
+                "label": "c/o Identity Digital Inc.\n10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)"
               },
               "text",
               [
@@ -222080,7 +222080,7 @@
                 ]
               },
               "text",
-              "+1.215.706.5700"
+              "+1.425.298.2200"
             ],
             [
               "tel",
@@ -222091,7 +222091,7 @@
                 ]
               },
               "text",
-              "+1.215.706.5701"
+              "+1.425.671.0020"
             ],
             [
               "email",
@@ -222101,7 +222101,7 @@
                 ]
               },
               "text",
-              "tld-tech-poc@afilias.info"
+              "tldtech@identity.digital"
             ]
           ]
         ],
@@ -222111,7 +222111,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2015-07-11T00:00:00+00:00"
+            "eventDate": "2025-08-28T00:00:00+00:00"
           }
         ]
       }
@@ -222119,7 +222119,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2023-08-03T00:00:00+00:00"
+        "eventDate": "2025-08-28T00:00:00+00:00"
       },
       {
         "eventAction": "registration",

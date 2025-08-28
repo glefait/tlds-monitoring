@@ -6462,12 +6462,12 @@
         "last_change_date": "2023-01-18T00:00:00+00:00"
       },
       "technical": {
-        "fn": "DotAsia Technical Contact",
-        "org": "DotAsia Organisation Ltd.",
-        "adr": "12/F, Daily House\n35-37 Haiphong Road\nTsim Sha Tsui Kowloon\nHong Kong",
-        "tel": "+852 2125 8484",
-        "email": "tech@iana.whois.asia",
-        "last_change_date": "2023-01-18T00:00:00+00:00"
+        "fn": "Senior Director, DNS Infrastructure Group",
+        "org": "Identity Digital Limited c/o Identity Digital Inc.",
+        "adr": "10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)",
+        "tel": "+1.425.671.0020",
+        "email": "tldtech@identity.digital",
+        "last_change_date": "2025-08-28T00:00:00+00:00"
       }
     },
     "secureDNS": {
@@ -13097,11 +13097,11 @@
       },
       "technical": {
         "fn": "Senior Director, DNS Infrastructure Group",
-        "org": "Afilias",
-        "adr": "300 Welsh Road\nBuilding 3, Suite 105\nHorsham PA 19044\nUnited States of America (the)",
-        "tel": "+1 215 706 5701",
-        "email": "tld-tech-poc@afilias.info",
-        "last_change_date": "2014-08-14T00:00:00+00:00"
+        "org": "Identity Digital Limited",
+        "adr": "c/o Identity Digital Inc.\n10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)",
+        "tel": "+1.425.671.0020",
+        "email": "tldtech@identity.digital",
+        "last_change_date": "2025-08-28T00:00:00+00:00"
       }
     },
     "secureDNS": {
@@ -53374,11 +53374,11 @@
       },
       "technical": {
         "fn": "Senior Director, DNS Infrastructure Group",
-        "org": "Afilias",
-        "adr": "300 Welsh Road\nBuilding 3, Suite 105\nHorsham PA 19044\nUnited States of America (the)",
-        "tel": "+1 215.706.5701",
-        "email": "tld-tech-poc@afilias.info",
-        "last_change_date": "2015-07-11T00:00:00+00:00"
+        "org": "Identity Digital Limited",
+        "adr": "c/o Identity Digital Inc.\n10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)",
+        "tel": "+1.425.671.0020",
+        "email": "tldtech@identity.digital",
+        "last_change_date": "2025-08-28T00:00:00+00:00"
       }
     },
     "secureDNS": {
@@ -53454,11 +53454,11 @@
       },
       "technical": {
         "fn": "Senior Director, DNS Infrastructure Group",
-        "org": "Afilias",
-        "adr": "300 Welsh Road\nBuilding 3, Suite 105\nHorsham PA 19044\nUnited States of America (the)",
-        "tel": "+1.215.706.5701",
-        "email": "tld-tech-poc@afilias.info",
-        "last_change_date": "2015-07-11T00:00:00+00:00"
+        "org": "Identity Digital Limited",
+        "adr": "c/o Identity Digital Inc.\n10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)",
+        "tel": "+1.425.671.0020",
+        "email": "tldtech@identity.digital",
+        "last_change_date": "2025-08-28T00:00:00+00:00"
       }
     },
     "secureDNS": {

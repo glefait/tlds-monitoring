@@ -250,13 +250,13 @@
             "fn",
             {},
             "text",
-            "DotAsia Technical Contact"
+            "Senior Director, DNS Infrastructure Group"
           ],
           [
             "org",
             {},
             "text",
-            "DotAsia Organisation Ltd."
+            "Identity Digital Limited c/o Identity Digital Inc."
           ],
           [
             "role",
@@ -268,7 +268,7 @@
             "adr",
             {
               "type": "work",
-              "label": "12/F, Daily House\n35-37 Haiphong Road\nTsim Sha Tsui Kowloon\nHong Kong"
+              "label": "10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)"
             },
             "text",
             [
@@ -290,7 +290,7 @@
               ]
             },
             "text",
-            "+852 8171 1714"
+            "+1.425.298.2200"
           ],
           [
             "tel",
@@ -301,7 +301,7 @@
               ]
             },
             "text",
-            "+852 2125 8484"
+            "+1.425.671.0020"
           ],
           [
             "email",
@@ -311,7 +311,7 @@
               ]
             },
             "text",
-            "tech@iana.whois.asia"
+            "tldtech@identity.digital"
           ]
         ]
       ],
@@ -321,7 +321,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2023-01-18T00:00:00+00:00"
+          "eventDate": "2025-08-28T00:00:00+00:00"
         }
       ]
     }
@@ -329,7 +329,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2023-08-03T00:00:00+00:00"
+      "eventDate": "2025-08-28T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
