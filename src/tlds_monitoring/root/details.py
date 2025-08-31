@@ -8,6 +8,11 @@ import asyncio
 
 from tlds_monitoring.root import ROOT_TLD_FILE, DOMAIN_DIR_PATH, ROOT_TLD_DETAILS_FILE
 
+MAX_RETRY = 5
+RETRY_DELAY_SEC = 10
+CRAWL_ASYNC_MAX_CONNEXION = 10
+CRAWL_ASYNC_TIMEOUT = 30
+
 
 def get_tld_details_through_rdap_files(root_tlds):
     # for each tld, get details
@@ -22,19 +27,26 @@ def get_tld_details_through_rdap_files(root_tlds):
 
 
 async def fetch(session: aiohttp.ClientSession, sem, url, tld):
-    async with sem, session.get(url) as response:
-        return tld, await response.json()
+    for i in range(MAX_RETRY):
+        async with sem:
+            try:
+                async with session.get(url) as response:
+                    return tld, await response.json()
+            except Exception as e:
+                print(f"error {i}/{MAX_RETRY} for {tld}: {e}")
+                asyncio.sleep(RETRY_DELAY_SEC)
 
 
 async def async_get_tld_details_through_rdap_files(root_tlds):
     # for each tld, get details
-    timeout_seconds = 30  # let's be super patient
-    sem = asyncio.Semaphore(10)  # let's be super nice (aiohttp default is 100)
+    sem = asyncio.Semaphore(
+        CRAWL_ASYNC_MAX_CONNEXION
+    )  # let's be super nice (aiohttp default is 100)
     custom_timeout = aiohttp.ClientTimeout(
         total=0,
-        sock_connect=timeout_seconds,
-        sock_read=timeout_seconds,
-        connect=timeout_seconds,
+        sock_connect=CRAWL_ASYNC_TIMEOUT,
+        sock_read=CRAWL_ASYNC_TIMEOUT,
+        connect=CRAWL_ASYNC_TIMEOUT,
     )
     tasks = []
     async with aiohttp.ClientSession(timeout=custom_timeout) as session:
