@@ -58,24 +58,6 @@
     "delegationSigned": true,
     "dsData": [
       {
-        "keyTag": 26044,
-        "algorithm": 8,
-        "digestType": 1,
-        "digest": "2DAD1B7F8CA778464F536FDDD15EFD24CCCB62EF"
-      },
-      {
-        "keyTag": 26044,
-        "algorithm": 8,
-        "digestType": 2,
-        "digest": "BD01C4B4345D21FC38AA88129F7BC00FDD7B422799CC6703736E3B381F37DD5B"
-      },
-      {
-        "keyTag": 7807,
-        "algorithm": 8,
-        "digestType": 1,
-        "digest": "38669CB8E3C390506F58A6B8E0C6AD6E636798A3"
-      },
-      {
         "keyTag": 7807,
         "algorithm": 8,
         "digestType": 2,
@@ -301,7 +283,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2024-05-29T00:00:00+00:00"
+      "eventDate": "2025-09-01T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
@@ -311,7 +293,7 @@
   "links": [
     {
       "rel": "related",
-      "href": "http://domainreg.btcl.com.bd/",
+      "href": "https://bdia.btcl.com.bd/",
       "title": "Registration URL",
       "type": "text/html"
     },

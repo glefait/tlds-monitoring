@@ -10286,24 +10286,6 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 26044,
-          "algorithm": 8,
-          "digestType": 1,
-          "digest": "2DAD1B7F8CA778464F536FDDD15EFD24CCCB62EF"
-        },
-        {
-          "keyTag": 26044,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "BD01C4B4345D21FC38AA88129F7BC00FDD7B422799CC6703736E3B381F37DD5B"
-        },
-        {
-          "keyTag": 7807,
-          "algorithm": 8,
-          "digestType": 1,
-          "digest": "38669CB8E3C390506F58A6B8E0C6AD6E636798A3"
-        },
-        {
           "keyTag": 7807,
           "algorithm": 8,
           "digestType": 2,
@@ -10315,7 +10297,7 @@
       "active"
     ],
     "port43": null,
-    "registration_url": "http://domainreg.btcl.com.bd/",
+    "registration_url": "https://bdia.btcl.com.bd/",
     "creation_date": "1999-05-20T00:00:00+00:00"
   },
   "be": {
@@ -23132,12 +23114,6 @@
     "secureDNS": {
       "delegationSigned": true,
       "dsData": [
-        {
-          "keyTag": 26533,
-          "algorithm": 10,
-          "digestType": 2,
-          "digest": "B3A50F0FE5E706E83B98EAFE1AE7AC0DBB95219C8C6EAFB94CE1DE36B2A7F51F"
-        },
         {
           "keyTag": 38647,
           "algorithm": 8,
@@ -57136,12 +57112,6 @@
     "secureDNS": {
       "delegationSigned": true,
       "dsData": [
-        {
-          "keyTag": 48568,
-          "algorithm": 10,
-          "digestType": 2,
-          "digest": "0D64B2D9B1A06897BB24383F1200BCA0E4F4307AA18A9DFAAC28163111F95B44"
-        },
         {
           "keyTag": 38539,
           "algorithm": 8,
@@ -101652,12 +101622,6 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 49289,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "79FE828514049FE47CF888BD5BCC827503356C085951AAF089894C61C28F7496"
-        },
-        {
           "keyTag": 52354,
           "algorithm": 8,
           "digestType": 2,
@@ -111080,12 +111044,6 @@
     "secureDNS": {
       "delegationSigned": true,
       "dsData": [
-        {
-          "keyTag": 57889,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "E2AA9BA196C7D4F10A8320A710FC24AD4BC86CE362239C307AF3B875D5CF44C7"
-        },
         {
           "keyTag": 43762,
           "algorithm": 8,
