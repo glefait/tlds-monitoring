@@ -26816,18 +26816,7 @@
                 ]
               },
               "text",
-              "+852 8171 1714"
-            ],
-            [
-              "tel",
-              {
-                "type": [
-                  "work",
-                  "fax"
-                ]
-              },
-              "text",
-              "+852 2125 8484"
+              "+852 4448 0857"
             ],
             [
               "email",
@@ -26847,7 +26836,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2023-01-18T00:00:00+00:00"
+            "eventDate": "2025-09-01T00:00:00+00:00"
           }
         ]
       },
@@ -26945,7 +26934,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-08-28T00:00:00+00:00"
+        "eventDate": "2025-09-01T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -302228,7 +302217,7 @@
                 ]
               },
               "text",
-              "+234 8022912202"
+              "+234 806 269 6840"
             ],
             [
               "email",
@@ -302248,7 +302237,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2016-10-18T00:00:00+00:00"
+            "eventDate": "2025-09-01T00:00:00+00:00"
           }
         ]
       },
@@ -302307,7 +302296,7 @@
                 ]
               },
               "text",
-              "+234 9094531463"
+              "+234 803 348 0113"
             ],
             [
               "email",
@@ -302317,7 +302306,7 @@
                 ]
               },
               "text",
-              "dnsadmin@nira.org.ng"
+              "tech_support@nira.org.ng"
             ]
           ]
         ],
@@ -302327,7 +302316,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2016-10-18T00:00:00+00:00"
+            "eventDate": "2025-09-01T00:00:00+00:00"
           }
         ]
       }
@@ -302335,7 +302324,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2023-03-13T00:00:00+00:00"
+        "eventDate": "2025-09-01T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
