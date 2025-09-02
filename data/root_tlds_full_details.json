@@ -235148,18 +235148,7 @@
                 ]
               },
               "text",
-              "+852 8171 1714"
-            ],
-            [
-              "tel",
-              {
-                "type": [
-                  "work",
-                  "fax"
-                ]
-              },
-              "text",
-              "+852 2125 8484"
+              "+852 4448 0857"
             ],
             [
               "email",
@@ -235179,7 +235168,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2023-01-18T00:00:00+00:00"
+            "eventDate": "2025-09-02T00:00:00+00:00"
           }
         ]
       },
@@ -235277,7 +235266,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-08-27T00:00:00+00:00"
+        "eventDate": "2025-09-02T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
