@@ -84,7 +84,7 @@
             "fn",
             {},
             "text",
-            "NRA Holdings Company, INC."
+            "National Rifle Association of America"
           ],
           [
             "role",
@@ -117,7 +117,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2020-12-10T00:00:00+00:00"
+          "eventDate": "2025-09-04T00:00:00+00:00"
         }
       ]
     },
@@ -142,7 +142,7 @@
             "org",
             {},
             "text",
-            "NRA Holdings Company, INC."
+            "National Rifle Association of America"
           ],
           [
             "role",
@@ -176,7 +176,7 @@
               ]
             },
             "text",
-            "(703) 267-1518"
+            "+1703.267.1518"
           ],
           [
             "tel",
@@ -187,7 +187,7 @@
               ]
             },
             "text",
-            "(703) 267-3835"
+            "+1703.267.3835"
           ],
           [
             "email",
@@ -207,7 +207,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2014-07-18T00:00:00+00:00"
+          "eventDate": "2025-09-04T00:00:00+00:00"
         }
       ]
     },
@@ -232,7 +232,7 @@
             "org",
             {},
             "text",
-            "Afilias"
+            "Identity Digital Limited"
           ],
           [
             "role",
@@ -244,7 +244,7 @@
             "adr",
             {
               "type": "work",
-              "label": "300 Welsh Road\nBuilding 3, Suite 105\nHorsham PA 19044\nUnited States of America (the)"
+              "label": "300 Welsh Road\nBuilding 3, Suite 105 to c/o Identity Digital Inc.\n10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)"
             },
             "text",
             [
@@ -266,7 +266,7 @@
               ]
             },
             "text",
-            "+1 215.706.5700"
+            "+1.425.298.2200"
           ],
           [
             "tel",
@@ -277,7 +277,7 @@
               ]
             },
             "text",
-            "+1 215.706.5701"
+            "+1.425.671.0020"
           ],
           [
             "email",
@@ -287,7 +287,7 @@
               ]
             },
             "text",
-            "tld-tech-poc@afilias.info"
+            "tldtech@identity.digital"
           ]
         ]
       ],
@@ -297,7 +297,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2014-07-18T00:00:00+00:00"
+          "eventDate": "2025-09-04T00:00:00+00:00"
         }
       ]
     }
@@ -305,7 +305,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2023-08-08T00:00:00+00:00"
+      "eventDate": "2025-09-04T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
