@@ -104740,20 +104740,20 @@
     },
     "entities": {
       "registrant": {
-        "fn": "Ministry of Justice, Communications and Foreign Affairs",
+        "fn": "Ministry of Transport, Energy, Communications and Innovations",
         "org": null,
         "adr": "2 Vaiaku Rd\nVaiaku Funafuti\nTuvalu",
         "tel": null,
         "email": null,
-        "last_change_date": "2023-01-18T00:00:00+00:00"
+        "last_change_date": "2025-09-04T00:00:00+00:00"
       },
       "administrative": {
-        "fn": "Ministry of Justice, Communications and Foreign Affairs",
+        "fn": "Ministry of Transport, Energy, Communications and Innovations",
         "org": null,
         "adr": "2 Vaiaku Rd\nVaiaku Funafuti\nTuvalu",
         "tel": "+(688) 20069",
         "email": "ict@gov.tv",
-        "last_change_date": "2023-01-18T00:00:00+00:00"
+        "last_change_date": "2025-09-04T00:00:00+00:00"
       },
       "technical": {
         "fn": "IANA Contact",

@@ -108,7 +108,7 @@
             "fn",
             {},
             "text",
-            "Ministry of Justice, Communications and Foreign Affairs"
+            "Ministry of Transport, Energy, Communications and Innovations"
           ],
           [
             "role",
@@ -141,7 +141,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2023-01-18T00:00:00+00:00"
+          "eventDate": "2025-09-04T00:00:00+00:00"
         }
       ]
     },
@@ -160,7 +160,7 @@
             "fn",
             {},
             "text",
-            "Ministry of Justice, Communications and Foreign Affairs"
+            "Ministry of Transport, Energy, Communications and Innovations"
           ],
           [
             "role",
@@ -214,7 +214,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2023-01-18T00:00:00+00:00"
+          "eventDate": "2025-09-04T00:00:00+00:00"
         }
       ]
     },
@@ -312,7 +312,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2025-08-21T00:00:00+00:00"
+      "eventDate": "2025-09-04T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
