@@ -47071,7 +47071,15 @@
       }
     ],
     "secureDNS": {
-      "delegationSigned": false
+      "delegationSigned": true,
+      "dsData": [
+        {
+          "keyTag": 11190,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "6159C2681DA8D601BFFAFD0AB4AFE89A1475E5CB709AD53DC40E787C3D426B48"
+        }
+      ]
     },
     "status": [
       "active"
@@ -47291,7 +47299,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-07-07T00:00:00+00:00"
+        "eventDate": "2025-09-05T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
