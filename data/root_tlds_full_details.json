@@ -454650,7 +454650,7 @@
     "nameservers": [
       {
         "objectClassName": "nameserver",
-        "ldhName": "ns1.tldns.vu",
+        "ldhName": "a.tldns.vu",
         "ipAddresses": {
           "v4": [
             "37.209.192.6"
@@ -454662,7 +454662,7 @@
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "ns2.tldns.vu",
+        "ldhName": "b.tldns.vu",
         "ipAddresses": {
           "v4": [
             "37.209.194.6"
@@ -454674,7 +454674,7 @@
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "ns3.tldns.vu",
+        "ldhName": "c.tldns.vu",
         "ipAddresses": {
           "v4": [
             "37.209.196.6"
@@ -454686,13 +454686,37 @@
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "ns4.tldns.vu",
+        "ldhName": "x.tldns.vu",
         "ipAddresses": {
           "v4": [
-            "37.209.198.6"
+            "156.154.103.22"
           ],
           "v6": [
-            "2001:dcd:4::6"
+            "2610:a1:1010::22"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "y.tldns.vu",
+        "ipAddresses": {
+          "v4": [
+            "156.154.104.22"
+          ],
+          "v6": [
+            "2610:a1:1011::22"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "z.tldns.vu",
+        "ipAddresses": {
+          "v4": [
+            "156.154.105.22"
+          ],
+          "v6": [
+            "2610:a1:1012::22"
           ]
         }
       }
@@ -454948,7 +454972,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2024-05-21T00:00:00+00:00"
+        "eventDate": "2025-09-05T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
