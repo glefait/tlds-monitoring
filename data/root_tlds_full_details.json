@@ -90520,7 +90520,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-05-15T00:00:00+00:00"
+        "eventDate": "2025-09-08T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -90536,7 +90536,7 @@
       },
       {
         "rel": "alternate",
-        "href": "https://whois.uniregistry.net/rdap/",
+        "href": "https://rdap.tucowsregistry.net/rdap/",
         "title": "RDAP Server",
         "type": "application/rdap+json"
       },
@@ -102303,7 +102303,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-05-15T00:00:00+00:00"
+        "eventDate": "2025-09-08T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -102319,7 +102319,7 @@
       },
       {
         "rel": "alternate",
-        "href": "https://whois.uniregistry.net/rdap/",
+        "href": "https://rdap.tucowsregistry.net/rdap/",
         "title": "RDAP Server",
         "type": "application/rdap+json"
       },
@@ -123249,7 +123249,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-05-15T00:00:00+00:00"
+        "eventDate": "2025-09-08T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -123265,7 +123265,7 @@
       },
       {
         "rel": "alternate",
-        "href": "https://rdap.nic.diy/rdap/",
+        "href": "https://rdap.tucowsregistry.net/rdap/",
         "title": "RDAP Server",
         "type": "application/rdap+json"
       },
@@ -158221,7 +158221,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-05-15T00:00:00+00:00"
+        "eventDate": "2025-09-08T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -158237,7 +158237,7 @@
       },
       {
         "rel": "alternate",
-        "href": "https://rdap.nic.food/rdap/",
+        "href": "https://rdap.tucowsregistry.net/rdap/",
         "title": "RDAP Server",
         "type": "application/rdap+json"
       },
@@ -197456,7 +197456,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-05-15T00:00:00+00:00"
+        "eventDate": "2025-09-08T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -197472,7 +197472,7 @@
       },
       {
         "rel": "alternate",
-        "href": "https://whois.uniregistry.net/rdap/",
+        "href": "https://rdap.tucowsregistry.net/rdap/",
         "title": "RDAP Server",
         "type": "application/rdap+json"
       },
@@ -252838,7 +252838,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-05-15T00:00:00+00:00"
+        "eventDate": "2025-09-08T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -252854,7 +252854,7 @@
       },
       {
         "rel": "alternate",
-        "href": "https://rdap.nic.lifestyle/rdap/",
+        "href": "https://rdap.tucowsregistry.net/rdap/",
         "title": "RDAP Server",
         "type": "application/rdap+json"
       },
@@ -256253,7 +256253,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-05-15T00:00:00+00:00"
+        "eventDate": "2025-09-08T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -256269,7 +256269,7 @@
       },
       {
         "rel": "alternate",
-        "href": "https://rdap.nic.living/rdap/",
+        "href": "https://rdap.tucowsregistry.net/rdap/",
         "title": "RDAP Server",
         "type": "application/rdap+json"
       },
@@ -342350,7 +342350,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-05-15T00:00:00+00:00"
+        "eventDate": "2025-09-08T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -342366,7 +342366,7 @@
       },
       {
         "rel": "alternate",
-        "href": "https://whois.uniregistry.net/rdap/",
+        "href": "https://rdap.tucowsregistry.net/rdap/",
         "title": "RDAP Server",
         "type": "application/rdap+json"
       },
@@ -380966,7 +380966,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-05-15T00:00:00+00:00"
+        "eventDate": "2025-09-08T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -380982,7 +380982,7 @@
       },
       {
         "rel": "alternate",
-        "href": "https://whois.uniregistry.net/rdap/",
+        "href": "https://rdap.tucowsregistry.net/rdap/",
         "title": "RDAP Server",
         "type": "application/rdap+json"
       },
@@ -433592,7 +433592,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-05-15T00:00:00+00:00"
+        "eventDate": "2025-09-08T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -433608,7 +433608,7 @@
       },
       {
         "rel": "alternate",
-        "href": "https://whois.uniregistry.net/rdap/",
+        "href": "https://rdap.tucowsregistry.net/rdap/",
         "title": "RDAP Server",
         "type": "application/rdap+json"
       },
@@ -443332,7 +443332,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-05-15T00:00:00+00:00"
+        "eventDate": "2025-09-08T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -443348,7 +443348,7 @@
       },
       {
         "rel": "alternate",
-        "href": "https://rdap.nic.vana/rdap/",
+        "href": "https://rdap.tucowsregistry.net/rdap/",
         "title": "RDAP Server",
         "type": "application/rdap+json"
       },
