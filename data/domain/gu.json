@@ -31,7 +31,7 @@
           "193.0.9.78"
         ],
         "v6": [
-          "2001:67c:e0::78"
+          "2a13:27c0:30::78"
         ]
       }
     },
@@ -291,7 +291,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2022-08-04T00:00:00+00:00"
+      "eventDate": "2025-09-08T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
