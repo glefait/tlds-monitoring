@@ -259,13 +259,13 @@
             "fn",
             {},
             "text",
-            "Marc Houareau"
+            "Jitender Kumar"
           ],
           [
             "org",
             {},
             "text",
-            "VCS Pty Ltd"
+            "Identity Digital"
           ],
           [
             "role",
@@ -277,7 +277,7 @@
             "adr",
             {
               "type": "work",
-              "label": "P.O. Box 1000\nVictoria Mahe\nSeychelles"
+              "label": "Level 22\n120 Spencer Street\nMelbourne Victoria 3000\nAustralia"
             },
             "text",
             [
@@ -299,18 +299,7 @@
               ]
             },
             "text",
-            "+248 2513532"
-          ],
-          [
-            "tel",
-            {
-              "type": [
-                "work",
-                "fax"
-              ]
-            },
-            "text",
-            "+248 4324056"
+            "+61399450650"
           ],
           [
             "email",
@@ -320,7 +309,7 @@
               ]
             },
             "text",
-            "marchouareau@gmail.com"
+            "jkumar@identity.digital"
           ]
         ]
       ],
@@ -330,7 +319,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2018-03-16T00:00:00+00:00"
+          "eventDate": "2025-09-09T00:00:00+00:00"
         }
       ]
     }
@@ -338,7 +327,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2024-04-29T00:00:00+00:00"
+      "eventDate": "2025-09-09T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
