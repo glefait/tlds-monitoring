@@ -230700,49 +230700,73 @@
     "nameservers": [
       {
         "objectClassName": "nameserver",
-        "ldhName": "ns01.trs-dns.com",
+        "ldhName": "v0n0.nic.juegos",
         "ipAddresses": {
           "v4": [
-            "64.96.1.1"
+            "65.22.36.1"
           ],
           "v6": [
-            "2620:57:4001::1"
+            "2a01:8840:26::1"
           ]
         }
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "ns01.trs-dns.info",
+        "ldhName": "v0n1.nic.juegos",
         "ipAddresses": {
           "v4": [
-            "185.159.198.3"
+            "65.22.37.1"
           ],
           "v6": [
-            "2620:10a:80ab::3"
+            "2a01:8840:27::1"
           ]
         }
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "ns01.trs-dns.net",
+        "ldhName": "v0n2.nic.juegos",
         "ipAddresses": {
           "v4": [
-            "64.96.2.1"
+            "65.22.38.1"
           ],
           "v6": [
-            "2620:57:4002::1"
+            "2a01:8840:28::1"
           ]
         }
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "ns01.trs-dns.org",
+        "ldhName": "v0n3.nic.juegos",
         "ipAddresses": {
           "v4": [
-            "185.159.197.3"
+            "161.232.18.1"
           ],
           "v6": [
-            "2620:10a:80aa::3"
+            "2a01:8840:10e::1"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "v2n0.nic.juegos",
+        "ipAddresses": {
+          "v4": [
+            "65.22.39.1"
+          ],
+          "v6": [
+            "2a01:8840:29::1"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "v2n1.nic.juegos",
+        "ipAddresses": {
+          "v4": [
+            "161.232.19.1"
+          ],
+          "v6": [
+            "2a01:8840:10f::1"
           ]
         }
       }
@@ -230993,7 +231017,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-08-30T00:00:00+00:00"
+        "eventDate": "2025-09-10T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
