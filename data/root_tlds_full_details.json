@@ -147793,7 +147793,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-05-23T00:00:00+00:00"
+        "eventDate": "2025-09-15T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -147803,13 +147803,13 @@
     "links": [
       {
         "rel": "related",
-        "href": "https://nic.love",
+        "href": "https://nic.feedback",
         "title": "Registration URL",
         "type": "text/html"
       },
       {
         "rel": "alternate",
-        "href": "https://rdap.nic.feedback/rdap/",
+        "href": "https://rdap.registry.click/rdap/",
         "title": "RDAP Server",
         "type": "application/rdap+json"
       },
@@ -330392,7 +330392,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-05-23T00:00:00+00:00"
+        "eventDate": "2025-09-15T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -330408,7 +330408,7 @@
       },
       {
         "rel": "alternate",
-        "href": "https://rdap.nic.pid/rdap/",
+        "href": "https://rdap.registry.click/rdap/",
         "title": "RDAP Server",
         "type": "application/rdap+json"
       },
