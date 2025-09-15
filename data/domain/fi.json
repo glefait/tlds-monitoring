@@ -67,6 +67,18 @@
     },
     {
       "objectClassName": "nameserver",
+      "ldhName": "f.fi",
+      "ipAddresses": {
+        "v4": [
+          "80.248.170.230"
+        ],
+        "v6": [
+          "2a03:d640:100:1::6"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
       "ldhName": "g.fi",
       "ipAddresses": {
         "v4": [
@@ -343,7 +355,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2025-05-19T00:00:00+00:00"
+      "eventDate": "2025-09-15T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
