@@ -277922,6 +277922,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "3BAA83867103D6604A124282063F295E1B15C87CC13CB875A42F5754A912EBE0"
+        },
+        {
+          "keyTag": 45019,
+          "algorithm": 8,
+          "digestType": 2,
+          "digest": "28E0BC91841D398A8D96BE5115F3EB780A440A75ACDF4FB6A735F60A422BD437"
         }
       ]
     },
@@ -278143,7 +278149,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-07-08T00:00:00+00:00"
+        "eventDate": "2025-09-18T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
