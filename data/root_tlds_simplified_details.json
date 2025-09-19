@@ -83251,18 +83251,18 @@
       "registrant": {
         "fn": "PointQu\u00e9bec Inc",
         "org": null,
-        "adr": "202-1100, boul. Cr\u00e9mazie Est\nMontr\u00e9al QC H2P 2X2\nCanada",
+        "adr": "101-82, Sherbrooke Ouest\nMontr\u00e9al QC H2X 1X3\nCanada",
         "tel": null,
         "email": null,
-        "last_change_date": "2023-09-13T00:00:00+00:00"
+        "last_change_date": "2025-09-19T00:00:00+00:00"
       },
       "administrative": {
         "fn": "Normand Fortier",
-        "org": "Normand",
-        "adr": "202-1100, boul. Cr\u00e9mazie Est\nMontr\u00e9al QC H2P 2X2\nCanada",
+        "org": "PointQu\u00e9bec",
+        "adr": "101-82, Sherbrooke Ouest\nMontr\u00e9al QC H2X 1X3\nCanada",
         "tel": "+1.877-917-9904",
         "email": "normand@registre.quebec",
-        "last_change_date": "2023-09-12T00:00:00+00:00"
+        "last_change_date": "2025-09-19T00:00:00+00:00"
       },
       "technical": {
         "fn": "TLD Technical Contact",

@@ -346701,7 +346701,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "202-1100, boul. Cr\u00e9mazie Est\nMontr\u00e9al QC H2P 2X2\nCanada"
+                "label": "101-82, Sherbrooke Ouest\nMontr\u00e9al QC H2X 1X3\nCanada"
               },
               "text",
               [
@@ -346722,7 +346722,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2023-09-13T00:00:00+00:00"
+            "eventDate": "2025-09-19T00:00:00+00:00"
           }
         ]
       },
@@ -346747,7 +346747,7 @@
               "org",
               {},
               "text",
-              "Normand"
+              "PointQu\u00e9bec"
             ],
             [
               "role",
@@ -346759,7 +346759,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "202-1100, boul. Cr\u00e9mazie Est\nMontr\u00e9al QC H2P 2X2\nCanada"
+                "label": "101-82, Sherbrooke Ouest\nMontr\u00e9al QC H2X 1X3\nCanada"
               },
               "text",
               [
@@ -346812,7 +346812,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2023-09-12T00:00:00+00:00"
+            "eventDate": "2025-09-19T00:00:00+00:00"
           }
         ]
       },
@@ -346910,7 +346910,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2023-09-13T00:00:00+00:00"
+        "eventDate": "2025-09-19T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
