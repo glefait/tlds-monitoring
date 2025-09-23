@@ -66811,12 +66811,6 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 63500,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "3BAA83867103D6604A124282063F295E1B15C87CC13CB875A42F5754A912EBE0"
-        },
-        {
           "keyTag": 45019,
           "algorithm": 8,
           "digestType": 2,
