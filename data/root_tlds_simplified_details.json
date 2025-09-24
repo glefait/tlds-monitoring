@@ -22582,6 +22582,22 @@
   "co": {
     "unicodeName": "co",
     "nameservers": {
+      "a.registrydns.co": {
+        "v4": [
+          "194.169.218.57"
+        ],
+        "v6": [
+          "2001:67c:13cc::1:57"
+        ]
+      },
+      "b.registrydns.co": {
+        "v4": [
+          "185.24.64.57"
+        ],
+        "v6": [
+          "2a04:2b00:13cc::1:57"
+        ]
+      },
       "ns1.cctld.co": {
         "v4": [
           "37.209.192.14"
@@ -22598,30 +22614,6 @@
           "2001:dcd:2::14"
         ]
       },
-      "ns3.cctld.co": {
-        "v4": [
-          "37.209.196.14"
-        ],
-        "v6": [
-          "2001:dcd:3::14"
-        ]
-      },
-      "ns4.cctld.co": {
-        "v4": [
-          "156.154.103.25"
-        ],
-        "v6": [
-          "2610:a1:1010::21"
-        ]
-      },
-      "ns5.cctld.co": {
-        "v4": [
-          "156.154.104.25"
-        ],
-        "v6": [
-          "2610:a1:1011::21"
-        ]
-      },
       "ns6.cctld.co": {
         "v4": [
           "156.154.105.25"
@@ -22636,14 +22628,6 @@
         ],
         "v6": [
           "2610:a1:3180::53"
-        ]
-      },
-      "ns8.cctld.co": {
-        "v4": [
-          "204.74.107.1"
-        ],
-        "v6": [
-          "2610:a1:3280::53"
         ]
       }
     },
@@ -55649,12 +55633,12 @@
         "last_change_date": "2024-04-11T00:00:00+00:00"
       },
       "technical": {
-        "fn": "Francisco Obispo",
-        "org": "Tucows.com, Co.",
-        "adr": "96 Mowat Avenue\nToronto ON M6K3M1\nCanada",
-        "tel": "+1 (416) 535-0123",
-        "email": "trs-ops@tucows.com",
-        "last_change_date": "2025-05-15T00:00:00+00:00"
+        "fn": "Senior Director, DNS Infrastructure Group",
+        "org": "Identity Digital Limited",
+        "adr": "c/o Identity Digital Inc.\n10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)",
+        "tel": "+1.425.671.0020",
+        "email": "tldtech@identity.digital",
+        "last_change_date": "2025-09-24T00:00:00+00:00"
       }
     },
     "secureDNS": {

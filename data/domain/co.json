@@ -7,6 +7,30 @@
   "nameservers": [
     {
       "objectClassName": "nameserver",
+      "ldhName": "a.registrydns.co",
+      "ipAddresses": {
+        "v4": [
+          "194.169.218.57"
+        ],
+        "v6": [
+          "2001:67c:13cc::1:57"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "b.registrydns.co",
+      "ipAddresses": {
+        "v4": [
+          "185.24.64.57"
+        ],
+        "v6": [
+          "2a04:2b00:13cc::1:57"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
       "ldhName": "ns1.cctld.co",
       "ipAddresses": {
         "v4": [
@@ -31,42 +55,6 @@
     },
     {
       "objectClassName": "nameserver",
-      "ldhName": "ns3.cctld.co",
-      "ipAddresses": {
-        "v4": [
-          "37.209.196.14"
-        ],
-        "v6": [
-          "2001:dcd:3::14"
-        ]
-      }
-    },
-    {
-      "objectClassName": "nameserver",
-      "ldhName": "ns4.cctld.co",
-      "ipAddresses": {
-        "v4": [
-          "156.154.103.25"
-        ],
-        "v6": [
-          "2610:a1:1010::21"
-        ]
-      }
-    },
-    {
-      "objectClassName": "nameserver",
-      "ldhName": "ns5.cctld.co",
-      "ipAddresses": {
-        "v4": [
-          "156.154.104.25"
-        ],
-        "v6": [
-          "2610:a1:1011::21"
-        ]
-      }
-    },
-    {
-      "objectClassName": "nameserver",
       "ldhName": "ns6.cctld.co",
       "ipAddresses": {
         "v4": [
@@ -86,18 +74,6 @@
         ],
         "v6": [
           "2610:a1:3180::53"
-        ]
-      }
-    },
-    {
-      "objectClassName": "nameserver",
-      "ldhName": "ns8.cctld.co",
-      "ipAddresses": {
-        "v4": [
-          "204.74.107.1"
-        ],
-        "v6": [
-          "2610:a1:3280::53"
         ]
       }
     }
@@ -348,7 +324,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2025-09-16T00:00:00+00:00"
+      "eventDate": "2025-09-24T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
