@@ -55645,6 +55645,12 @@
       "delegationSigned": true,
       "dsData": [
         {
+          "keyTag": 29108,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "A05CE9AC7DD78B8C400AEE67A0F85D3AA82B99C07745748021A53BC35E9FC0F3"
+        },
+        {
           "keyTag": 41009,
           "algorithm": 13,
           "digestType": 2,
@@ -55656,7 +55662,7 @@
       "active"
     ],
     "port43": null,
-    "registration_url": "https://www.identity.digital/",
+    "registration_url": "http://uniregistry.link",
     "creation_date": "2014-05-08T00:00:00+00:00"
   },
   "juniper": {
