@@ -82,12 +82,6 @@
     "delegationSigned": true,
     "dsData": [
       {
-        "keyTag": 29108,
-        "algorithm": 13,
-        "digestType": 2,
-        "digest": "A05CE9AC7DD78B8C400AEE67A0F85D3AA82B99C07745748021A53BC35E9FC0F3"
-      },
-      {
         "keyTag": 41009,
         "algorithm": 13,
         "digestType": 2,
@@ -335,7 +329,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2025-09-24T00:00:00+00:00"
+      "eventDate": "2025-09-25T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
@@ -345,13 +339,13 @@
   "links": [
     {
       "rel": "related",
-      "href": "http://uniregistry.link",
+      "href": "https://www.identity.digital/",
       "title": "Registration URL",
       "type": "text/html"
     },
     {
       "rel": "alternate",
-      "href": "https://whois.uniregistry.net/rdap/",
+      "href": "https://rdap.identitydigital.services/rdap/",
       "title": "RDAP Server",
       "type": "application/rdap+json"
     },
