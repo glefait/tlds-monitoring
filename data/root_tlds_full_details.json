@@ -93612,49 +93612,25 @@
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "ns1.cctld.co",
+        "ldhName": "c.registrydns.co",
         "ipAddresses": {
           "v4": [
-            "37.209.192.14"
+            "212.18.248.57"
           ],
           "v6": [
-            "2001:dcd:1::14"
+            "2a04:2b00:13ee::57"
           ]
         }
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "ns2.cctld.co",
+        "ldhName": "d.registrydns.co",
         "ipAddresses": {
           "v4": [
-            "37.209.194.14"
+            "212.18.249.57"
           ],
           "v6": [
-            "2001:dcd:2::14"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "ns6.cctld.co",
-        "ipAddresses": {
-          "v4": [
-            "156.154.105.25"
-          ],
-          "v6": [
-            "2610:a1:1012::21"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "ns7.cctld.co",
-        "ipAddresses": {
-          "v4": [
-            "204.74.105.1"
-          ],
-          "v6": [
-            "2610:a1:3180::53"
+            "2a04:2b00:13ff::57"
           ]
         }
       }
@@ -93905,7 +93881,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-09-24T00:00:00+00:00"
+        "eventDate": "2025-09-30T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -230413,10 +230389,10 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 14500,
+          "keyTag": 1915,
           "algorithm": 8,
           "digestType": 2,
-          "digest": "1E07F9BC32099270BD8B9B91452FFBD6C04E5D4BF7B002703110D5C091DF045D"
+          "digest": "D2D8B07B59B3127E2890A593A1424CBA519989A20D39A1809B860314A6BEC199"
         }
       ]
     },
@@ -230649,7 +230625,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2024-11-29T00:00:00+00:00"
+        "eventDate": "2025-09-30T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -438558,9 +438534,6 @@
         "ipAddresses": {
           "v4": [
             "204.61.216.60"
-          ],
-          "v6": [
-            "2001:500:14:6060:ad::1"
           ]
         }
       },
@@ -438605,7 +438578,7 @@
             "193.0.9.52"
           ],
           "v6": [
-            "2001:67c:e0::52"
+            "2a13:27c0:30::52"
           ]
         }
       }
@@ -438861,7 +438834,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2012-10-26T00:00:00+00:00"
+        "eventDate": "2025-09-30T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
