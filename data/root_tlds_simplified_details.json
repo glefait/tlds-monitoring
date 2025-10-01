@@ -8276,9 +8276,17 @@
   "ba": {
     "unicodeName": "ba",
     "nameservers": {
-      "ns.ba": {
+      "bosna.utic.net.ba": {
         "v4": [
           "195.130.35.5"
+        ]
+      },
+      "lim.utic.net.ba": {
+        "v4": [
+          "194.0.25.38"
+        ],
+        "v6": [
+          "2001:678:20::38"
         ]
       },
       "sava.utic.net.ba": {
@@ -31512,12 +31520,12 @@
         "last_change_date": "2019-04-19T00:00:00+00:00"
       },
       "administrative": {
-        "fn": "Administrative Manager",
+        "fn": "Aouaouche El-Maouhab",
         "org": "CERIST",
         "adr": "Rue des Trois Freres Aissiou\nBen-Aknoun Algiers 16035\nAlgeria",
         "tel": "+213 23 25 54 02",
         "email": "dznicman@nic.dz",
-        "last_change_date": "2019-04-15T00:00:00+00:00"
+        "last_change_date": "2025-10-01T00:00:00+00:00"
       },
       "technical": {
         "fn": "Aouaouche El-Maouhab",
@@ -120214,12 +120222,12 @@
         "last_change_date": "2011-05-10T00:00:00+00:00"
       },
       "administrative": {
-        "fn": "DZ-NIC Manager",
+        "fn": "Aouaouche El-Maouhab",
         "org": "CERIST",
         "adr": "Rue des Trois Freres Aissiou\nBen-Aknoun Algiers 16035\nAlgeria",
-        "tel": "+213 21 91 62 10",
+        "tel": "+213 23 25 54 02",
         "email": "dznicman@nic.dz",
-        "last_change_date": "2011-05-10T00:00:00+00:00"
+        "last_change_date": "2025-10-01T00:00:00+00:00"
       },
       "technical": {
         "fn": "Aouaouche El-Maouhab",

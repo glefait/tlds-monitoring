@@ -7,10 +7,22 @@
   "nameservers": [
     {
       "objectClassName": "nameserver",
-      "ldhName": "ns.ba",
+      "ldhName": "bosna.utic.net.ba",
       "ipAddresses": {
         "v4": [
           "195.130.35.5"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "lim.utic.net.ba",
+      "ipAddresses": {
+        "v4": [
+          "194.0.25.38"
+        ],
+        "v6": [
+          "2001:678:20::38"
         ]
       }
     },
@@ -279,7 +291,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2020-02-01T00:00:00+00:00"
+      "eventDate": "2025-10-01T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
