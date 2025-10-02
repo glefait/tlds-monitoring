@@ -276386,7 +276386,7 @@
         "ldhName": "ns.nic.mg",
         "ipAddresses": {
           "v4": [
-            "196.192.42.153"
+            "196.43.214.3"
           ]
         }
       },
@@ -276643,7 +276643,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-06-12T00:00:00+00:00"
+        "eventDate": "2025-10-02T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
