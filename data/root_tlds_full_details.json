@@ -324610,6 +324610,18 @@
     "nameservers": [
       {
         "objectClassName": "nameserver",
+        "ldhName": "ns03.pf",
+        "ipAddresses": {
+          "v4": [
+            "103.254.227.99"
+          ],
+          "v6": [
+            "2402:6d00:1000::5"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
         "ldhName": "ns1.mana.pf",
         "ipAddresses": {
           "v4": [
@@ -324870,7 +324882,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2020-10-27T00:00:00+00:00"
+        "eventDate": "2025-10-03T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
