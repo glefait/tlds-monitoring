@@ -93825,13 +93825,13 @@
               "fn",
               {},
               "text",
-              "Gonzalo Romero"
+              "CTO"
             ],
             [
               "org",
               {},
               "text",
-              ".CO Internet S.A.S."
+              "CentralNic"
             ],
             [
               "role",
@@ -93843,7 +93843,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "Calle 93B # 12-28\nOficina 203\nBarrio Chico Norte (Chapinero)\nBogot\u00e1 D.C. 110221\nColombia"
+                "label": "Saddlers House, 4th Floor\n44 Gutter Lane\nLondon EC2V 6BR\nUnited Kingdom of Great Britain and Northern Ireland (the)"
               },
               "text",
               [
@@ -93865,7 +93865,18 @@
                 ]
               },
               "text",
-              "+57 (601) 794 89 99"
+              "+44 20 33 88 0600"
+            ],
+            [
+              "tel",
+              {
+                "type": [
+                  "work",
+                  "fax"
+                ]
+              },
+              "text",
+              "+44 20 33 88 0601"
             ],
             [
               "email",
@@ -93875,7 +93886,7 @@
                 ]
               },
               "text",
-              "gonzalo@cointernet.com.co"
+              "tld.ops@centralnic.com"
             ]
           ]
         ],
@@ -93885,7 +93896,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2025-06-20T00:00:00+00:00"
+            "eventDate": "2025-10-06T00:00:00+00:00"
           }
         ]
       }
@@ -93893,7 +93904,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-09-30T00:00:00+00:00"
+        "eventDate": "2025-10-06T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
