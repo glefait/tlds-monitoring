@@ -311,7 +311,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2025-10-06T00:00:00+00:00"
+      "eventDate": "2025-10-08T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
@@ -321,7 +321,7 @@
   "links": [
     {
       "rel": "related",
-      "href": "http://www.cointernet.com.co",
+      "href": "http://www.registry.co",
       "title": "Registration URL",
       "type": "text/html"
     },
