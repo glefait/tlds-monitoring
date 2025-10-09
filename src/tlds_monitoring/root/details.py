@@ -67,10 +67,11 @@ def main(data_path: str):
     # load existing root tlds
     with open(os.path.join(data_path, f"{ROOT_TLD_FILE}.json"), "r") as r:
         root_tlds = json.load(r)
-        loop = asyncio.get_event_loop()
-        tld_details = loop.run_until_complete(
-            async_get_tld_details_through_rdap_files(root_tlds)
-        )
+        asyncio.run(async_get_tld_details_through_rdap_files(root_tlds))
+        # loop = asyncio.get_event_loop()
+        # tld_details = loop.run_until_complete(
+        #     async_get_tld_details_through_rdap_files(root_tlds)
+        # )
         # tld_details = get_tld_details_through_rdap_files(root_tlds)
 
         # write the individual details
