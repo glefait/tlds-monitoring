@@ -1,4 +1,5 @@
 import json
+import logging
 import os
 import click
 from tlds_monitoring.root import ROOT_TLD_DETAILS_FILE, ROOT_TLD_SIMPLIFIED_DETAILS_FILE
@@ -7,6 +8,9 @@ from tlds_monitoring.root import ROOT_TLD_DETAILS_FILE, ROOT_TLD_SIMPLIFIED_DETA
 def simplify_root_tld(root_tlds_details):
     root_tlds_simplified = {}
     for tld, entity in root_tlds_details.items():
+        if int(entity.get("errorCode", 0)) == 404:
+            logging.warning(f"{tld} has probably been removed")
+            continue
         simplified = {
             "unicodeName": (
                 entity["unicodeName"] if "unicodeName" in entity else entity["ldhName"]
