@@ -31047,86 +31047,6 @@
     "registration_url": null,
     "creation_date": "2015-12-17T00:00:00+00:00"
   },
-  "dunlop": {
-    "unicodeName": "dunlop",
-    "nameservers": {
-      "a0.nic.dunlop": {
-        "v4": [
-          "65.22.120.33"
-        ],
-        "v6": [
-          "2a01:8840:76::33"
-        ]
-      },
-      "a2.nic.dunlop": {
-        "v4": [
-          "65.22.123.33"
-        ],
-        "v6": [
-          "2a01:8840:79::33"
-        ]
-      },
-      "b0.nic.dunlop": {
-        "v4": [
-          "65.22.121.33"
-        ],
-        "v6": [
-          "2a01:8840:77::33"
-        ]
-      },
-      "c0.nic.dunlop": {
-        "v4": [
-          "65.22.122.33"
-        ],
-        "v6": [
-          "2a01:8840:78::33"
-        ]
-      }
-    },
-    "entities": {
-      "registrant": {
-        "fn": "The Goodyear Tire & Rubber Company",
-        "org": null,
-        "adr": "1144 East Market Street\nAkron OH 44315\nUnited States of America (the)",
-        "tel": null,
-        "email": null,
-        "last_change_date": "2020-11-17T00:00:00+00:00"
-      },
-      "administrative": {
-        "fn": "Senior Counsel - Intellectual Property",
-        "org": "The Goodyear Tire & Rubber Company",
-        "adr": "1144 East Market Street\nAkron OH 44315\nUnited States of America (the)",
-        "tel": "+1.330.796.2122",
-        "email": "ngtld-dunlop@cscglobal.com",
-        "last_change_date": "2016-06-10T00:00:00+00:00"
-      },
-      "technical": {
-        "fn": "Senior Director, DNS Infrastructure Group",
-        "org": "Afilias",
-        "adr": "300 Welsh Road\nBuilding 3, Suite 105\nHorsham PA 19044\nUnited States of America (the)",
-        "tel": "+1 215.706.5701",
-        "email": "tld-tech-poc@afilias.info",
-        "last_change_date": "2016-06-10T00:00:00+00:00"
-      }
-    },
-    "secureDNS": {
-      "delegationSigned": true,
-      "dsData": [
-        {
-          "keyTag": 22897,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "03CD996F132FFD32BC1BB4F08122D4A4F6570BB9C2AB647BE9B1AF174E79AFAA"
-        }
-      ]
-    },
-    "status": [
-      "active"
-    ],
-    "port43": null,
-    "registration_url": "http://www.goodyear.com",
-    "creation_date": "2015-12-17T00:00:00+00:00"
-  },
   "dupont": {
     "unicodeName": "dupont",
     "nameservers": {
@@ -86981,10 +86901,10 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 18374,
+          "keyTag": 51575,
           "algorithm": 8,
           "digestType": 2,
-          "digest": "8058D0C088D9B3F7F30080E2B8C9804944301722A2CCE9EE66F6AC74FEB2E200"
+          "digest": "34CF735353060D9BD6347FF81ECFAAC24EC8F11971DC800249C64A21BC062775"
         }
       ]
     },
@@ -99306,10 +99226,10 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 21416,
+          "keyTag": 62327,
           "algorithm": 8,
           "digestType": 2,
-          "digest": "E33B55B67391B0647FD2F59AEFDD211384B14B32AA2C2DA16B1D8A6311A12396"
+          "digest": "D396BFD2DAA1C18EE0C05A112A18BC830BFD929BD8C278C1C7DC2D08EA42B110"
         }
       ]
     },
@@ -123246,10 +123166,10 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 31990,
+          "keyTag": 3769,
           "algorithm": 8,
           "digestType": 2,
-          "digest": "16167B01147AFBC571BFE702A4E1BF2E83A44D5EAAA4C818D8B1F62FB1FDEB1A"
+          "digest": "FE4BB838E51156D5886E9ECF3AF43F7E2D181FBFF1C94A12C7E742743FD6A82D"
         }
       ]
     },
