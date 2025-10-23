@@ -206,18 +206,7 @@
               ]
             },
             "text",
-            "+998 71 2384200"
-          ],
-          [
-            "tel",
-            {
-              "type": [
-                "work",
-                "fax"
-              ]
-            },
-            "text",
-            "+998 71 2384248"
+            "+998 90 9507330"
           ],
           [
             "email",
@@ -237,7 +226,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2018-08-28T00:00:00+00:00"
+          "eventDate": "2025-10-22T00:00:00+00:00"
         }
       ]
     },
@@ -296,18 +285,7 @@
               ]
             },
             "text",
-            "+998 71 2384200"
-          ],
-          [
-            "tel",
-            {
-              "type": [
-                "work",
-                "fax"
-              ]
-            },
-            "text",
-            "+998 71 2384248"
+            "+998 97 7888246"
           ],
           [
             "email",
@@ -327,7 +305,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2019-12-12T00:00:00+00:00"
+          "eventDate": "2025-10-22T00:00:00+00:00"
         }
       ]
     }
@@ -335,7 +313,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2025-04-17T00:00:00+00:00"
+      "eventDate": "2025-10-22T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
