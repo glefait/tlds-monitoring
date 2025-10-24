@@ -7,73 +7,49 @@
   "nameservers": [
     {
       "objectClassName": "nameserver",
-      "ldhName": "a.nic.safety",
+      "ldhName": "a0.nic.jeep",
       "ipAddresses": {
         "v4": [
-          "37.209.192.10"
+          "65.22.76.41"
         ],
         "v6": [
-          "2001:dcd:1::10"
+          "2a01:8840:4a::41"
         ]
       }
     },
     {
       "objectClassName": "nameserver",
-      "ldhName": "b.nic.safety",
+      "ldhName": "a2.nic.jeep",
       "ipAddresses": {
         "v4": [
-          "37.209.194.10"
+          "65.22.79.41"
         ],
         "v6": [
-          "2001:dcd:2::10"
+          "2a01:8840:4d::41"
         ]
       }
     },
     {
       "objectClassName": "nameserver",
-      "ldhName": "c.nic.safety",
+      "ldhName": "b0.nic.jeep",
       "ipAddresses": {
         "v4": [
-          "37.209.196.10"
+          "65.22.77.41"
         ],
         "v6": [
-          "2001:dcd:3::10"
+          "2a01:8840:4b::41"
         ]
       }
     },
     {
       "objectClassName": "nameserver",
-      "ldhName": "ns1.dns.nic.safety",
+      "ldhName": "c0.nic.jeep",
       "ipAddresses": {
         "v4": [
-          "156.154.144.148"
+          "65.22.78.41"
         ],
         "v6": [
-          "2610:a1:1071::94"
-        ]
-      }
-    },
-    {
-      "objectClassName": "nameserver",
-      "ldhName": "ns2.dns.nic.safety",
-      "ipAddresses": {
-        "v4": [
-          "156.154.145.148"
-        ],
-        "v6": [
-          "2610:a1:1072::94"
-        ]
-      }
-    },
-    {
-      "objectClassName": "nameserver",
-      "ldhName": "ns3.dns.nic.safety",
-      "ipAddresses": {
-        "v4": [
-          "156.154.159.148"
-        ],
-        "v6": [
-          "2610:a1:1073::94"
+          "2a01:8840:4c::41"
         ]
       }
     }
@@ -82,10 +58,10 @@
     "delegationSigned": true,
     "dsData": [
       {
-        "keyTag": 43762,
+        "keyTag": 49999,
         "algorithm": 8,
         "digestType": 2,
-        "digest": "BF2D17C54E9DDE52EB37F0D242A1C4C1051E15C18A2C2661C7A6CA58EE6C0407"
+        "digest": "F00A0B4B65ADAC570C2DBC81483367392EA9A86FFD17E4B3F042D446ACD1EA4B"
       }
     ]
   },
@@ -108,7 +84,7 @@
             "fn",
             {},
             "text",
-            "Safety Registry Services, LLC."
+            "FCA US LLC."
           ],
           [
             "role",
@@ -120,7 +96,7 @@
             "adr",
             {
               "type": "work",
-              "label": "100 Grainger Pkwy\nLake Forest IL 60045\nUnited States of America (the)"
+              "label": "1000 Chrysler Drive\nAuburn Hills MI 48326\nUnited States of America (the)"
             },
             "text",
             [
@@ -141,7 +117,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2022-07-21T00:00:00+00:00"
+          "eventDate": "2020-10-30T00:00:00+00:00"
         }
       ]
     },
@@ -160,13 +136,13 @@
             "fn",
             {},
             "text",
-            "Erwin Cruz"
+            "Sales & Marketing - IT Services Aftersales"
           ],
           [
             "org",
             {},
             "text",
-            "Safety Registry Services LLC"
+            "FCA US LLC."
           ],
           [
             "role",
@@ -178,7 +154,7 @@
             "adr",
             {
               "type": "work",
-              "label": "100 Grainger Pkwy\nLake Forest IL 60045\nUnited States of America (the)"
+              "label": "1000 Chrysler Drive\nAuburn Hills MI 48326\nUnited States of America (the)"
             },
             "text",
             [
@@ -200,7 +176,7 @@
               ]
             },
             "text",
-            "+1 847-535-4709"
+            "+1 248 512 2950"
           ],
           [
             "tel",
@@ -211,7 +187,7 @@
               ]
             },
             "text",
-            "+1 847-535-9243"
+            "+1 248 512 4053"
           ],
           [
             "email",
@@ -221,7 +197,7 @@
               ]
             },
             "text",
-            "safetyregistryservices@grainger.com"
+            "ngtld-fca@cscglobal.com"
           ]
         ]
       ],
@@ -231,7 +207,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2015-12-24T00:00:00+00:00"
+          "eventDate": "2016-07-28T00:00:00+00:00"
         }
       ]
     },
@@ -250,13 +226,13 @@
             "fn",
             {},
             "text",
-            "IANA Contact"
+            "Senior Director, DNS Infrastructure Group"
           ],
           [
             "org",
             {},
             "text",
-            "GoDaddy Registry"
+            "Afilias"
           ],
           [
             "role",
@@ -268,7 +244,7 @@
             "adr",
             {
               "type": "work",
-              "label": "100 S. Mill Ave, Suite 1600\nTempe AZ 85281\nUnited States of America (the)"
+              "label": "300 Welsh Road\nBuilding 3, Suite 105\nHorsham PA 19044\nUnited States of America (the)"
             },
             "text",
             [
@@ -290,7 +266,7 @@
               ]
             },
             "text",
-            "+1 480 505 8800"
+            "+1 215.706.5700"
           ],
           [
             "tel",
@@ -301,7 +277,7 @@
               ]
             },
             "text",
-            "+1 480 624 2546"
+            "+1 215.706.5701"
           ],
           [
             "email",
@@ -311,7 +287,7 @@
               ]
             },
             "text",
-            "iana@registry.godaddy"
+            "tld-tech-poc@afilias.info"
           ]
         ]
       ],
@@ -321,7 +297,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2024-05-11T00:00:00+00:00"
+          "eventDate": "2016-07-28T00:00:00+00:00"
         }
       ]
     }
@@ -329,23 +305,23 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2024-05-11T00:00:00+00:00"
+      "eventDate": "2023-08-11T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
-      "eventDate": "2015-04-23T00:00:00+00:00"
+      "eventDate": "2016-07-07T00:00:00+00:00"
     }
   ],
   "links": [
     {
       "rel": "related",
-      "href": "https://nic.safety",
+      "href": "http://www.fcausllc.com/",
       "title": "Registration URL",
       "type": "text/html"
     },
     {
       "rel": "alternate",
-      "href": "https://rdap.nic.safety/",
+      "href": "https://rdap.identitydigital.services/rdap/",
       "title": "RDAP Server",
       "type": "application/rdap+json"
     },
