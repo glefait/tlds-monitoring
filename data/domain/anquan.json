@@ -84,7 +84,7 @@
             "fn",
             {},
             "text",
-            "QIHOO 360 TECHNOLOGY CO. LTD."
+            "Beijing Qihu Keji Co., Ltd."
           ],
           [
             "role",
@@ -96,7 +96,7 @@
             "adr",
             {
               "type": "work",
-              "label": "Building #2, No. 6 Jiuxianqiao Road\nChaoyang District\nBeijing\nChina"
+              "label": "Building #2, No. 6 Jiuxianqiao Road\nChaoyang District\nBeijing 100011\nChina"
             },
             "text",
             [
@@ -117,7 +117,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2020-01-24T00:00:00+00:00"
+          "eventDate": "2025-10-24T00:00:00+00:00"
         }
       ]
     },
@@ -294,7 +294,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2025-04-30T00:00:00+00:00"
+      "eventDate": "2025-10-24T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
