@@ -21,7 +21,6 @@
       "ipAddresses": {
         "v4": [
           "196.13.202.53",
-          "198.32.67.9",
           "196.1.4.130",
           "196.1.4.3"
         ],
@@ -295,7 +294,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2024-08-06T00:00:00+00:00"
+      "eventDate": "2025-10-25T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
