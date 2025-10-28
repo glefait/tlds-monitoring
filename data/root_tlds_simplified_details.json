@@ -102416,12 +102416,12 @@
         "last_change_date": "2017-04-17T00:00:00+00:00"
       },
       "technical": {
-        "fn": "Eric Gullichsen",
-        "org": "",
-        "adr": "1350 Bayshore Hwy\nSuite 610\nBurlingame CA 94010\nUnited States of America (the)",
-        "tel": "+1 415 789 0522",
-        "email": "egullich@colo.to",
-        "last_change_date": "2017-04-17T00:00:00+00:00"
+        "fn": "Francisco Obispo",
+        "org": "Tucows.com",
+        "adr": "96 Mowat Avenue\nToronto ON M6K3M1\nCanada",
+        "tel": "+1.416.535.0123",
+        "email": "trs-ops@tucows.com",
+        "last_change_date": "2025-10-28T00:00:00+00:00"
       }
     },
     "secureDNS": {

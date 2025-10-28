@@ -218,13 +218,13 @@
             "fn",
             {},
             "text",
-            "Eric Gullichsen"
+            "Francisco Obispo"
           ],
           [
             "org",
             {},
             "text",
-            "\n        "
+            "Tucows.com"
           ],
           [
             "role",
@@ -236,7 +236,7 @@
             "adr",
             {
               "type": "work",
-              "label": "1350 Bayshore Hwy\nSuite 610\nBurlingame CA 94010\nUnited States of America (the)"
+              "label": "96 Mowat Avenue\nToronto ON M6K3M1\nCanada"
             },
             "text",
             [
@@ -258,18 +258,7 @@
               ]
             },
             "text",
-            "+1 415 462 3014"
-          ],
-          [
-            "tel",
-            {
-              "type": [
-                "work",
-                "fax"
-              ]
-            },
-            "text",
-            "+1 415 789 0522"
+            "+1.416.535.0123"
           ],
           [
             "email",
@@ -279,7 +268,7 @@
               ]
             },
             "text",
-            "egullich@colo.to"
+            "trs-ops@tucows.com"
           ]
         ]
       ],
@@ -289,7 +278,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2017-04-17T00:00:00+00:00"
+          "eventDate": "2025-10-28T00:00:00+00:00"
         }
       ]
     }
@@ -297,7 +286,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2025-08-21T00:00:00+00:00"
+      "eventDate": "2025-10-28T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
