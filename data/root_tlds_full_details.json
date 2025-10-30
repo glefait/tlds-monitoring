@@ -123797,17 +123797,6 @@
               "+45 3364 6060"
             ],
             [
-              "tel",
-              {
-                "type": [
-                  "work",
-                  "fax"
-                ]
-              },
-              "text",
-              "+45 3364 6066"
-            ],
-            [
               "email",
               {
                 "type": [
@@ -123825,7 +123814,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2023-09-06T00:00:00+00:00"
+            "eventDate": "2025-10-30T00:00:00+00:00"
           }
         ]
       },
@@ -123887,17 +123876,6 @@
               "+45 3364 6060"
             ],
             [
-              "tel",
-              {
-                "type": [
-                  "work",
-                  "fax"
-                ]
-              },
-              "text",
-              "+45 3364 6066"
-            ],
-            [
               "email",
               {
                 "type": [
@@ -123915,7 +123893,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2023-09-06T00:00:00+00:00"
+            "eventDate": "2025-10-30T00:00:00+00:00"
           }
         ]
       }
@@ -123923,7 +123901,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-06-17T00:00:00+00:00"
+        "eventDate": "2025-10-30T00:00:00+00:00"
       },
       {
         "eventAction": "registration",

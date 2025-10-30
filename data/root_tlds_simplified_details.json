@@ -29944,17 +29944,17 @@
         "fn": "Punktum dk Administrative Contact",
         "org": "Punktum dk A/S",
         "adr": "\u00d8restads Boulevard 108, 11th floor\nCopenhagen DK-2300\nDenmark",
-        "tel": "+45 3364 6066",
+        "tel": "+45 3364 6060",
         "email": "tld2019admin@punktum.dk",
-        "last_change_date": "2023-09-06T00:00:00+00:00"
+        "last_change_date": "2025-10-30T00:00:00+00:00"
       },
       "technical": {
         "fn": "Punktum dk Technical Contact",
         "org": "Punktum dk A/S",
         "adr": "\u00d8restads Boulevard 108, 11th floor\nCopenhagen DK-2300\nDenmark",
-        "tel": "+45 3364 6066",
+        "tel": "+45 3364 6060",
         "email": "tld2019tech@punktum.dk",
-        "last_change_date": "2023-09-06T00:00:00+00:00"
+        "last_change_date": "2025-10-30T00:00:00+00:00"
       }
     },
     "secureDNS": {
