@@ -264806,7 +264806,7 @@
               "fn",
               {},
               "text",
-              "General Post and Telecommunication Company"
+              "General Authority of Communications and Informatics (GACI)"
             ],
             [
               "role",
@@ -264818,7 +264818,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "Al Zawia St.\nGPTC Tower\nTripoli\nLibya"
+                "label": "Telecom Tower\nAl Zawia Street\nTripoli\nLibya"
               },
               "text",
               [
@@ -264839,7 +264839,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2021-05-10T00:00:00+00:00"
+            "eventDate": "2025-11-01T00:00:00+00:00"
           }
         ]
       },
@@ -264858,13 +264858,13 @@
               "fn",
               {},
               "text",
-              "Marwan K. Maghur"
+              "Mr. Riyad ALZITOUNI, Manager of International Corporation Office"
             ],
             [
               "org",
               {},
               "text",
-              "General Post and Telecommunication Company"
+              "General Authority of Communications and Informatics (GACI)"
             ],
             [
               "role",
@@ -264876,7 +264876,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "Al Zawia St.\nGPTC Tower\nTripoli\nLibya"
+                "label": "Telecom Tower\nAl Zawia Street\nTripoli\nLibya"
               },
               "text",
               [
@@ -264898,18 +264898,7 @@
                 ]
               },
               "text",
-              "+218 91 2123880"
-            ],
-            [
-              "tel",
-              {
-                "type": [
-                  "work",
-                  "fax"
-                ]
-              },
-              "text",
-              "+218 21 3614170"
+              "+218 21 361 4466"
             ],
             [
               "email",
@@ -264919,7 +264908,7 @@
                 ]
               },
               "text",
-              "maghur@gmail.com"
+              "r.zitouni@cim.gov.ly"
             ]
           ]
         ],
@@ -264929,7 +264918,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2021-05-10T00:00:00+00:00"
+            "eventDate": "2025-11-01T00:00:00+00:00"
           }
         ]
       },
@@ -265027,7 +265016,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2024-11-04T00:00:00+00:00"
+        "eventDate": "2025-11-01T00:00:00+00:00"
       },
       {
         "eventAction": "registration",

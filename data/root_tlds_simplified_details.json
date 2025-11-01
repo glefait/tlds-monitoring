@@ -63580,20 +63580,20 @@
     },
     "entities": {
       "registrant": {
-        "fn": "General Post and Telecommunication Company",
+        "fn": "General Authority of Communications and Informatics (GACI)",
         "org": null,
-        "adr": "Al Zawia St.\nGPTC Tower\nTripoli\nLibya",
+        "adr": "Telecom Tower\nAl Zawia Street\nTripoli\nLibya",
         "tel": null,
         "email": null,
-        "last_change_date": "2021-05-10T00:00:00+00:00"
+        "last_change_date": "2025-11-01T00:00:00+00:00"
       },
       "administrative": {
-        "fn": "Marwan K. Maghur",
-        "org": "General Post and Telecommunication Company",
-        "adr": "Al Zawia St.\nGPTC Tower\nTripoli\nLibya",
-        "tel": "+218 21 3614170",
-        "email": "maghur@gmail.com",
-        "last_change_date": "2021-05-10T00:00:00+00:00"
+        "fn": "Mr. Riyad ALZITOUNI, Manager of International Corporation Office",
+        "org": "General Authority of Communications and Informatics (GACI)",
+        "adr": "Telecom Tower\nAl Zawia Street\nTripoli\nLibya",
+        "tel": "+218 21 361 4466",
+        "email": "r.zitouni@cim.gov.ly",
+        "last_change_date": "2025-11-01T00:00:00+00:00"
       },
       "technical": {
         "fn": "Khaled Esheh",
