@@ -21862,49 +21862,37 @@
     "nameservers": [
       {
         "objectClassName": "nameserver",
-        "ldhName": "a0.nic.apple",
+        "ldhName": "apple-ns.pch.net",
         "ipAddresses": {
           "v4": [
-            "65.22.60.1"
+            "203.119.88.1"
           ],
           "v6": [
-            "2a01:8840:3a::1"
+            "2001:dd8:7:6001:dc::1"
           ]
         }
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "a2.nic.apple",
+        "ldhName": "c.ns.apple.com",
         "ipAddresses": {
           "v4": [
-            "65.22.63.1"
+            "204.19.119.1"
           ],
           "v6": [
-            "2a01:8840:3d::1"
+            "2620:171:800:714::1"
           ]
         }
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "b0.nic.apple",
+        "ldhName": "d.ns.apple.com",
         "ipAddresses": {
           "v4": [
-            "65.22.61.1"
+            "204.26.57.1"
           ],
           "v6": [
-            "2a01:8840:3b::1"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "c0.nic.apple",
-        "ipAddresses": {
-          "v4": [
-            "65.22.62.1"
-          ],
-          "v6": [
-            "2a01:8840:3c::1"
+            "2620:171:801:714::1"
           ]
         }
       }
@@ -22081,13 +22069,13 @@
               "fn",
               {},
               "text",
-              "Senior Director, DNS Infrastructure Group"
+              "Director, DNS Services"
             ],
             [
               "org",
               {},
               "text",
-              "Afilias"
+              "Packet Clearing House"
             ],
             [
               "role",
@@ -22099,7 +22087,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "300 Welsh Road\nBuilding 3, Suite 105\nHorsham PA 19044\nUnited States of America (the)"
+                "label": "1004A OReilly Avenue\nThe Presidio of San\nFrancisco\nSan Francisco CA 94129\nUnited States of America (the)"
               },
               "text",
               [
@@ -22121,7 +22109,7 @@
                 ]
               },
               "text",
-              "+1 215 706 5700"
+              "+1 415 831 3100"
             ],
             [
               "tel",
@@ -22132,7 +22120,7 @@
                 ]
               },
               "text",
-              "+1 215 706 5701"
+              "+1 415 831 3101"
             ],
             [
               "email",
@@ -22142,7 +22130,7 @@
                 ]
               },
               "text",
-              "tld-tech-poc@afilias.info"
+              "dns-list@pch.net"
             ]
           ]
         ],
@@ -22152,7 +22140,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2015-11-04T00:00:00+00:00"
+            "eventDate": "2025-11-06T00:00:00+00:00"
           }
         ]
       }
@@ -22160,7 +22148,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-11-04T00:00:00+00:00"
+        "eventDate": "2025-11-06T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -22176,7 +22164,7 @@
       },
       {
         "rel": "alternate",
-        "href": "https://rdap.identitydigital.services/rdap/",
+        "href": "https://rdap.nic.apple/",
         "title": "RDAP Server",
         "type": "application/rdap+json"
       },
@@ -67133,6 +67121,12 @@
           "algorithm": 13,
           "digestType": 2,
           "digest": "86EC28ED5BFF076186306DC8CE3B4E3EC0433D9D5D34C7CA8DAC7B1934E8B324"
+        },
+        {
+          "keyTag": 26384,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "77EA11D2BE58CBBA58BF8ECD60F4C7E72D1FEB31B5993E7C55809440CB5F78B0"
         }
       ]
     },
@@ -67376,7 +67370,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2023-09-19T00:00:00+00:00"
+        "eventDate": "2025-11-06T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -229282,10 +229276,10 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 35821,
+          "keyTag": 33631,
           "algorithm": 8,
           "digestType": 2,
-          "digest": "41AD6EC23454A202D05BD75D9C323825C9822B9850CB1793CAB2DA2814C74140"
+          "digest": "B54097461F9DBC3D9D87E74552C76314B421D178A18D8CB74DD2D97F34FBADBE"
         }
       ]
     },
@@ -229529,7 +229523,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2024-11-06T00:00:00+00:00"
+        "eventDate": "2025-11-06T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -304957,49 +304951,73 @@
     "nameservers": [
       {
         "objectClassName": "nameserver",
-        "ldhName": "ac1.nstld.com",
+        "ldhName": "v0n0.nic.nissay",
         "ipAddresses": {
           "v4": [
-            "192.42.173.30"
+            "65.22.108.15"
           ],
           "v6": [
-            "2001:500:120::30"
+            "2a01:8840:6a::15"
           ]
         }
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "ac2.nstld.com",
+        "ldhName": "v0n1.nic.nissay",
         "ipAddresses": {
           "v4": [
-            "192.42.174.30"
+            "65.22.109.15"
           ],
           "v6": [
-            "2001:500:121::30"
+            "2a01:8840:6b::15"
           ]
         }
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "ac3.nstld.com",
+        "ldhName": "v0n2.nic.nissay",
         "ipAddresses": {
           "v4": [
-            "192.42.175.30"
+            "65.22.110.15"
           ],
           "v6": [
-            "2001:500:122::30"
+            "2a01:8840:6c::15"
           ]
         }
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "ac4.nstld.com",
+        "ldhName": "v0n3.nic.nissay",
         "ipAddresses": {
           "v4": [
-            "192.42.176.30"
+            "161.232.32.15"
           ],
           "v6": [
-            "2001:500:123::30"
+            "2a01:8840:108::15"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "v2n0.nic.nissay",
+        "ipAddresses": {
+          "v4": [
+            "65.22.111.15"
+          ],
+          "v6": [
+            "2a01:8840:6d::15"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "v2n1.nic.nissay",
+        "ipAddresses": {
+          "v4": [
+            "161.232.33.15"
+          ],
+          "v6": [
+            "2a01:8840:109::15"
           ]
         }
       }
@@ -305250,7 +305268,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-10-24T00:00:00+00:00"
+        "eventDate": "2025-11-06T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -520914,49 +520932,73 @@
     "nameservers": [
       {
         "objectClassName": "nameserver",
-        "ldhName": "ac1.nstld.com",
+        "ldhName": "v0n0.nic.xn--w4r85el8fhu5dnra",
         "ipAddresses": {
           "v4": [
-            "192.42.173.30"
+            "65.22.108.23"
           ],
           "v6": [
-            "2001:500:120::30"
+            "2a01:8840:6a::23"
           ]
         }
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "ac2.nstld.com",
+        "ldhName": "v0n1.nic.xn--w4r85el8fhu5dnra",
         "ipAddresses": {
           "v4": [
-            "192.42.174.30"
+            "65.22.109.23"
           ],
           "v6": [
-            "2001:500:121::30"
+            "2a01:8840:6b::23"
           ]
         }
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "ac3.nstld.com",
+        "ldhName": "v0n2.nic.xn--w4r85el8fhu5dnra",
         "ipAddresses": {
           "v4": [
-            "192.42.175.30"
+            "65.22.110.23"
           ],
           "v6": [
-            "2001:500:122::30"
+            "2a01:8840:6c::23"
           ]
         }
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "ac4.nstld.com",
+        "ldhName": "v0n3.nic.xn--w4r85el8fhu5dnra",
         "ipAddresses": {
           "v4": [
-            "192.42.176.30"
+            "161.232.32.23"
           ],
           "v6": [
-            "2001:500:123::30"
+            "2a01:8840:108::23"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "v2n0.nic.xn--w4r85el8fhu5dnra",
+        "ipAddresses": {
+          "v4": [
+            "65.22.111.23"
+          ],
+          "v6": [
+            "2a01:8840:6d::23"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "v2n1.nic.xn--w4r85el8fhu5dnra",
+        "ipAddresses": {
+          "v4": [
+            "161.232.33.23"
+          ],
+          "v6": [
+            "2a01:8840:109::23"
           ]
         }
       }
@@ -521218,7 +521260,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-10-24T00:00:00+00:00"
+        "eventDate": "2025-11-06T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -521284,49 +521326,73 @@
     "nameservers": [
       {
         "objectClassName": "nameserver",
-        "ldhName": "ac1.nstld.com",
+        "ldhName": "v0n0.nic.xn--w4rs40l",
         "ipAddresses": {
           "v4": [
-            "192.42.173.30"
+            "65.22.108.24"
           ],
           "v6": [
-            "2001:500:120::30"
+            "2a01:8840:6a::24"
           ]
         }
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "ac2.nstld.com",
+        "ldhName": "v0n1.nic.xn--w4rs40l",
         "ipAddresses": {
           "v4": [
-            "192.42.174.30"
+            "65.22.109.24"
           ],
           "v6": [
-            "2001:500:121::30"
+            "2a01:8840:6b::24"
           ]
         }
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "ac3.nstld.com",
+        "ldhName": "v0n2.nic.xn--w4rs40l",
         "ipAddresses": {
           "v4": [
-            "192.42.175.30"
+            "65.22.110.24"
           ],
           "v6": [
-            "2001:500:122::30"
+            "2a01:8840:6c::24"
           ]
         }
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "ac4.nstld.com",
+        "ldhName": "v0n3.nic.xn--w4rs40l",
         "ipAddresses": {
           "v4": [
-            "192.42.176.30"
+            "161.232.32.24"
           ],
           "v6": [
-            "2001:500:123::30"
+            "2a01:8840:108::24"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "v2n0.nic.xn--w4rs40l",
+        "ipAddresses": {
+          "v4": [
+            "65.22.111.24"
+          ],
+          "v6": [
+            "2a01:8840:6d::24"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "v2n1.nic.xn--w4rs40l",
+        "ipAddresses": {
+          "v4": [
+            "161.232.33.24"
+          ],
+          "v6": [
+            "2a01:8840:109::24"
           ]
         }
       }
@@ -521577,7 +521643,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-10-24T00:00:00+00:00"
+        "eventDate": "2025-11-06T00:00:00+00:00"
       },
       {
         "eventAction": "registration",

@@ -5225,36 +5225,28 @@
   "apple": {
     "unicodeName": "apple",
     "nameservers": {
-      "a0.nic.apple": {
+      "apple-ns.pch.net": {
         "v4": [
-          "65.22.60.1"
+          "203.119.88.1"
         ],
         "v6": [
-          "2a01:8840:3a::1"
+          "2001:dd8:7:6001:dc::1"
         ]
       },
-      "a2.nic.apple": {
+      "c.ns.apple.com": {
         "v4": [
-          "65.22.63.1"
+          "204.19.119.1"
         ],
         "v6": [
-          "2a01:8840:3d::1"
+          "2620:171:800:714::1"
         ]
       },
-      "b0.nic.apple": {
+      "d.ns.apple.com": {
         "v4": [
-          "65.22.61.1"
+          "204.26.57.1"
         ],
         "v6": [
-          "2a01:8840:3b::1"
-        ]
-      },
-      "c0.nic.apple": {
-        "v4": [
-          "65.22.62.1"
-        ],
-        "v6": [
-          "2a01:8840:3c::1"
+          "2620:171:801:714::1"
         ]
       }
     },
@@ -5276,12 +5268,12 @@
         "last_change_date": "2025-11-04T00:00:00+00:00"
       },
       "technical": {
-        "fn": "Senior Director, DNS Infrastructure Group",
-        "org": "Afilias",
-        "adr": "300 Welsh Road\nBuilding 3, Suite 105\nHorsham PA 19044\nUnited States of America (the)",
-        "tel": "+1 215 706 5701",
-        "email": "tld-tech-poc@afilias.info",
-        "last_change_date": "2015-11-04T00:00:00+00:00"
+        "fn": "Director, DNS Services",
+        "org": "Packet Clearing House",
+        "adr": "1004A OReilly Avenue\nThe Presidio of San\nFrancisco\nSan Francisco CA 94129\nUnited States of America (the)",
+        "tel": "+1 415 831 3101",
+        "email": "dns-list@pch.net",
+        "last_change_date": "2025-11-06T00:00:00+00:00"
       }
     },
     "secureDNS": {
@@ -16246,6 +16238,12 @@
           "algorithm": 13,
           "digestType": 2,
           "digest": "86EC28ED5BFF076186306DC8CE3B4E3EC0433D9D5D34C7CA8DAC7B1934E8B324"
+        },
+        {
+          "keyTag": 26384,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "77EA11D2BE58CBBA58BF8ECD60F4C7E72D1FEB31B5993E7C55809440CB5F78B0"
         }
       ]
     },
@@ -55277,10 +55275,10 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 35821,
+          "keyTag": 33631,
           "algorithm": 8,
           "digestType": 2,
-          "digest": "41AD6EC23454A202D05BD75D9C323825C9822B9850CB1793CAB2DA2814C74140"
+          "digest": "B54097461F9DBC3D9D87E74552C76314B421D178A18D8CB74DD2D97F34FBADBE"
         }
       ]
     },
@@ -73089,36 +73087,52 @@
   "nissay": {
     "unicodeName": "nissay",
     "nameservers": {
-      "ac1.nstld.com": {
+      "v0n0.nic.nissay": {
         "v4": [
-          "192.42.173.30"
+          "65.22.108.15"
         ],
         "v6": [
-          "2001:500:120::30"
+          "2a01:8840:6a::15"
         ]
       },
-      "ac2.nstld.com": {
+      "v0n1.nic.nissay": {
         "v4": [
-          "192.42.174.30"
+          "65.22.109.15"
         ],
         "v6": [
-          "2001:500:121::30"
+          "2a01:8840:6b::15"
         ]
       },
-      "ac3.nstld.com": {
+      "v0n2.nic.nissay": {
         "v4": [
-          "192.42.175.30"
+          "65.22.110.15"
         ],
         "v6": [
-          "2001:500:122::30"
+          "2a01:8840:6c::15"
         ]
       },
-      "ac4.nstld.com": {
+      "v0n3.nic.nissay": {
         "v4": [
-          "192.42.176.30"
+          "161.232.32.15"
         ],
         "v6": [
-          "2001:500:123::30"
+          "2a01:8840:108::15"
+        ]
+      },
+      "v2n0.nic.nissay": {
+        "v4": [
+          "65.22.111.15"
+        ],
+        "v6": [
+          "2a01:8840:6d::15"
+        ]
+      },
+      "v2n1.nic.nissay": {
+        "v4": [
+          "161.232.33.15"
+        ],
+        "v6": [
+          "2a01:8840:109::15"
         ]
       }
     },
@@ -124927,36 +124941,52 @@
   "xn--w4r85el8fhu5dnra": {
     "unicodeName": "\u5609\u91cc\u5927\u9152\u5e97",
     "nameservers": {
-      "ac1.nstld.com": {
+      "v0n0.nic.xn--w4r85el8fhu5dnra": {
         "v4": [
-          "192.42.173.30"
+          "65.22.108.23"
         ],
         "v6": [
-          "2001:500:120::30"
+          "2a01:8840:6a::23"
         ]
       },
-      "ac2.nstld.com": {
+      "v0n1.nic.xn--w4r85el8fhu5dnra": {
         "v4": [
-          "192.42.174.30"
+          "65.22.109.23"
         ],
         "v6": [
-          "2001:500:121::30"
+          "2a01:8840:6b::23"
         ]
       },
-      "ac3.nstld.com": {
+      "v0n2.nic.xn--w4r85el8fhu5dnra": {
         "v4": [
-          "192.42.175.30"
+          "65.22.110.23"
         ],
         "v6": [
-          "2001:500:122::30"
+          "2a01:8840:6c::23"
         ]
       },
-      "ac4.nstld.com": {
+      "v0n3.nic.xn--w4r85el8fhu5dnra": {
         "v4": [
-          "192.42.176.30"
+          "161.232.32.23"
         ],
         "v6": [
-          "2001:500:123::30"
+          "2a01:8840:108::23"
+        ]
+      },
+      "v2n0.nic.xn--w4r85el8fhu5dnra": {
+        "v4": [
+          "65.22.111.23"
+        ],
+        "v6": [
+          "2a01:8840:6d::23"
+        ]
+      },
+      "v2n1.nic.xn--w4r85el8fhu5dnra": {
+        "v4": [
+          "161.232.33.23"
+        ],
+        "v6": [
+          "2a01:8840:109::23"
         ]
       }
     },
@@ -125013,36 +125043,52 @@
   "xn--w4rs40l": {
     "unicodeName": "\u5609\u91cc",
     "nameservers": {
-      "ac1.nstld.com": {
+      "v0n0.nic.xn--w4rs40l": {
         "v4": [
-          "192.42.173.30"
+          "65.22.108.24"
         ],
         "v6": [
-          "2001:500:120::30"
+          "2a01:8840:6a::24"
         ]
       },
-      "ac2.nstld.com": {
+      "v0n1.nic.xn--w4rs40l": {
         "v4": [
-          "192.42.174.30"
+          "65.22.109.24"
         ],
         "v6": [
-          "2001:500:121::30"
+          "2a01:8840:6b::24"
         ]
       },
-      "ac3.nstld.com": {
+      "v0n2.nic.xn--w4rs40l": {
         "v4": [
-          "192.42.175.30"
+          "65.22.110.24"
         ],
         "v6": [
-          "2001:500:122::30"
+          "2a01:8840:6c::24"
         ]
       },
-      "ac4.nstld.com": {
+      "v0n3.nic.xn--w4rs40l": {
         "v4": [
-          "192.42.176.30"
+          "161.232.32.24"
         ],
         "v6": [
-          "2001:500:123::30"
+          "2a01:8840:108::24"
+        ]
+      },
+      "v2n0.nic.xn--w4rs40l": {
+        "v4": [
+          "65.22.111.24"
+        ],
+        "v6": [
+          "2a01:8840:6d::24"
+        ]
+      },
+      "v2n1.nic.xn--w4rs40l": {
+        "v4": [
+          "161.232.33.24"
+        ],
+        "v6": [
+          "2a01:8840:109::24"
         ]
       }
     },
