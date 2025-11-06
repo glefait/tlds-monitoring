@@ -476397,49 +476397,73 @@
     "nameservers": [
       {
         "objectClassName": "nameserver",
-        "ldhName": "ac1.nstld.com",
+        "ldhName": "v0n0.nic.xn--5su34j936bgsg",
         "ipAddresses": {
           "v4": [
-            "192.42.173.30"
+            "65.22.108.22"
           ],
           "v6": [
-            "2001:500:120::30"
+            "2a01:8840:6a::22"
           ]
         }
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "ac2.nstld.com",
+        "ldhName": "v0n1.nic.xn--5su34j936bgsg",
         "ipAddresses": {
           "v4": [
-            "192.42.174.30"
+            "65.22.109.22"
           ],
           "v6": [
-            "2001:500:121::30"
+            "2a01:8840:6b::22"
           ]
         }
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "ac3.nstld.com",
+        "ldhName": "v0n2.nic.xn--5su34j936bgsg",
         "ipAddresses": {
           "v4": [
-            "192.42.175.30"
+            "65.22.110.22"
           ],
           "v6": [
-            "2001:500:122::30"
+            "2a01:8840:6c::22"
           ]
         }
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "ac4.nstld.com",
+        "ldhName": "v0n3.nic.xn--5su34j936bgsg",
         "ipAddresses": {
           "v4": [
-            "192.42.176.30"
+            "161.232.32.22"
           ],
           "v6": [
-            "2001:500:123::30"
+            "2a01:8840:108::22"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "v2n0.nic.xn--5su34j936bgsg",
+        "ipAddresses": {
+          "v4": [
+            "65.22.111.22"
+          ],
+          "v6": [
+            "2a01:8840:6d::22"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "v2n1.nic.xn--5su34j936bgsg",
+        "ipAddresses": {
+          "v4": [
+            "161.232.33.22"
+          ],
+          "v6": [
+            "2a01:8840:109::22"
           ]
         }
       }
@@ -476684,7 +476708,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-10-24T00:00:00+00:00"
+        "eventDate": "2025-11-06T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
