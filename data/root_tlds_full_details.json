@@ -522586,7 +522586,7 @@
                 ]
               },
               "text",
-              "alice@yu-wei.cn"
+              "registry@yu-wei.cn"
             ]
           ]
         ],
@@ -522596,7 +522596,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2022-04-19T00:00:00+00:00"
+            "eventDate": "2025-11-06T00:00:00+00:00"
           }
         ]
       },
@@ -522694,7 +522694,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-11-05T00:00:00+00:00"
+        "eventDate": "2025-11-06T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
