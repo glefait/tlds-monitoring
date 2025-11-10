@@ -22148,7 +22148,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-11-06T00:00:00+00:00"
+        "eventDate": "2025-11-10T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -22158,7 +22158,7 @@
     "links": [
       {
         "rel": "related",
-        "href": "http://www.apple.com/",
+        "href": "https://www.nic.apple/",
         "title": "Registration URL",
         "type": "text/html"
       },
