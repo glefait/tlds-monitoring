@@ -136,7 +136,7 @@
             "fn",
             {},
             "text",
-            "Aditi Sharma Wadhwa"
+            "Saurabh Srivastava"
           ],
           [
             "org",
@@ -154,7 +154,7 @@
             "adr",
             {
               "type": "work",
-              "label": "Bharti Crescent,\n1, Nelson Mandela Road\nVasant Kunj Phase II\nNew Delhi Delhi 110070\nIndia"
+              "label": "Airtel Center\nPlot No. 16, Udyog Vihar\nPhase IV, Gurugram\nHaryana 122015\nIndia"
             },
             "text",
             [
@@ -176,18 +176,7 @@
               ]
             },
             "text",
-            "+91 99 53990071"
-          ],
-          [
-            "tel",
-            {
-              "type": [
-                "work",
-                "fax"
-              ]
-            },
-            "text",
-            "+91 11 41666149"
+            "+91 9953990071"
           ],
           [
             "email",
@@ -197,7 +186,7 @@
               ]
             },
             "text",
-            "aditi.sharmawadhwa@airtel.com"
+            "saurabh2.srivastava@airtel.com"
           ]
         ]
       ],
@@ -207,7 +196,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2023-11-21T00:00:00+00:00"
+          "eventDate": "2025-11-10T00:00:00+00:00"
         }
       ]
     },
@@ -305,7 +294,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2023-11-21T00:00:00+00:00"
+      "eventDate": "2025-11-10T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
