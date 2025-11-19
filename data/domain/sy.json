@@ -61,7 +61,7 @@
             "fn",
             {},
             "text",
-            "National Agency for Network Services (NANS)"
+            "National Authority for Information Technology Services (NAITS)"
           ],
           [
             "role",
@@ -73,7 +73,7 @@
             "adr",
             {
               "type": "work",
-              "label": "Sahara-Sabboura Crossroads\nP.O. Box 47/Kudsaya\nDamascus\nSyrian Arab Republic (the)"
+              "label": "Sahara-Sabboura Crossroads\nP.O. Box 60/Saboura\nDamascus\nSyrian Arab Republic (the)"
             },
             "text",
             [
@@ -94,7 +94,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2020-02-14T00:00:00+00:00"
+          "eventDate": "2025-11-19T00:00:00+00:00"
         }
       ]
     },
@@ -282,7 +282,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2024-10-14T00:00:00+00:00"
+      "eventDate": "2025-11-19T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
