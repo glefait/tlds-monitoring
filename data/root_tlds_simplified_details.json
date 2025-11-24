@@ -113546,20 +113546,20 @@
     },
     "entities": {
       "registrant": {
-        "fn": "Beijing Tld Registry Technology Limited",
+        "fn": "Beijing TLD Registry Technology Limited",
         "org": null,
-        "adr": "2108, 21st Floor, 9 North Fourth Ring Road West, Haidian District\nBeijing 100000\nChina",
+        "adr": "2108, 21st Floor, 9 North Fourth Ring Road West, Haidian District\nBeijing Beijing 100190\nChina",
         "tel": null,
         "email": null,
-        "last_change_date": "2024-12-09T00:00:00+00:00"
+        "last_change_date": "2025-11-24T00:00:00+00:00"
       },
       "administrative": {
         "fn": "CEO Arto Juhani Isokoski",
-        "org": "Beijing Tld Registry Technology Limited",
-        "adr": "2108, 21st Floor, 9 North Fourth Ring Road West, Haidian District\nBeijing 100000\nChina",
+        "org": "Beijing TLD Registry Technology Limited",
+        "adr": "2108, 21st Floor, 9 North Fourth Ring Road West, Haidian District\nBeijing Beijing 100190\nChina",
         "tel": "+358 44 7301 607",
         "email": "arto.isokoski@internetregistry.info",
-        "last_change_date": "2024-12-09T00:00:00+00:00"
+        "last_change_date": "2025-11-24T00:00:00+00:00"
       },
       "technical": {
         "fn": "CTO",
@@ -117625,20 +117625,20 @@
     },
     "entities": {
       "registrant": {
-        "fn": "TLD REGISTRY LIMITED",
+        "fn": "Beijing TLD Registry Technology Limited",
         "org": null,
-        "adr": "2 Grand Canal Square\nDublin Dublin 2\nIreland",
+        "adr": "2108, 21st Floor, 9 North Fourth Ring Road West, Haidian District\nBeijing Beijing 100190\nChina",
         "tel": null,
         "email": null,
-        "last_change_date": "2019-10-09T00:00:00+00:00"
+        "last_change_date": "2025-11-24T00:00:00+00:00"
       },
       "administrative": {
         "fn": "Arto Isokoski",
-        "org": "TLD Registry Ltd.",
-        "adr": "2 Grand Canal Square\nDublin Dublin 2\nIreland",
+        "org": "Beijing TLD Registry Technology Limited",
+        "adr": "2108, 21st Floor, 9 North Fourth Ring Road West, Haidian District\nBeijing Beijing 100190\nChina",
         "tel": "+358 20 155 8869",
         "email": "arto.isokoski@internetregistry.info",
-        "last_change_date": "2015-06-23T00:00:00+00:00"
+        "last_change_date": "2025-11-24T00:00:00+00:00"
       },
       "technical": {
         "fn": "CTO",
