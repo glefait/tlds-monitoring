@@ -3048,12 +3048,12 @@
         "last_change_date": "2025-11-10T00:00:00+00:00"
       },
       "technical": {
-        "fn": "Bonnie Bryant",
-        "org": "Verisign, Inc.",
-        "adr": "12061 Bluemont Way\nReston VA 20190\nUnited States of America (the)",
-        "tel": "1-703-948-3978",
-        "email": "info@verisign-grs.com",
-        "last_change_date": "2015-07-16T00:00:00+00:00"
+        "fn": "IANA Contact",
+        "org": "GoDaddy Registry",
+        "adr": "100 S. Mill Ave, Suite 1600\nTempe AZ 85281\nUnited States of America (the)",
+        "tel": "+1 480-505-8800",
+        "email": "iana@registry.godaddy",
+        "last_change_date": "2025-11-26T00:00:00+00:00"
       }
     },
     "secureDNS": {
@@ -11329,12 +11329,12 @@
         "last_change_date": "2025-11-10T00:00:00+00:00"
       },
       "technical": {
-        "fn": "Bonnie Bryant",
-        "org": "Verisign Inc.",
-        "adr": "12061 Bluemont Way\nReston VA 20190\nUnited States of America (the)",
-        "tel": "+1-703-948-3978",
-        "email": "info@verisign-grs.com",
-        "last_change_date": "2015-06-14T00:00:00+00:00"
+        "fn": "IANA Contact",
+        "org": "GoDaddy Registry",
+        "adr": "100 S. Mill Ave, Suite 1600\nTempe AZ 85281\nUnited States of America (the)",
+        "tel": "+1 480- 505-8800",
+        "email": "iana@registry.godaddy",
+        "last_change_date": "2025-11-26T00:00:00+00:00"
       }
     },
     "secureDNS": {

@@ -245,13 +245,13 @@
             "fn",
             {},
             "text",
-            "Bonnie Bryant"
+            "IANA Contact"
           ],
           [
             "org",
             {},
             "text",
-            "Verisign, Inc."
+            "GoDaddy Registry"
           ],
           [
             "role",
@@ -263,7 +263,7 @@
             "adr",
             {
               "type": "work",
-              "label": "12061 Bluemont Way\nReston VA 20190\nUnited States of America (the)"
+              "label": "100 S. Mill Ave, Suite 1600\nTempe AZ 85281\nUnited States of America (the)"
             },
             "text",
             [
@@ -285,18 +285,7 @@
               ]
             },
             "text",
-            "1-703-925-6999"
-          ],
-          [
-            "tel",
-            {
-              "type": [
-                "work",
-                "fax"
-              ]
-            },
-            "text",
-            "1-703-948-3978"
+            "+1 480-505-8800"
           ],
           [
             "email",
@@ -306,7 +295,7 @@
               ]
             },
             "text",
-            "info@verisign-grs.com"
+            "iana@registry.godaddy"
           ]
         ]
       ],
@@ -316,7 +305,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2015-07-16T00:00:00+00:00"
+          "eventDate": "2025-11-26T00:00:00+00:00"
         }
       ]
     }
@@ -324,7 +313,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2025-11-14T00:00:00+00:00"
+      "eventDate": "2025-11-26T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
