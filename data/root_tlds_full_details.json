@@ -25956,22 +25956,10 @@
         "ldhName": "ns5.asnic.us",
         "ipAddresses": {
           "v4": [
-            "194.146.106.86"
+            "23.128.97.53"
           ],
           "v6": [
-            "2001:67c:1010:22::53"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "pch.nic.as",
-        "ipAddresses": {
-          "v4": [
-            "204.61.216.111"
-          ],
-          "v6": [
-            "2001:500:14:6111:ad::1"
+            "2607:7c80:53::53"
           ]
         }
       }
@@ -26208,7 +26196,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2022-05-06T00:00:00+00:00"
+        "eventDate": "2025-11-29T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
