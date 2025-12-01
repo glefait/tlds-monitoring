@@ -12602,7 +12602,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-11-26T00:00:00+00:00"
+        "eventDate": "2025-12-01T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -12618,7 +12618,7 @@
       },
       {
         "rel": "alternate",
-        "href": "https://tld-rdap.verisign.com/airtel/v1/",
+        "href": "https://rdap.nic.airtel",
         "title": "RDAP Server",
         "type": "application/rdap+json"
       },
@@ -46959,7 +46959,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-11-26T00:00:00+00:00"
+        "eventDate": "2025-12-01T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -46975,7 +46975,7 @@
       },
       {
         "rel": "alternate",
-        "href": "https://tld-rdap.verisign.com/bharti/v1/",
+        "href": "https://rdap.nic.bharti",
         "title": "RDAP Server",
         "type": "application/rdap+json"
       },
