@@ -70622,18 +70622,18 @@
       "registrant": {
         "fn": "National Australia Bank Limited",
         "org": null,
-        "adr": "Level 9\n700 Bourke Street\nDocklands VIC 3008\nAustralia",
+        "adr": "Level 10\n700 Bourke Street\nDocklands VIC 3008\nAustralia",
         "tel": null,
         "email": null,
-        "last_change_date": "2019-08-16T00:00:00+00:00"
+        "last_change_date": "2025-12-01T00:00:00+00:00"
       },
       "administrative": {
-        "fn": "Manager, Technical Services \u2013 Digital & Online Channel Service",
+        "fn": "Manager Technical Services Digital & Online Channel Service",
         "org": "National Australia Bank Limited",
-        "adr": "Level 9\n700 Bourke Street\nDocklands VIC 3008\nAustralia",
-        "tel": "n/a",
+        "adr": "Level 10\n700 Bourke Street\nDocklands VIC 3008\nAustralia",
+        "tel": "+61 477 385 759",
         "email": "ngtld-nab@cscinfo.com",
-        "last_change_date": "2016-08-18T00:00:00+00:00"
+        "last_change_date": "2025-12-01T00:00:00+00:00"
       },
       "technical": {
         "fn": "Howard Eland, Senior Director, DNS Infrastructure Group",
@@ -105216,18 +105216,18 @@
       "registrant": {
         "fn": "National Australia Bank Limited",
         "org": null,
-        "adr": "Level 9\n700 Bourke Street\nDocklands VIC 3008\nAustralia",
+        "adr": "Level 10\n700 Bourke Street\nDocklands VIC 3008\nAustralia",
         "tel": null,
         "email": null,
-        "last_change_date": "2019-08-16T00:00:00+00:00"
+        "last_change_date": "2025-12-01T00:00:00+00:00"
       },
       "administrative": {
-        "fn": "Manager, Technical Services \u2013 Digital & Online Channel Service",
+        "fn": "Manager Technical Services Digital & Online Channel Service",
         "org": "National Australia Bank Limited",
-        "adr": "Level 9\n700 Bourke Street\nDocklands VIC 3008\nAustralia",
-        "tel": "n/a",
+        "adr": "Level 10\n700 Bourke Street\nDocklands VIC 3008\nAustralia",
+        "tel": "+61 477 385 759",
         "email": "ngtld-ubank@cscinfo.com",
-        "last_change_date": "2016-08-18T00:00:00+00:00"
+        "last_change_date": "2025-12-01T00:00:00+00:00"
       },
       "technical": {
         "fn": "Howard Eland, Senior Director, DNS Infrastructure Group",
