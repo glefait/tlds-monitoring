@@ -32,15 +32,6 @@
     },
     {
       "objectClassName": "nameserver",
-      "ldhName": "ns2.anycastdns.cz",
-      "ipAddresses": {
-        "v4": [
-          "185.28.194.194"
-        ]
-      }
-    },
-    {
-      "objectClassName": "nameserver",
       "ldhName": "ns2.nic.xn--p1acf",
       "ipAddresses": {
         "v4": [
@@ -60,6 +51,12 @@
         "algorithm": 8,
         "digestType": 2,
         "digest": "C39B9FB91B155CA7FF3F84BC7F7B7713E8D3B40AE9B7B0D9C3DE0FDC36FA325C"
+      },
+      {
+        "keyTag": 50380,
+        "algorithm": 8,
+        "digestType": 2,
+        "digest": "575AC79F934055ECFFB95E4485C9BF8EABD39F7AB379C14566A1550081343BE6"
       }
     ]
   },
@@ -292,7 +289,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2025-12-02T00:00:00+00:00"
+      "eventDate": "2025-12-04T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
