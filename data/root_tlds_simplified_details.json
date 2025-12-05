@@ -73191,12 +73191,12 @@
         "last_change_date": "2019-10-05T00:00:00+00:00"
       },
       "technical": {
-        "fn": "Registry Customer Service",
-        "org": "Verisign, Inc.",
-        "adr": "12061 Bluemont Way\nReston VA 20190\nUnited States of America (the)",
-        "tel": "+1-703-948-3978",
-        "email": "info@verisign-grs.com",
-        "last_change_date": "2016-03-30T00:00:00+00:00"
+        "fn": "Senior Director, DNS Infrastructure Group",
+        "org": "Identity Digital Limited",
+        "adr": "c/o Identity Digital Inc.\n10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)",
+        "tel": "+1.425-671-0020",
+        "email": "tldtech@identity.digital",
+        "last_change_date": "2025-12-05T00:00:00+00:00"
       }
     },
     "secureDNS": {
@@ -113222,16 +113222,16 @@
         "org": "Guangzhou YU Wei Information Technology Co., Ltd.",
         "adr": "3302 International Trade Center\nNo.1 Linhe Xi Road\nGuangzhou Guangdong 510610\nChina",
         "tel": "+86.2066222864",
-        "email": "registry@yu-wei.cn",
-        "last_change_date": "2025-11-06T00:00:00+00:00"
+        "email": "eugene.li@nic.wang",
+        "last_change_date": "2025-12-05T00:00:00+00:00"
       },
       "technical": {
         "fn": "Jacky Luo",
         "org": "Guangzhou YU Wei Information Technology Co., Ltd.",
         "adr": "3302 International Trade Center\nNo.1 Linhe Xi Road\nGuangzhou Guangdong 510610\nChina",
         "tel": "+86.2066222864",
-        "email": "technology@yu-wei.cn",
-        "last_change_date": "2014-08-14T00:00:00+00:00"
+        "email": "tech-support@nic.wang",
+        "last_change_date": "2025-12-05T00:00:00+00:00"
       }
     },
     "secureDNS": {
@@ -114682,12 +114682,12 @@
         "last_change_date": "2023-01-18T00:00:00+00:00"
       },
       "technical": {
-        "fn": "Registry Customer Service",
-        "org": "Verisign, Inc.",
-        "adr": "12061 Bluemont Way\nReston VA 20190\nUnited States of America (the)",
-        "tel": "+1-703-948-3978",
-        "email": "info@verisign-grs.com",
-        "last_change_date": "2016-07-02T00:00:00+00:00"
+        "fn": "Senior Director, DNS Infrastructure Group",
+        "org": "Identity Digital Limited",
+        "adr": "c/o Identity Digital Inc.\n10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)",
+        "tel": "+1.425-671-0020",
+        "email": "tldtech@identity.digital",
+        "last_change_date": "2025-12-05T00:00:00+00:00"
       }
     },
     "secureDNS": {
@@ -125419,16 +125419,16 @@
         "org": "Guangzhou YU Wei Information Technology Co., Ltd.",
         "adr": "3302 International Trade Center\nNo.1 Linhe Xi Road\nGuangzhou Guangdong 510610\nChina",
         "tel": "+86.2066222864",
-        "email": "registry@yu-wei.cn",
-        "last_change_date": "2025-11-06T00:00:00+00:00"
+        "email": "eugene.li@nic.wang",
+        "last_change_date": "2025-12-05T00:00:00+00:00"
       },
       "technical": {
         "fn": "Jacky Luo",
         "org": "Guangzhou YU Wei Information Technology Co., Ltd.",
         "adr": "3302 International Trade Center\nNo.1 Linhe Xi Road\nGuangzhou Guangdong 510610\nChina",
         "tel": "+86.2066222864",
-        "email": "technology@yu-wei.cn",
-        "last_change_date": "2014-08-14T00:00:00+00:00"
+        "email": "tech-support@nic.wang",
+        "last_change_date": "2025-12-05T00:00:00+00:00"
       }
     },
     "secureDNS": {

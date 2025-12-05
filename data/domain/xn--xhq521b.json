@@ -210,7 +210,7 @@
               ]
             },
             "text",
-            "registry@yu-wei.cn"
+            "eugene.li@nic.wang"
           ]
         ]
       ],
@@ -220,7 +220,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2025-11-06T00:00:00+00:00"
+          "eventDate": "2025-12-05T00:00:00+00:00"
         }
       ]
     },
@@ -300,7 +300,7 @@
               ]
             },
             "text",
-            "technology@yu-wei.cn"
+            "tech-support@nic.wang"
           ]
         ]
       ],
@@ -310,7 +310,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2014-08-14T00:00:00+00:00"
+          "eventDate": "2025-12-05T00:00:00+00:00"
         }
       ]
     }
@@ -318,7 +318,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2025-11-06T00:00:00+00:00"
+      "eventDate": "2025-12-05T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
