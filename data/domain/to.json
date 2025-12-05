@@ -128,13 +128,7 @@
             "fn",
             {},
             "text",
-            "Eric Gullichsen"
-          ],
-          [
-            "org",
-            {},
-            "text",
-            "\n        "
+            "Justin Kaitapu"
           ],
           [
             "role",
@@ -146,7 +140,7 @@
             "adr",
             {
               "type": "work",
-              "label": "1350 Bayshore Hwy\nSuite 610\nBurlingame CA 94010\nUnited States of America (the)"
+              "label": "Fangaloto,\nMa'ufanga\nNuku'alofa\nTonga"
             },
             "text",
             [
@@ -168,18 +162,7 @@
               ]
             },
             "text",
-            "+1 415 462 3014"
-          ],
-          [
-            "tel",
-            {
-              "type": [
-                "work",
-                "fax"
-              ]
-            },
-            "text",
-            "+1 415 789 0522"
+            "+676 550 1000"
           ],
           [
             "email",
@@ -189,7 +172,7 @@
               ]
             },
             "text",
-            "egullich@colo.to"
+            "jkaitapu@tonic.to"
           ]
         ]
       ],
@@ -199,7 +182,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2017-04-17T00:00:00+00:00"
+          "eventDate": "2025-12-05T00:00:00+00:00"
         }
       ]
     },
@@ -286,7 +269,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2025-10-28T00:00:00+00:00"
+      "eventDate": "2025-12-05T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
