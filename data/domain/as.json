@@ -298,7 +298,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2025-11-29T00:00:00+00:00"
+      "eventDate": "2025-12-08T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
@@ -311,6 +311,12 @@
       "href": "http://www.nic.as",
       "title": "Registration URL",
       "type": "text/html"
+    },
+    {
+      "rel": "alternate",
+      "href": "https://rdap.nic.as",
+      "title": "RDAP Server",
+      "type": "application/rdap+json"
     },
     {
       "value": "https://rdap.iana.org/domain/as",
