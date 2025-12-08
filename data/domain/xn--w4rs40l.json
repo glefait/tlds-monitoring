@@ -83,12 +83,6 @@
     "delegationSigned": true,
     "dsData": [
       {
-        "keyTag": 37725,
-        "algorithm": 8,
-        "digestType": 2,
-        "digest": "B8B0D86894F8635A37F163CF24737B3887B325594D58620764F04E99C1EC9287"
-      },
-      {
         "keyTag": 56524,
         "algorithm": 8,
         "digestType": 2,
@@ -325,7 +319,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2025-12-05T00:00:00+00:00"
+      "eventDate": "2025-12-08T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
@@ -341,7 +335,7 @@
     },
     {
       "rel": "alternate",
-      "href": "https://tld-rdap.verisign.com/xn--w4rs40l/v1/",
+      "href": "https://rdap.identitydigital.services/rdap/",
       "title": "RDAP Server",
       "type": "application/rdap+json"
     },
