@@ -91852,6 +91852,30 @@
             "2620:10a:80aa::3"
           ]
         }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "ns10.trs-dns.info",
+        "ipAddresses": {
+          "v4": [
+            "64.78.204.1"
+          ],
+          "v6": [
+            "2620:171:812:1534:8::1"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "ns10.trs-dns.org",
+        "ipAddresses": {
+          "v4": [
+            "64.78.205.1"
+          ],
+          "v6": [
+            "2620:171:813:1534:8::1"
+          ]
+        }
       }
     ],
     "secureDNS": {
@@ -92094,7 +92118,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-05-20T00:00:00+00:00"
+        "eventDate": "2025-12-09T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -101423,6 +101447,30 @@
             "2620:10a:80aa::3"
           ]
         }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "ns10.trs-dns.info",
+        "ipAddresses": {
+          "v4": [
+            "64.78.204.1"
+          ],
+          "v6": [
+            "2620:171:812:1534:8::1"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "ns10.trs-dns.org",
+        "ipAddresses": {
+          "v4": [
+            "64.78.205.1"
+          ],
+          "v6": [
+            "2620:171:813:1534:8::1"
+          ]
+        }
       }
     ],
     "secureDNS": {
@@ -101665,7 +101713,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-05-21T00:00:00+00:00"
+        "eventDate": "2025-12-09T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -147420,6 +147468,30 @@
             "2620:10a:80aa::3"
           ]
         }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "ns10.trs-dns.info",
+        "ipAddresses": {
+          "v4": [
+            "64.78.204.1"
+          ],
+          "v6": [
+            "2620:171:812:1534:8::1"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "ns10.trs-dns.org",
+        "ipAddresses": {
+          "v4": [
+            "64.78.205.1"
+          ],
+          "v6": [
+            "2620:171:813:1534:8::1"
+          ]
+        }
       }
     ],
     "secureDNS": {
@@ -147662,7 +147734,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-09-15T00:00:00+00:00"
+        "eventDate": "2025-12-09T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -159784,6 +159856,30 @@
             "2620:10a:80aa::3"
           ]
         }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "ns10.trs-dns.info",
+        "ipAddresses": {
+          "v4": [
+            "64.78.204.1"
+          ],
+          "v6": [
+            "2620:171:812:1534:8::1"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "ns10.trs-dns.org",
+        "ipAddresses": {
+          "v4": [
+            "64.78.205.1"
+          ],
+          "v6": [
+            "2620:171:813:1534:8::1"
+          ]
+        }
       }
     ],
     "secureDNS": {
@@ -160026,7 +160122,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-09-08T00:00:00+00:00"
+        "eventDate": "2025-12-09T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -311797,6 +311893,30 @@
             "2620:10a:80aa::3"
           ]
         }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "ns10.trs-dns.info",
+        "ipAddresses": {
+          "v4": [
+            "64.78.204.1"
+          ],
+          "v6": [
+            "2620:171:812:1534:8::1"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "ns10.trs-dns.org",
+        "ipAddresses": {
+          "v4": [
+            "64.78.205.1"
+          ],
+          "v6": [
+            "2620:171:813:1534:8::1"
+          ]
+        }
       }
     ],
     "secureDNS": {
@@ -312028,7 +312148,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-05-15T00:00:00+00:00"
+        "eventDate": "2025-12-09T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -330399,6 +330519,30 @@
             "2620:10a:80aa::3"
           ]
         }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "ns10.trs-dns.info",
+        "ipAddresses": {
+          "v4": [
+            "64.78.204.1"
+          ],
+          "v6": [
+            "2620:171:812:1534:8::1"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "ns10.trs-dns.org",
+        "ipAddresses": {
+          "v4": [
+            "64.78.205.1"
+          ],
+          "v6": [
+            "2620:171:813:1534:8::1"
+          ]
+        }
       }
     ],
     "secureDNS": {
@@ -330641,7 +330785,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-09-15T00:00:00+00:00"
+        "eventDate": "2025-12-09T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
