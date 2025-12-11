@@ -15154,6 +15154,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "D753CE72A834C746DF60A7D2C7BD6E64151C576FCD066F95E451C3B5955D8294"
+        },
+        {
+          "keyTag": 64008,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "AC291706AD845697B4D37FDF7D78535DC32EE498D39610DC48506BFC5358E77A"
         }
       ]
     },
@@ -74720,10 +74726,10 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 7417,
+          "keyTag": 25342,
           "algorithm": 8,
           "digestType": 2,
-          "digest": "A9779F25B3B5134A5C0DEDD95E226D21326A3330EE2AE3F88A0DE57211C15369"
+          "digest": "EA2C4B6B2BA73249C5827C4C5058C61F90337BD0AE315021F26BCEE9E132F5D4"
         }
       ]
     },
