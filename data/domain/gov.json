@@ -283,7 +283,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2025-03-13T00:00:00+00:00"
+      "eventDate": "2025-12-10T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
@@ -296,6 +296,12 @@
       "href": "https://get.gov",
       "title": "Registration URL",
       "type": "text/html"
+    },
+    {
+      "rel": "alternate",
+      "href": "https://rdap.nic.gov/rdap/",
+      "title": "RDAP Server",
+      "type": "application/rdap+json"
     },
     {
       "value": "https://rdap.iana.org/domain/gov",
