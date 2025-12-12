@@ -7,28 +7,28 @@
   "nameservers": [
     {
       "objectClassName": "nameserver",
-      "ldhName": "ns-root-21.scpt-network.net",
+      "ldhName": "gransy-anycast1.nic.cd",
       "ipAddresses": {
         "v4": [
-          "102.68.62.15"
+          "185.38.108.108"
         ]
       }
     },
     {
       "objectClassName": "nameserver",
-      "ldhName": "ns-root-22.scpt-network.net",
+      "ldhName": "gransy-anycast2.nic.cd",
       "ipAddresses": {
         "v4": [
-          "102.68.60.15"
+          "185.28.194.194"
         ]
       }
     },
     {
       "objectClassName": "nameserver",
-      "ldhName": "ns-root-23.scpt-network.net",
+      "ldhName": "pch.nic.cd",
       "ipAddresses": {
         "v4": [
-          "161.97.87.130"
+          "204.61.216.139"
         ]
       }
     }
@@ -254,7 +254,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2021-02-10T00:00:00+00:00"
+      "eventDate": "2025-12-12T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
