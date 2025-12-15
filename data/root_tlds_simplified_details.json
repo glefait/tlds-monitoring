@@ -15106,12 +15106,6 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 62419,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "D753CE72A834C746DF60A7D2C7BD6E64151C576FCD066F95E451C3B5955D8294"
-        },
-        {
           "keyTag": 64008,
           "algorithm": 13,
           "digestType": 2,
@@ -47221,28 +47215,12 @@
           "2620:57:4001::1"
         ]
       },
-      "ns01.trs-dns.info": {
-        "v4": [
-          "185.159.198.3"
-        ],
-        "v6": [
-          "2620:10a:80ab::3"
-        ]
-      },
       "ns01.trs-dns.net": {
         "v4": [
           "64.96.2.1"
         ],
         "v6": [
           "2620:57:4002::1"
-        ]
-      },
-      "ns01.trs-dns.org": {
-        "v4": [
-          "185.159.197.3"
-        ],
-        "v6": [
-          "2620:10a:80aa::3"
         ]
       },
       "ns10.trs-dns.info": {
@@ -61303,28 +61281,12 @@
           "2620:57:4001::1"
         ]
       },
-      "ns01.trs-dns.info": {
-        "v4": [
-          "185.159.198.3"
-        ],
-        "v6": [
-          "2620:10a:80ab::3"
-        ]
-      },
       "ns01.trs-dns.net": {
         "v4": [
           "64.96.2.1"
         ],
         "v6": [
           "2620:57:4002::1"
-        ]
-      },
-      "ns01.trs-dns.org": {
-        "v4": [
-          "185.159.197.3"
-        ],
-        "v6": [
-          "2620:10a:80aa::3"
         ]
       },
       "ns10.trs-dns.info": {
@@ -74679,12 +74641,6 @@
     "secureDNS": {
       "delegationSigned": true,
       "dsData": [
-        {
-          "keyTag": 39170,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "ADB8214CCF90D5A927E27197CB6DAE06682358AB25735807C3CD7CD95BAA11F7"
-        },
         {
           "keyTag": 61067,
           "algorithm": 8,
@@ -108723,12 +108679,6 @@
     "secureDNS": {
       "delegationSigned": true,
       "dsData": [
-        {
-          "keyTag": 9286,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "F04E1190A18D3E63B8FD5261768EF06F8FA5F27F80F39C54AA81753B203E05E7"
-        },
         {
           "keyTag": 56582,
           "algorithm": 13,
