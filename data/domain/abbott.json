@@ -136,13 +136,13 @@
             "fn",
             {},
             "text",
-            "Senior Associate"
+            "Domain Administrator"
           ],
           [
             "org",
             {},
             "text",
-            "FairWinds Partners"
+            "Abbott Laboratories, Inc"
           ],
           [
             "role",
@@ -154,7 +154,7 @@
             "adr",
             {
               "type": "work",
-              "label": "1000 Potomac Street NW #350\nWashington DC 20007\nUnited States of America (the)"
+              "label": "100 Abbott Park Road, Dept. G397, Bldg. AP6D-2\nAbbott Park IL 60064\nUnited States of America (the)"
             },
             "text",
             [
@@ -176,18 +176,7 @@
               ]
             },
             "text",
-            "+1 202 223 9252"
-          ],
-          [
-            "tel",
-            {
-              "type": [
-                "work",
-                "fax"
-              ]
-            },
-            "text",
-            "+1 202 223 9256"
+            "+44 20 70 15 17 17"
           ],
           [
             "email",
@@ -197,7 +186,7 @@
               ]
             },
             "text",
-            "abbottregistry@fairwindspartners.com"
+            "ngtld-abbott@cscglobal.com"
           ]
         ]
       ],
@@ -207,7 +196,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2017-05-04T00:00:00+00:00"
+          "eventDate": "2025-12-15T00:00:00+00:00"
         }
       ]
     },
@@ -305,7 +294,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2023-08-16T00:00:00+00:00"
+      "eventDate": "2025-12-15T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
