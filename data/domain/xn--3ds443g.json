@@ -137,7 +137,7 @@
             "fn",
             {},
             "text",
-            "CEO Arto Juhani Isokoski"
+            "CEO"
           ],
           [
             "org",
@@ -177,7 +177,7 @@
               ]
             },
             "text",
-            "+358 44 7301 607"
+            "+86 10 6257 5825"
           ],
           [
             "email",
@@ -187,7 +187,7 @@
               ]
             },
             "text",
-            "arto.isokoski@internetregistry.info"
+            "service@tldland.cn"
           ]
         ]
       ],
@@ -197,7 +197,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2025-11-24T00:00:00+00:00"
+          "eventDate": "2025-12-17T00:00:00+00:00"
         }
       ]
     },
@@ -284,7 +284,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2025-11-24T00:00:00+00:00"
+      "eventDate": "2025-12-17T00:00:00+00:00"
     },
     {
       "eventAction": "registration",

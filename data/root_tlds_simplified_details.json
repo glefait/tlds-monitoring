@@ -109808,12 +109808,12 @@
         "last_change_date": "2018-07-17T00:00:00+00:00"
       },
       "technical": {
-        "fn": "Zhanyong Zhang",
+        "fn": "Wendy Yang",
         "org": "Zodiac Holdings Ltd",
         "adr": "Block A Unit 406, Horizon International Tower No. 6 Zhichun Road\nHaidian District\nBeijing 100088\nChina",
         "tel": "+86.1082961269",
-        "email": "vp@nic.wang",
-        "last_change_date": "2017-05-10T00:00:00+00:00"
+        "email": "tech-support@nic.wang",
+        "last_change_date": "2025-12-17T00:00:00+00:00"
       }
     },
     "secureDNS": {
@@ -113654,12 +113654,12 @@
         "last_change_date": "2025-11-24T00:00:00+00:00"
       },
       "administrative": {
-        "fn": "CEO Arto Juhani Isokoski",
+        "fn": "CEO",
         "org": "Beijing TLD Registry Technology Limited",
         "adr": "2108, 21st Floor, 9 North Fourth Ring Road West, Haidian District\nBeijing Beijing 100190\nChina",
-        "tel": "+358 44 7301 607",
-        "email": "arto.isokoski@internetregistry.info",
-        "last_change_date": "2025-11-24T00:00:00+00:00"
+        "tel": "+86 10 6257 5825",
+        "email": "service@tldland.cn",
+        "last_change_date": "2025-12-17T00:00:00+00:00"
       },
       "technical": {
         "fn": "CTO",
@@ -117063,8 +117063,8 @@
         "org": "Zodiac Holdings Ltd",
         "adr": "Block A Unit 406, Horizon International Tower No. 6 Zhichun Road\nHaidian District\nBeijing 100088\nChina",
         "tel": "+86.1082961269",
-        "email": "zhanyong.zhang@nic.wang",
-        "last_change_date": "2019-06-13T00:00:00+00:00"
+        "email": "tech-support@nic.wang",
+        "last_change_date": "2025-12-17T00:00:00+00:00"
       }
     },
     "secureDNS": {
@@ -117481,16 +117481,16 @@
         "org": "Guangzhou YU Wei Information and Technology Co.,Ltd",
         "adr": "Woodside Plaza\n240 St Georges Terrace\nGuangzhou Guangdong 510610\nChina",
         "tel": "+86 20 6622 2813",
-        "email": "registry@xinhuagd.cn",
-        "last_change_date": "2018-03-27T00:00:00+00:00"
+        "email": "eugene.li@nic.wang",
+        "last_change_date": "2025-12-17T00:00:00+00:00"
       },
       "technical": {
         "fn": "CTO",
         "org": "Guangzhou YU Wei Information and Technology Co.,Ltd",
         "adr": "3302 International Trade Center\nNo.1 Linhe Xi Road\nGuangzhou Guangdong 510610\nChina",
         "tel": "+86 20 6622 2813",
-        "email": "technology@xinhuagd.cn",
-        "last_change_date": "2018-03-27T00:00:00+00:00"
+        "email": "tech-support@nic.wang",
+        "last_change_date": "2025-12-17T00:00:00+00:00"
       }
     },
     "secureDNS": {
@@ -117727,12 +117727,12 @@
         "last_change_date": "2025-11-24T00:00:00+00:00"
       },
       "administrative": {
-        "fn": "Arto Isokoski",
+        "fn": "CEO",
         "org": "Beijing TLD Registry Technology Limited",
         "adr": "2108, 21st Floor, 9 North Fourth Ring Road West, Haidian District\nBeijing Beijing 100190\nChina",
-        "tel": "+358 20 155 8869",
-        "email": "arto.isokoski@internetregistry.info",
-        "last_change_date": "2025-11-24T00:00:00+00:00"
+        "tel": "+86 10 6257 5825",
+        "email": "service@tldland.cn",
+        "last_change_date": "2025-12-17T00:00:00+00:00"
       },
       "technical": {
         "fn": "CTO",
