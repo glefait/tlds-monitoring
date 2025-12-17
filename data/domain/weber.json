@@ -160,7 +160,7 @@
             "fn",
             {},
             "text",
-            "Digital Marketing Manager"
+            "nGTLD and Compliance Manager"
           ],
           [
             "org",
@@ -200,7 +200,7 @@
               ]
             },
             "text",
-            "+33 1 60 62 13 00"
+            "+33 2 41 18 28 28"
           ],
           [
             "tel",
@@ -211,7 +211,7 @@
               ]
             },
             "text",
-            "+33 1 64 05 47 50"
+            "+33 2 41 18 28 29"
           ],
           [
             "email",
@@ -221,7 +221,7 @@
               ]
             },
             "text",
-            "ngtld-weber@cscinfo.com"
+            "weber-tld@nameshield.net"
           ]
         ]
       ],
@@ -231,7 +231,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2015-12-22T00:00:00+00:00"
+          "eventDate": "2025-12-17T00:00:00+00:00"
         }
       ]
     },
@@ -250,13 +250,13 @@
             "fn",
             {},
             "text",
-            "Howard Eland, Senior Director, DNS Infrastructure Group"
+            "Senior Director, DNS Infrastructure Group"
           ],
           [
             "org",
             {},
             "text",
-            "Identity Digital Inc."
+            "Identity Digital Limited"
           ],
           [
             "role",
@@ -268,7 +268,7 @@
             "adr",
             {
               "type": "work",
-              "label": "10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)"
+              "label": "c/o Identity Digital Inc.\n10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)"
             },
             "text",
             [
@@ -321,7 +321,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2025-03-05T00:00:00+00:00"
+          "eventDate": "2025-12-17T00:00:00+00:00"
         }
       ]
     }
@@ -329,7 +329,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2025-03-06T00:00:00+00:00"
+      "eventDate": "2025-12-17T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
