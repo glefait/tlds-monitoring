@@ -139213,7 +139213,7 @@
               "fn",
               {},
               "text",
-              "EURid vzw/asbl"
+              "EURid vzw"
             ],
             [
               "role",
@@ -139225,7 +139225,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "Telecomlaan 9\nDiegem 1831\nBelgium"
+                "label": "Telecomlaan 9 / 7\nDiegem 1831\nBelgium"
               },
               "text",
               [
@@ -139246,7 +139246,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2022-11-22T00:00:00+00:00"
+            "eventDate": "2025-12-22T00:00:00+00:00"
           }
         ]
       },
@@ -139283,7 +139283,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "Telecomlaan 9\nDiegem 1831\nBelgium"
+                "label": "Telecomlaan 9 / 7\nDiegem 1831\nBelgium"
               },
               "text",
               [
@@ -139308,17 +139308,6 @@
               "+32 2 401 27 50"
             ],
             [
-              "tel",
-              {
-                "type": [
-                  "work",
-                  "fax"
-                ]
-              },
-              "text",
-              "+32 2 401 27 51"
-            ],
-            [
               "email",
               {
                 "type": [
@@ -139336,7 +139325,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2022-08-12T00:00:00+00:00"
+            "eventDate": "2025-12-22T00:00:00+00:00"
           }
         ]
       },
@@ -139373,7 +139362,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "Telecomlaan 9\nDiegem 1831\nBelgium"
+                "label": "Telecomlaan 9 / 7\nDiegem 1831\nBelgium"
               },
               "text",
               [
@@ -139398,17 +139387,6 @@
               "+32 2 401 27 50"
             ],
             [
-              "tel",
-              {
-                "type": [
-                  "work",
-                  "fax"
-                ]
-              },
-              "text",
-              "+32 2 401 27 51"
-            ],
-            [
               "email",
               {
                 "type": [
@@ -139426,7 +139404,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2022-08-12T00:00:00+00:00"
+            "eventDate": "2025-12-22T00:00:00+00:00"
           }
         ]
       }
@@ -139434,7 +139412,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2024-05-22T00:00:00+00:00"
+        "eventDate": "2025-12-22T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -487252,7 +487230,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "Telecomlaan 9\nDiegem 1831\nBelgium"
+                "label": "Telecomlaan 9 / 7\nDiegem 1831\nBelgium"
               },
               "text",
               [
@@ -487273,7 +487251,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2022-10-28T00:00:00+00:00"
+            "eventDate": "2025-12-22T00:00:00+00:00"
           }
         ]
       },
@@ -487298,7 +487276,7 @@
               "org",
               {},
               "text",
-              "EURid vzw/asbl"
+              "EURid vzw"
             ],
             [
               "role",
@@ -487310,7 +487288,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "Telecomlaan 9\nDiegem 1831\nBelgium"
+                "label": "Telecomlaan 9 / 7\nDiegem 1831\nBelgium"
               },
               "text",
               [
@@ -487335,17 +487313,6 @@
               "+32 2 401 27 50"
             ],
             [
-              "tel",
-              {
-                "type": [
-                  "work",
-                  "fax"
-                ]
-              },
-              "text",
-              "+32 2 401 27 51"
-            ],
-            [
               "email",
               {
                 "type": [
@@ -487363,7 +487330,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2022-08-12T00:00:00+00:00"
+            "eventDate": "2025-12-22T00:00:00+00:00"
           }
         ]
       },
@@ -487400,7 +487367,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "Telecomlaan 9\nDiegem 1831\nBelgium"
+                "label": "Telecomlaan 9 / 7\nDiegem 1831\nBelgium"
               },
               "text",
               [
@@ -487425,17 +487392,6 @@
               "+32 2 401 27 50"
             ],
             [
-              "tel",
-              {
-                "type": [
-                  "work",
-                  "fax"
-                ]
-              },
-              "text",
-              "+32 2 401 27 51"
-            ],
-            [
               "email",
               {
                 "type": [
@@ -487453,7 +487409,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2022-08-12T00:00:00+00:00"
+            "eventDate": "2025-12-22T00:00:00+00:00"
           }
         ]
       }
@@ -487461,7 +487417,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2023-03-07T00:00:00+00:00"
+        "eventDate": "2025-12-22T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -515450,7 +515406,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "Telecomlaan 9\nDiegem Vlaams Brabant 1831\nBelgium"
+                "label": "Telecomlaan 9 / 7\nDiegem 1831\nBelgium"
               },
               "text",
               [
@@ -515471,7 +515427,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2022-11-21T00:00:00+00:00"
+            "eventDate": "2025-12-22T00:00:00+00:00"
           }
         ]
       },
@@ -515496,7 +515452,7 @@
               "org",
               {},
               "text",
-              "EURid vzw/asbl"
+              "EURid vzw"
             ],
             [
               "role",
@@ -515508,7 +515464,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "Telecomlaan 9\nDiegem Vlaams Brabant 1831\nBelgium"
+                "label": "Telecomlaan 9 / 7\nDiegem 1831\nBelgium"
               },
               "text",
               [
@@ -515533,17 +515489,6 @@
               "+32 2 401 27 50"
             ],
             [
-              "tel",
-              {
-                "type": [
-                  "work",
-                  "fax"
-                ]
-              },
-              "text",
-              "+32 2 401 27 51"
-            ],
-            [
               "email",
               {
                 "type": [
@@ -515561,7 +515506,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2022-08-12T00:00:00+00:00"
+            "eventDate": "2025-12-22T00:00:00+00:00"
           }
         ]
       },
@@ -515598,7 +515543,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "Telecomlaan 9\nDiegem Vlaams Brabant 1831\nBelgium"
+                "label": "Telecomlaan 9 / 7\nDiegem 1831\nBelgium"
               },
               "text",
               [
@@ -515623,17 +515568,6 @@
               "+32 2 401 27 50"
             ],
             [
-              "tel",
-              {
-                "type": [
-                  "work",
-                  "fax"
-                ]
-              },
-              "text",
-              "+32 2 401 27 51"
-            ],
-            [
               "email",
               {
                 "type": [
@@ -515651,7 +515585,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2022-08-12T00:00:00+00:00"
+            "eventDate": "2025-12-22T00:00:00+00:00"
           }
         ]
       }
@@ -515659,7 +515593,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2023-03-07T00:00:00+00:00"
+        "eventDate": "2025-12-22T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
