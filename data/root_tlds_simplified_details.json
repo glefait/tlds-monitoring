@@ -8304,28 +8304,28 @@
     },
     "entities": {
       "registrant": {
-        "fn": "Universtiy Telinformatic Centre (UTIC)",
+        "fn": "University Tele-Informatic Center (UTIC)",
         "org": null,
         "adr": "Zmaja od Bosne 8 (objekat 33)\nSarajevo 71000\nBosnia and Herzegovina",
         "tel": null,
         "email": null,
-        "last_change_date": "2020-02-01T00:00:00+00:00"
+        "last_change_date": "2025-12-26T00:00:00+00:00"
       },
       "administrative": {
         "fn": "Aida Radielovic",
-        "org": "University Teleinformatic Centre (UTIC)",
+        "org": "University Tele-Informatic Center (UTIC)",
         "adr": "Zmaja od Bosne 8 (objekat 33)\nSarajevo 71000\nBosnia and Herzegovina",
         "tel": "+387 33 213 773",
         "email": "dnsadmin@utic.net.ba",
-        "last_change_date": "2011-07-18T00:00:00+00:00"
+        "last_change_date": "2025-12-26T00:00:00+00:00"
       },
       "technical": {
         "fn": "Sanel Sefer",
-        "org": "University Teleinformatic Centre (UTIC)",
+        "org": "University Tele-Informatic Center (UTIC)",
         "adr": "Zmaja od Bosne 8 (objekat 33)\nSarajevo 71000\nBosnia and Herzegovina",
         "tel": "+387 33 213 773",
         "email": "dnstech@utic.net.ba",
-        "last_change_date": "2016-03-14T00:00:00+00:00"
+        "last_change_date": "2025-12-26T00:00:00+00:00"
       }
     },
     "secureDNS": {
