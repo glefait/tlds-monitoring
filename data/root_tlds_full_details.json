@@ -291976,10 +291976,25 @@
     "nameservers": [
       {
         "objectClassName": "nameserver",
+        "ldhName": "boli.ns.mv",
+        "ipAddresses": {
+          "v4": [
+            "103.31.84.199"
+          ],
+          "v6": [
+            "2406:e400:a:1::1"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
         "ldhName": "mv-ns.anycast.pch.net",
         "ipAddresses": {
           "v4": [
             "204.61.216.24"
+          ],
+          "v6": [
+            "2001:500:14:6024:ad::1"
           ]
         }
       },
@@ -291994,10 +292009,31 @@
       },
       {
         "objectClassName": "nameserver",
+        "ldhName": "ns.mv",
+        "ipAddresses": {
+          "v4": [
+            "202.1.192.196"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
         "ldhName": "ns2.dhivehinet.net.mv",
         "ipAddresses": {
           "v4": [
             "202.1.201.201"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "sangu.ns.mv",
+        "ipAddresses": {
+          "v4": [
+            "27.114.188.1"
+          ],
+          "v6": [
+            "2406:e400:1:1::1"
           ]
         }
       }
@@ -292245,7 +292281,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2024-10-28T00:00:00+00:00"
+        "eventDate": "2025-12-26T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
