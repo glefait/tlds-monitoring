@@ -133,7 +133,7 @@
             "adr",
             {
               "type": "work",
-              "label": "(Daerung Post Tower 3, Guro-dong) #1101 ,27 , Digital-ro 34-gil, Guro-gu\nSeoul\nKorea (the Republic of)"
+              "label": "5F, 34, Gwacheon-daero 7na-gil\nGwacheon-si Gyeonggi-do 13840\nKorea (the Republic of)"
             },
             "text",
             [
@@ -154,7 +154,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2020-08-06T00:00:00+00:00"
+          "eventDate": "2026-01-08T00:00:00+00:00"
         }
       ]
     },
@@ -191,7 +191,7 @@
             "adr",
             {
               "type": "work",
-              "label": "(Daerung Post Tower 3, Guro-dong) #1101 ,27 , Digital-ro 34-gil, Guro-gu\nSeoul\nKorea (the Republic of)"
+              "label": "5F, 34, Gwacheon-daero 7na-gil\nGwacheon-si Gyeonggi-do 13840\nKorea (the Republic of)"
             },
             "text",
             [
@@ -234,7 +234,7 @@
               ]
             },
             "text",
-            "info@yesnic.com"
+            "registrar@whois.co.kr"
           ]
         ]
       ],
@@ -244,7 +244,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2015-12-09T00:00:00+00:00"
+          "eventDate": "2026-01-08T00:00:00+00:00"
         }
       ]
     },
@@ -281,7 +281,7 @@
             "adr",
             {
               "type": "work",
-              "label": "(Daerung Post Tower 3, Guro-dong) #1101 ,27 , Digital-ro 34-gil, Guro-gu\nSeoul\nKorea (the Republic of)"
+              "label": "5F, 34, Gwacheon-daero 7na-gil\nGwacheon-si Gyeonggi-do 13840\nKorea (the Republic of)"
             },
             "text",
             [
@@ -324,7 +324,7 @@
               ]
             },
             "text",
-            "info@yesnic.com"
+            "registrar@whois.co.kr"
           ]
         ]
       ],
@@ -334,7 +334,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2018-03-08T00:00:00+00:00"
+          "eventDate": "2026-01-08T00:00:00+00:00"
         }
       ]
     }
@@ -342,7 +342,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2025-02-11T00:00:00+00:00"
+      "eventDate": "2026-01-08T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
