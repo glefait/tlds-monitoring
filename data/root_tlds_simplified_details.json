@@ -10393,6 +10393,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "5485AC33DD7C7ED237EA2A4BD269731C816960FE181042024484B5CECA6ECC9F"
+        },
+        {
+          "keyTag": 45588,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "687575C3F0FA4570BE3AC23AF40FFAFC5E28A8DE69DE855A2DB1FB9B4D277319"
         }
       ]
     },
@@ -62695,6 +62701,14 @@
         ],
         "v6": [
           "2001:43f8:120::61"
+        ]
+      },
+      "ns1.rg.net": {
+        "v4": [
+          "46.224.94.61"
+        ],
+        "v6": [
+          "2a01:4f8:1c1a:5360::1"
         ]
       },
       "rip.psg.com": {
