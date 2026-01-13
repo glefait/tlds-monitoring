@@ -16797,20 +16797,20 @@
     },
     "entities": {
       "registrant": {
-        "fn": "CAM Connecting SARL",
+        "fn": "CAM Connecting SarL",
         "org": null,
-        "adr": "32 Rue de Remparts\nMonaco 98109\nMonaco",
+        "adr": "3 ruelle de la Fonderie\nMonaco 98000\nMonaco",
         "tel": null,
         "email": null,
-        "last_change_date": "2022-02-07T00:00:00+00:00"
+        "last_change_date": "2026-01-13T00:00:00+00:00"
       },
       "administrative": {
         "fn": "CTO",
         "org": "CAM Connecting SARL",
-        "adr": "32 Rue de Remparts\nMonaco 98109\nMonaco",
+        "adr": "3 ruelle de la Fonderie\nMonaco 98000\nMonaco",
         "tel": "+37799907255",
         "email": "info@nic.cam",
-        "last_change_date": "2022-02-07T00:00:00+00:00"
+        "last_change_date": "2026-01-13T00:00:00+00:00"
       },
       "technical": {
         "fn": "CTO",
