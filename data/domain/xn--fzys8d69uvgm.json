@@ -137,13 +137,13 @@
             "fn",
             {},
             "text",
-            "Admin Contact"
+            "Domain Administrator"
           ],
           [
             "org",
             {},
             "text",
-            "Namesphere Holdings Limited"
+            "PCCW-HKT DataCom Services Limited"
           ],
           [
             "role",
@@ -155,7 +155,7 @@
             "adr",
             {
               "type": "work",
-              "label": "12/F, Daily House, 35-37 Haiphong Road,\nTsim Sha Tsui, Kowloon\nHong Kong\nChina"
+              "label": "39F PCCW Tower, Taikoo Place, 979 Kings Road\nQuarry Bay Hong Kong 0000\nHong Kong"
             },
             "text",
             [
@@ -177,7 +177,7 @@
               ]
             },
             "text",
-            "+852 2244 7900"
+            "+852.28838524"
           ],
           [
             "tel",
@@ -188,7 +188,7 @@
               ]
             },
             "text",
-            "+852 2244 7902"
+            "+852.29625858"
           ],
           [
             "email",
@@ -198,7 +198,7 @@
               ]
             },
             "text",
-            "info@tld.asia"
+            "ngtld-nowtv@cscglobal.com"
           ]
         ]
       ],
@@ -208,7 +208,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2016-05-11T00:00:00+00:00"
+          "eventDate": "2026-01-16T00:00:00+00:00"
         }
       ]
     },
@@ -306,7 +306,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2025-08-27T00:00:00+00:00"
+      "eventDate": "2026-01-16T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
@@ -316,7 +316,7 @@
   "links": [
     {
       "rel": "related",
-      "href": "http://www.dot.asia/namesphere/",
+      "href": "https://www.pccw.com/",
       "title": "Registration URL",
       "type": "text/html"
     },
