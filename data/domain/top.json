@@ -108,7 +108,7 @@
             "fn",
             {},
             "text",
-            ".TOP Registry"
+            "Hong Kong Zhongze International Limited"
           ],
           [
             "role",
@@ -120,7 +120,7 @@
             "adr",
             {
               "type": "work",
-              "label": "3th Floor, BangNing Technology Park, 2 YuHua Avenue\nYuhuatai District\nNanjing Jiangsu\nChina"
+              "label": "UNIT 6, 11/F PROSPERITY PLACE, 6 SHING YIP STREET, KWUN TONG Kl\nHong Kong\nChina"
             },
             "text",
             [
@@ -141,7 +141,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2024-04-26T00:00:00+00:00"
+          "eventDate": "2026-01-20T00:00:00+00:00"
         }
       ]
     },
@@ -329,7 +329,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2025-07-29T00:00:00+00:00"
+      "eventDate": "2026-01-20T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
