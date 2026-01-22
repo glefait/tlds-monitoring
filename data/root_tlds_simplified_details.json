@@ -25670,12 +25670,6 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 60289,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "2C3FB6688A1F691CBBDCADA3C38551541F760AC99A4DEAF39D2D2C183311B889"
-        },
-        {
           "keyTag": 42101,
           "algorithm": 8,
           "digestType": 2,
@@ -39605,16 +39599,16 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 4594,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "58D070A391A5808DA071DE7234C293B2A4A32006F1FF152CCAC45E2EE66C3891"
-        },
-        {
           "keyTag": 45055,
           "algorithm": 8,
           "digestType": 2,
           "digest": "5E45D3230400B1E80E5E2011E4D03E969FA89254B8A2A483D6F366B17357F957"
+        },
+        {
+          "keyTag": 19375,
+          "algorithm": 8,
+          "digestType": 2,
+          "digest": "191EF18CD05C7AF81D71C222E6BD5B657848E2C78C8087E4EA11DBB0BF791C33"
         }
       ]
     },
@@ -48789,16 +48783,16 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 61142,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "D15742398F5291B0E2642BEE5DA6ED6EF3F4497C65BAC0F5A6C9C8FF495CF286"
-        },
-        {
           "keyTag": 1897,
           "algorithm": 8,
           "digestType": 2,
           "digest": "726C3C1BAF1BA9853660E4D34270D42D1E8C50EC79A1843C7CB14FA1DC8F38F8"
+        },
+        {
+          "keyTag": 54521,
+          "algorithm": 8,
+          "digestType": 2,
+          "digest": "B01AC945154CA99256587FD429EA4160FCD531633A1C9BFDCB04C7F1A297200A"
         }
       ]
     },
@@ -75791,16 +75785,16 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 4267,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "66D7010609CB19E99AD1DA2833DDAB8CA2E7ACC1CE870CC28D29E76EB53D39BA"
-        },
-        {
           "keyTag": 19282,
           "algorithm": 8,
           "digestType": 2,
           "digest": "2706A216BD382A5823C746CE685CBC84CA12A9C227E47792ABD990FA7885DBB0"
+        },
+        {
+          "keyTag": 65176,
+          "algorithm": 8,
+          "digestType": 2,
+          "digest": "A7AE5FD8BCA808EDB6906AD3BB9AB506326907F1C41FA8404453E8C843F266EE"
         }
       ]
     },
@@ -81341,16 +81335,16 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 4289,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "03A4602F454DD05E3EF2B7A9507F7E4EEB78BA9259E35DA7C3B20FD8DA43341A"
-        },
-        {
           "keyTag": 56540,
           "algorithm": 8,
           "digestType": 2,
           "digest": "9E422A4E7BE0A741B0C7E5C5CA984AFA95B0C2F512F13BE981E47AECF87EA581"
+        },
+        {
+          "keyTag": 11915,
+          "algorithm": 8,
+          "digestType": 2,
+          "digest": "BF03D95EF84D1896E57E82D02F809E6415823176DEE48BF6B011720AE8CF7983"
         }
       ]
     },
@@ -93241,16 +93235,16 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 51676,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "883175F6F5C68EA81563B62D1B2B79B6A997D60DC6E20CC70AFD0CD6B7E82F62"
-        },
-        {
           "keyTag": 51974,
           "algorithm": 8,
           "digestType": 2,
           "digest": "A06DC47457CC1185CF1B3A7CF6ECCB84978DE92939DD182BEED9521509D0DA7B"
+        },
+        {
+          "keyTag": 4241,
+          "algorithm": 8,
+          "digestType": 2,
+          "digest": "B2F9F1BAAA93793437D7F16065A2075BBA7794160C1FEE25A7BB5A34164EC7D5"
         }
       ]
     },
@@ -95516,16 +95510,16 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 44251,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "A82D8ED2B07D66D6E7AF375E0E44B22A82F4479AD45F5D8E1859DF6FC170E67C"
-        },
-        {
           "keyTag": 63881,
           "algorithm": 8,
           "digestType": 2,
           "digest": "85EE1264739A00FB6139712C3D7227721D99654226B0140F14A3E3D1A63B315F"
+        },
+        {
+          "keyTag": 33010,
+          "algorithm": 8,
+          "digestType": 2,
+          "digest": "53E37640A028FA26A4ED6306AA07C506BF037FC414AF9CAF0E41ADFFF87CCB72"
         }
       ]
     },
@@ -96844,16 +96838,16 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 16342,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "E59827295E51C4F46D5208ED454BCD78DD6FFA49F01BD203B24E1380AA535675"
-        },
-        {
           "keyTag": 38974,
           "algorithm": 8,
           "digestType": 2,
           "digest": "3D17E03A2E9DD75F65939B2CA470D85F03CE4CBEA32187D65EA1A610569E5F49"
+        },
+        {
+          "keyTag": 45961,
+          "algorithm": 8,
+          "digestType": 2,
+          "digest": "15C0AEDA3D208A2FDBA1DF9E5AFCD6628B162CEA740B4E7D4FEF1879092F6E25"
         }
       ]
     },
@@ -98014,6 +98008,14 @@
         ],
         "v6": [
           "2001:12ff:0:a20::5"
+        ]
+      },
+      "p.ns.sv": {
+        "v4": [
+          "204.61.216.112"
+        ],
+        "v6": [
+          "2001:500:14:6112:ad::1"
         ]
       },
       "sir.red.sv": {
@@ -100147,16 +100149,16 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 50095,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "83F40D01141484D8F07305E5D2E44AC5663149054C598D6E9D993C661686C6EE"
-        },
-        {
           "keyTag": 28487,
           "algorithm": 8,
           "digestType": 2,
           "digest": "EA62FA86A9C863738597A42D28762B1F75D42F7D77AA6767425DE138F8B0E78C"
+        },
+        {
+          "keyTag": 44746,
+          "algorithm": 8,
+          "digestType": 2,
+          "digest": "982F1EBBD8BDF753193C770FC19095F50678393951BC01357FFEA6A8E96EA3B1"
         }
       ]
     },
@@ -105820,16 +105822,16 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 35737,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "0DFCCFC8E90286393539413D9F228FD96F7B08B8F15143020C07E32E3D254936"
-        },
-        {
           "keyTag": 7286,
           "algorithm": 8,
           "digestType": 2,
           "digest": "D85EED6E94D62F2D9C4D8FF199A5CB355AD0E3B56BF845264AA9F38BFC6450B5"
+        },
+        {
+          "keyTag": 56080,
+          "algorithm": 8,
+          "digestType": 2,
+          "digest": "73E7B1013FD902486A7942F93000536E49B6EA7C53BCAADBD2ACFF557B44A552"
         }
       ]
     },
@@ -110504,16 +110506,16 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 47815,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "CB5F31743F17C1C1641D7ECC4C7DC40217363645E7AC25C509393C6709D933A8"
-        },
-        {
           "keyTag": 58591,
           "algorithm": 8,
           "digestType": 2,
           "digest": "BAD631380E8E6F70CF21DEC0D8D8ABBE9DF00CD2F0F9376A33535A3FA6AB26E6"
+        },
+        {
+          "keyTag": 241,
+          "algorithm": 8,
+          "digestType": 2,
+          "digest": "BB05372F77F6474787AEA2D8BD477386AF3B54CDDD199DDAE76A3FC00D1E7761"
         }
       ]
     },
