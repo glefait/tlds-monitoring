@@ -120,7 +120,7 @@
             "adr",
             {
               "type": "work",
-              "label": "UNIT 6, 11/F PROSPERITY PLACE, 6 SHING YIP STREET, KWUN TONG Kl\nHong Kong\nChina"
+              "label": "UNIT 6, 11/F PROSPERITY PLACE, 6 SHING YIP STREET, KWUN TONG KL\nHong Kong\nChina"
             },
             "text",
             [
@@ -141,7 +141,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2026-01-20T00:00:00+00:00"
+          "eventDate": "2026-01-21T00:00:00+00:00"
         }
       ]
     },
@@ -329,7 +329,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2026-01-20T00:00:00+00:00"
+      "eventDate": "2026-01-21T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
