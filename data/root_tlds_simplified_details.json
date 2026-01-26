@@ -326,11 +326,11 @@
       },
       "technical": {
         "fn": "Senior Director, DNS Infrastructure Group",
-        "org": "Afilias",
-        "adr": "300 Welsh Road\nBuilding 3, Suite 105\nHorsham PA 19044\nUnited States of America (the)",
-        "tel": "+1 215.706.5701",
-        "email": "tld-tech-poc@afilias.info",
-        "last_change_date": "2015-03-07T00:00:00+00:00"
+        "org": "Identity Digital Limited",
+        "adr": "c/o Identity Digital Inc.\n10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)",
+        "tel": "+1.425.671.0020",
+        "email": "tldtech@identity.digital",
+        "last_change_date": "2026-01-26T00:00:00+00:00"
       }
     },
     "secureDNS": {
