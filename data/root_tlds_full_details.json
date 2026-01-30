@@ -301718,6 +301718,9 @@
         "ipAddresses": {
           "v4": [
             "41.222.79.3"
+          ],
+          "v6": [
+            "2c0f:f098::3"
           ]
         }
       }
@@ -301943,7 +301946,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-09-01T00:00:00+00:00"
+        "eventDate": "2026-01-29T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -301956,6 +301959,12 @@
         "href": "http://www.nira.org.ng/",
         "title": "Registration URL",
         "type": "text/html"
+      },
+      {
+        "rel": "alternate",
+        "href": "http://rdap.nic.net.ng",
+        "title": "RDAP Server",
+        "type": "application/rdap+json"
       },
       {
         "value": "https://rdap.iana.org/domain/ng",
@@ -503289,6 +503298,18 @@
       },
       {
         "objectClassName": "nameserver",
+        "ldhName": "d.cctld-servers.net.jo",
+        "ipAddresses": {
+          "v4": [
+            "193.188.69.19"
+          ],
+          "v6": [
+            "2a02:9c0:0:19::19"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
         "ldhName": "jo.cctld.authdns.ripe.net",
         "ipAddresses": {
           "v4": [
@@ -503296,18 +503317,6 @@
           ],
           "v6": [
             "2a13:27c0:30::83"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "jordan1st.nic.gov.jo",
-        "ipAddresses": {
-          "v4": [
-            "193.188.69.19"
-          ],
-          "v6": [
-            "2a02:9c0:0:19::19"
           ]
         }
       },
@@ -503581,7 +503590,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-08-29T00:00:00+00:00"
+        "eventDate": "2026-01-29T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
