@@ -92,6 +92,18 @@
         "algorithm": 13,
         "digestType": 4,
         "digest": "E574F2FC644D92A320775C9C5083166C5A6305652762A62F859405FF64FA61DB503221C353D3BE30F082E6E65C9E75C4"
+      },
+      {
+        "keyTag": 52616,
+        "algorithm": 13,
+        "digestType": 2,
+        "digest": "32A4E37FD3637311376A54E6AAA0DADBE15A2C2F28E5C8CEA1A2A197D5492A6F"
+      },
+      {
+        "keyTag": 52616,
+        "algorithm": 13,
+        "digestType": 4,
+        "digest": "410CC5C7602218CF3EEBF89CDCA774E8741A6A0528F13F956B1CB0A0C51663709A2474A74A9A1C87183D0F401A439248"
       }
     ]
   },
@@ -335,7 +347,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2025-08-22T00:00:00+00:00"
+      "eventDate": "2026-02-02T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
