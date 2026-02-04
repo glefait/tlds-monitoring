@@ -50890,6 +50890,12 @@
           "algorithm": 13,
           "digestType": 2,
           "digest": "687A4ABEB697C30E24277072E0380161B84A6B0759F4998C32602D464FEB0CA8"
+        },
+        {
+          "keyTag": 35088,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "AC84D274E6BF42857B41DEF52D8E6A23853B00FE76B7FB70B97484ED49FEA182"
         }
       ]
     },
@@ -120871,7 +120877,7 @@
           "2a02:9c0:0:408::103"
         ]
       },
-      "cloudns.nic.net.jo": {
+      "c.cctld-servers.net.jo": {
         "v4": [
           "54.155.28.251"
         ],
