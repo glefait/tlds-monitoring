@@ -227241,13 +227241,25 @@
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "cloudns.nic.net.jo",
+        "ldhName": "c.cctld-servers.net.jo",
         "ipAddresses": {
           "v4": [
             "54.155.28.251"
           ],
           "v6": [
             "2a05:d018:123c:3500:3e00:7185:3a6e:e082"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "d.cctld-servers.net.jo",
+        "ipAddresses": {
+          "v4": [
+            "193.188.69.19"
+          ],
+          "v6": [
+            "2a02:9c0:0:19::19"
           ]
         }
       },
@@ -227260,18 +227272,6 @@
           ],
           "v6": [
             "2a13:27c0:30::83"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "jordan1st.nic.gov.jo",
-        "ipAddresses": {
-          "v4": [
-            "193.188.69.19"
-          ],
-          "v6": [
-            "2a02:9c0:0:19::19"
           ]
         }
       },
@@ -227543,7 +227543,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-07-14T00:00:00+00:00"
+        "eventDate": "2026-02-05T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -503250,7 +503250,19 @@
     "nameservers": [
       {
         "objectClassName": "nameserver",
-        "ldhName": "amra.nic.gov.jo",
+        "ldhName": "a.cctld-servers.net.jo",
+        "ipAddresses": {
+          "v4": [
+            "193.188.66.2"
+          ],
+          "v6": [
+            "2a02:9c0:0:407::2"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "b.cctld-servers.net.jo",
         "ipAddresses": {
           "v4": [
             "193.188.66.103"
@@ -503293,18 +503305,6 @@
           ],
           "v6": [
             "2a13:27c0:30::83"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "petra.nic.gov.jo",
-        "ipAddresses": {
-          "v4": [
-            "193.188.66.2"
-          ],
-          "v6": [
-            "2a02:9c0:0:407::2"
           ]
         }
       }
@@ -503560,7 +503560,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-02-03T00:00:00+00:00"
+        "eventDate": "2026-02-05T00:00:00+00:00"
       },
       {
         "eventAction": "registration",

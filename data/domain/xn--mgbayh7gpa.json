@@ -8,7 +8,19 @@
   "nameservers": [
     {
       "objectClassName": "nameserver",
-      "ldhName": "amra.nic.gov.jo",
+      "ldhName": "a.cctld-servers.net.jo",
+      "ipAddresses": {
+        "v4": [
+          "193.188.66.2"
+        ],
+        "v6": [
+          "2a02:9c0:0:407::2"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "b.cctld-servers.net.jo",
       "ipAddresses": {
         "v4": [
           "193.188.66.103"
@@ -51,18 +63,6 @@
         ],
         "v6": [
           "2a13:27c0:30::83"
-        ]
-      }
-    },
-    {
-      "objectClassName": "nameserver",
-      "ldhName": "petra.nic.gov.jo",
-      "ipAddresses": {
-        "v4": [
-          "193.188.66.2"
-        ],
-        "v6": [
-          "2a02:9c0:0:407::2"
         ]
       }
     }
@@ -318,7 +318,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2026-02-03T00:00:00+00:00"
+      "eventDate": "2026-02-05T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
