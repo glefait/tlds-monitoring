@@ -43659,83 +43659,6 @@
     "registration_url": "https://www.identity.digital/",
     "creation_date": "2015-03-12T00:00:00+00:00"
   },
-  "goo": {
-    "unicodeName": "goo",
-    "nameservers": {
-      "a.gmoregistry.net": {
-        "v4": [
-          "37.209.192.4"
-        ],
-        "v6": [
-          "2001:dcd:1::4"
-        ]
-      },
-      "b.gmoregistry.net": {
-        "v4": [
-          "37.209.194.4"
-        ],
-        "v6": [
-          "2001:dcd:2::4"
-        ]
-      },
-      "k.gmoregistry.net": {
-        "v4": [
-          "37.209.196.4"
-        ]
-      },
-      "l.gmoregistry.net": {
-        "v4": [
-          "37.209.198.4"
-        ],
-        "v6": [
-          "2001:dcd:4::4"
-        ]
-      }
-    },
-    "entities": {
-      "registrant": {
-        "fn": "NTT Resonant Inc.",
-        "org": null,
-        "adr": "Granparktower, 3-4-1 Shibaura Minato-ku\nTokyo Tokyo 108-0023\nJapan",
-        "tel": null,
-        "email": null,
-        "last_change_date": "2019-08-20T00:00:00+00:00"
-      },
-      "administrative": {
-        "fn": "Representative Director",
-        "org": "GMO Registry, Inc.",
-        "adr": "26-1 Sakuragaoka-cho\nShibuya-ku Tokyo 1508512\nJapan",
-        "tel": "+81-3-3780-5239",
-        "email": "newgtld@gmoregistry.com",
-        "last_change_date": "2015-03-03T00:00:00+00:00"
-      },
-      "technical": {
-        "fn": "Director",
-        "org": "GMO Registry, Inc.",
-        "adr": "26-1 Sakuragaoka-cho\nShibuya-ku Tokyo 1508512\nJapan",
-        "tel": "+81-3-3780-5239",
-        "email": "newgtld@gmoregistry.com",
-        "last_change_date": "2015-03-03T00:00:00+00:00"
-      }
-    },
-    "secureDNS": {
-      "delegationSigned": true,
-      "dsData": [
-        {
-          "keyTag": 6266,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "CDB2048D86D951BFC2320C25EC2211B19E22B00F8A1FBC6A6A7CBC9D5D9A9924"
-        }
-      ]
-    },
-    "status": [
-      "active"
-    ],
-    "port43": null,
-    "registration_url": "http://www.gmoregistry.com/en/",
-    "creation_date": "2015-02-13T00:00:00+00:00"
-  },
   "goodyear": {
     "unicodeName": "goodyear",
     "nameservers": {
@@ -122440,16 +122363,16 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 10552,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "B4B742442C6B66D321259FCD7608462A75F2A7EA70AF4E42A6CAD0430DD98D51"
-        },
-        {
           "keyTag": 5347,
           "algorithm": 8,
           "digestType": 2,
           "digest": "6E02D3EE5A203293F8CBAF20686AECD516E1363E231EC6DB68E78E9F48090E47"
+        },
+        {
+          "keyTag": 49747,
+          "algorithm": 8,
+          "digestType": 2,
+          "digest": "6D343065191808281110ECE8C0A9CB89612B03355524A7CBBBF9DF0E95CFCDCB"
         }
       ]
     },
