@@ -232910,16 +232910,16 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 47020,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "602EE5EB852A6581E8CBDABE8D6685A881CC2783B4DE8D8947393231243B80B2"
-        },
-        {
           "keyTag": 23849,
           "algorithm": 8,
           "digestType": 2,
           "digest": "025679B3FA1C06955DC8722820DC339E4D419A6198F053F98843E40488BDB09C"
+        },
+        {
+          "keyTag": 19529,
+          "algorithm": 8,
+          "digestType": 2,
+          "digest": "E6782B15580E48186716A8E819B8C8A382612E3518CDF0A40851543D3211EC4A"
         }
       ]
     },
@@ -233163,7 +233163,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-03-06T00:00:00+00:00"
+        "eventDate": "2026-02-05T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -291976,6 +291976,18 @@
     "nameservers": [
       {
         "objectClassName": "nameserver",
+        "ldhName": "baraveli.ns.mv",
+        "ipAddresses": {
+          "v4": [
+            "188.166.71.229"
+          ],
+          "v6": [
+            "2a03:b0c0:2:f0:0:1:46a5:8001"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
         "ldhName": "boli.ns.mv",
         "ipAddresses": {
           "v4": [
@@ -292281,7 +292293,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-12-26T00:00:00+00:00"
+        "eventDate": "2026-02-05T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
