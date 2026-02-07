@@ -180964,45 +180964,6 @@
       }
     ]
   },
-  "goo": {
-    "rdapConformance": [
-      "rdap_level_0"
-    ],
-    "errorCode": 404,
-    "title": "Not Found",
-    "description": [
-      "Domain not found :",
-      "goo"
-    ],
-    "notices": [
-      {
-        "title": "Terms of Service",
-        "description": [
-          "Terms of Service"
-        ],
-        "links": [
-          {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://www.icann.org/privacy/tos"
-          }
-        ]
-      },
-      {
-        "title": "Privacy Policy",
-        "description": [
-          "Privacy Policy"
-        ],
-        "links": [
-          {
-            "rel": "alternate",
-            "type": "text/html",
-            "href": "https://www.icann.org/privacy/policy"
-          }
-        ]
-      }
-    ]
-  },
   "goodyear": {
     "rdapConformance": [
       "rdap_level_0"
