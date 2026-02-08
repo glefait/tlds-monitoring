@@ -74693,39 +74693,39 @@
   "office": {
     "unicodeName": "office",
     "nameservers": {
-      "dns1.nic.microsoft": {
+      "dns1.nic.office": {
         "v4": [
-          "213.248.219.132"
+          "213.248.219.136"
         ],
         "v6": [
-          "2a01:618:403::132"
+          "2a01:618:403::136"
         ]
       },
-      "dns2.nic.microsoft": {
+      "dns2.nic.office": {
         "v4": [
-          "103.49.83.132"
+          "103.49.83.136"
         ],
         "v6": [
-          "2401:fd80:403::132"
+          "2401:fd80:403::136"
         ]
       },
-      "dns3.nic.microsoft": {
+      "dns3.nic.office": {
         "v4": [
-          "213.248.223.132"
+          "213.248.223.136"
         ],
         "v6": [
-          "2a01:618:407::132"
+          "2a01:618:407::136"
         ]
       },
-      "dns4.nic.microsoft": {
+      "dns4.nic.office": {
         "v4": [
-          "43.230.51.132"
+          "43.230.51.136"
         ],
         "v6": [
-          "2401:fd80:407::132"
+          "2401:fd80:407::136"
         ]
       },
-      "dnsa.nic.microsoft": {
+      "dnsa.nic.office": {
         "v4": [
           "156.154.100.3"
         ],
@@ -74733,7 +74733,7 @@
           "2001:502:ad09::3"
         ]
       },
-      "dnsb.nic.microsoft": {
+      "dnsb.nic.office": {
         "v4": [
           "156.154.101.3"
         ],
@@ -74741,7 +74741,7 @@
           "2001:502:2eda::3"
         ]
       },
-      "dnsc.nic.microsoft": {
+      "dnsc.nic.office": {
         "v4": [
           "156.154.102.3"
         ],
@@ -74749,7 +74749,7 @@
           "2610:a1:1009::3"
         ]
       },
-      "dnsd.nic.microsoft": {
+      "dnsd.nic.office": {
         "v4": [
           "156.154.103.3"
         ],
@@ -74787,12 +74787,6 @@
     "secureDNS": {
       "delegationSigned": true,
       "dsData": [
-        {
-          "keyTag": 9475,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "8193E9E63984C0EEBAC5E602C134CA712C7843002BCDDEF3C08A199AC9D4308D"
-        },
         {
           "keyTag": 16229,
           "algorithm": 8,
@@ -93646,39 +93640,39 @@
   "skype": {
     "unicodeName": "skype",
     "nameservers": {
-      "dns1.nic.microsoft": {
+      "dns1.nic.skype": {
         "v4": [
-          "213.248.219.132"
+          "213.248.219.138"
         ],
         "v6": [
-          "2a01:618:403::132"
+          "2a01:618:403::138"
         ]
       },
-      "dns2.nic.microsoft": {
+      "dns2.nic.skype": {
         "v4": [
-          "103.49.83.132"
+          "103.49.83.138"
         ],
         "v6": [
-          "2401:fd80:403::132"
+          "2401:fd80:403::138"
         ]
       },
-      "dns3.nic.microsoft": {
+      "dns3.nic.skype": {
         "v4": [
-          "213.248.223.132"
+          "213.248.223.138"
         ],
         "v6": [
-          "2a01:618:407::132"
+          "2a01:618:407::138"
         ]
       },
-      "dns4.nic.microsoft": {
+      "dns4.nic.skype": {
         "v4": [
-          "43.230.51.132"
+          "43.230.51.138"
         ],
         "v6": [
-          "2401:fd80:407::132"
+          "2401:fd80:407::138"
         ]
       },
-      "dnsa.nic.microsoft": {
+      "dnsa.nic.skype": {
         "v4": [
           "156.154.100.3"
         ],
@@ -93686,7 +93680,7 @@
           "2001:502:ad09::3"
         ]
       },
-      "dnsb.nic.microsoft": {
+      "dnsb.nic.skype": {
         "v4": [
           "156.154.101.3"
         ],
@@ -93694,7 +93688,7 @@
           "2001:502:2eda::3"
         ]
       },
-      "dnsc.nic.microsoft": {
+      "dnsc.nic.skype": {
         "v4": [
           "156.154.102.3"
         ],
@@ -93702,7 +93696,7 @@
           "2610:a1:1009::3"
         ]
       },
-      "dnsd.nic.microsoft": {
+      "dnsd.nic.skype": {
         "v4": [
           "156.154.103.3"
         ],
@@ -93740,12 +93734,6 @@
     "secureDNS": {
       "delegationSigned": true,
       "dsData": [
-        {
-          "keyTag": 56554,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "FFA94DC331D59FBE4B7B2E51871B8CEEEC8CE9BAA00EFB2A9553F09F84804E6A"
-        },
         {
           "keyTag": 25544,
           "algorithm": 8,

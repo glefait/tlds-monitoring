@@ -7,55 +7,55 @@
   "nameservers": [
     {
       "objectClassName": "nameserver",
-      "ldhName": "dns1.nic.microsoft",
+      "ldhName": "dns1.nic.office",
       "ipAddresses": {
         "v4": [
-          "213.248.219.132"
+          "213.248.219.136"
         ],
         "v6": [
-          "2a01:618:403::132"
+          "2a01:618:403::136"
         ]
       }
     },
     {
       "objectClassName": "nameserver",
-      "ldhName": "dns2.nic.microsoft",
+      "ldhName": "dns2.nic.office",
       "ipAddresses": {
         "v4": [
-          "103.49.83.132"
+          "103.49.83.136"
         ],
         "v6": [
-          "2401:fd80:403::132"
+          "2401:fd80:403::136"
         ]
       }
     },
     {
       "objectClassName": "nameserver",
-      "ldhName": "dns3.nic.microsoft",
+      "ldhName": "dns3.nic.office",
       "ipAddresses": {
         "v4": [
-          "213.248.223.132"
+          "213.248.223.136"
         ],
         "v6": [
-          "2a01:618:407::132"
+          "2a01:618:407::136"
         ]
       }
     },
     {
       "objectClassName": "nameserver",
-      "ldhName": "dns4.nic.microsoft",
+      "ldhName": "dns4.nic.office",
       "ipAddresses": {
         "v4": [
-          "43.230.51.132"
+          "43.230.51.136"
         ],
         "v6": [
-          "2401:fd80:407::132"
+          "2401:fd80:407::136"
         ]
       }
     },
     {
       "objectClassName": "nameserver",
-      "ldhName": "dnsa.nic.microsoft",
+      "ldhName": "dnsa.nic.office",
       "ipAddresses": {
         "v4": [
           "156.154.100.3"
@@ -67,7 +67,7 @@
     },
     {
       "objectClassName": "nameserver",
-      "ldhName": "dnsb.nic.microsoft",
+      "ldhName": "dnsb.nic.office",
       "ipAddresses": {
         "v4": [
           "156.154.101.3"
@@ -79,7 +79,7 @@
     },
     {
       "objectClassName": "nameserver",
-      "ldhName": "dnsc.nic.microsoft",
+      "ldhName": "dnsc.nic.office",
       "ipAddresses": {
         "v4": [
           "156.154.102.3"
@@ -91,7 +91,7 @@
     },
     {
       "objectClassName": "nameserver",
-      "ldhName": "dnsd.nic.microsoft",
+      "ldhName": "dnsd.nic.office",
       "ipAddresses": {
         "v4": [
           "156.154.103.3"
@@ -105,12 +105,6 @@
   "secureDNS": {
     "delegationSigned": true,
     "dsData": [
-      {
-        "keyTag": 9475,
-        "algorithm": 8,
-        "digestType": 2,
-        "digest": "8193E9E63984C0EEBAC5E602C134CA712C7843002BCDDEF3C08A199AC9D4308D"
-      },
       {
         "keyTag": 16229,
         "algorithm": 8,
@@ -348,7 +342,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2025-05-01T00:00:00+00:00"
+      "eventDate": "2026-02-07T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
