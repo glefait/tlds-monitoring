@@ -317,7 +317,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2025-11-13T00:00:00+00:00"
+      "eventDate": "2026-02-09T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
@@ -330,6 +330,12 @@
       "href": "https://www.auda.org.au/domains/au-domains/",
       "title": "Registration URL",
       "type": "text/html"
+    },
+    {
+      "rel": "alternate",
+      "href": "https://rdap.cctld.au/rdap/",
+      "title": "RDAP Server",
+      "type": "application/rdap+json"
     },
     {
       "value": "https://rdap.iana.org/domain/au",
