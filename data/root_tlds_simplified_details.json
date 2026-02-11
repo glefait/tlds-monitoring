@@ -10777,18 +10777,18 @@
       "registrant": {
         "fn": "BestTLD Pty Ltd",
         "org": null,
-        "adr": "Level 6\n1 Chifley Square\nSydney NSW 2000\nAustralia",
+        "adr": "Level 9\n1 Chifley Square\nSydney NSW 2000\nAustralia",
         "tel": null,
         "email": null,
-        "last_change_date": "2022-05-04T00:00:00+00:00"
+        "last_change_date": "2026-02-11T00:00:00+00:00"
       },
       "administrative": {
         "fn": "CEO",
         "org": "The Best SAS",
         "adr": "295 Rue Du Professeur Paul Milliez\nChampigny Sur Marne 94500\nFrance",
         "tel": "+1.310.6518061",
-        "email": "contact@the.best",
-        "last_change_date": "2022-04-22T00:00:00+00:00"
+        "email": "contact@domains.best",
+        "last_change_date": "2026-02-11T00:00:00+00:00"
       },
       "technical": {
         "fn": "CTO",
@@ -10820,7 +10820,7 @@
       "active"
     ],
     "port43": null,
-    "registration_url": "https://www.go.best",
+    "registration_url": "https://www.domains.best",
     "creation_date": "2014-02-20T00:00:00+00:00"
   },
   "bestbuy": {
