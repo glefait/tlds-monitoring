@@ -8,28 +8,28 @@
   "nameservers": [
     {
       "objectClassName": "nameserver",
-      "ldhName": "ns.ntc.net.pk",
+      "ldhName": "ns1.ntc.org.pk",
       "ipAddresses": {
         "v4": [
-          "202.83.164.166"
+          "43.250.84.53"
         ]
       }
     },
     {
       "objectClassName": "nameserver",
-      "ldhName": "ns1.ntc.net.pk",
+      "ldhName": "ns2.ntc.org.pk",
       "ipAddresses": {
         "v4": [
-          "202.83.164.167"
+          "43.250.84.54"
         ]
       }
     },
     {
       "objectClassName": "nameserver",
-      "ldhName": "ns2.ntc.net.pk",
+      "ldhName": "ns3.ntc.org.pk",
       "ipAddresses": {
         "v4": [
-          "175.107.198.150"
+          "36.50.76.15"
         ]
       }
     }
@@ -38,16 +38,10 @@
     "delegationSigned": true,
     "dsData": [
       {
-        "keyTag": 21720,
-        "algorithm": 7,
-        "digestType": 1,
-        "digest": "9FC6318AA15A43B4CF11D3F64CD678935E40402F"
-      },
-      {
-        "keyTag": 21720,
-        "algorithm": 7,
+        "keyTag": 23595,
+        "algorithm": 13,
         "digestType": 2,
-        "digest": "BB7D853DFDFD7A39574CE1B5D3009E5C813264E614430C1B29C894C090393DD1"
+        "digest": "E46D0E529C6F1A41EC7DE4A184C062FFB2847D49618192FECB8D348818E576C6"
       }
     ]
   },
@@ -291,7 +285,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2023-03-07T00:00:00+00:00"
+      "eventDate": "2026-02-11T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
