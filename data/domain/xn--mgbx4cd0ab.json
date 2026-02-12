@@ -32,15 +32,6 @@
     },
     {
       "objectClassName": "nameserver",
-      "ldhName": "a1.nic.my",
-      "ipAddresses": {
-        "v4": [
-          "202.171.47.204"
-        ]
-      }
-    },
-    {
-      "objectClassName": "nameserver",
       "ldhName": "b.mynic.centralnic-dns.com",
       "ipAddresses": {
         "v4": [
@@ -327,7 +318,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2026-01-28T00:00:00+00:00"
+      "eventDate": "2026-02-12T00:00:00+00:00"
     },
     {
       "eventAction": "registration",

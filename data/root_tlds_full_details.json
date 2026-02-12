@@ -163514,6 +163514,54 @@
             "2a04:2b00:13ff::72"
           ]
         }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "ns01.trs-dns.com",
+        "ipAddresses": {
+          "v4": [
+            "64.96.1.1"
+          ],
+          "v6": [
+            "2620:57:4001::1"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "ns01.trs-dns.net",
+        "ipAddresses": {
+          "v4": [
+            "64.96.2.1"
+          ],
+          "v6": [
+            "2620:57:4002::1"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "ns10.trs-dns.info",
+        "ipAddresses": {
+          "v4": [
+            "64.78.204.1"
+          ],
+          "v6": [
+            "2620:171:812:1534:8::1"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "ns10.trs-dns.org",
+        "ipAddresses": {
+          "v4": [
+            "64.78.205.1"
+          ],
+          "v6": [
+            "2620:171:813:1534:8::1"
+          ]
+        }
       }
     ],
     "secureDNS": {
@@ -163762,7 +163810,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-01-22T00:00:00+00:00"
+        "eventDate": "2026-02-12T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -202048,6 +202096,54 @@
             "2a04:2b00:13ff::53"
           ]
         }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "ns01.trs-dns.com",
+        "ipAddresses": {
+          "v4": [
+            "64.96.1.1"
+          ],
+          "v6": [
+            "2620:57:4001::1"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "ns01.trs-dns.net",
+        "ipAddresses": {
+          "v4": [
+            "64.96.2.1"
+          ],
+          "v6": [
+            "2620:57:4002::1"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "ns10.trs-dns.info",
+        "ipAddresses": {
+          "v4": [
+            "64.78.204.1"
+          ],
+          "v6": [
+            "2620:171:812:1534:8::1"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "ns10.trs-dns.org",
+        "ipAddresses": {
+          "v4": [
+            "64.78.205.1"
+          ],
+          "v6": [
+            "2620:171:813:1534:8::1"
+          ]
+        }
       }
     ],
     "secureDNS": {
@@ -202296,7 +202392,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-01-22T00:00:00+00:00"
+        "eventDate": "2026-02-12T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -292762,15 +292858,6 @@
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "a1.nic.my",
-        "ipAddresses": {
-          "v4": [
-            "202.171.47.204"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
         "ldhName": "b.mynic.centralnic-dns.com",
         "ipAddresses": {
           "v4": [
@@ -293081,7 +293168,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-01-28T00:00:00+00:00"
+        "eventDate": "2026-02-12T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -338103,6 +338190,54 @@
             "2a04:2b00:13ff::34"
           ]
         }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "ns01.trs-dns.com",
+        "ipAddresses": {
+          "v4": [
+            "64.96.1.1"
+          ],
+          "v6": [
+            "2620:57:4001::1"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "ns01.trs-dns.net",
+        "ipAddresses": {
+          "v4": [
+            "64.96.2.1"
+          ],
+          "v6": [
+            "2620:57:4002::1"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "ns10.trs-dns.info",
+        "ipAddresses": {
+          "v4": [
+            "64.78.204.1"
+          ],
+          "v6": [
+            "2620:171:812:1534:8::1"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "ns10.trs-dns.org",
+        "ipAddresses": {
+          "v4": [
+            "64.78.205.1"
+          ],
+          "v6": [
+            "2620:171:813:1534:8::1"
+          ]
+        }
       }
     ],
     "secureDNS": {
@@ -338351,7 +338486,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-01-22T00:00:00+00:00"
+        "eventDate": "2026-02-12T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -402200,6 +402335,54 @@
             "2a04:2b00:13ff::45"
           ]
         }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "ns01.trs-dns.com",
+        "ipAddresses": {
+          "v4": [
+            "64.96.1.1"
+          ],
+          "v6": [
+            "2620:57:4001::1"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "ns01.trs-dns.net",
+        "ipAddresses": {
+          "v4": [
+            "64.96.2.1"
+          ],
+          "v6": [
+            "2620:57:4002::1"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "ns10.trs-dns.info",
+        "ipAddresses": {
+          "v4": [
+            "64.78.204.1"
+          ],
+          "v6": [
+            "2620:171:812:1534:8::1"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "ns10.trs-dns.org",
+        "ipAddresses": {
+          "v4": [
+            "64.78.205.1"
+          ],
+          "v6": [
+            "2620:171:813:1534:8::1"
+          ]
+        }
       }
     ],
     "secureDNS": {
@@ -402448,7 +402631,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-01-22T00:00:00+00:00"
+        "eventDate": "2026-02-12T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -415763,6 +415946,54 @@
             "2a04:2b00:13ff::60"
           ]
         }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "ns01.trs-dns.com",
+        "ipAddresses": {
+          "v4": [
+            "64.96.1.1"
+          ],
+          "v6": [
+            "2620:57:4001::1"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "ns01.trs-dns.net",
+        "ipAddresses": {
+          "v4": [
+            "64.96.2.1"
+          ],
+          "v6": [
+            "2620:57:4002::1"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "ns10.trs-dns.info",
+        "ipAddresses": {
+          "v4": [
+            "64.78.204.1"
+          ],
+          "v6": [
+            "2620:171:812:1534:8::1"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "ns10.trs-dns.org",
+        "ipAddresses": {
+          "v4": [
+            "64.78.205.1"
+          ],
+          "v6": [
+            "2620:171:813:1534:8::1"
+          ]
+        }
       }
     ],
     "secureDNS": {
@@ -416011,7 +416242,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-01-22T00:00:00+00:00"
+        "eventDate": "2026-02-12T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -458768,6 +458999,54 @@
             "2a04:2b00:13ff::52"
           ]
         }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "ns01.trs-dns.com",
+        "ipAddresses": {
+          "v4": [
+            "64.96.1.1"
+          ],
+          "v6": [
+            "2620:57:4001::1"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "ns01.trs-dns.net",
+        "ipAddresses": {
+          "v4": [
+            "64.96.2.1"
+          ],
+          "v6": [
+            "2620:57:4002::1"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "ns10.trs-dns.info",
+        "ipAddresses": {
+          "v4": [
+            "64.78.204.1"
+          ],
+          "v6": [
+            "2620:171:812:1534:8::1"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "ns10.trs-dns.org",
+        "ipAddresses": {
+          "v4": [
+            "64.78.205.1"
+          ],
+          "v6": [
+            "2620:171:813:1534:8::1"
+          ]
+        }
       }
     ],
     "secureDNS": {
@@ -459016,7 +459295,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-01-22T00:00:00+00:00"
+        "eventDate": "2026-02-12T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -507569,15 +507848,6 @@
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "a1.nic.my",
-        "ipAddresses": {
-          "v4": [
-            "202.171.47.204"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
         "ldhName": "b.mynic.centralnic-dns.com",
         "ipAddresses": {
           "v4": [
@@ -507864,7 +508134,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-01-28T00:00:00+00:00"
+        "eventDate": "2026-02-12T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
