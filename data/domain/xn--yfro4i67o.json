@@ -296,7 +296,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2024-11-19T00:00:00+00:00"
+      "eventDate": "2026-02-11T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
@@ -309,6 +309,12 @@
       "href": "http://www.sgnic.sg/",
       "title": "Registration URL",
       "type": "text/html"
+    },
+    {
+      "rel": "alternate",
+      "href": "https://rdap.zh.sgnic.sg/rdap/",
+      "title": "RDAP Server",
+      "type": "application/rdap+json"
     },
     {
       "value": "https://rdap.iana.org/domain/xn--yfro4i67o",
