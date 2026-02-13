@@ -156835,17 +156835,35 @@
             "2a04:2b00:13ff::27"
           ]
         }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "mimi.nic.fo",
+        "ipAddresses": {
+          "v4": [
+            "77.72.229.243"
+          ],
+          "v6": [
+            "2a01:3f0:0:315::53"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "xn--gurun-jta.nic.fo",
+        "ipAddresses": {
+          "v4": [
+            "194.146.106.158"
+          ],
+          "v6": [
+            "2001:67c:1010:40::53"
+          ]
+        }
       }
     ],
     "secureDNS": {
       "delegationSigned": true,
       "dsData": [
-        {
-          "keyTag": 6691,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "A752CEAAE4E28B4232244E5486D55889F117A15B81D3128CE7E9359F1D47A445"
-        },
         {
           "keyTag": 14231,
           "algorithm": 8,
@@ -157083,7 +157101,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2024-06-21T00:00:00+00:00"
+        "eventDate": "2026-02-13T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
