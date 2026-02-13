@@ -90477,18 +90477,18 @@
       },
       "f.ns.se": {
         "v4": [
-          "192.71.53.53"
+          "192.36.134.97"
         ],
         "v6": [
-          "2a01:3f0:0:305::53"
+          "2001:67c:2550:301::53"
         ]
       },
       "g.ns.se": {
         "v4": [
-          "130.239.5.114"
+          "194.68.134.97"
         ],
         "v6": [
-          "2001:6b0:e:3::1"
+          "2001:67c:2558:301::53"
         ]
       },
       "i.ns.se": {
@@ -90545,9 +90545,9 @@
         "fn": "SE Administrative Contact",
         "org": "The Internet Infrastructure Foundation",
         "adr": "Box 92073\nStockholm SE-120 07\nSweden",
-        "tel": "+46 8 452 35 02",
+        "tel": "+46 8 452 35 00",
         "email": "registry@internetstiftelsen.se",
-        "last_change_date": "2020-03-18T00:00:00+00:00"
+        "last_change_date": "2026-02-12T00:00:00+00:00"
       },
       "technical": {
         "fn": "SE Technical Contact",
