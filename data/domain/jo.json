@@ -7,7 +7,7 @@
   "nameservers": [
     {
       "objectClassName": "nameserver",
-      "ldhName": "amra.nic.gov.jo",
+      "ldhName": "b.cctld-servers.net.jo",
       "ipAddresses": {
         "v4": [
           "193.188.66.103"
@@ -321,7 +321,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2026-02-05T00:00:00+00:00"
+      "eventDate": "2026-02-14T00:00:00+00:00"
     },
     {
       "eventAction": "registration",

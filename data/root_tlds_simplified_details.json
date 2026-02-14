@@ -54695,7 +54695,7 @@
   "jo": {
     "unicodeName": "jo",
     "nameservers": {
-      "amra.nic.gov.jo": {
+      "b.cctld-servers.net.jo": {
         "v4": [
           "193.188.66.103"
         ],
@@ -72451,7 +72451,15 @@
       }
     },
     "secureDNS": {
-      "delegationSigned": false
+      "delegationSigned": true,
+      "dsData": [
+        {
+          "keyTag": 45566,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "746CD3CCEF614AD2A4B08F4E45CCD57DD935E37449E7C5DF07F35AD7C88FC361"
+        }
+      ]
     },
     "status": [
       "active"

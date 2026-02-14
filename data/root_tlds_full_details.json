@@ -226989,7 +226989,7 @@
     "nameservers": [
       {
         "objectClassName": "nameserver",
-        "ldhName": "amra.nic.gov.jo",
+        "ldhName": "b.cctld-servers.net.jo",
         "ipAddresses": {
           "v4": [
             "193.188.66.103"
@@ -227303,7 +227303,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-02-05T00:00:00+00:00"
+        "eventDate": "2026-02-14T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -301477,7 +301477,15 @@
       }
     ],
     "secureDNS": {
-      "delegationSigned": false
+      "delegationSigned": true,
+      "dsData": [
+        {
+          "keyTag": 45566,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "746CD3CCEF614AD2A4B08F4E45CCD57DD935E37449E7C5DF07F35AD7C88FC361"
+        }
+      ]
     },
     "status": [
       "active"
@@ -301697,7 +301705,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-01-29T00:00:00+00:00"
+        "eventDate": "2026-02-14T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
