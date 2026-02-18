@@ -19,18 +19,6 @@
     },
     {
       "objectClassName": "nameserver",
-      "ldhName": "b.nic.is",
-      "ipAddresses": {
-        "v4": [
-          "185.93.156.154"
-        ],
-        "v6": [
-          "2001:67c:6c:f056::154"
-        ]
-      }
-    },
-    {
-      "objectClassName": "nameserver",
       "ldhName": "c.nic.is",
       "ipAddresses": {
         "v4": [
@@ -307,7 +295,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2026-02-17T00:00:00+00:00"
+      "eventDate": "2026-02-18T00:00:00+00:00"
     },
     {
       "eventAction": "registration",

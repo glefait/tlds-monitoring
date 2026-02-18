@@ -53060,14 +53060,6 @@
           "2001:67c:6c:56::10"
         ]
       },
-      "b.nic.is": {
-        "v4": [
-          "185.93.156.154"
-        ],
-        "v6": [
-          "2001:67c:6c:f056::154"
-        ]
-      },
       "c.nic.is": {
         "v4": [
           "204.61.216.116"
@@ -121723,10 +121715,10 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 51067,
+          "keyTag": 13607,
           "algorithm": 8,
           "digestType": 2,
-          "digest": "71A90D5298B157332CF6DC7BC2105982054A8D5F5C74C67DEBBBEE3AFBE114D3"
+          "digest": "077575475C021EAE1F28829578B9D405B4BD35A707671243C76371B5CA8E41C2"
         }
       ]
     },
