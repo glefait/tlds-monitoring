@@ -163469,54 +163469,6 @@
     "nameservers": [
       {
         "objectClassName": "nameserver",
-        "ldhName": "a.nic.fun",
-        "ipAddresses": {
-          "v4": [
-            "194.169.218.72"
-          ],
-          "v6": [
-            "2001:67c:13cc::1:72"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "b.nic.fun",
-        "ipAddresses": {
-          "v4": [
-            "185.24.64.72"
-          ],
-          "v6": [
-            "2a04:2b00:13cc::1:72"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "e.nic.fun",
-        "ipAddresses": {
-          "v4": [
-            "212.18.248.72"
-          ],
-          "v6": [
-            "2a04:2b00:13ee::72"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "f.nic.fun",
-        "ipAddresses": {
-          "v4": [
-            "212.18.249.72"
-          ],
-          "v6": [
-            "2a04:2b00:13ff::72"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
         "ldhName": "ns01.trs-dns.com",
         "ipAddresses": {
           "v4": [
@@ -163810,7 +163762,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-02-12T00:00:00+00:00"
+        "eventDate": "2026-02-23T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -202051,54 +202003,6 @@
     "nameservers": [
       {
         "objectClassName": "nameserver",
-        "ldhName": "a.nic.host",
-        "ipAddresses": {
-          "v4": [
-            "194.169.218.53"
-          ],
-          "v6": [
-            "2001:67c:13cc::1:53"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "b.nic.host",
-        "ipAddresses": {
-          "v4": [
-            "185.24.64.53"
-          ],
-          "v6": [
-            "2a04:2b00:13cc::1:53"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "e.nic.host",
-        "ipAddresses": {
-          "v4": [
-            "212.18.248.53"
-          ],
-          "v6": [
-            "2a04:2b00:13ee::53"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "f.nic.host",
-        "ipAddresses": {
-          "v4": [
-            "212.18.249.53"
-          ],
-          "v6": [
-            "2a04:2b00:13ff::53"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
         "ldhName": "ns01.trs-dns.com",
         "ipAddresses": {
           "v4": [
@@ -202392,7 +202296,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-02-12T00:00:00+00:00"
+        "eventDate": "2026-02-23T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -315168,54 +315072,6 @@
     "nameservers": [
       {
         "objectClassName": "nameserver",
-        "ldhName": "a.nic.online",
-        "ipAddresses": {
-          "v4": [
-            "194.169.218.54"
-          ],
-          "v6": [
-            "2001:67c:13cc::1:54"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "b.nic.online",
-        "ipAddresses": {
-          "v4": [
-            "185.24.64.54"
-          ],
-          "v6": [
-            "2a04:2b00:13cc::1:54"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "e.nic.online",
-        "ipAddresses": {
-          "v4": [
-            "212.18.248.54"
-          ],
-          "v6": [
-            "2a04:2b00:13ee::54"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "f.nic.online",
-        "ipAddresses": {
-          "v4": [
-            "212.18.249.54"
-          ],
-          "v6": [
-            "2a04:2b00:13ff::54"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
         "ldhName": "ns01.trs-dns.com",
         "ipAddresses": {
           "v4": [
@@ -315498,7 +315354,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-02-11T00:00:00+00:00"
+        "eventDate": "2026-02-23T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -338207,54 +338063,6 @@
     "nameservers": [
       {
         "objectClassName": "nameserver",
-        "ldhName": "a.nic.press",
-        "ipAddresses": {
-          "v4": [
-            "194.169.218.34"
-          ],
-          "v6": [
-            "2001:67c:13cc::1:34"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "b.nic.press",
-        "ipAddresses": {
-          "v4": [
-            "185.24.64.34"
-          ],
-          "v6": [
-            "2a04:2b00:13cc::1:34"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "e.nic.press",
-        "ipAddresses": {
-          "v4": [
-            "212.18.248.34"
-          ],
-          "v6": [
-            "2a04:2b00:13ee::34"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "f.nic.press",
-        "ipAddresses": {
-          "v4": [
-            "212.18.249.34"
-          ],
-          "v6": [
-            "2a04:2b00:13ff::34"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
         "ldhName": "ns01.trs-dns.com",
         "ipAddresses": {
           "v4": [
@@ -338548,7 +338356,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-02-12T00:00:00+00:00"
+        "eventDate": "2026-02-23T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -386932,54 +386740,6 @@
     "nameservers": [
       {
         "objectClassName": "nameserver",
-        "ldhName": "a.nic.site",
-        "ipAddresses": {
-          "v4": [
-            "194.169.218.61"
-          ],
-          "v6": [
-            "2001:67c:13cc::1:61"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "b.nic.site",
-        "ipAddresses": {
-          "v4": [
-            "185.24.64.61"
-          ],
-          "v6": [
-            "2a04:2b00:13cc::1:61"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "e.nic.site",
-        "ipAddresses": {
-          "v4": [
-            "212.18.248.61"
-          ],
-          "v6": [
-            "2a04:2b00:13ee::61"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "f.nic.site",
-        "ipAddresses": {
-          "v4": [
-            "212.18.249.61"
-          ],
-          "v6": [
-            "2a04:2b00:13ff::61"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
         "ldhName": "ns01.trs-dns.com",
         "ipAddresses": {
           "v4": [
@@ -387262,7 +387022,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-02-11T00:00:00+00:00"
+        "eventDate": "2026-02-23T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -396496,54 +396256,6 @@
     "nameservers": [
       {
         "objectClassName": "nameserver",
-        "ldhName": "a.nic.space",
-        "ipAddresses": {
-          "v4": [
-            "194.169.218.51"
-          ],
-          "v6": [
-            "2001:67c:13cc::1:51"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "b.nic.space",
-        "ipAddresses": {
-          "v4": [
-            "185.24.64.51"
-          ],
-          "v6": [
-            "2a04:2b00:13cc::1:51"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "e.nic.space",
-        "ipAddresses": {
-          "v4": [
-            "212.18.248.51"
-          ],
-          "v6": [
-            "2a04:2b00:13ee::51"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "f.nic.space",
-        "ipAddresses": {
-          "v4": [
-            "212.18.249.51"
-          ],
-          "v6": [
-            "2a04:2b00:13ff::51"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
         "ldhName": "ns01.trs-dns.com",
         "ipAddresses": {
           "v4": [
@@ -396837,7 +396549,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-02-11T00:00:00+00:00"
+        "eventDate": "2026-02-23T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -402293,54 +402005,6 @@
     "nameservers": [
       {
         "objectClassName": "nameserver",
-        "ldhName": "a.nic.store",
-        "ipAddresses": {
-          "v4": [
-            "194.169.218.45"
-          ],
-          "v6": [
-            "2001:67c:13cc::1:45"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "b.nic.store",
-        "ipAddresses": {
-          "v4": [
-            "185.24.64.45"
-          ],
-          "v6": [
-            "2a04:2b00:13cc::1:45"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "e.nic.store",
-        "ipAddresses": {
-          "v4": [
-            "212.18.248.45"
-          ],
-          "v6": [
-            "2a04:2b00:13ee::45"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "f.nic.store",
-        "ipAddresses": {
-          "v4": [
-            "212.18.249.45"
-          ],
-          "v6": [
-            "2a04:2b00:13ff::45"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
         "ldhName": "ns01.trs-dns.com",
         "ipAddresses": {
           "v4": [
@@ -402634,7 +402298,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-02-12T00:00:00+00:00"
+        "eventDate": "2026-02-23T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -415904,54 +415568,6 @@
     "nameservers": [
       {
         "objectClassName": "nameserver",
-        "ldhName": "a.nic.tech",
-        "ipAddresses": {
-          "v4": [
-            "194.169.218.60"
-          ],
-          "v6": [
-            "2001:67c:13cc::1:60"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "b.nic.tech",
-        "ipAddresses": {
-          "v4": [
-            "185.24.64.60"
-          ],
-          "v6": [
-            "2a04:2b00:13cc::1:60"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "e.nic.tech",
-        "ipAddresses": {
-          "v4": [
-            "212.18.248.60"
-          ],
-          "v6": [
-            "2a04:2b00:13ee::60"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "f.nic.tech",
-        "ipAddresses": {
-          "v4": [
-            "212.18.249.60"
-          ],
-          "v6": [
-            "2a04:2b00:13ff::60"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
         "ldhName": "ns01.trs-dns.com",
         "ipAddresses": {
           "v4": [
@@ -416245,7 +415861,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-02-12T00:00:00+00:00"
+        "eventDate": "2026-02-23T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -439744,54 +439360,6 @@
     "nameservers": [
       {
         "objectClassName": "nameserver",
-        "ldhName": "a.nic.uno",
-        "ipAddresses": {
-          "v4": [
-            "194.169.218.21"
-          ],
-          "v6": [
-            "2001:67c:13cc::1:21"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "b.nic.uno",
-        "ipAddresses": {
-          "v4": [
-            "185.24.64.21"
-          ],
-          "v6": [
-            "2a04:2b00:13cc::1:21"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "c.nic.uno",
-        "ipAddresses": {
-          "v4": [
-            "212.18.248.21"
-          ],
-          "v6": [
-            "2a04:2b00:13ee::21"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "d.nic.uno",
-        "ipAddresses": {
-          "v4": [
-            "212.18.249.21"
-          ],
-          "v6": [
-            "2a04:2b00:13ff::21"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
         "ldhName": "ns01.trs-dns.com",
         "ipAddresses": {
           "v4": [
@@ -440085,7 +439653,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-02-11T00:00:00+00:00"
+        "eventDate": "2026-02-23T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -458957,54 +458525,6 @@
     "nameservers": [
       {
         "objectClassName": "nameserver",
-        "ldhName": "a.nic.website",
-        "ipAddresses": {
-          "v4": [
-            "194.169.218.52"
-          ],
-          "v6": [
-            "2001:67c:13cc::1:52"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "b.nic.website",
-        "ipAddresses": {
-          "v4": [
-            "185.24.64.52"
-          ],
-          "v6": [
-            "2a04:2b00:13cc::1:52"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "e.nic.website",
-        "ipAddresses": {
-          "v4": [
-            "212.18.248.52"
-          ],
-          "v6": [
-            "2a04:2b00:13ee::52"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "f.nic.website",
-        "ipAddresses": {
-          "v4": [
-            "212.18.249.52"
-          ],
-          "v6": [
-            "2a04:2b00:13ff::52"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
         "ldhName": "ns01.trs-dns.com",
         "ipAddresses": {
           "v4": [
@@ -459298,7 +458818,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-02-12T00:00:00+00:00"
+        "eventDate": "2026-02-23T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
