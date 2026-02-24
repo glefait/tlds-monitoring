@@ -50801,12 +50801,6 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 40239,
-          "algorithm": 13,
-          "digestType": 2,
-          "digest": "687A4ABEB697C30E24277072E0380161B84A6B0759F4998C32602D464FEB0CA8"
-        },
-        {
           "keyTag": 35088,
           "algorithm": 13,
           "digestType": 2,
@@ -54613,6 +54607,14 @@
   "jo": {
     "unicodeName": "jo",
     "nameservers": {
+      "a.cctld-servers.net.jo": {
+        "v4": [
+          "193.188.66.2"
+        ],
+        "v6": [
+          "2a02:9c0:0:407::2"
+        ]
+      },
       "b.cctld-servers.net.jo": {
         "v4": [
           "193.188.66.103"
@@ -54643,14 +54645,6 @@
         ],
         "v6": [
           "2a13:27c0:30::83"
-        ]
-      },
-      "petra.nic.gov.jo": {
-        "v4": [
-          "193.188.66.2"
-        ],
-        "v6": [
-          "2a02:9c0:0:407::2"
         ]
       },
       "rip.psg.com": {
@@ -55991,38 +55985,6 @@
   "kfh": {
     "unicodeName": "kfh",
     "nameservers": {
-      "a.nic.kfh": {
-        "v4": [
-          "194.169.218.43"
-        ],
-        "v6": [
-          "2001:67c:13cc::1:43"
-        ]
-      },
-      "b.nic.kfh": {
-        "v4": [
-          "185.24.64.43"
-        ],
-        "v6": [
-          "2a04:2b00:13cc::1:43"
-        ]
-      },
-      "c.nic.kfh": {
-        "v4": [
-          "212.18.248.43"
-        ],
-        "v6": [
-          "2a04:2b00:13ee::43"
-        ]
-      },
-      "d.nic.kfh": {
-        "v4": [
-          "212.18.249.43"
-        ],
-        "v6": [
-          "2a04:2b00:13ff::43"
-        ]
-      },
       "ns01.trs-dns.com": {
         "v4": [
           "64.96.1.1"
@@ -87594,10 +87556,10 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 62932,
+          "keyTag": 2990,
           "algorithm": 8,
           "digestType": 2,
-          "digest": "2E80B1231D370F4933A26F19487946EACA1DB9D41A53831C2A9E73368BBBAAB5"
+          "digest": "9F357B0A83134174B0E581C252AD172E9E5F750AB95A4C900C9655A919B560C0"
         }
       ]
     },
@@ -122230,38 +122192,6 @@
   "xn--ngbe9e0a": {
     "unicodeName": "\u0628\u064a\u062a\u0643",
     "nameservers": {
-      "a.nic.xn--ngbe9e0a": {
-        "v4": [
-          "194.169.218.22"
-        ],
-        "v6": [
-          "2001:67c:13cc::1:22"
-        ]
-      },
-      "b.nic.xn--ngbe9e0a": {
-        "v4": [
-          "185.24.64.22"
-        ],
-        "v6": [
-          "2a04:2b00:13cc::1:22"
-        ]
-      },
-      "c.nic.xn--ngbe9e0a": {
-        "v4": [
-          "212.18.248.22"
-        ],
-        "v6": [
-          "2a04:2b00:13ee::22"
-        ]
-      },
-      "d.nic.xn--ngbe9e0a": {
-        "v4": [
-          "212.18.249.22"
-        ],
-        "v6": [
-          "2a04:2b00:13ff::22"
-        ]
-      },
       "ns01.trs-dns.com": {
         "v4": [
           "64.96.1.1"

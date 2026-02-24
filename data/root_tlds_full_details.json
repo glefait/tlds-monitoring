@@ -210635,12 +210635,6 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 40239,
-          "algorithm": 13,
-          "digestType": 2,
-          "digest": "687A4ABEB697C30E24277072E0380161B84A6B0759F4998C32602D464FEB0CA8"
-        },
-        {
           "keyTag": 35088,
           "algorithm": 13,
           "digestType": 2,
@@ -210888,7 +210882,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-02-03T00:00:00+00:00"
+        "eventDate": "2026-02-24T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -226875,6 +226869,18 @@
     "nameservers": [
       {
         "objectClassName": "nameserver",
+        "ldhName": "a.cctld-servers.net.jo",
+        "ipAddresses": {
+          "v4": [
+            "193.188.66.2"
+          ],
+          "v6": [
+            "2a02:9c0:0:407::2"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
         "ldhName": "b.cctld-servers.net.jo",
         "ipAddresses": {
           "v4": [
@@ -226918,18 +226924,6 @@
           ],
           "v6": [
             "2a13:27c0:30::83"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "petra.nic.gov.jo",
-        "ipAddresses": {
-          "v4": [
-            "193.188.66.2"
-          ],
-          "v6": [
-            "2a02:9c0:0:407::2"
           ]
         }
       },
@@ -227189,7 +227183,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-02-14T00:00:00+00:00"
+        "eventDate": "2026-02-24T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -232505,54 +232499,6 @@
     "nameservers": [
       {
         "objectClassName": "nameserver",
-        "ldhName": "a.nic.kfh",
-        "ipAddresses": {
-          "v4": [
-            "194.169.218.43"
-          ],
-          "v6": [
-            "2001:67c:13cc::1:43"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "b.nic.kfh",
-        "ipAddresses": {
-          "v4": [
-            "185.24.64.43"
-          ],
-          "v6": [
-            "2a04:2b00:13cc::1:43"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "c.nic.kfh",
-        "ipAddresses": {
-          "v4": [
-            "212.18.248.43"
-          ],
-          "v6": [
-            "2a04:2b00:13ee::43"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "d.nic.kfh",
-        "ipAddresses": {
-          "v4": [
-            "212.18.249.43"
-          ],
-          "v6": [
-            "2a04:2b00:13ff::43"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
         "ldhName": "ns01.trs-dns.com",
         "ipAddresses": {
           "v4": [
@@ -232857,7 +232803,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-02-17T00:00:00+00:00"
+        "eventDate": "2026-02-24T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -363990,10 +363936,10 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 62932,
+          "keyTag": 2990,
           "algorithm": 8,
           "digestType": 2,
-          "digest": "2E80B1231D370F4933A26F19487946EACA1DB9D41A53831C2A9E73368BBBAAB5"
+          "digest": "9F357B0A83134174B0E581C252AD172E9E5F750AB95A4C900C9655A919B560C0"
         }
       ]
     },
@@ -364237,7 +364183,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-08-19T00:00:00+00:00"
+        "eventDate": "2026-02-24T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -508856,54 +508802,6 @@
     "nameservers": [
       {
         "objectClassName": "nameserver",
-        "ldhName": "a.nic.xn--ngbe9e0a",
-        "ipAddresses": {
-          "v4": [
-            "194.169.218.22"
-          ],
-          "v6": [
-            "2001:67c:13cc::1:22"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "b.nic.xn--ngbe9e0a",
-        "ipAddresses": {
-          "v4": [
-            "185.24.64.22"
-          ],
-          "v6": [
-            "2a04:2b00:13cc::1:22"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "c.nic.xn--ngbe9e0a",
-        "ipAddresses": {
-          "v4": [
-            "212.18.248.22"
-          ],
-          "v6": [
-            "2a04:2b00:13ee::22"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "d.nic.xn--ngbe9e0a",
-        "ipAddresses": {
-          "v4": [
-            "212.18.249.22"
-          ],
-          "v6": [
-            "2a04:2b00:13ff::22"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
         "ldhName": "ns01.trs-dns.com",
         "ipAddresses": {
           "v4": [
@@ -509208,7 +509106,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-02-17T00:00:00+00:00"
+        "eventDate": "2026-02-24T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
