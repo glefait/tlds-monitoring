@@ -19,7 +19,7 @@
       "ldhName": "root2.zone.tc",
       "ipAddresses": {
         "v4": [
-          "77.79.104.226"
+          "87.106.83.96"
         ]
       }
     },
@@ -28,7 +28,7 @@
       "ldhName": "root3.zone.tc",
       "ipAddresses": {
         "v4": [
-          "77.79.104.225"
+          "217.154.159.29"
         ]
       }
     },
@@ -333,7 +333,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2021-02-25T00:00:00+00:00"
+      "eventDate": "2026-02-25T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
