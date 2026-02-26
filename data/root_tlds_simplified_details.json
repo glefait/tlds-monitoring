@@ -83386,20 +83386,20 @@
     },
     "entities": {
       "registrant": {
-        "fn": "European Broadcasting Union (EBU)",
+        "fn": "Digity, LLC",
         "org": null,
-        "adr": "Ancienne-Route 17A\nLe Grand-Saconnex\nGeneva CH-1218\nSwitzerland",
+        "adr": "Po Box 1341\nBridgeview Illinois 60455\nUnited States of America (the)",
         "tel": null,
         "email": null,
-        "last_change_date": "2019-08-28T00:00:00+00:00"
+        "last_change_date": "2026-02-26T00:00:00+00:00"
       },
       "administrative": {
-        "fn": ".radio TLD Administrative Contact",
-        "org": "CORE Association",
-        "adr": "Cours de Rive 2\nGeneva CH-1204\nSwitzerland",
-        "tel": "+41 22 312 5612",
-        "email": "secretariat@corenic.org",
-        "last_change_date": "2016-10-12T00:00:00+00:00"
+        "fn": "Director",
+        "org": "Digity, LLC",
+        "adr": "Po Box 1341\nBridgeview Illinois 60455\nUnited States of America (the)",
+        "tel": "+1 (312) 292-9379",
+        "email": "admin@digity.case",
+        "last_change_date": "2026-02-26T00:00:00+00:00"
       },
       "technical": {
         "fn": ".radio TLD Technical Contact",

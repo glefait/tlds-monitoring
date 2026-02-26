@@ -347056,7 +347056,7 @@
               "fn",
               {},
               "text",
-              "European Broadcasting Union (EBU)"
+              "Digity, LLC"
             ],
             [
               "role",
@@ -347068,7 +347068,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "Ancienne-Route 17A\nLe Grand-Saconnex\nGeneva CH-1218\nSwitzerland"
+                "label": "Po Box 1341\nBridgeview Illinois 60455\nUnited States of America (the)"
               },
               "text",
               [
@@ -347089,7 +347089,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2019-08-28T00:00:00+00:00"
+            "eventDate": "2026-02-26T00:00:00+00:00"
           }
         ]
       },
@@ -347108,13 +347108,13 @@
               "fn",
               {},
               "text",
-              ".radio TLD Administrative Contact"
+              "Director"
             ],
             [
               "org",
               {},
               "text",
-              "CORE Association"
+              "Digity, LLC"
             ],
             [
               "role",
@@ -347126,7 +347126,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "Cours de Rive 2\nGeneva CH-1204\nSwitzerland"
+                "label": "Po Box 1341\nBridgeview Illinois 60455\nUnited States of America (the)"
               },
               "text",
               [
@@ -347148,18 +347148,7 @@
                 ]
               },
               "text",
-              "+41 79 203 4075"
-            ],
-            [
-              "tel",
-              {
-                "type": [
-                  "work",
-                  "fax"
-                ]
-              },
-              "text",
-              "+41 22 312 5612"
+              "+1 (312) 292-9379"
             ],
             [
               "email",
@@ -347169,7 +347158,7 @@
                 ]
               },
               "text",
-              "secretariat@corenic.org"
+              "admin@digity.case"
             ]
           ]
         ],
@@ -347179,7 +347168,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2016-10-12T00:00:00+00:00"
+            "eventDate": "2026-02-26T00:00:00+00:00"
           }
         ]
       },
@@ -347277,7 +347266,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2022-01-07T00:00:00+00:00"
+        "eventDate": "2026-02-26T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
