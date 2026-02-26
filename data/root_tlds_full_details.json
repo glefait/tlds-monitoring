@@ -233291,7 +233291,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "Corner of Street 13 & 102\nSangkat Wat Phnom, Khan Daun Penh\nPhnom Penh\nCambodia"
+                "label": "Street 102, Wat Phnom, Daun Penh\nPhnom Penh\nCambodia"
               },
               "text",
               [
@@ -233312,7 +233312,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2017-12-04T00:00:00+00:00"
+            "eventDate": "2026-02-26T00:00:00+00:00"
           }
         ]
       },
@@ -233331,7 +233331,7 @@
               "fn",
               {},
               "text",
-              "Mrs. Lim Yatal"
+              "Mr. Phoumen Bun"
             ],
             [
               "org",
@@ -233349,7 +233349,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "Corner of Street 13 & 102\nSangkat Wat Phnom, Khan Daun Penh\nPhnom Penh\nCambodia"
+                "label": "Street 102, Wat Phnom, Daun Penh\nPhnom Penh\nCambodia"
               },
               "text",
               [
@@ -233374,17 +233374,6 @@
               "+855 23 722 333"
             ],
             [
-              "tel",
-              {
-                "type": [
-                  "work",
-                  "fax"
-                ]
-              },
-              "text",
-              "+855 23 723 222"
-            ],
-            [
               "email",
               {
                 "type": [
@@ -233392,7 +233381,7 @@
                 ]
               },
               "text",
-              "dns-admin@dns.net.kh"
+              "khnic@trc.gov.kh"
             ]
           ]
         ],
@@ -233402,7 +233391,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2015-05-07T00:00:00+00:00"
+            "eventDate": "2026-02-26T00:00:00+00:00"
           }
         ]
       },
@@ -233421,13 +233410,13 @@
               "fn",
               {},
               "text",
-              "Mr. Chin Daro"
+              "Mr. Pichponleur Pen"
             ],
             [
               "org",
               {},
               "text",
-              "Telecom Cambodia (TC)"
+              "TRC"
             ],
             [
               "role",
@@ -233439,7 +233428,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "# 95-97, Preah Sihanouk Blvd\nSangkat Boeung Prolit, Khan 7 Makara\nPhnom Penh\nCambodia"
+                "label": "Street 102, Wat Phnom, Daun Penh\nPhnom Penh\nCambodia"
               },
               "text",
               [
@@ -233461,18 +233450,7 @@
                 ]
               },
               "text",
-              "+855 16 842 890"
-            ],
-            [
-              "tel",
-              {
-                "type": [
-                  "work",
-                  "fax"
-                ]
-              },
-              "text",
-              "+855 23 721 406"
+              "+855 23 722 333"
             ],
             [
               "email",
@@ -233482,7 +233460,7 @@
                 ]
               },
               "text",
-              "daro@camnet.com.kh"
+              "khnic@trc.gov.kh"
             ]
           ]
         ],
@@ -233492,7 +233470,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2015-05-07T00:00:00+00:00"
+            "eventDate": "2026-02-26T00:00:00+00:00"
           }
         ]
       }
@@ -233500,7 +233478,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2019-05-28T00:00:00+00:00"
+        "eventDate": "2026-02-26T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -233510,7 +233488,7 @@
     "links": [
       {
         "rel": "related",
-        "href": "http://www.tc.com.kh",
+        "href": "http://www.trc.gov.kh",
         "title": "Registration URL",
         "type": "text/html"
       },

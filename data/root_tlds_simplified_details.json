@@ -56171,26 +56171,26 @@
       "registrant": {
         "fn": "Telecommunication Regulator of Cambodia (TRC)",
         "org": null,
-        "adr": "Corner of Street 13 & 102\nSangkat Wat Phnom, Khan Daun Penh\nPhnom Penh\nCambodia",
+        "adr": "Street 102, Wat Phnom, Daun Penh\nPhnom Penh\nCambodia",
         "tel": null,
         "email": null,
-        "last_change_date": "2017-12-04T00:00:00+00:00"
+        "last_change_date": "2026-02-26T00:00:00+00:00"
       },
       "administrative": {
-        "fn": "Mrs. Lim Yatal",
+        "fn": "Mr. Phoumen Bun",
         "org": "TRC",
-        "adr": "Corner of Street 13 & 102\nSangkat Wat Phnom, Khan Daun Penh\nPhnom Penh\nCambodia",
-        "tel": "+855 23 723 222",
-        "email": "dns-admin@dns.net.kh",
-        "last_change_date": "2015-05-07T00:00:00+00:00"
+        "adr": "Street 102, Wat Phnom, Daun Penh\nPhnom Penh\nCambodia",
+        "tel": "+855 23 722 333",
+        "email": "khnic@trc.gov.kh",
+        "last_change_date": "2026-02-26T00:00:00+00:00"
       },
       "technical": {
-        "fn": "Mr. Chin Daro",
-        "org": "Telecom Cambodia (TC)",
-        "adr": "# 95-97, Preah Sihanouk Blvd\nSangkat Boeung Prolit, Khan 7 Makara\nPhnom Penh\nCambodia",
-        "tel": "+855 23 721 406",
-        "email": "daro@camnet.com.kh",
-        "last_change_date": "2015-05-07T00:00:00+00:00"
+        "fn": "Mr. Pichponleur Pen",
+        "org": "TRC",
+        "adr": "Street 102, Wat Phnom, Daun Penh\nPhnom Penh\nCambodia",
+        "tel": "+855 23 722 333",
+        "email": "khnic@trc.gov.kh",
+        "last_change_date": "2026-02-26T00:00:00+00:00"
       }
     },
     "secureDNS": {
@@ -56200,7 +56200,7 @@
       "active"
     ],
     "port43": null,
-    "registration_url": "http://www.tc.com.kh",
+    "registration_url": "http://www.trc.gov.kh",
     "creation_date": "1996-02-20T00:00:00+00:00"
   },
   "ki": {
