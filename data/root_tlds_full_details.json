@@ -457014,7 +457014,7 @@
               "fn",
               {},
               "text",
-              "International Business Machines Corporation"
+              "The Weather Company, LLC"
             ],
             [
               "role",
@@ -457026,7 +457026,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "New Orchard Road\nArmonk NY 10504\nUnited States of America (the)"
+                "label": "1001 Summit Blvd NE, 21st Floor\nBrookhaven GA 30319\nUnited States of America (the)"
               },
               "text",
               [
@@ -457047,7 +457047,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2022-07-21T00:00:00+00:00"
+            "eventDate": "2026-03-01T00:00:00+00:00"
           }
         ]
       },
@@ -457066,13 +457066,13 @@
               "fn",
               {},
               "text",
-              "Engineering Manager"
+              "Domain Manager"
             ],
             [
               "org",
               {},
               "text",
-              "International Business Machines Corporation"
+              "The Weather Company, LLC"
             ],
             [
               "role",
@@ -457084,7 +457084,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "North Castle Drive\nArmonk NY 10504\nUnited States of America (the)"
+                "label": "1001 Summit Blvd NE, 21st Floor\nBrookhaven GA 30319\nUnited States of America (the)"
               },
               "text",
               [
@@ -457106,18 +457106,7 @@
                 ]
               },
               "text",
-              "+1-914-765-4227"
-            ],
-            [
-              "tel",
-              {
-                "type": [
-                  "work",
-                  "fax"
-                ]
-              },
-              "text",
-              "+1-914-765-4390"
+              "+1 978.983.6300"
             ],
             [
               "email",
@@ -457127,7 +457116,7 @@
                 ]
               },
               "text",
-              "ngtld-ibm@cscinfo.com"
+              "ngtld-weather@cscglobal.com"
             ]
           ]
         ],
@@ -457137,7 +457126,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2021-11-05T00:00:00+00:00"
+            "eventDate": "2026-03-01T00:00:00+00:00"
           }
         ]
       },
@@ -457229,7 +457218,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2023-11-30T00:00:00+00:00"
+        "eventDate": "2026-03-01T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -457395,7 +457384,7 @@
               "fn",
               {},
               "text",
-              "International Business Machines Corporation"
+              "The Weather Company, LLC"
             ],
             [
               "role",
@@ -457407,7 +457396,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "New Orchard Road\nArmonk NY 10504\nUnited States of America (the)"
+                "label": "1001 Summit Blvd NE, 21st Floor\nBrookhaven GA 30319\nUnited States of America (the)"
               },
               "text",
               [
@@ -457428,7 +457417,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2022-07-21T00:00:00+00:00"
+            "eventDate": "2026-03-01T00:00:00+00:00"
           }
         ]
       },
@@ -457447,13 +457436,13 @@
               "fn",
               {},
               "text",
-              "Engineering Manager"
+              "Domain Manager"
             ],
             [
               "org",
               {},
               "text",
-              "International Business Machines Corporation"
+              "The Weather Company, LLC"
             ],
             [
               "role",
@@ -457465,7 +457454,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "North Castle Drive\nArmonk NY 10504\nUnited States of America (the)"
+                "label": "1001 Summit Blvd NE, 21st Floor\nBrookhaven GA 30319\nUnited States of America (the)"
               },
               "text",
               [
@@ -457487,18 +457476,7 @@
                 ]
               },
               "text",
-              "+1-914-765-4227"
-            ],
-            [
-              "tel",
-              {
-                "type": [
-                  "work",
-                  "fax"
-                ]
-              },
-              "text",
-              "+1-914-765-4390"
+              "+1 978.983.6300"
             ],
             [
               "email",
@@ -457508,7 +457486,7 @@
                 ]
               },
               "text",
-              "ngtld-ibm@cscinfo.com"
+              "ngtld-weather@cscglobal.com"
             ]
           ]
         ],
@@ -457518,7 +457496,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2021-11-05T00:00:00+00:00"
+            "eventDate": "2026-03-01T00:00:00+00:00"
           }
         ]
       },
@@ -457610,7 +457588,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2023-11-30T00:00:00+00:00"
+        "eventDate": "2026-03-01T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -457620,7 +457598,7 @@
     "links": [
       {
         "rel": "related",
-        "href": "http://www.weather.com",
+        "href": "https://www.weathercompany.com/",
         "title": "Registration URL",
         "type": "text/html"
       },

@@ -109979,20 +109979,20 @@
     },
     "entities": {
       "registrant": {
-        "fn": "International Business Machines Corporation",
+        "fn": "The Weather Company, LLC",
         "org": null,
-        "adr": "New Orchard Road\nArmonk NY 10504\nUnited States of America (the)",
+        "adr": "1001 Summit Blvd NE, 21st Floor\nBrookhaven GA 30319\nUnited States of America (the)",
         "tel": null,
         "email": null,
-        "last_change_date": "2022-07-21T00:00:00+00:00"
+        "last_change_date": "2026-03-01T00:00:00+00:00"
       },
       "administrative": {
-        "fn": "Engineering Manager",
-        "org": "International Business Machines Corporation",
-        "adr": "North Castle Drive\nArmonk NY 10504\nUnited States of America (the)",
-        "tel": "+1-914-765-4390",
-        "email": "ngtld-ibm@cscinfo.com",
-        "last_change_date": "2021-11-05T00:00:00+00:00"
+        "fn": "Domain Manager",
+        "org": "The Weather Company, LLC",
+        "adr": "1001 Summit Blvd NE, 21st Floor\nBrookhaven GA 30319\nUnited States of America (the)",
+        "tel": "+1 978.983.6300",
+        "email": "ngtld-weather@cscglobal.com",
+        "last_change_date": "2026-03-01T00:00:00+00:00"
       },
       "technical": {
         "fn": "Engineering Manager",
@@ -110075,20 +110075,20 @@
     },
     "entities": {
       "registrant": {
-        "fn": "International Business Machines Corporation",
+        "fn": "The Weather Company, LLC",
         "org": null,
-        "adr": "New Orchard Road\nArmonk NY 10504\nUnited States of America (the)",
+        "adr": "1001 Summit Blvd NE, 21st Floor\nBrookhaven GA 30319\nUnited States of America (the)",
         "tel": null,
         "email": null,
-        "last_change_date": "2022-07-21T00:00:00+00:00"
+        "last_change_date": "2026-03-01T00:00:00+00:00"
       },
       "administrative": {
-        "fn": "Engineering Manager",
-        "org": "International Business Machines Corporation",
-        "adr": "North Castle Drive\nArmonk NY 10504\nUnited States of America (the)",
-        "tel": "+1-914-765-4390",
-        "email": "ngtld-ibm@cscinfo.com",
-        "last_change_date": "2021-11-05T00:00:00+00:00"
+        "fn": "Domain Manager",
+        "org": "The Weather Company, LLC",
+        "adr": "1001 Summit Blvd NE, 21st Floor\nBrookhaven GA 30319\nUnited States of America (the)",
+        "tel": "+1 978.983.6300",
+        "email": "ngtld-weather@cscglobal.com",
+        "last_change_date": "2026-03-01T00:00:00+00:00"
       },
       "technical": {
         "fn": "Engineering Manager",
@@ -110114,7 +110114,7 @@
       "active"
     ],
     "port43": null,
-    "registration_url": "http://www.weather.com",
+    "registration_url": "https://www.weathercompany.com/",
     "creation_date": "2016-01-22T00:00:00+00:00"
   },
   "webcam": {
