@@ -314704,7 +314704,7 @@
               "fn",
               {},
               "text",
-              "iRegistry GmbH"
+              "Jolly Host, LLC"
             ],
             [
               "role",
@@ -314716,7 +314716,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "Friedrichstr. 171\nBerlin 10117\nGermany"
+                "label": "c/o Identity Digital Inc. 10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)"
               },
               "text",
               [
@@ -314737,7 +314737,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2022-01-18T00:00:00+00:00"
+            "eventDate": "2026-03-04T00:00:00+00:00"
           }
         ]
       },
@@ -314756,13 +314756,13 @@
               "fn",
               {},
               "text",
-              "General Manager"
+              "Vice President, Engineering"
             ],
             [
               "org",
               {},
               "text",
-              "iRegistry GmbH"
+              "Identity Digital Inc."
             ],
             [
               "role",
@@ -314774,7 +314774,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "Friedrichstr. 171\nBerlin 10117\nGermany"
+                "label": "10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)"
               },
               "text",
               [
@@ -314796,7 +314796,7 @@
                 ]
               },
               "text",
-              "+49 180 5522744"
+              "+1.425.298.2200"
             ],
             [
               "tel",
@@ -314807,7 +314807,7 @@
                 ]
               },
               "text",
-              "+49 180 5522944"
+              "+1.425.671.0020"
             ],
             [
               "email",
@@ -314817,7 +314817,7 @@
                 ]
               },
               "text",
-              "registry-onl@i-registry.com"
+              "tldadmin@identity.digital"
             ]
           ]
         ],
@@ -314827,7 +314827,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2022-01-18T00:00:00+00:00"
+            "eventDate": "2026-03-04T00:00:00+00:00"
           }
         ]
       },
@@ -314846,13 +314846,13 @@
               "fn",
               {},
               "text",
-              "Howard Eland, Senior Director, DNS Infrastructure Group"
+              "Senior Director, DNS Infrastructure Group"
             ],
             [
               "org",
               {},
               "text",
-              "Identity Digital Inc."
+              "Identity Digital Limited"
             ],
             [
               "role",
@@ -314864,7 +314864,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)"
+                "label": "c/o Identity Digital Inc. 10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)"
               },
               "text",
               [
@@ -314917,7 +314917,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2025-06-23T00:00:00+00:00"
+            "eventDate": "2026-03-04T00:00:00+00:00"
           }
         ]
       }
@@ -314925,7 +314925,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-06-23T00:00:00+00:00"
+        "eventDate": "2026-03-04T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -314935,7 +314935,7 @@
     "links": [
       {
         "rel": "related",
-        "href": "http://www.i-registry.com",
+        "href": "https://www.identity.digital/",
         "title": "Registration URL",
         "type": "text/html"
       },

@@ -75570,28 +75570,28 @@
     },
     "entities": {
       "registrant": {
-        "fn": "iRegistry GmbH",
+        "fn": "Jolly Host, LLC",
         "org": null,
-        "adr": "Friedrichstr. 171\nBerlin 10117\nGermany",
+        "adr": "c/o Identity Digital Inc. 10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)",
         "tel": null,
         "email": null,
-        "last_change_date": "2022-01-18T00:00:00+00:00"
+        "last_change_date": "2026-03-04T00:00:00+00:00"
       },
       "administrative": {
-        "fn": "General Manager",
-        "org": "iRegistry GmbH",
-        "adr": "Friedrichstr. 171\nBerlin 10117\nGermany",
-        "tel": "+49 180 5522944",
-        "email": "registry-onl@i-registry.com",
-        "last_change_date": "2022-01-18T00:00:00+00:00"
-      },
-      "technical": {
-        "fn": "Howard Eland, Senior Director, DNS Infrastructure Group",
+        "fn": "Vice President, Engineering",
         "org": "Identity Digital Inc.",
         "adr": "10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)",
         "tel": "+1.425.671.0020",
+        "email": "tldadmin@identity.digital",
+        "last_change_date": "2026-03-04T00:00:00+00:00"
+      },
+      "technical": {
+        "fn": "Senior Director, DNS Infrastructure Group",
+        "org": "Identity Digital Limited",
+        "adr": "c/o Identity Digital Inc. 10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)",
+        "tel": "+1.425.671.0020",
         "email": "tldtech@identity.digital",
-        "last_change_date": "2025-06-23T00:00:00+00:00"
+        "last_change_date": "2026-03-04T00:00:00+00:00"
       }
     },
     "secureDNS": {
@@ -75609,7 +75609,7 @@
       "active"
     ],
     "port43": null,
-    "registration_url": "http://www.i-registry.com",
+    "registration_url": "https://www.identity.digital/",
     "creation_date": "2013-12-12T00:00:00+00:00"
   },
   "online": {
