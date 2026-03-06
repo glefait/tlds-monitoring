@@ -90,7 +90,7 @@
             "fn",
             {},
             "text",
-            "Combell nv"
+            "Easyhost bv"
           ],
           [
             "role",
@@ -123,7 +123,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2022-07-20T00:00:00+00:00"
+          "eventDate": "2026-03-06T00:00:00+00:00"
         }
       ]
     },
@@ -148,7 +148,7 @@
             "org",
             {},
             "text",
-            "Combell nv"
+            "Easyhost bv"
           ],
           [
             "role",
@@ -182,7 +182,7 @@
               ]
             },
             "text",
-            "+3292187979"
+            "+3292187901"
           ],
           [
             "tel",
@@ -203,7 +203,7 @@
               ]
             },
             "text",
-            "jimmy.cappaert@combell.group"
+            "jimmy.cappaert@team.blue"
           ]
         ]
       ],
@@ -213,7 +213,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2018-05-04T00:00:00+00:00"
+          "eventDate": "2026-03-06T00:00:00+00:00"
         }
       ]
     },
@@ -311,7 +311,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2023-10-05T00:00:00+00:00"
+      "eventDate": "2026-03-06T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
@@ -321,7 +321,7 @@
   "links": [
     {
       "rel": "related",
-      "href": "http://www.nic.gent",
+      "href": "https://www.nic.gent",
       "title": "Registration URL",
       "type": "text/html"
     },

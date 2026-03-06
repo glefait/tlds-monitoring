@@ -41372,20 +41372,20 @@
     },
     "entities": {
       "registrant": {
-        "fn": "Combell nv",
+        "fn": "Easyhost bv",
         "org": null,
         "adr": "Skaldenstraat 121\nGent 9042\nBelgium",
         "tel": null,
         "email": null,
-        "last_change_date": "2022-07-20T00:00:00+00:00"
+        "last_change_date": "2026-03-06T00:00:00+00:00"
       },
       "administrative": {
         "fn": "Jimmy Cappaert",
-        "org": "Combell nv",
+        "org": "Easyhost bv",
         "adr": "Skaldenstraat 121\nGent 9042\nBelgium",
         "tel": "+3292187978",
-        "email": "jimmy.cappaert@combell.group",
-        "last_change_date": "2018-05-04T00:00:00+00:00"
+        "email": "jimmy.cappaert@team.blue",
+        "last_change_date": "2026-03-06T00:00:00+00:00"
       },
       "technical": {
         "fn": "CTO",
@@ -41417,7 +41417,7 @@
       "active"
     ],
     "port43": null,
-    "registration_url": "http://www.nic.gent",
+    "registration_url": "https://www.nic.gent",
     "creation_date": "2014-07-03T00:00:00+00:00"
   },
   "genting": {
@@ -79805,6 +79805,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "C1FCC88C73CCBAFAA2D6D68575B01ED753786CD733A4A239324D56097F17930B"
+        },
+        {
+          "keyTag": 2782,
+          "algorithm": 8,
+          "digestType": 2,
+          "digest": "C1FE7378DEB55944721A1A329F789FA7BA03180CEF530AD440E7D03A777B5116"
         }
       ]
     },

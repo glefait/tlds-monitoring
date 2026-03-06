@@ -86,6 +86,12 @@
         "algorithm": 8,
         "digestType": 2,
         "digest": "C1FCC88C73CCBAFAA2D6D68575B01ED753786CD733A4A239324D56097F17930B"
+      },
+      {
+        "keyTag": 2782,
+        "algorithm": 8,
+        "digestType": 2,
+        "digest": "C1FE7378DEB55944721A1A329F789FA7BA03180CEF530AD440E7D03A777B5116"
       }
     ]
   },
