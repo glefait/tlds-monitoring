@@ -79784,17 +79784,17 @@
         "fn": "NASK Admin-C",
         "org": "Research and Academic Computer Network",
         "adr": "Kolska 12\nWarsaw 01-045\nPoland",
-        "tel": "+48 22 380 8201",
+        "tel": "+48 22 380 8200",
         "email": "pl-admin@dns.pl",
-        "last_change_date": "2022-11-23T00:00:00+00:00"
+        "last_change_date": "2026-03-06T00:00:00+00:00"
       },
       "technical": {
         "fn": "NASK Tech-C",
         "org": "Research and Academic Computer Network",
         "adr": "Kolska 12\nWarsaw 01-045\nPoland",
-        "tel": "+48 22 380 8201",
+        "tel": "+48 22 380 8200",
         "email": "pl-tech@dns.pl",
-        "last_change_date": "2019-08-07T00:00:00+00:00"
+        "last_change_date": "2026-03-06T00:00:00+00:00"
       }
     },
     "secureDNS": {
