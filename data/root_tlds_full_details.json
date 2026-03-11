@@ -98256,10 +98256,10 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 34356,
-          "algorithm": 8,
+          "keyTag": 49881,
+          "algorithm": 13,
           "digestType": 2,
-          "digest": "690FA5ECE1031BE50DDD9AC71D413546CB3D1F3D9914563C0B8C32E53F491B32"
+          "digest": "BF4347FB6BB9C988295F26FADAD5D8A07D6E2DAE7248A99DB78E77247A6305DB"
         }
       ]
     },
@@ -98503,7 +98503,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2020-10-01T00:00:00+00:00"
+        "eventDate": "2026-03-11T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -292770,6 +292770,18 @@
       },
       {
         "objectClassName": "nameserver",
+        "ldhName": "e.nic.my",
+        "ipAddresses": {
+          "v4": [
+            "152.69.217.125"
+          ],
+          "v6": [
+            "2603:c024:4518:ad60:242::2"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
         "ldhName": "ns01.trs-dns.com",
         "ipAddresses": {
           "v4": [
@@ -293044,7 +293056,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-02-12T00:00:00+00:00"
+        "eventDate": "2026-03-11T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -417736,6 +417748,12 @@
           "algorithm": 13,
           "digestType": 2,
           "digest": "9B5C9089B84D2138E6C30163D9B169E6E793236827CE2A0EEDAB7CB96C644D83"
+        },
+        {
+          "keyTag": 62518,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "AAC6A2525351970888149D7140514A043DA2E6A772DAE56069A07F17863D9262"
         }
       ]
     },
@@ -417979,7 +417997,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2024-09-09T00:00:00+00:00"
+        "eventDate": "2026-03-11T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -506910,6 +506928,18 @@
             "2a04:2b00:13ff::114"
           ]
         }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "e.nic.my",
+        "ipAddresses": {
+          "v4": [
+            "152.69.217.125"
+          ],
+          "v6": [
+            "2603:c024:4518:ad60:242::2"
+          ]
+        }
       }
     ],
     "secureDNS": {
@@ -507163,7 +507193,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-02-12T00:00:00+00:00"
+        "eventDate": "2026-03-11T00:00:00+00:00"
       },
       {
         "eventAction": "registration",

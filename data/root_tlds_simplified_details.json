@@ -23814,10 +23814,10 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 34356,
-          "algorithm": 8,
+          "keyTag": 49881,
+          "algorithm": 13,
           "digestType": 2,
-          "digest": "690FA5ECE1031BE50DDD9AC71D413546CB3D1F3D9914563C0B8C32E53F491B32"
+          "digest": "BF4347FB6BB9C988295F26FADAD5D8A07D6E2DAE7248A99DB78E77247A6305DB"
         }
       ]
     },
@@ -70295,6 +70295,14 @@
           "2a04:2b00:13ff::114"
         ]
       },
+      "e.nic.my": {
+        "v4": [
+          "152.69.217.125"
+        ],
+        "v6": [
+          "2603:c024:4518:ad60:242::2"
+        ]
+      },
       "ns01.trs-dns.com": {
         "v4": [
           "64.96.1.1"
@@ -100554,6 +100562,12 @@
           "algorithm": 13,
           "digestType": 2,
           "digest": "9B5C9089B84D2138E6C30163D9B169E6E793236827CE2A0EEDAB7CB96C644D83"
+        },
+        {
+          "keyTag": 62518,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "AAC6A2525351970888149D7140514A043DA2E6A772DAE56069A07F17863D9262"
         }
       ]
     },
@@ -121790,6 +121804,14 @@
         ],
         "v6": [
           "2a04:2b00:13ff::114"
+        ]
+      },
+      "e.nic.my": {
+        "v4": [
+          "152.69.217.125"
+        ],
+        "v6": [
+          "2603:c024:4518:ad60:242::2"
         ]
       }
     },
