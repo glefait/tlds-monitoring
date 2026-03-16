@@ -67139,7 +67139,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "979 Bank Street, Suite 400\nOttawa ON K1S 5K5\nCanada"
+                "label": "319 McRae Avenue, Suite 700\nOttawa ON K1Z 0B9\nCanada"
               },
               "text",
               [
@@ -67160,7 +67160,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2022-11-09T00:00:00+00:00"
+            "eventDate": "2026-03-16T00:00:00+00:00"
           }
         ]
       },
@@ -67197,7 +67197,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "979 Bank Street, Suite 400\nOttawa ON K1S 5K5\nCanada"
+                "label": "319 McRae Avenue, Suite 700\nOttawa ON K1Z 0B9\nCanada"
               },
               "text",
               [
@@ -67250,7 +67250,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2015-11-05T00:00:00+00:00"
+            "eventDate": "2026-03-16T00:00:00+00:00"
           }
         ]
       },
@@ -67287,7 +67287,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "979 Bank Street, Suite 400\nOttawa ON K1S 5K5\nCanada"
+                "label": "319 McRae Avenue, Suite 700\nOttawa ON K1Z 0B9\nCanada"
               },
               "text",
               [
@@ -67340,7 +67340,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2015-11-05T00:00:00+00:00"
+            "eventDate": "2026-03-16T00:00:00+00:00"
           }
         ]
       }
@@ -67348,7 +67348,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-11-18T00:00:00+00:00"
+        "eventDate": "2026-03-16T00:00:00+00:00"
       },
       {
         "eventAction": "registration",

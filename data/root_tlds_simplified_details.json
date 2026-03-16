@@ -16219,26 +16219,26 @@
       "registrant": {
         "fn": "Canadian Internet Registration Authority (CIRA) Autorit\u00e9 Canadienne pour les enregistrements Internet (ACEI)",
         "org": null,
-        "adr": "979 Bank Street, Suite 400\nOttawa ON K1S 5K5\nCanada",
+        "adr": "319 McRae Avenue, Suite 700\nOttawa ON K1Z 0B9\nCanada",
         "tel": null,
         "email": null,
-        "last_change_date": "2022-11-09T00:00:00+00:00"
+        "last_change_date": "2026-03-16T00:00:00+00:00"
       },
       "administrative": {
         "fn": "Chief Information Officer",
         "org": "CIRA",
-        "adr": "979 Bank Street, Suite 400\nOttawa ON K1S 5K5\nCanada",
+        "adr": "319 McRae Avenue, Suite 700\nOttawa ON K1Z 0B9\nCanada",
         "tel": "+1 613 237 0534",
         "email": "chief.information.officer@cira.ca",
-        "last_change_date": "2015-11-05T00:00:00+00:00"
+        "last_change_date": "2026-03-16T00:00:00+00:00"
       },
       "technical": {
         "fn": "DNS Admin",
         "org": "CIRA",
-        "adr": "979 Bank Street, Suite 400\nOttawa ON K1S 5K5\nCanada",
+        "adr": "319 McRae Avenue, Suite 700\nOttawa ON K1Z 0B9\nCanada",
         "tel": "+1 613 237 0534",
         "email": "admin-dns@cira.ca",
-        "last_change_date": "2015-11-05T00:00:00+00:00"
+        "last_change_date": "2026-03-16T00:00:00+00:00"
       }
     },
     "secureDNS": {
