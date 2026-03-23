@@ -58,12 +58,6 @@
     "delegationSigned": true,
     "dsData": [
       {
-        "keyTag": 23849,
-        "algorithm": 8,
-        "digestType": 2,
-        "digest": "025679B3FA1C06955DC8722820DC339E4D419A6198F053F98843E40488BDB09C"
-      },
-      {
         "keyTag": 19529,
         "algorithm": 8,
         "digestType": 2,
