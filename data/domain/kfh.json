@@ -311,7 +311,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2026-02-24T00:00:00+00:00"
+      "eventDate": "2026-03-23T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
@@ -327,7 +327,7 @@
     },
     {
       "rel": "alternate",
-      "href": "https://rdap.centralnic.com/kfh",
+      "href": "https://rdap.registry.kfh/rdap/",
       "title": "RDAP Server",
       "type": "application/rdap+json"
     },
