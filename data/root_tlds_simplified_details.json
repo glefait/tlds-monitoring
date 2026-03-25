@@ -92760,10 +92760,10 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 1635,
+          "keyTag": 42378,
           "algorithm": 13,
           "digestType": 2,
-          "digest": "C2977306E3439D4F8D40A1A7F5DEA9E93A408C9FB3C5AA32BAD08FEBF0EB848B"
+          "digest": "668A13BC34466F975D49CDEB07A63882D28C7C45E602D7E0AD14E3822CE03FB9"
         }
       ]
     },
