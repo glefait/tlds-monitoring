@@ -99552,7 +99552,15 @@
       }
     },
     "secureDNS": {
-      "delegationSigned": false
+      "delegationSigned": true,
+      "dsData": [
+        {
+          "keyTag": 13489,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "84C53C74A506B5DFC189ED7CE2B41161BA0175B2013B4FDCA9B77F2A6B42DE3A"
+        }
+      ]
     },
     "status": [
       "active"
