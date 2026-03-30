@@ -59,10 +59,10 @@
     "delegationSigned": true,
     "dsData": [
       {
-        "keyTag": 47235,
-        "algorithm": 8,
+        "keyTag": 61412,
+        "algorithm": 13,
         "digestType": 2,
-        "digest": "014AE4831DF78851E081E2F33857B1335BBF16A65E3FE624CB42D2BA1A32DAE2"
+        "digest": "2CB3F8B529732FD18E01096A93E0738C468EC237EDEBC33D8C420E7B4011EA40"
       }
     ]
   },
@@ -306,7 +306,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2020-10-01T00:00:00+00:00"
+      "eventDate": "2026-03-30T00:00:00+00:00"
     },
     {
       "eventAction": "registration",

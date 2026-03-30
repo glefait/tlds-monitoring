@@ -56052,6 +56052,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "E6782B15580E48186716A8E819B8C8A382612E3518CDF0A40851543D3211EC4A"
+        },
+        {
+          "keyTag": 55938,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "A251B21CFDE17F765558555AC7228C2E822EB9A3684A75CB08D77DA6835D3A20"
         }
       ]
     },
@@ -106952,10 +106958,10 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 34740,
-          "algorithm": 8,
+          "keyTag": 29816,
+          "algorithm": 13,
           "digestType": 2,
-          "digest": "7468287539BBB69B7D1FCE14B16E16B6F75B6A1A8E50832DC333FD0F177C633F"
+          "digest": "F54B156BB5A1C4B07E9ECEC5A35CE98FF85B841F08221985C9CF54C01D81C1A8"
         }
       ]
     },
@@ -115590,10 +115596,10 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 47235,
-          "algorithm": 8,
+          "keyTag": 61412,
+          "algorithm": 13,
           "digestType": 2,
-          "digest": "014AE4831DF78851E081E2F33857B1335BBF16A65E3FE624CB42D2BA1A32DAE2"
+          "digest": "2CB3F8B529732FD18E01096A93E0738C468EC237EDEBC33D8C420E7B4011EA40"
         }
       ]
     },
@@ -116094,10 +116100,10 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 42810,
-          "algorithm": 8,
+          "keyTag": 49124,
+          "algorithm": 13,
           "digestType": 2,
-          "digest": "5BF46578D493A97436A5852ABBEA6CD186BD5786AD7D08387B7430228371EE33"
+          "digest": "0292C5AE9EB4FC4EE8953DACB82DB36EC9CA5DEF3E8BD053964CC1C9A92B426A"
         }
       ]
     },
@@ -117368,10 +117374,10 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 9171,
-          "algorithm": 8,
+          "keyTag": 14501,
+          "algorithm": 13,
           "digestType": 2,
-          "digest": "8FA92257D3AB8E1BE968BCE6500CD79EFC42D91F43226C7147F978E00C80944D"
+          "digest": "813D04B5B55EC42C304526218FAA8D38773A1E05BF33B5C728F6ADC6B5290B7F"
         }
       ]
     },
@@ -119165,10 +119171,10 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 32220,
-          "algorithm": 8,
+          "keyTag": 13880,
+          "algorithm": 13,
           "digestType": 2,
-          "digest": "8CBAA94CF4C8387C6E98DCC53A90C9C7CE339029CF54D43E59E89B7D9C6F086C"
+          "digest": "8AD7AC3C5F6337A38EC011594C6F84F0438B15C2B3E4B52EA5CCDE7359023B1B"
         }
       ]
     },
@@ -121991,10 +121997,10 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 33804,
-          "algorithm": 8,
+          "keyTag": 48917,
+          "algorithm": 13,
           "digestType": 2,
-          "digest": "1A04E458D4F1C4054140270E1806289F0093AAC5F3F20B1954526075988F91E7"
+          "digest": "04EE1C705F336F1AD0A77FF5C32A160DF23C43E9FE57FFBD75DFE3401827F787"
         }
       ]
     },
@@ -122251,6 +122257,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "6D343065191808281110ECE8C0A9CB89612B03355524A7CBBBF9DF0E95CFCDCB"
+        },
+        {
+          "keyTag": 47272,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "72AE7C768D1138F861C424A6403323280DBB940BB8759EF51F3E334F71CCD9C4"
         }
       ]
     },
@@ -123205,10 +123217,10 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 39624,
-          "algorithm": 8,
+          "keyTag": 6014,
+          "algorithm": 13,
           "digestType": 2,
-          "digest": "C8ACA8ACBFAF0BBABF83AD3A480DF9E961364D1BF326C953F1CF9597E844C95B"
+          "digest": "29CD1B30D078FB49171FCB0D6CE2C4C612A9F948891DE03C0382ABDE173C00AC"
         }
       ]
     },
@@ -124132,10 +124144,10 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 13779,
-          "algorithm": 8,
+          "keyTag": 64717,
+          "algorithm": 13,
           "digestType": 2,
-          "digest": "680CF412999F4FEFF1C17C14299D412C149C118DB24A9A5FC14C0C7B6A126387"
+          "digest": "DBFF9FD9F6A2F12D8C4329E658F8C2E2AEE52EC558ACAE320735E796E45BFDE0"
         }
       ]
     },
