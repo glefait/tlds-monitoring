@@ -19,7 +19,7 @@
       "ldhName": "ns2.uz",
       "ipAddresses": {
         "v4": [
-          "83.221.179.222"
+          "82.115.52.4"
         ]
       }
     },
@@ -317,7 +317,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2025-10-24T00:00:00+00:00"
+      "eventDate": "2026-03-30T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
