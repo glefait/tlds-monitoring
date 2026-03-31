@@ -344006,12 +344006,6 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 41432,
-          "algorithm": 13,
-          "digestType": 2,
-          "digest": "AB329751C91ED6648A0F77CD45A3008773CE24A4C8A8FD4A510C3A303E19F1AC"
-        },
-        {
           "keyTag": 19701,
           "algorithm": 13,
           "digestType": 2,
@@ -344259,7 +344253,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-03-17T00:00:00+00:00"
+        "eventDate": "2026-03-31T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
