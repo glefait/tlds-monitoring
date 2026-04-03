@@ -80342,6 +80342,12 @@
           "algorithm": 13,
           "digestType": 2,
           "digest": "A6C8233FC45F53C788EE2ADFEEA7DAC7ABB8B7108C25E38B56A3FA6848715F48"
+        },
+        {
+          "keyTag": 32562,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "E9B73EBF84E805A9B1917AFD839144AB69FEC768CE6B99C6D3FDAF8534D33753"
         }
       ]
     },
