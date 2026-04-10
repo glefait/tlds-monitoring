@@ -155,17 +155,6 @@
             "+5926444135"
           ],
           [
-            "tel",
-            {
-              "type": [
-                "work",
-                "fax"
-              ]
-            },
-            "text",
-            "-"
-          ],
-          [
             "email",
             {
               "type": [
@@ -183,7 +172,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2017-11-06T00:00:00+00:00"
+          "eventDate": "2026-04-10T00:00:00+00:00"
         }
       ]
     },
@@ -270,7 +259,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2024-07-17T00:00:00+00:00"
+      "eventDate": "2026-04-10T00:00:00+00:00"
     },
     {
       "eventAction": "registration",

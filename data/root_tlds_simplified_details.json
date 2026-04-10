@@ -1872,7 +1872,7 @@
         "adr": "S:t G\u00f6ransgatan 143\nStockholm S-10545\nSweden",
         "tel": "+46 (0) 8 738 68 13",
         "email": "ngtld-aeg@cscinfo.com",
-        "last_change_date": "2015-06-21T00:00:00+00:00"
+        "last_change_date": "2026-04-10T00:00:00+00:00"
       },
       "technical": {
         "fn": "Howard Eland, Senior Director, DNS Infrastructure Group",
@@ -5023,9 +5023,9 @@
         "fn": "General Counsel",
         "org": null,
         "adr": "770 Broadway\nNew York NY 10003\nUnited States of America (the)",
-        "tel": "n/a",
+        "tel": "+1 212 206 4400",
         "email": "ngtld-aol@cscinfo.com",
-        "last_change_date": "2017-03-27T00:00:00+00:00"
+        "last_change_date": "2026-04-10T00:00:00+00:00"
       },
       "technical": {
         "fn": "Howard Eland, Senior Director, DNS Infrastructure Group",
@@ -45916,9 +45916,9 @@
         "fn": "Rayman Khan",
         "org": "University of Guyana",
         "adr": "Turkeyen Campus\nP.O. Box 101110\nGeorgetown\nGuyana",
-        "tel": "-",
+        "tel": "+5926444135",
         "email": "admin@registry.gy",
-        "last_change_date": "2017-11-06T00:00:00+00:00"
+        "last_change_date": "2026-04-10T00:00:00+00:00"
       },
       "technical": {
         "fn": "DNS Admin",
@@ -124029,17 +124029,17 @@
         "fn": "Vice General Manager",
         "org": "KNET Co., Ltd.",
         "adr": "4, South 4th Street, Zhongguancun\nHaidian District\nBeijing\nChina",
-        "tel": "n/a",
+        "tel": "+86-18610813899",
         "email": "wangzhi-admin@knet.cn",
-        "last_change_date": "2018-03-21T00:00:00+00:00"
+        "last_change_date": "2026-04-10T00:00:00+00:00"
       },
       "technical": {
         "fn": "Technical Director",
         "org": "KNET Co., Ltd.",
         "adr": "4, South 4th Street, Zhongguancun\nHaidian District\nBeijing\nChina",
-        "tel": "N/A",
+        "tel": "+86-18519852227",
         "email": "wangzhi-tech@knet.cn",
-        "last_change_date": "2017-06-09T00:00:00+00:00"
+        "last_change_date": "2026-04-10T00:00:00+00:00"
       }
     },
     "secureDNS": {

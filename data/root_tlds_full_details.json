@@ -7648,7 +7648,7 @@
                 ]
               },
               "text",
-              "] +46 (0) 8 738 89 52"
+              "+46 (0) 8 738 89 52"
             ],
             [
               "tel",
@@ -7679,7 +7679,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2015-06-21T00:00:00+00:00"
+            "eventDate": "2026-04-10T00:00:00+00:00"
           }
         ]
       },
@@ -7777,7 +7777,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2023-12-05T00:00:00+00:00"
+        "eventDate": "2026-04-10T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -20900,17 +20900,6 @@
               "+1 212 206 4400"
             ],
             [
-              "tel",
-              {
-                "type": [
-                  "work",
-                  "fax"
-                ]
-              },
-              "text",
-              "n/a"
-            ],
-            [
               "email",
               {
                 "type": [
@@ -20928,7 +20917,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2017-03-27T00:00:00+00:00"
+            "eventDate": "2026-04-10T00:00:00+00:00"
           }
         ]
       },
@@ -21026,7 +21015,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2024-05-15T00:00:00+00:00"
+        "eventDate": "2026-04-10T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -190374,17 +190363,6 @@
               "+5926444135"
             ],
             [
-              "tel",
-              {
-                "type": [
-                  "work",
-                  "fax"
-                ]
-              },
-              "text",
-              "-"
-            ],
-            [
               "email",
               {
                 "type": [
@@ -190402,7 +190380,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2017-11-06T00:00:00+00:00"
+            "eventDate": "2026-04-10T00:00:00+00:00"
           }
         ]
       },
@@ -190489,7 +190467,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2024-07-17T00:00:00+00:00"
+        "eventDate": "2026-04-10T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -516753,17 +516731,6 @@
               "+86-18610813899"
             ],
             [
-              "tel",
-              {
-                "type": [
-                  "work",
-                  "fax"
-                ]
-              },
-              "text",
-              "n/a"
-            ],
-            [
               "email",
               {
                 "type": [
@@ -516781,7 +516748,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2018-03-21T00:00:00+00:00"
+            "eventDate": "2026-04-10T00:00:00+00:00"
           }
         ]
       },
@@ -516840,18 +516807,7 @@
                 ]
               },
               "text",
-              "86-18519852227"
-            ],
-            [
-              "tel",
-              {
-                "type": [
-                  "work",
-                  "fax"
-                ]
-              },
-              "text",
-              "N/A"
+              "+86-18519852227"
             ],
             [
               "email",
@@ -516871,7 +516827,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2017-06-09T00:00:00+00:00"
+            "eventDate": "2026-04-10T00:00:00+00:00"
           }
         ]
       }
@@ -516879,7 +516835,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2024-11-12T00:00:00+00:00"
+        "eventDate": "2026-04-10T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
