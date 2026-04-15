@@ -212846,7 +212846,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "6C, 6D, 6E Hansalaya Building 15, Barakhamba Road\nNew Delhi 110 001\nIndia"
+                "label": "B-901 9th Floor, Tower B World Trade Center, Nauroji Nagar\nNew Delhi 110 029\nIndia"
               },
               "text",
               [
@@ -212867,7 +212867,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2020-04-09T00:00:00+00:00"
+            "eventDate": "2026-04-15T00:00:00+00:00"
           }
         ]
       },
@@ -212904,7 +212904,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "6C, 6D, 6E Hansalaya Building 15, Barakhamba Road\nNew Delhi 110 001\nIndia"
+                "label": "B-901 9th Floor, Tower B World Trade Center, Nauroji Nagar\nNew Delhi 110 029\nIndia"
               },
               "text",
               [
@@ -212957,7 +212957,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2019-11-02T00:00:00+00:00"
+            "eventDate": "2026-04-15T00:00:00+00:00"
           }
         ]
       },
@@ -212994,7 +212994,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "6C, 6D, 6E Hansalaya Building 15, Barakhamba Road\nNew Delhi 110 001\nIndia"
+                "label": "B-901 9th Floor, Tower B World Trade Center, Nauroji Nagar\nNew Delhi 110 029\nIndia"
               },
               "text",
               [
@@ -213047,7 +213047,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2019-11-02T00:00:00+00:00"
+            "eventDate": "2026-04-15T00:00:00+00:00"
           }
         ]
       }
@@ -213055,7 +213055,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-07-22T00:00:00+00:00"
+        "eventDate": "2026-04-15T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -426829,19 +426829,22 @@
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "f.zdnscloud.cn",
+        "ldhName": "e.zdnscloud.cn",
         "ipAddresses": {
           "v4": [
-            "116.169.54.111"
+            "203.119.82.1"
+          ],
+          "v6": [
+            "2401:8d00:15::1"
           ]
         }
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "g.zdnscloud.com",
+        "ldhName": "f.zdnscloud.cn",
         "ipAddresses": {
           "v4": [
-            "223.72.199.37"
+            "116.169.54.111"
           ]
         }
       },
@@ -427115,7 +427118,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-01-21T00:00:00+00:00"
+        "eventDate": "2026-04-15T00:00:00+00:00"
       },
       {
         "eventAction": "registration",

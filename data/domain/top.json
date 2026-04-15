@@ -43,19 +43,22 @@
     },
     {
       "objectClassName": "nameserver",
-      "ldhName": "f.zdnscloud.cn",
+      "ldhName": "e.zdnscloud.cn",
       "ipAddresses": {
         "v4": [
-          "116.169.54.111"
+          "203.119.82.1"
+        ],
+        "v6": [
+          "2401:8d00:15::1"
         ]
       }
     },
     {
       "objectClassName": "nameserver",
-      "ldhName": "g.zdnscloud.com",
+      "ldhName": "f.zdnscloud.cn",
       "ipAddresses": {
         "v4": [
-          "223.72.199.37"
+          "116.169.54.111"
         ]
       }
     },
@@ -329,7 +332,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2026-01-21T00:00:00+00:00"
+      "eventDate": "2026-04-15T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
