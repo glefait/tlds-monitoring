@@ -184,13 +184,13 @@
             "fn",
             {},
             "text",
-            "Program Manager, Registry"
+            "Vice President, Engineering"
           ],
           [
             "org",
             {},
             "text",
-            "Amazon Registry Services, Inc."
+            "Identity Digital Inc."
           ],
           [
             "role",
@@ -202,7 +202,7 @@
             "adr",
             {
               "type": "work",
-              "label": "410 Terry Avenue North\nSeattle WA 98109\nUnited States of America (the)"
+              "label": "10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)"
             },
             "text",
             [
@@ -224,7 +224,7 @@
               ]
             },
             "text",
-            "+1 206 646 5990"
+            "+1.425.298.2200"
           ],
           [
             "tel",
@@ -235,7 +235,7 @@
               ]
             },
             "text",
-            "+1 206 946 7702"
+            "+1.425.671.0020"
           ],
           [
             "email",
@@ -245,7 +245,7 @@
               ]
             },
             "text",
-            "arsi-rzm@amazon.com"
+            "tldadmin@identity.digital"
           ]
         ]
       ],
@@ -255,7 +255,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2024-02-01T00:00:00+00:00"
+          "eventDate": "2026-04-16T00:00:00+00:00"
         }
       ]
     },
@@ -342,7 +342,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2025-02-14T00:00:00+00:00"
+      "eventDate": "2026-04-16T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
