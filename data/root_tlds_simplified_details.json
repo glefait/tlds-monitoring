@@ -71680,12 +71680,6 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 65215,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "AE5583BDFCF0307DF227FF8C2916527DA34D91C92D69835A87302B41D8284C7D"
-        },
-        {
           "keyTag": 34530,
           "algorithm": 13,
           "digestType": 2,
