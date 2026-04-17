@@ -28,6 +28,18 @@
           "2803:ff40:a000:2501:168:195:216:2"
         ]
       }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns3.nic.sr",
+      "ipAddresses": {
+        "v4": [
+          "45.83.205.134"
+        ],
+        "v6": [
+          "2a0f:ff40:100:3112:2d53:cd87::"
+        ]
+      }
     }
   ],
   "secureDNS": {
@@ -259,7 +271,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2025-06-27T00:00:00+00:00"
+      "eventDate": "2026-04-17T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
