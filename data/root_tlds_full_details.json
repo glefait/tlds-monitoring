@@ -386609,16 +386609,16 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 51974,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "A06DC47457CC1185CF1B3A7CF6ECCB84978DE92939DD182BEED9521509D0DA7B"
-        },
-        {
           "keyTag": 4241,
           "algorithm": 8,
           "digestType": 2,
           "digest": "B2F9F1BAAA93793437D7F16065A2075BBA7794160C1FEE25A7BB5A34164EC7D5"
+        },
+        {
+          "keyTag": 31826,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "E054E10B0036A0F449CC3A7D539A919EF9F18C9F256B2BB51526CF6FD7D33B6B"
         }
       ]
     },
@@ -386840,7 +386840,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-03-19T00:00:00+00:00"
+        "eventDate": "2026-04-17T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -396095,16 +396095,16 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 63881,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "85EE1264739A00FB6139712C3D7227721D99654226B0140F14A3E3D1A63B315F"
-        },
-        {
           "keyTag": 33010,
           "algorithm": 8,
           "digestType": 2,
           "digest": "53E37640A028FA26A4ED6306AA07C506BF037FC414AF9CAF0E41ADFFF87CCB72"
+        },
+        {
+          "keyTag": 51168,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "6B303EDA0AE6E8206B2A20A62600E663C30B4D59408C62E461EBC5179F0D1F78"
         }
       ]
     },
@@ -396326,7 +396326,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-03-19T00:00:00+00:00"
+        "eventDate": "2026-04-17T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -506718,18 +506718,6 @@
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "a.nic.my",
-        "ipAddresses": {
-          "v4": [
-            "103.44.108.53"
-          ],
-          "v6": [
-            "2001:ddc:0:53::53"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
         "ldhName": "b.mynic.centralnic-dns.com",
         "ipAddresses": {
           "v4": [
@@ -507028,7 +507016,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-03-11T00:00:00+00:00"
+        "eventDate": "2026-04-17T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
