@@ -66093,6 +66093,78 @@
     "registration_url": "http://www.nic.menu",
     "creation_date": "2013-11-13T00:00:00+00:00"
   },
+  "merck": {
+    "unicodeName": "merck",
+    "nameservers": {
+      "ns1.dns.business": {
+        "v4": [
+          "157.90.205.138"
+        ],
+        "v6": [
+          "2a01:4f8:252:4295::9d5a:cd8a"
+        ]
+      },
+      "ns2us.dns.business": {
+        "v4": [
+          "147.135.106.236"
+        ],
+        "v6": [
+          "2604:2dc0:200:2eb::2"
+        ]
+      },
+      "nsp.netnod.se": {
+        "v4": [
+          "194.58.198.33"
+        ],
+        "v6": [
+          "2a01:3f1:3033::53"
+        ]
+      }
+    },
+    "entities": {
+      "registrant": {
+        "fn": "Merck Registry Holdings, Inc.",
+        "org": null,
+        "adr": "17, av. Matignon\nParis Ile de France 75008\nFrance",
+        "tel": null,
+        "email": null,
+        "last_change_date": "2026-04-17T00:00:00+00:00"
+      },
+      "administrative": {
+        "fn": "David Taylor",
+        "org": "Hogan Lovells (Paris) LLP",
+        "adr": "17, av. Matignon\nParis Ile de France 75008\nFrance",
+        "tel": "+33.153674747",
+        "email": "primaryregistrycontact@mmdomainholdco.com",
+        "last_change_date": "2026-04-17T00:00:00+00:00"
+      },
+      "technical": {
+        "fn": "Neil Dundas",
+        "org": "DNS Africa Ltd",
+        "adr": "19th Floor Newton Tower, Sir William Newton Street\nPort Louis Port Louis district 11328\nMauritius",
+        "tel": "+27.824681858",
+        "email": "tech@dns.business",
+        "last_change_date": "2026-04-17T00:00:00+00:00"
+      }
+    },
+    "secureDNS": {
+      "delegationSigned": true,
+      "dsData": [
+        {
+          "keyTag": 61224,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "E02519ADF0EF1076F54211757C4298F56FC1F53E781E6FA0FB730D4D0EE26A22"
+        }
+      ]
+    },
+    "status": [
+      "active"
+    ],
+    "port43": null,
+    "registration_url": "https://nic.merck",
+    "creation_date": null
+  },
   "merckmsd": {
     "unicodeName": "merckmsd",
     "nameservers": {
