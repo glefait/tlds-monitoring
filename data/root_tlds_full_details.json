@@ -275391,7 +275391,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-04-17T00:00:00+00:00"
+        "eventDate": "2026-04-18T00:00:00+00:00"
       }
     ],
     "links": [
@@ -275400,6 +275400,12 @@
         "href": "https://nic.merck",
         "title": "Registration URL",
         "type": "text/html"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://rdap-merck.dns.business/rdap/",
+        "title": "RDAP Server",
+        "type": "application/rdap+json"
       },
       {
         "value": "https://rdap.iana.org/domain/merck",
