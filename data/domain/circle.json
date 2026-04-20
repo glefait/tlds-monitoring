@@ -132,7 +132,7 @@
             "fn",
             {},
             "text",
-            "Amazon Registry Services, Inc."
+            "Jolly Host, LLC"
           ],
           [
             "role",
@@ -144,7 +144,7 @@
             "adr",
             {
               "type": "work",
-              "label": "410 Terry Avenue North\nSeattle WA 98109\nUnited States of America (the)"
+              "label": "c/o Identity Digital Inc.\n10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)"
             },
             "text",
             [
@@ -165,7 +165,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2021-11-18T00:00:00+00:00"
+          "eventDate": "2026-04-20T00:00:00+00:00"
         }
       ]
     },
@@ -342,7 +342,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2026-04-16T00:00:00+00:00"
+      "eventDate": "2026-04-20T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
