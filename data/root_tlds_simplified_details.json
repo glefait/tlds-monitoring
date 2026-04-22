@@ -97227,10 +97227,10 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 31297,
+          "keyTag": 42982,
           "algorithm": 8,
           "digestType": 2,
-          "digest": "8E99A2B6A72A2B07F2ACCD5A51499F0CB02338AA42DA32AC2617856A114C2154"
+          "digest": "7B533AF433CC945BF785F3C500A279B052DFD76658E484C70CCE40C2A9FBC251"
         }
       ]
     },
@@ -116893,10 +116893,10 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 24002,
+          "keyTag": 17425,
           "algorithm": 8,
           "digestType": 2,
-          "digest": "CDBCE25677FC3ABAAD70CDC646A936A1ABC71D375FCD05D0789BB164EB50C31E"
+          "digest": "42CEA58066D1F44740C3356E0A9B0CB02052BBFDF4F7CDEFD0E7988D61E88184"
         }
       ]
     },
