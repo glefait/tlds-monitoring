@@ -430160,12 +430160,6 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 23500,
-          "algorithm": 13,
-          "digestType": 2,
-          "digest": "2405380F78933579783F2B91521D613B63AE2CE20F4E9E886B469E2B15E2E813"
-        },
-        {
           "keyTag": 46909,
           "algorithm": 13,
           "digestType": 2,
@@ -430413,7 +430407,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-04-08T00:00:00+00:00"
+        "eventDate": "2026-04-24T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -498074,10 +498068,10 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 3667,
-          "algorithm": 8,
+          "keyTag": 793,
+          "algorithm": 13,
           "digestType": 2,
-          "digest": "8AC78818CCA7D2CD3A323BEAD03CCF68025CA932219014748692F12ED7A4B2CA"
+          "digest": "3C11A9316D6C1539925062743F8EDD026DCCBED251BF6470E633BF8F27D3BC02"
         }
       ]
     },
@@ -498321,7 +498315,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2024-12-27T00:00:00+00:00"
+        "eventDate": "2026-04-24T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -498450,10 +498444,10 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 15901,
-          "algorithm": 8,
+          "keyTag": 47369,
+          "algorithm": 13,
           "digestType": 2,
-          "digest": "119F2B2637AEB13DA5C5D5B605DDCB9389A811A27D52102D9DF28EE507C02DA4"
+          "digest": "8C19BB787937BA0EDBD264A2975B896DDF25F9C1A36E87A94C3995DBDD1A220E"
         }
       ]
     },
@@ -498697,7 +498691,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-07-15T00:00:00+00:00"
+        "eventDate": "2026-04-24T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
