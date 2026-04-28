@@ -70,6 +70,18 @@
           "2001:678:8c::1"
         ]
       }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "r.tld.lt",
+      "ipAddresses": {
+        "v4": [
+          "194.0.25.46"
+        ],
+        "v6": [
+          "2001:678:20::46"
+        ]
+      }
     }
   ],
   "secureDNS": {
@@ -323,7 +335,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2025-09-19T00:00:00+00:00"
+      "eventDate": "2026-04-28T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
