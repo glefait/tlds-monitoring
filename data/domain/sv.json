@@ -31,6 +31,15 @@
     },
     {
       "objectClassName": "nameserver",
+      "ldhName": "ix.red.sv",
+      "ipAddresses": {
+        "v4": [
+          "168.243.17.2"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
       "ldhName": "ns.dns.br",
       "ipAddresses": {
         "v4": [
@@ -306,7 +315,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2026-01-22T00:00:00+00:00"
+      "eventDate": "2026-04-29T00:00:00+00:00"
     },
     {
       "eventAction": "registration",

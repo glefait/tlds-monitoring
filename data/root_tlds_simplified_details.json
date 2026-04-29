@@ -31812,12 +31812,6 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 20969,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "D64FDE1CC6A5C7A2AEF1B29A4FBD00C294129C64506AF54A3DF182C9E658C66C"
-        },
-        {
           "keyTag": 28231,
           "algorithm": 8,
           "digestType": 2,
@@ -97903,6 +97897,11 @@
           "2001:13c7:7004:110::219"
         ]
       },
+      "ix.red.sv": {
+        "v4": [
+          "168.243.17.2"
+        ]
+      },
       "ns.dns.br": {
         "v4": [
           "200.160.0.5"
@@ -107063,6 +107062,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "0467A13928CCB19D281DF83A64FE82EE5556806625E034B146D2261E1E2632B2"
+        },
+        {
+          "keyTag": 23345,
+          "algorithm": 8,
+          "digestType": 2,
+          "digest": "032EDA7E733E515E9393C7F949EB6AECC0920D423B5E2C7F59F48911DC1E7063"
         }
       ]
     },
