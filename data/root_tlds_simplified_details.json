@@ -19618,7 +19618,7 @@
   "cg": {
     "unicodeName": "cg",
     "nameservers": {
-      "dns-ca.dnsafrica.net": {
+      "c.nic.cg": {
         "v4": [
           "54.39.22.36"
         ],
@@ -19626,22 +19626,28 @@
           "2607:5300:201:3100::2b7c"
         ]
       },
-      "dns-fr.dnsafrica.net": {
+      "f.nic.cg": {
         "v4": [
-          "151.80.35.161"
+          "51.91.97.36"
+        ],
+        "v6": [
+          "2001:41d0:404:200::6c01"
         ]
       },
-      "dns-sg.dnsafrica.net": {
+      "p.nic.cg": {
+        "v4": [
+          "204.61.216.155"
+        ],
+        "v6": [
+          "2001:500:14:6155:ad::1"
+        ]
+      },
+      "s.nic.cg": {
         "v4": [
           "51.79.160.242"
         ],
         "v6": [
           "2402:1f00:8000:800::25ed"
-        ]
-      },
-      "dns-za.dnsafrica.net": {
-        "v4": [
-          "41.185.30.170"
         ]
       },
       "sunic.sunet.se": {
@@ -19672,11 +19678,11 @@
       },
       "technical": {
         "fn": "Fr\u00e9d\u00e9ric Gr\u00e9goire",
-        "org": "Fr\u00e9d\u00e9ric Gr\u00e9goire c/o Interpoint Switzerland",
-        "adr": "c/o Fidugestion & Conseils\nRoute de Denges 40\nLonay 1027\nSwitzerland",
+        "org": "Fr\u00e9d\u00e9ric Gr\u00e9goire c/o Interpoint Domain Plus",
+        "adr": "c/o interPoint S\u00e0rl\nRoute de Denges 40\nLonay 1027\nSwitzerland",
         "tel": "+41 27 508 55 85",
         "email": "contact-tech@dnsafrica.net",
-        "last_change_date": "2024-05-16T00:00:00+00:00"
+        "last_change_date": "2026-05-01T00:00:00+00:00"
       }
     },
     "secureDNS": {
@@ -62743,14 +62749,6 @@
         ],
         "v6": [
           "2001:678:19::1"
-        ]
-      },
-      "c.tld.lt": {
-        "v4": [
-          "194.0.1.4"
-        ],
-        "v6": [
-          "2001:678:4::4"
         ]
       },
       "d.tld.lt": {

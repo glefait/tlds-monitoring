@@ -28,18 +28,6 @@
     },
     {
       "objectClassName": "nameserver",
-      "ldhName": "c.tld.lt",
-      "ipAddresses": {
-        "v4": [
-          "194.0.1.4"
-        ],
-        "v6": [
-          "2001:678:4::4"
-        ]
-      }
-    },
-    {
-      "objectClassName": "nameserver",
       "ldhName": "d.tld.lt",
       "ipAddresses": {
         "v4": [
@@ -335,7 +323,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2026-04-28T00:00:00+00:00"
+      "eventDate": "2026-05-01T00:00:00+00:00"
     },
     {
       "eventAction": "registration",

@@ -81245,7 +81245,7 @@
     "nameservers": [
       {
         "objectClassName": "nameserver",
-        "ldhName": "dns-ca.dnsafrica.net",
+        "ldhName": "c.nic.cg",
         "ipAddresses": {
           "v4": [
             "54.39.22.36"
@@ -81257,31 +81257,37 @@
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "dns-fr.dnsafrica.net",
+        "ldhName": "f.nic.cg",
         "ipAddresses": {
           "v4": [
-            "151.80.35.161"
+            "51.91.97.36"
+          ],
+          "v6": [
+            "2001:41d0:404:200::6c01"
           ]
         }
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "dns-sg.dnsafrica.net",
+        "ldhName": "p.nic.cg",
+        "ipAddresses": {
+          "v4": [
+            "204.61.216.155"
+          ],
+          "v6": [
+            "2001:500:14:6155:ad::1"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "s.nic.cg",
         "ipAddresses": {
           "v4": [
             "51.79.160.242"
           ],
           "v6": [
             "2402:1f00:8000:800::25ed"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "dns-za.dnsafrica.net",
-        "ipAddresses": {
-          "v4": [
-            "41.185.30.170"
           ]
         }
       },
@@ -81468,7 +81474,7 @@
               "org",
               {},
               "text",
-              "Fr\u00e9d\u00e9ric Gr\u00e9goire c/o Interpoint Switzerland"
+              "Fr\u00e9d\u00e9ric Gr\u00e9goire c/o Interpoint Domain Plus"
             ],
             [
               "role",
@@ -81480,7 +81486,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "c/o Fidugestion & Conseils\nRoute de Denges 40\nLonay 1027\nSwitzerland"
+                "label": "c/o interPoint S\u00e0rl\nRoute de Denges 40\nLonay 1027\nSwitzerland"
               },
               "text",
               [
@@ -81533,7 +81539,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2024-05-16T00:00:00+00:00"
+            "eventDate": "2026-05-01T00:00:00+00:00"
           }
         ]
       }
@@ -81541,7 +81547,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2024-05-17T00:00:00+00:00"
+        "eventDate": "2026-05-01T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -261276,18 +261282,6 @@
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "c.tld.lt",
-        "ipAddresses": {
-          "v4": [
-            "194.0.1.4"
-          ],
-          "v6": [
-            "2001:678:4::4"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
         "ldhName": "d.tld.lt",
         "ipAddresses": {
           "v4": [
@@ -261583,7 +261577,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-04-28T00:00:00+00:00"
+        "eventDate": "2026-05-01T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
