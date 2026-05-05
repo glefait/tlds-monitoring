@@ -12503,12 +12503,6 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 6766,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "65581CC0C38868BB708CB1C981F61B8D332C201A9A25B71DCB91AE9959443C32"
-        },
-        {
           "keyTag": 7382,
           "algorithm": 8,
           "digestType": 2,
@@ -41168,16 +41162,16 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 31405,
-          "algorithm": 8,
-          "digestType": 1,
-          "digest": "00275A5FEEC994177D0C012B7239CA8AD41EC030"
-        },
-        {
           "keyTag": 51961,
           "algorithm": 8,
           "digestType": 1,
           "digest": "560EBEA2094D97BB3BAB16B77A706D00EC30C203"
+        },
+        {
+          "keyTag": 31024,
+          "algorithm": 8,
+          "digestType": 1,
+          "digest": "32D0919BDAEC6321EB1D8BE9956D062A10F92E6E"
         }
       ]
     },
@@ -83524,6 +83518,12 @@
           "algorithm": 13,
           "digestType": 2,
           "digest": "6A6546F44C8680C705612F9722A591DBBB88BF0D40E89E1CB45FAD18EEE3D4EA"
+        },
+        {
+          "keyTag": 60657,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "54F441FE25CA20DB7E5CDB9596A32AD8784AB06F68A6F4FCE84C5A7EA8E1B347"
         }
       ]
     },
