@@ -44161,6 +44161,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "169700D66838FC2A4FE16098924C9DA5F3D167DA2697461C144C50D47ED123B0"
+        },
+        {
+          "keyTag": 30464,
+          "algorithm": 8,
+          "digestType": 2,
+          "digest": "7D53C720E3BFC56F260C98235E5A8CC86565CAE370FE4E24692D3C134208CA94"
         }
       ]
     },
@@ -44404,7 +44410,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-05-13T00:00:00+00:00"
+        "eventDate": "2026-05-07T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -190933,6 +190939,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "0C985A6CBBA65067171EBE40E4062058EF01BDD53A2D3321A0C52031755B1BBB"
+        },
+        {
+          "keyTag": 64352,
+          "algorithm": 8,
+          "digestType": 2,
+          "digest": "FCF7645470D9FEAA79704E7C85C15AE34BA3270A6C87666ED54FC2857337EE24"
         }
       ]
     },
@@ -191165,7 +191177,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-05-13T00:00:00+00:00"
+        "eventDate": "2026-05-07T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -235798,13 +235810,13 @@
               "fn",
               {},
               "text",
-              "Angus Richardson"
+              "Hannah Duder"
             ],
             [
               "org",
               {},
               "text",
-              "DOT KIWI LIMITED"
+              "Dot Kiwi Limited"
             ],
             [
               "role",
@@ -235816,7 +235828,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "1961 West 14th Avenue\nVancouver BC V6J2K1\nCanada"
+                "label": "585 Wairakei Road\nBurnside Christchurch 8053\nNew Zealand"
               },
               "text",
               [
@@ -235838,7 +235850,7 @@
                 ]
               },
               "text",
-              "+17785586240"
+              "+642108668274"
             ],
             [
               "email",
@@ -235858,7 +235870,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2025-02-19T00:00:00+00:00"
+            "eventDate": "2026-05-07T00:00:00+00:00"
           }
         ]
       },
@@ -235956,7 +235968,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-05-01T00:00:00+00:00"
+        "eventDate": "2026-05-07T00:00:00+00:00"
       },
       {
         "eventAction": "registration",

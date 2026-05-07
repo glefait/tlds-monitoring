@@ -136,13 +136,13 @@
             "fn",
             {},
             "text",
-            "Angus Richardson"
+            "Hannah Duder"
           ],
           [
             "org",
             {},
             "text",
-            "DOT KIWI LIMITED"
+            "Dot Kiwi Limited"
           ],
           [
             "role",
@@ -154,7 +154,7 @@
             "adr",
             {
               "type": "work",
-              "label": "1961 West 14th Avenue\nVancouver BC V6J2K1\nCanada"
+              "label": "585 Wairakei Road\nBurnside Christchurch 8053\nNew Zealand"
             },
             "text",
             [
@@ -176,7 +176,7 @@
               ]
             },
             "text",
-            "+17785586240"
+            "+642108668274"
           ],
           [
             "email",
@@ -196,7 +196,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2025-02-19T00:00:00+00:00"
+          "eventDate": "2026-05-07T00:00:00+00:00"
         }
       ]
     },
@@ -294,7 +294,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2026-05-01T00:00:00+00:00"
+      "eventDate": "2026-05-07T00:00:00+00:00"
     },
     {
       "eventAction": "registration",

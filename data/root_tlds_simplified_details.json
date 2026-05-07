@@ -10727,6 +10727,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "169700D66838FC2A4FE16098924C9DA5F3D167DA2697461C144C50D47ED123B0"
+        },
+        {
+          "keyTag": 30464,
+          "algorithm": 8,
+          "digestType": 2,
+          "digest": "7D53C720E3BFC56F260C98235E5A8CC86565CAE370FE4E24692D3C134208CA94"
         }
       ]
     },
@@ -46095,6 +46101,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "0C985A6CBBA65067171EBE40E4062058EF01BDD53A2D3321A0C52031755B1BBB"
+        },
+        {
+          "keyTag": 64352,
+          "algorithm": 8,
+          "digestType": 2,
+          "digest": "FCF7645470D9FEAA79704E7C85C15AE34BA3270A6C87666ED54FC2857337EE24"
         }
       ]
     },
@@ -56757,12 +56769,12 @@
         "last_change_date": "2022-10-06T00:00:00+00:00"
       },
       "administrative": {
-        "fn": "Angus Richardson",
-        "org": "DOT KIWI LIMITED",
-        "adr": "1961 West 14th Avenue\nVancouver BC V6J2K1\nCanada",
-        "tel": "+17785586240",
+        "fn": "Hannah Duder",
+        "org": "Dot Kiwi Limited",
+        "adr": "585 Wairakei Road\nBurnside Christchurch 8053\nNew Zealand",
+        "tel": "+642108668274",
         "email": "info@hello.kiwi",
-        "last_change_date": "2025-02-19T00:00:00+00:00"
+        "last_change_date": "2026-05-07T00:00:00+00:00"
       },
       "technical": {
         "fn": "Don Slaunwhite",
