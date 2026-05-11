@@ -62,6 +62,12 @@
         "algorithm": 8,
         "digestType": 2,
         "digest": "9BB7AC1C7877373106E72E767EF0A772F43682D030AD67B2C7E3E473A9B7B69F"
+      },
+      {
+        "keyTag": 36130,
+        "algorithm": 8,
+        "digestType": 2,
+        "digest": "6F6A5DE93C24EED7E0ED4006C65795D4B0689DFE5FCE1FA784D0D9F8A105C5C8"
       }
     ]
   },
@@ -232,7 +238,7 @@
             "org",
             {},
             "text",
-            "Afilias"
+            "Alibaba Cloud"
           ],
           [
             "role",
@@ -244,7 +250,7 @@
             "adr",
             {
               "type": "work",
-              "label": "300 Welsh Road\nBuilding 3, Suite 105\nHorsham PA 19044\nUnited States of America (the)"
+              "label": "Room 1201, 2th Floor\nBuilding 9, District 4\nWangjing East Park, Chaoyang District\nBeijing 100120\nChina"
             },
             "text",
             [
@@ -266,7 +272,7 @@
               ]
             },
             "text",
-            "+1 215.706.5700"
+            "+86 0571-85022088"
           ],
           [
             "tel",
@@ -277,7 +283,7 @@
               ]
             },
             "text",
-            "+1 215.706.5701"
+            "+86 0571-86565777"
           ],
           [
             "email",
@@ -287,7 +293,7 @@
               ]
             },
             "text",
-            "tld-tech-poc@afilias.info"
+            "rspsupport@list.alibaba-inc.com"
           ]
         ]
       ],
@@ -297,7 +303,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2016-01-19T00:00:00+00:00"
+          "eventDate": "2026-05-11T00:00:00+00:00"
         }
       ]
     }
@@ -305,7 +311,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2023-08-11T00:00:00+00:00"
+      "eventDate": "2026-05-11T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
