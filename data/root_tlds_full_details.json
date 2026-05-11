@@ -377837,7 +377837,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-09-18T00:00:00+00:00"
+        "eventDate": "2026-05-11T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -377847,7 +377847,7 @@
     "links": [
       {
         "rel": "related",
-        "href": "https://www.seek.com.au/about/",
+        "href": "https://au.seek.com/about",
         "title": "Registration URL",
         "type": "text/html"
       },
