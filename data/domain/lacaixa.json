@@ -244,7 +244,7 @@
             "adr",
             {
               "type": "work",
-              "label": "urs de Rive 2\nGeneva CH-1204\nSwitzerland"
+              "label": "Cours de Rive 2\nGeneva CH-1204\nSwitzerland"
             },
             "text",
             [
@@ -297,7 +297,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2014-07-18T00:00:00+00:00"
+          "eventDate": "2026-05-11T00:00:00+00:00"
         }
       ]
     }
@@ -305,7 +305,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2024-03-22T00:00:00+00:00"
+      "eventDate": "2026-05-11T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
