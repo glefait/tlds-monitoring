@@ -329,7 +329,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2023-12-05T00:00:00+00:00"
+      "eventDate": "2026-05-19T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
@@ -339,7 +339,7 @@
   "links": [
     {
       "rel": "related",
-      "href": "http://www.one.com/",
+      "href": "https://get.one/",
       "title": "Registration URL",
       "type": "text/html"
     },
