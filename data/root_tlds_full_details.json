@@ -13658,7 +13658,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-05-18T00:00:00+00:00"
+        "eventDate": "2026-05-20T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -13674,7 +13674,7 @@
       },
       {
         "rel": "alternate",
-        "href": "https://rdap.identitydigital.services/rdap/",
+        "href": "https://rdap.aliregistry.cn/rdap/",
         "title": "RDAP Server",
         "type": "application/rdap+json"
       },
