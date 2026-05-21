@@ -1955,20 +1955,20 @@
         "last_change_date": "2022-12-08T00:00:00+00:00"
       },
       "administrative": {
-        "fn": ".AERO Office",
-        "org": "SITA SC",
-        "adr": "26 Chemin de Joinville\nCointrin\nGeneva Geneva CH-1216\nSwitzerland",
-        "tel": "+41 22 747 63 33",
-        "email": "aero.enquiries@sita.aero",
-        "last_change_date": "2008-06-12T00:00:00+00:00"
+        "fn": "Vice President, Engineering",
+        "org": "Identity Digital Inc.",
+        "adr": "10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)",
+        "tel": "+1.425.671.0020",
+        "email": "tldadmin@identity.digital",
+        "last_change_date": "2026-05-21T00:00:00+00:00"
       },
       "technical": {
         "fn": "Senior Director, DNS Infrastructure Group",
-        "org": "Afilias",
-        "adr": "300 Welsh Road\nBuilding 3, Suite 105\nHorsham PA 19044\nUnited States of America (the)",
-        "tel": "+1 215 706 5701",
-        "email": "tld-tech-poc@afilias.info",
-        "last_change_date": "2021-01-07T00:00:00+00:00"
+        "org": "Identity Digital Limited",
+        "adr": "c/o Identity Digital Inc.\n10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)",
+        "tel": "+1.425.671.0020",
+        "email": "tldtech@identity.digital",
+        "last_change_date": "2026-05-21T00:00:00+00:00"
       }
     },
     "secureDNS": {

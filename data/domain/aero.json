@@ -148,13 +148,13 @@
             "fn",
             {},
             "text",
-            ".AERO Office"
+            "Vice President, Engineering"
           ],
           [
             "org",
             {},
             "text",
-            "SITA SC"
+            "Identity Digital Inc."
           ],
           [
             "role",
@@ -166,7 +166,7 @@
             "adr",
             {
               "type": "work",
-              "label": "26 Chemin de Joinville\nCointrin\nGeneva Geneva CH-1216\nSwitzerland"
+              "label": "10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)"
             },
             "text",
             [
@@ -188,7 +188,7 @@
               ]
             },
             "text",
-            "+41 22 747 60 00"
+            "+1.425.298.2200"
           ],
           [
             "tel",
@@ -199,7 +199,7 @@
               ]
             },
             "text",
-            "+41 22 747 63 33"
+            "+1.425.671.0020"
           ],
           [
             "email",
@@ -209,7 +209,7 @@
               ]
             },
             "text",
-            "aero.enquiries@sita.aero"
+            "tldadmin@identity.digital"
           ]
         ]
       ],
@@ -219,7 +219,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2008-06-12T00:00:00+00:00"
+          "eventDate": "2026-05-21T00:00:00+00:00"
         }
       ]
     },
@@ -244,7 +244,7 @@
             "org",
             {},
             "text",
-            "Afilias"
+            "Identity Digital Limited"
           ],
           [
             "role",
@@ -256,7 +256,7 @@
             "adr",
             {
               "type": "work",
-              "label": "300 Welsh Road\nBuilding 3, Suite 105\nHorsham PA 19044\nUnited States of America (the)"
+              "label": "c/o Identity Digital Inc.\n10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)"
             },
             "text",
             [
@@ -278,7 +278,7 @@
               ]
             },
             "text",
-            "+1 215 706 5700"
+            "+1.425.298.2200"
           ],
           [
             "tel",
@@ -289,7 +289,7 @@
               ]
             },
             "text",
-            "+1 215 706 5701"
+            "+1.425.671.0020"
           ],
           [
             "email",
@@ -299,7 +299,7 @@
               ]
             },
             "text",
-            "tld-tech-poc@afilias.info"
+            "tldtech@identity.digital"
           ]
         ]
       ],
@@ -309,7 +309,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2021-01-07T00:00:00+00:00"
+          "eventDate": "2026-05-21T00:00:00+00:00"
         }
       ]
     }
@@ -317,7 +317,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2026-03-10T00:00:00+00:00"
+      "eventDate": "2026-05-21T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
