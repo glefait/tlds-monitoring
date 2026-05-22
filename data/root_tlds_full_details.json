@@ -65250,6 +65250,18 @@
     "nameservers": [
       {
         "objectClassName": "nameserver",
+        "ldhName": "a.nic.bv",
+        "ipAddresses": {
+          "v4": [
+            "158.38.61.97"
+          ],
+          "v6": [
+            "2001:700:4603::1"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
         "ldhName": "nac.no",
         "ipAddresses": {
           "v4": [
@@ -65550,7 +65562,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2022-01-14T00:00:00+00:00"
+        "eventDate": "2026-05-22T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
