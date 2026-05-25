@@ -20811,7 +20811,7 @@
               "fn",
               {},
               "text",
-              "Yahoo Inc."
+              "AOL Media LLC"
             ],
             [
               "role",
@@ -20844,7 +20844,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2024-05-15T00:00:00+00:00"
+            "eventDate": "2026-05-25T00:00:00+00:00"
           }
         ]
       },
@@ -21015,7 +21015,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-04-10T00:00:00+00:00"
+        "eventDate": "2026-05-25T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -525482,7 +525482,7 @@
               "org",
               {},
               "text",
-              "OATH INC"
+              "Yahoo Inc."
             ],
             [
               "role",
@@ -525536,7 +525536,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2021-07-08T00:00:00+00:00"
+            "eventDate": "2026-05-25T00:00:00+00:00"
           }
         ]
       },
@@ -525634,7 +525634,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2024-07-25T00:00:00+00:00"
+        "eventDate": "2026-05-25T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
