@@ -292,7 +292,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2026-02-14T00:00:00+00:00"
+      "eventDate": "2026-06-02T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
@@ -302,13 +302,13 @@
   "links": [
     {
       "rel": "related",
-      "href": "http://www.nira.org.ng/",
+      "href": "https://www.nira.org.ng/",
       "title": "Registration URL",
       "type": "text/html"
     },
     {
       "rel": "alternate",
-      "href": "http://rdap.nic.net.ng",
+      "href": "https://rdap.nic.net.ng",
       "title": "RDAP Server",
       "type": "application/rdap+json"
     },

@@ -9726,20 +9726,20 @@
         "last_change_date": "2022-03-08T00:00:00+00:00"
       },
       "administrative": {
-        "fn": "Clifford A Bostic",
-        "org": "Ministry of Innovation, Science and Smart Technology",
-        "adr": "Government of Barbados\nLevel 4\nBaobab Tower\nWarrens St. Michael\nBarbados",
-        "tel": "+1 246 535 2573",
-        "email": "clifford.bostic@barbados.gov.bb",
-        "last_change_date": "2022-03-08T00:00:00+00:00"
+        "fn": "Jason Haynes",
+        "org": "Ministry of Innovation, Industry, Science and Technology",
+        "adr": "Government of Barbados\nLevels 3 & 4\nBaobab Tower\nWarrens St. Michael\nBarbados",
+        "tel": "+1 246 535 2513",
+        "email": "jason.haynes@barbados.gov.bb",
+        "last_change_date": "2026-06-02T00:00:00+00:00"
       },
       "technical": {
-        "fn": "George Foster",
-        "org": "Ministry of Innovation, Science and Smart Technology",
-        "adr": "Government of Barbados\nLevel 4\nBaobab Tower\nWarrens St. Michael\nBarbados",
-        "tel": "+1 246 535 2571",
-        "email": "george.foster@barbados.gov.bb",
-        "last_change_date": "2022-03-08T00:00:00+00:00"
+        "fn": "Tansene Keizer",
+        "org": "Ministry of Innovation, Industry, Science and Technology",
+        "adr": "Government of Barbados\nLevels 3 & 4\nBaobab Tower\nWarrens St. Michael\nBarbados",
+        "tel": "+1 246 535 2515",
+        "email": "tansene.keizer@barbados.gov.bb",
+        "last_change_date": "2026-06-02T00:00:00+00:00"
       }
     },
     "secureDNS": {
@@ -72466,7 +72466,7 @@
       "active"
     ],
     "port43": null,
-    "registration_url": "http://www.nira.org.ng/",
+    "registration_url": "https://www.nira.org.ng/",
     "creation_date": "1995-03-15T00:00:00+00:00"
   },
   "ngo": {
