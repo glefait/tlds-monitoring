@@ -4319,18 +4319,7 @@
                 ]
               },
               "text",
-              "+1 353 1 646-2000"
-            ],
-            [
-              "tel",
-              {
-                "type": [
-                  "work",
-                  "fax"
-                ]
-              },
-              "text",
-              "n/a"
+              "+353 1 646-2000"
             ],
             [
               "email",
@@ -4350,7 +4339,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2015-05-11T00:00:00+00:00"
+            "eventDate": "2026-06-03T00:00:00+00:00"
           }
         ]
       },
@@ -4448,7 +4437,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2024-03-31T00:00:00+00:00"
+        "eventDate": "2026-06-03T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
