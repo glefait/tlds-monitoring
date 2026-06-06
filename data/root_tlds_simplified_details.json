@@ -3290,12 +3290,6 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 36130,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "6F6A5DE93C24EED7E0ED4006C65795D4B0689DFE5FCE1FA784D0D9F8A105C5C8"
-        },
-        {
           "keyTag": 41398,
           "algorithm": 13,
           "digestType": 2,
@@ -6309,7 +6303,15 @@
       }
     },
     "secureDNS": {
-      "delegationSigned": false
+      "delegationSigned": true,
+      "dsData": [
+        {
+          "keyTag": 46004,
+          "algorithm": 8,
+          "digestType": 2,
+          "digest": "07539E998756808541823C9E44ED473FD98384D4DEF9A184E631D4246B1173A5"
+        }
+      ]
     },
     "status": [
       "active"
