@@ -317,7 +317,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2023-07-27T00:00:00+00:00"
+      "eventDate": "2026-06-08T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
@@ -327,13 +327,13 @@
   "links": [
     {
       "rel": "related",
-      "href": "https://karibu.tz/",
+      "href": "https://karibu.tz",
       "title": "Registration URL",
       "type": "text/html"
     },
     {
       "rel": "alternate",
-      "href": "https://whois.tznic.or.tz/rdap/",
+      "href": "https://rdap.tznic.or.tz/",
       "title": "RDAP Server",
       "type": "application/rdap+json"
     },
