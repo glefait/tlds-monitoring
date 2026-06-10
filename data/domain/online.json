@@ -294,12 +294,14 @@
     {
       "rel": "related",
       "href": "https://radix.website/",
+      "value": "https://rdap.iana.org/domain/online",
       "title": "Registration URL",
       "type": "text/html"
     },
     {
       "rel": "alternate",
       "href": "https://rdap.radix.host/rdap/",
+      "value": "https://rdap.iana.org/domain/online",
       "title": "RDAP Server",
       "type": "application/rdap+json"
     },
@@ -318,9 +320,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/tos"
+          "href": "https://www.icann.org/privacy/tos",
+          "value": "https://rdap.iana.org/domain/online"
         }
       ]
     },
@@ -331,9 +334,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/policy"
+          "href": "https://www.icann.org/privacy/policy",
+          "value": "https://rdap.iana.org/domain/online"
         }
       ]
     }

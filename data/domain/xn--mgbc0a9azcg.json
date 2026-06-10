@@ -346,6 +346,7 @@
     {
       "rel": "related",
       "href": "http://www.registre.ma",
+      "value": "https://rdap.iana.org/domain/xn--mgbc0a9azcg",
       "title": "Registration URL",
       "type": "text/html"
     },
@@ -364,9 +365,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/tos"
+          "href": "https://www.icann.org/privacy/tos",
+          "value": "https://rdap.iana.org/domain/xn--mgbc0a9azcg"
         }
       ]
     },
@@ -377,9 +379,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/policy"
+          "href": "https://www.icann.org/privacy/policy",
+          "value": "https://rdap.iana.org/domain/xn--mgbc0a9azcg"
         }
       ]
     }

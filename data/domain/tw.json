@@ -370,12 +370,14 @@
     {
       "rel": "related",
       "href": "http://rs.twnic.net.tw",
+      "value": "https://rdap.iana.org/domain/tw",
       "title": "Registration URL",
       "type": "text/html"
     },
     {
       "rel": "alternate",
       "href": "https://ccrdap.twnic.tw/tw/",
+      "value": "https://rdap.iana.org/domain/tw",
       "title": "RDAP Server",
       "type": "application/rdap+json"
     },
@@ -394,9 +396,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/tos"
+          "href": "https://www.icann.org/privacy/tos",
+          "value": "https://rdap.iana.org/domain/tw"
         }
       ]
     },
@@ -407,9 +410,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/policy"
+          "href": "https://www.icann.org/privacy/policy",
+          "value": "https://rdap.iana.org/domain/tw"
         }
       ]
     }

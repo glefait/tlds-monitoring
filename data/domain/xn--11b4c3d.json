@@ -317,12 +317,14 @@
     {
       "rel": "related",
       "href": "http://www.verisigninc.com",
+      "value": "https://rdap.iana.org/domain/xn--11b4c3d",
       "title": "Registration URL",
       "type": "text/html"
     },
     {
       "rel": "alternate",
       "href": "https://tld-rdap.verisign.com/xn--11b4c3d/v1/",
+      "value": "https://rdap.iana.org/domain/xn--11b4c3d",
       "title": "RDAP Server",
       "type": "application/rdap+json"
     },
@@ -341,9 +343,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/tos"
+          "href": "https://www.icann.org/privacy/tos",
+          "value": "https://rdap.iana.org/domain/xn--11b4c3d"
         }
       ]
     },
@@ -354,9 +357,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/policy"
+          "href": "https://www.icann.org/privacy/policy",
+          "value": "https://rdap.iana.org/domain/xn--11b4c3d"
         }
       ]
     }

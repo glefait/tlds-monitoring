@@ -282,12 +282,14 @@
     {
       "rel": "related",
       "href": "http://www.nic.amsterdam",
+      "value": "https://rdap.iana.org/domain/amsterdam",
       "title": "Registration URL",
       "type": "text/html"
     },
     {
       "rel": "alternate",
       "href": "https://rdap.nic.amsterdam",
+      "value": "https://rdap.iana.org/domain/amsterdam",
       "title": "RDAP Server",
       "type": "application/rdap+json"
     },
@@ -306,9 +308,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/tos"
+          "href": "https://www.icann.org/privacy/tos",
+          "value": "https://rdap.iana.org/domain/amsterdam"
         }
       ]
     },
@@ -319,9 +322,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/policy"
+          "href": "https://www.icann.org/privacy/policy",
+          "value": "https://rdap.iana.org/domain/amsterdam"
         }
       ]
     }

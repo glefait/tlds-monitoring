@@ -330,12 +330,14 @@
     {
       "rel": "related",
       "href": "http://gouwunic.com/",
+      "value": "https://rdap.iana.org/domain/xn--g2xx48c",
       "title": "Registration URL",
       "type": "text/html"
     },
     {
       "rel": "alternate",
       "href": "https://rdap.nic.xn--g2xx48c/",
+      "value": "https://rdap.iana.org/domain/xn--g2xx48c",
       "title": "RDAP Server",
       "type": "application/rdap+json"
     },
@@ -354,9 +356,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/tos"
+          "href": "https://www.icann.org/privacy/tos",
+          "value": "https://rdap.iana.org/domain/xn--g2xx48c"
         }
       ]
     },
@@ -367,9 +370,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/policy"
+          "href": "https://www.icann.org/privacy/policy",
+          "value": "https://rdap.iana.org/domain/xn--g2xx48c"
         }
       ]
     }

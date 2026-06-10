@@ -359,12 +359,14 @@
     {
       "rel": "related",
       "href": "http://samsungregistry.com",
+      "value": "https://rdap.iana.org/domain/xn--cg4bki",
       "title": "Registration URL",
       "type": "text/html"
     },
     {
       "rel": "alternate",
       "href": "https://nic.samsung/rdap/",
+      "value": "https://rdap.iana.org/domain/xn--cg4bki",
       "title": "RDAP Server",
       "type": "application/rdap+json"
     },
@@ -383,9 +385,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/tos"
+          "href": "https://www.icann.org/privacy/tos",
+          "value": "https://rdap.iana.org/domain/xn--cg4bki"
         }
       ]
     },
@@ -396,9 +399,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/policy"
+          "href": "https://www.icann.org/privacy/policy",
+          "value": "https://rdap.iana.org/domain/xn--cg4bki"
         }
       ]
     }

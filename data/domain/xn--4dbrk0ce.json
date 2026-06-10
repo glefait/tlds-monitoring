@@ -359,6 +359,7 @@
     {
       "rel": "related",
       "href": "http://en.isoc.org.il/il-cctld/accredited-registrars/domain-name-registrars",
+      "value": "https://rdap.iana.org/domain/xn--4dbrk0ce",
       "title": "Registration URL",
       "type": "text/html"
     },
@@ -377,9 +378,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/tos"
+          "href": "https://www.icann.org/privacy/tos",
+          "value": "https://rdap.iana.org/domain/xn--4dbrk0ce"
         }
       ]
     },
@@ -390,9 +392,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/policy"
+          "href": "https://www.icann.org/privacy/policy",
+          "value": "https://rdap.iana.org/domain/xn--4dbrk0ce"
         }
       ]
     }

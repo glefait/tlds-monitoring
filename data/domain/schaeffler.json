@@ -293,12 +293,14 @@
     {
       "rel": "related",
       "href": "http://www.schaeffler.com",
+      "value": "https://rdap.iana.org/domain/schaeffler",
       "title": "Registration URL",
       "type": "text/html"
     },
     {
       "rel": "alternate",
       "href": "https://rdap.nic.schaeffler/",
+      "value": "https://rdap.iana.org/domain/schaeffler",
       "title": "RDAP Server",
       "type": "application/rdap+json"
     },
@@ -317,9 +319,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/tos"
+          "href": "https://www.icann.org/privacy/tos",
+          "value": "https://rdap.iana.org/domain/schaeffler"
         }
       ]
     },
@@ -330,9 +333,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/policy"
+          "href": "https://www.icann.org/privacy/policy",
+          "value": "https://rdap.iana.org/domain/schaeffler"
         }
       ]
     }

@@ -277,6 +277,7 @@
     {
       "rel": "related",
       "href": "http://www.trc.gov.kh",
+      "value": "https://rdap.iana.org/domain/kh",
       "title": "Registration URL",
       "type": "text/html"
     },
@@ -295,9 +296,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/tos"
+          "href": "https://www.icann.org/privacy/tos",
+          "value": "https://rdap.iana.org/domain/kh"
         }
       ]
     },
@@ -308,9 +310,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/policy"
+          "href": "https://www.icann.org/privacy/policy",
+          "value": "https://rdap.iana.org/domain/kh"
         }
       ]
     }

@@ -366,12 +366,14 @@
     {
       "rel": "related",
       "href": "https://domain.fi",
+      "value": "https://rdap.iana.org/domain/fi",
       "title": "Registration URL",
       "type": "text/html"
     },
     {
       "rel": "alternate",
       "href": "https://rdap.fi/rdap/rdap/",
+      "value": "https://rdap.iana.org/domain/fi",
       "title": "RDAP Server",
       "type": "application/rdap+json"
     },
@@ -390,9 +392,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/tos"
+          "href": "https://www.icann.org/privacy/tos",
+          "value": "https://rdap.iana.org/domain/fi"
         }
       ]
     },
@@ -403,9 +406,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/policy"
+          "href": "https://www.icann.org/privacy/policy",
+          "value": "https://rdap.iana.org/domain/fi"
         }
       ]
     }

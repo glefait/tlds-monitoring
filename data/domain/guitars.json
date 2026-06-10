@@ -305,12 +305,14 @@
     {
       "rel": "related",
       "href": "https://nic.guitars",
+      "value": "https://rdap.iana.org/domain/guitars",
       "title": "Registration URL",
       "type": "text/html"
     },
     {
       "rel": "alternate",
       "href": "https://rdap.centralnic.com/guitars/",
+      "value": "https://rdap.iana.org/domain/guitars",
       "title": "RDAP Server",
       "type": "application/rdap+json"
     },
@@ -329,9 +331,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/tos"
+          "href": "https://www.icann.org/privacy/tos",
+          "value": "https://rdap.iana.org/domain/guitars"
         }
       ]
     },
@@ -342,9 +345,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/policy"
+          "href": "https://www.icann.org/privacy/policy",
+          "value": "https://rdap.iana.org/domain/guitars"
         }
       ]
     }

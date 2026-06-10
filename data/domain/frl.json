@@ -322,12 +322,14 @@
     {
       "rel": "related",
       "href": "https://registreer.frl",
+      "value": "https://rdap.iana.org/domain/frl",
       "title": "Registration URL",
       "type": "text/html"
     },
     {
       "rel": "alternate",
       "href": "https://rdap.centralnic.com/frl",
+      "value": "https://rdap.iana.org/domain/frl",
       "title": "RDAP Server",
       "type": "application/rdap+json"
     },
@@ -346,9 +348,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/tos"
+          "href": "https://www.icann.org/privacy/tos",
+          "value": "https://rdap.iana.org/domain/frl"
         }
       ]
     },
@@ -359,9 +362,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/policy"
+          "href": "https://www.icann.org/privacy/policy",
+          "value": "https://rdap.iana.org/domain/frl"
         }
       ]
     }

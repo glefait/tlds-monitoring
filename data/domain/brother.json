@@ -313,12 +313,14 @@
     {
       "rel": "related",
       "href": "http://www.brother.com/",
+      "value": "https://rdap.iana.org/domain/brother",
       "title": "Registration URL",
       "type": "text/html"
     },
     {
       "rel": "alternate",
       "href": "https://rdap.gmoregistry.net/rdap/",
+      "value": "https://rdap.iana.org/domain/brother",
       "title": "RDAP Server",
       "type": "application/rdap+json"
     },
@@ -337,9 +339,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/tos"
+          "href": "https://www.icann.org/privacy/tos",
+          "value": "https://rdap.iana.org/domain/brother"
         }
       ]
     },
@@ -350,9 +353,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/policy"
+          "href": "https://www.icann.org/privacy/policy",
+          "value": "https://rdap.iana.org/domain/brother"
         }
       ]
     }

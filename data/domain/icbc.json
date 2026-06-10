@@ -340,12 +340,14 @@
     {
       "rel": "related",
       "href": "http://www.icbc.com.cn/ICBC/%E5%9F%9F%E5%90%8D%E6%B3%A8%E5%86%8C%E5%B1%80/default.htm",
+      "value": "https://rdap.iana.org/domain/icbc",
       "title": "Registration URL",
       "type": "text/html"
     },
     {
       "rel": "alternate",
       "href": "https://rdap.zdnsgtld.com/icbc/",
+      "value": "https://rdap.iana.org/domain/icbc",
       "title": "RDAP Server",
       "type": "application/rdap+json"
     },
@@ -364,9 +366,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/tos"
+          "href": "https://www.icann.org/privacy/tos",
+          "value": "https://rdap.iana.org/domain/icbc"
         }
       ]
     },
@@ -377,9 +380,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/policy"
+          "href": "https://www.icann.org/privacy/policy",
+          "value": "https://rdap.iana.org/domain/icbc"
         }
       ]
     }

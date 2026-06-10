@@ -306,12 +306,14 @@
     {
       "rel": "related",
       "href": "http://www.sgnic.sg",
+      "value": "https://rdap.iana.org/domain/sg",
       "title": "Registration URL",
       "type": "text/html"
     },
     {
       "rel": "alternate",
       "href": "https://rdap.sgnic.sg/rdap/",
+      "value": "https://rdap.iana.org/domain/sg",
       "title": "RDAP Server",
       "type": "application/rdap+json"
     },
@@ -330,9 +332,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/tos"
+          "href": "https://www.icann.org/privacy/tos",
+          "value": "https://rdap.iana.org/domain/sg"
         }
       ]
     },
@@ -343,9 +346,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/policy"
+          "href": "https://www.icann.org/privacy/policy",
+          "value": "https://rdap.iana.org/domain/sg"
         }
       ]
     }

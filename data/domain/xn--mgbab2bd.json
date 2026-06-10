@@ -317,12 +317,14 @@
     {
       "rel": "related",
       "href": "http://corenic.org",
+      "value": "https://rdap.iana.org/domain/xn--mgbab2bd",
       "title": "Registration URL",
       "type": "text/html"
     },
     {
       "rel": "alternate",
       "href": "https://rdap.nic.xn--mgbab2bd/",
+      "value": "https://rdap.iana.org/domain/xn--mgbab2bd",
       "title": "RDAP Server",
       "type": "application/rdap+json"
     },
@@ -341,9 +343,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/tos"
+          "href": "https://www.icann.org/privacy/tos",
+          "value": "https://rdap.iana.org/domain/xn--mgbab2bd"
         }
       ]
     },
@@ -354,9 +357,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/policy"
+          "href": "https://www.icann.org/privacy/policy",
+          "value": "https://rdap.iana.org/domain/xn--mgbab2bd"
         }
       ]
     }

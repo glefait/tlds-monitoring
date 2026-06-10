@@ -324,12 +324,14 @@
     {
       "rel": "related",
       "href": "http://www.shangri-la.com/",
+      "value": "https://rdap.iana.org/domain/xn--5su34j936bgsg",
       "title": "Registration URL",
       "type": "text/html"
     },
     {
       "rel": "alternate",
       "href": "https://rdap.identitydigital.services/rdap/",
+      "value": "https://rdap.iana.org/domain/xn--5su34j936bgsg",
       "title": "RDAP Server",
       "type": "application/rdap+json"
     },
@@ -348,9 +350,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/tos"
+          "href": "https://www.icann.org/privacy/tos",
+          "value": "https://rdap.iana.org/domain/xn--5su34j936bgsg"
         }
       ]
     },
@@ -361,9 +364,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/policy"
+          "href": "https://www.icann.org/privacy/policy",
+          "value": "https://rdap.iana.org/domain/xn--5su34j936bgsg"
         }
       ]
     }

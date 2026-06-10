@@ -341,6 +341,7 @@
     {
       "rel": "related",
       "href": "http://www.imena.bg",
+      "value": "https://rdap.iana.org/domain/xn--90ae",
       "title": "Registration URL",
       "type": "text/html"
     },
@@ -359,9 +360,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/tos"
+          "href": "https://www.icann.org/privacy/tos",
+          "value": "https://rdap.iana.org/domain/xn--90ae"
         }
       ]
     },
@@ -372,9 +374,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/policy"
+          "href": "https://www.icann.org/privacy/policy",
+          "value": "https://rdap.iana.org/domain/xn--90ae"
         }
       ]
     }

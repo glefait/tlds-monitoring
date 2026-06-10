@@ -340,12 +340,14 @@
     {
       "rel": "related",
       "href": "http://www.neustar.biz",
+      "value": "https://rdap.iana.org/domain/neustar",
       "title": "Registration URL",
       "type": "text/html"
     },
     {
       "rel": "alternate",
       "href": "https://rdap.nic.neustar/",
+      "value": "https://rdap.iana.org/domain/neustar",
       "title": "RDAP Server",
       "type": "application/rdap+json"
     },
@@ -364,9 +366,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/tos"
+          "href": "https://www.icann.org/privacy/tos",
+          "value": "https://rdap.iana.org/domain/neustar"
         }
       ]
     },
@@ -377,9 +380,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/policy"
+          "href": "https://www.icann.org/privacy/policy",
+          "value": "https://rdap.iana.org/domain/neustar"
         }
       ]
     }

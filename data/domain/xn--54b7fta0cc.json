@@ -289,6 +289,7 @@
     {
       "rel": "related",
       "href": "http://domainreg.btcl.com.bd/",
+      "value": "https://rdap.iana.org/domain/xn--54b7fta0cc",
       "title": "Registration URL",
       "type": "text/html"
     },
@@ -307,9 +308,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/tos"
+          "href": "https://www.icann.org/privacy/tos",
+          "value": "https://rdap.iana.org/domain/xn--54b7fta0cc"
         }
       ]
     },
@@ -320,9 +322,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/policy"
+          "href": "https://www.icann.org/privacy/policy",
+          "value": "https://rdap.iana.org/domain/xn--54b7fta0cc"
         }
       ]
     }

@@ -329,12 +329,14 @@
     {
       "rel": "related",
       "href": "http://nic.accountant",
+      "value": "https://rdap.iana.org/domain/accountant",
       "title": "Registration URL",
       "type": "text/html"
     },
     {
       "rel": "alternate",
       "href": "https://rdap.nic.accountant/",
+      "value": "https://rdap.iana.org/domain/accountant",
       "title": "RDAP Server",
       "type": "application/rdap+json"
     },
@@ -353,9 +355,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/tos"
+          "href": "https://www.icann.org/privacy/tos",
+          "value": "https://rdap.iana.org/domain/accountant"
         }
       ]
     },
@@ -366,9 +369,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/policy"
+          "href": "https://www.icann.org/privacy/policy",
+          "value": "https://rdap.iana.org/domain/accountant"
         }
       ]
     }

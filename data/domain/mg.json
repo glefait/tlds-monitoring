@@ -308,12 +308,14 @@
     {
       "rel": "related",
       "href": "http://www.nic.mg",
+      "value": "https://rdap.iana.org/domain/mg",
       "title": "Registration URL",
       "type": "text/html"
     },
     {
       "rel": "alternate",
       "href": "http://rdap.nic.mg",
+      "value": "https://rdap.iana.org/domain/mg",
       "title": "RDAP Server",
       "type": "application/rdap+json"
     },
@@ -332,9 +334,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/tos"
+          "href": "https://www.icann.org/privacy/tos",
+          "value": "https://rdap.iana.org/domain/mg"
         }
       ]
     },
@@ -345,9 +348,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/policy"
+          "href": "https://www.icann.org/privacy/policy",
+          "value": "https://rdap.iana.org/domain/mg"
         }
       ]
     }

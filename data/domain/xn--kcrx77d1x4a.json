@@ -307,12 +307,14 @@
     {
       "rel": "related",
       "href": "http://nic.xn--kcrx77d1x4a",
+      "value": "https://rdap.iana.org/domain/xn--kcrx77d1x4a",
       "title": "Registration URL",
       "type": "text/html"
     },
     {
       "rel": "alternate",
       "href": "https://rdap.nic.xn--kcrx77d1x4a/",
+      "value": "https://rdap.iana.org/domain/xn--kcrx77d1x4a",
       "title": "RDAP Server",
       "type": "application/rdap+json"
     },
@@ -331,9 +333,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/tos"
+          "href": "https://www.icann.org/privacy/tos",
+          "value": "https://rdap.iana.org/domain/xn--kcrx77d1x4a"
         }
       ]
     },
@@ -344,9 +347,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/policy"
+          "href": "https://www.icann.org/privacy/policy",
+          "value": "https://rdap.iana.org/domain/xn--kcrx77d1x4a"
         }
       ]
     }

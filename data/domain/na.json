@@ -314,12 +314,14 @@
     {
       "rel": "related",
       "href": "http://www.na-nic.com.na/",
+      "value": "https://rdap.iana.org/domain/na",
       "title": "Registration URL",
       "type": "text/html"
     },
     {
       "rel": "alternate",
       "href": "https://keetmans.omadhina.co.na",
+      "value": "https://rdap.iana.org/domain/na",
       "title": "RDAP Server",
       "type": "application/rdap+json"
     },
@@ -338,9 +340,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/tos"
+          "href": "https://www.icann.org/privacy/tos",
+          "value": "https://rdap.iana.org/domain/na"
         }
       ]
     },
@@ -351,9 +354,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/policy"
+          "href": "https://www.icann.org/privacy/policy",
+          "value": "https://rdap.iana.org/domain/na"
         }
       ]
     }

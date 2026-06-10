@@ -281,12 +281,14 @@
     {
       "rel": "related",
       "href": "https://secure.nic.vi",
+      "value": "https://rdap.iana.org/domain/vi",
       "title": "Registration URL",
       "type": "text/html"
     },
     {
       "rel": "alternate",
       "href": "https://rdap.nic.vi",
+      "value": "https://rdap.iana.org/domain/vi",
       "title": "RDAP Server",
       "type": "application/rdap+json"
     },
@@ -305,9 +307,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/tos"
+          "href": "https://www.icann.org/privacy/tos",
+          "value": "https://rdap.iana.org/domain/vi"
         }
       ]
     },
@@ -318,9 +321,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/policy"
+          "href": "https://www.icann.org/privacy/policy",
+          "value": "https://rdap.iana.org/domain/vi"
         }
       ]
     }

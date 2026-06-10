@@ -328,12 +328,14 @@
     {
       "rel": "related",
       "href": "https://www.registry.google",
+      "value": "https://rdap.iana.org/domain/prof",
       "title": "Registration URL",
       "type": "text/html"
     },
     {
       "rel": "alternate",
       "href": "https://pubapi.registry.google/rdap/",
+      "value": "https://rdap.iana.org/domain/prof",
       "title": "RDAP Server",
       "type": "application/rdap+json"
     },
@@ -352,9 +354,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/tos"
+          "href": "https://www.icann.org/privacy/tos",
+          "value": "https://rdap.iana.org/domain/prof"
         }
       ]
     },
@@ -365,9 +368,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/policy"
+          "href": "https://www.icann.org/privacy/policy",
+          "value": "https://rdap.iana.org/domain/prof"
         }
       ]
     }

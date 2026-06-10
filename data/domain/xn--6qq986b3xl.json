@@ -341,12 +341,14 @@
     {
       "rel": "related",
       "href": "http://www.520.wang",
+      "value": "https://rdap.iana.org/domain/xn--6qq986b3xl",
       "title": "Registration URL",
       "type": "text/html"
     },
     {
       "rel": "alternate",
       "href": "https://rdap.zdnsgtld.com/xn--6qq986b3xl",
+      "value": "https://rdap.iana.org/domain/xn--6qq986b3xl",
       "title": "RDAP Server",
       "type": "application/rdap+json"
     },
@@ -365,9 +367,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/tos"
+          "href": "https://www.icann.org/privacy/tos",
+          "value": "https://rdap.iana.org/domain/xn--6qq986b3xl"
         }
       ]
     },
@@ -378,9 +381,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/policy"
+          "href": "https://www.icann.org/privacy/policy",
+          "value": "https://rdap.iana.org/domain/xn--6qq986b3xl"
         }
       ]
     }

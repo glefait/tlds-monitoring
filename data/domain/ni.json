@@ -311,6 +311,7 @@
     {
       "rel": "related",
       "href": "http://www.nic.ni",
+      "value": "https://rdap.iana.org/domain/ni",
       "title": "Registration URL",
       "type": "text/html"
     },
@@ -329,9 +330,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/tos"
+          "href": "https://www.icann.org/privacy/tos",
+          "value": "https://rdap.iana.org/domain/ni"
         }
       ]
     },
@@ -342,9 +344,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/policy"
+          "href": "https://www.icann.org/privacy/policy",
+          "value": "https://rdap.iana.org/domain/ni"
         }
       ]
     }

@@ -303,12 +303,14 @@
     {
       "rel": "related",
       "href": "https://www.nira.org.ng/",
+      "value": "https://rdap.iana.org/domain/ng",
       "title": "Registration URL",
       "type": "text/html"
     },
     {
       "rel": "alternate",
       "href": "https://rdap.nic.net.ng",
+      "value": "https://rdap.iana.org/domain/ng",
       "title": "RDAP Server",
       "type": "application/rdap+json"
     },
@@ -327,9 +329,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/tos"
+          "href": "https://www.icann.org/privacy/tos",
+          "value": "https://rdap.iana.org/domain/ng"
         }
       ]
     },
@@ -340,9 +343,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/policy"
+          "href": "https://www.icann.org/privacy/policy",
+          "value": "https://rdap.iana.org/domain/ng"
         }
       ]
     }

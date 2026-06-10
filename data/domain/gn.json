@@ -291,6 +291,7 @@
     {
       "rel": "related",
       "href": "https://ande.gov.gn/dns-gn/",
+      "value": "https://rdap.iana.org/domain/gn",
       "title": "Registration URL",
       "type": "text/html"
     },
@@ -309,9 +310,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/tos"
+          "href": "https://www.icann.org/privacy/tos",
+          "value": "https://rdap.iana.org/domain/gn"
         }
       ]
     },
@@ -322,9 +324,10 @@
       ],
       "links": [
         {
-          "rel": "alternate",
+          "rel": "related",
           "type": "text/html",
-          "href": "https://www.icann.org/privacy/policy"
+          "href": "https://www.icann.org/privacy/policy",
+          "value": "https://rdap.iana.org/domain/gn"
         }
       ]
     }
