@@ -369028,6 +369028,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "BF2D17C54E9DDE52EB37F0D242A1C4C1051E15C18A2C2661C7A6CA58EE6C0407"
+        },
+        {
+          "keyTag": 6139,
+          "algorithm": 8,
+          "digestType": 2,
+          "digest": "01E166CB1C6A2797FBDEFFBE26B009A7A1F72905F476353537DFA63754B479DE"
         }
       ]
     },
@@ -369271,7 +369277,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2024-05-11T00:00:00+00:00"
+        "eventDate": "2026-06-11T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
