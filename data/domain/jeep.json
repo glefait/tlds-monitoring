@@ -7,30 +7,6 @@
   "nameservers": [
     {
       "objectClassName": "nameserver",
-      "ldhName": "a2.nic.jeep",
-      "ipAddresses": {
-        "v4": [
-          "65.22.79.41"
-        ],
-        "v6": [
-          "2a01:8840:4d::41"
-        ]
-      }
-    },
-    {
-      "objectClassName": "nameserver",
-      "ldhName": "c0.nic.jeep",
-      "ipAddresses": {
-        "v4": [
-          "65.22.78.41"
-        ],
-        "v6": [
-          "2a01:8840:4c::41"
-        ]
-      }
-    },
-    {
-      "objectClassName": "nameserver",
       "ldhName": "v0n0.nic.jeep",
       "ipAddresses": {
         "v4": [
@@ -62,6 +38,42 @@
         ],
         "v6": [
           "2a01:8840:68::29"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "v0n3.nic.jeep",
+      "ipAddresses": {
+        "v4": [
+          "161.232.30.29"
+        ],
+        "v6": [
+          "2a01:8840:106::29"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "v2n0.nic.jeep",
+      "ipAddresses": {
+        "v4": [
+          "65.22.107.29"
+        ],
+        "v6": [
+          "2a01:8840:69::29"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "v2n1.nic.jeep",
+      "ipAddresses": {
+        "v4": [
+          "161.232.31.29"
+        ],
+        "v6": [
+          "2a01:8840:107::29"
         ]
       }
     }
@@ -317,7 +329,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2026-05-20T00:00:00+00:00"
+      "eventDate": "2026-06-12T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
