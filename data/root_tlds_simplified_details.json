@@ -87917,12 +87917,12 @@
         "last_change_date": "2015-12-24T00:00:00+00:00"
       },
       "technical": {
-        "fn": "IANA Contact",
-        "org": "GoDaddy Registry",
-        "adr": "100 S. Mill Ave, Suite 1600\nTempe AZ 85281\nUnited States of America (the)",
-        "tel": "+1 480 624 2546",
-        "email": "iana@registry.godaddy",
-        "last_change_date": "2024-05-11T00:00:00+00:00"
+        "fn": "Senior Director, DNS Infrastructure Group",
+        "org": "Identity Digital Limited",
+        "adr": "c/o Identity Digital Inc.\n10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)",
+        "tel": "+1.425.671.0020",
+        "email": "tldtech@identity.digital",
+        "last_change_date": "2026-06-15T00:00:00+00:00"
       }
     },
     "secureDNS": {

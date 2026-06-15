@@ -369210,13 +369210,13 @@
               "fn",
               {},
               "text",
-              "IANA Contact"
+              "Senior Director, DNS Infrastructure Group"
             ],
             [
               "org",
               {},
               "text",
-              "GoDaddy Registry"
+              "Identity Digital Limited"
             ],
             [
               "role",
@@ -369228,7 +369228,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "100 S. Mill Ave, Suite 1600\nTempe AZ 85281\nUnited States of America (the)"
+                "label": "c/o Identity Digital Inc.\n10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)"
               },
               "text",
               [
@@ -369250,7 +369250,7 @@
                 ]
               },
               "text",
-              "+1 480 505 8800"
+              "+1.425.298.2200"
             ],
             [
               "tel",
@@ -369261,7 +369261,7 @@
                 ]
               },
               "text",
-              "+1 480 624 2546"
+              "+1.425.671.0020"
             ],
             [
               "email",
@@ -369271,7 +369271,7 @@
                 ]
               },
               "text",
-              "iana@registry.godaddy"
+              "tldtech@identity.digital"
             ]
           ]
         ],
@@ -369281,7 +369281,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2024-05-11T00:00:00+00:00"
+            "eventDate": "2026-06-15T00:00:00+00:00"
           }
         ]
       }
@@ -369289,7 +369289,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-06-11T00:00:00+00:00"
+        "eventDate": "2026-06-15T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
