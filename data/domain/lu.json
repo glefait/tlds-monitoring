@@ -7,6 +7,18 @@
   "nameservers": [
     {
       "objectClassName": "nameserver",
+      "ldhName": "1.ns.lu",
+      "ipAddresses": {
+        "v4": [
+          "158.64.229.18"
+        ],
+        "v6": [
+          "2001:a18:4:1::18"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
       "ldhName": "g.dns.lu",
       "ipAddresses": {
         "v4": [
@@ -329,7 +341,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2023-07-28T00:00:00+00:00"
+      "eventDate": "2026-06-16T00:00:00+00:00"
     },
     {
       "eventAction": "registration",

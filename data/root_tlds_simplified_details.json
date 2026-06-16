@@ -63043,6 +63043,14 @@
   "lu": {
     "unicodeName": "lu",
     "nameservers": {
+      "1.ns.lu": {
+        "v4": [
+          "158.64.229.18"
+        ],
+        "v6": [
+          "2001:a18:4:1::18"
+        ]
+      },
       "g.dns.lu": {
         "v4": [
           "194.0.23.5"
@@ -84783,6 +84791,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "06090FB53AE539CE051D9236A0C6B5FD58361167BC0D7F5E8E9EAB4F62D4FFFB"
+        },
+        {
+          "keyTag": 16939,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "0D92A314BA5FEE31419E629A7EBD53350B79E887F79721A615EC7FA03331C81F"
         }
       ]
     },
