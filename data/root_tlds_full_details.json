@@ -390173,6 +390173,60 @@
             "2a01:8840:8c::33"
           ]
         }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "ta.ngtld.cn",
+        "ipAddresses": {
+          "v4": [
+            "42.83.130.1"
+          ],
+          "v6": [
+            "2001:dc7:ffd1::1"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "tb.ngtld.cn",
+        "ipAddresses": {
+          "v4": [
+            "42.83.131.1"
+          ],
+          "v6": [
+            "2001:dc7:ffd2::1"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "tc.ngtld.cn",
+        "ipAddresses": {
+          "v4": [
+            "42.83.132.1"
+          ],
+          "v6": [
+            "2001:dc7:ffd3::1"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "td.ngtld.cn",
+        "ipAddresses": {
+          "v4": [
+            "42.83.133.1"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "te.ngtld.cn",
+        "ipAddresses": {
+          "v4": [
+            "42.83.134.1"
+          ]
+        }
       }
     ],
     "secureDNS": {
@@ -390426,7 +390480,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2023-08-08T00:00:00+00:00"
+        "eventDate": "2026-06-22T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -464502,6 +464556,60 @@
             "2a01:8840:38::41"
           ]
         }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "ta.ngtld.cn",
+        "ipAddresses": {
+          "v4": [
+            "42.83.130.1"
+          ],
+          "v6": [
+            "2001:dc7:ffd1::1"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "tb.ngtld.cn",
+        "ipAddresses": {
+          "v4": [
+            "42.83.131.1"
+          ],
+          "v6": [
+            "2001:dc7:ffd2::1"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "tc.ngtld.cn",
+        "ipAddresses": {
+          "v4": [
+            "42.83.132.1"
+          ],
+          "v6": [
+            "2001:dc7:ffd3::1"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "td.ngtld.cn",
+        "ipAddresses": {
+          "v4": [
+            "42.83.133.1"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "te.ngtld.cn",
+        "ipAddresses": {
+          "v4": [
+            "42.83.134.1"
+          ]
+        }
       }
     ],
     "secureDNS": {
@@ -464755,7 +464863,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2023-08-08T00:00:00+00:00"
+        "eventDate": "2026-06-22T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -486282,6 +486390,60 @@
             "2a01:8840:70::1"
           ]
         }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "ta.ngtld.cn",
+        "ipAddresses": {
+          "v4": [
+            "42.83.130.1"
+          ],
+          "v6": [
+            "2001:dc7:ffd1::1"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "tb.ngtld.cn",
+        "ipAddresses": {
+          "v4": [
+            "42.83.131.1"
+          ],
+          "v6": [
+            "2001:dc7:ffd2::1"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "tc.ngtld.cn",
+        "ipAddresses": {
+          "v4": [
+            "42.83.132.1"
+          ],
+          "v6": [
+            "2001:dc7:ffd3::1"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "td.ngtld.cn",
+        "ipAddresses": {
+          "v4": [
+            "42.83.133.1"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "te.ngtld.cn",
+        "ipAddresses": {
+          "v4": [
+            "42.83.134.1"
+          ]
+        }
       }
     ],
     "secureDNS": {
@@ -486535,7 +486697,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2023-08-08T00:00:00+00:00"
+        "eventDate": "2026-06-22T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
