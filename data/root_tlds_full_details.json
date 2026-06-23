@@ -13138,10 +13138,6 @@
         "ipAddresses": {
           "v4": [
             "202.29.151.3"
-          ],
-          "v6": [
-            "2001:3c8:9009:181::2",
-            "2001:3c8:9007:1::21"
           ]
         }
       },
@@ -13422,7 +13418,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2023-10-12T00:00:00+00:00"
+        "eventDate": "2026-06-23T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -46789,16 +46785,16 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 42035,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "DE6B7CEF6B195F0AAC140C56C68868105D8F05967342C96A8192EFE7B433BD1E"
-        },
-        {
           "keyTag": 17411,
           "algorithm": 8,
           "digestType": 2,
           "digest": "5585896549A2954516768F776E8A9E2610CBF5CBD7165389C0A5448435C71185"
+        },
+        {
+          "keyTag": 62264,
+          "algorithm": 8,
+          "digestType": 2,
+          "digest": "C4078EB7E70029E2BBED8F7271D9F7636C133746C0E3DC22EA7F1BFDA231B246"
         }
       ]
     },
@@ -47042,7 +47038,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2024-07-01T00:00:00+00:00"
+        "eventDate": "2026-06-23T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -356125,12 +356121,6 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 6712,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "06090FB53AE539CE051D9236A0C6B5FD58361167BC0D7F5E8E9EAB4F62D4FFFB"
-        },
-        {
           "keyTag": 16939,
           "algorithm": 13,
           "digestType": 2,
@@ -356356,7 +356346,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-06-16T00:00:00+00:00"
+        "eventDate": "2026-06-23T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -464620,6 +464610,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "930EDCD3B0036BCDEBF43862AD49F6B7486DFECFC2E42F769AB66F21938CF112"
+        },
+        {
+          "keyTag": 44374,
+          "algorithm": 8,
+          "digestType": 2,
+          "digest": "FC7C7EEE0C220B160A81C97FCA3A33AB46AF1ED113A689B6308F6C4D3FCB6DBE"
         }
       ]
     },
@@ -464863,7 +464859,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-06-22T00:00:00+00:00"
+        "eventDate": "2026-06-23T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -486454,6 +486450,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "E5AEA197B5FB7F042833684BBF64FD1F9341BAA2007B2DB2958C9DFAA5884B78"
+        },
+        {
+          "keyTag": 44374,
+          "algorithm": 8,
+          "digestType": 2,
+          "digest": "0B082C464CCBD87DCF4D8C2E49C50F7CAA6D96477C31082CA8998019672D85CA"
         }
       ]
     },
@@ -486697,7 +486699,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-06-22T00:00:00+00:00"
+        "eventDate": "2026-06-23T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -509854,16 +509856,16 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 18592,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "0DECD54D82C1C675E321C38A49E3193F83066BD70D1BFB108B62231C75B8B407"
-        },
-        {
           "keyTag": 18404,
           "algorithm": 8,
           "digestType": 2,
           "digest": "1DBC70CB85267DA1054F652AC0B4AEEB76F17FB9648A490F4A0BB0D934BF6AC3"
+        },
+        {
+          "keyTag": 43307,
+          "algorithm": 8,
+          "digestType": 2,
+          "digest": "F81DACC26855561EC37FFD774F722C2C5F07A181C611114AE28724460001FD39"
         }
       ]
     },
@@ -510107,7 +510109,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2024-07-01T00:00:00+00:00"
+        "eventDate": "2026-06-23T00:00:00+00:00"
       },
       {
         "eventAction": "registration",

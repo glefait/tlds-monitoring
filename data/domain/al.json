@@ -11,10 +11,6 @@
       "ipAddresses": {
         "v4": [
           "202.29.151.3"
-        ],
-        "v6": [
-          "2001:3c8:9009:181::2",
-          "2001:3c8:9007:1::21"
         ]
       }
     },
@@ -295,7 +291,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2023-10-12T00:00:00+00:00"
+      "eventDate": "2026-06-23T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
