@@ -59,22 +59,76 @@
           "111.235.165.1"
         ]
       }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ta.ngtld.cn",
+      "ipAddresses": {
+        "v4": [
+          "42.83.130.1"
+        ],
+        "v6": [
+          "2001:dc7:ffd1::1"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "tb.ngtld.cn",
+      "ipAddresses": {
+        "v4": [
+          "42.83.131.1"
+        ],
+        "v6": [
+          "2001:dc7:ffd2::1"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "tc.ngtld.cn",
+      "ipAddresses": {
+        "v4": [
+          "42.83.132.1"
+        ],
+        "v6": [
+          "2001:dc7:ffd3::1"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "td.ngtld.cn",
+      "ipAddresses": {
+        "v4": [
+          "42.83.133.1"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "te.ngtld.cn",
+      "ipAddresses": {
+        "v4": [
+          "42.83.134.1"
+        ]
+      }
     }
   ],
   "secureDNS": {
     "delegationSigned": true,
     "dsData": [
       {
-        "keyTag": 51421,
-        "algorithm": 8,
-        "digestType": 2,
-        "digest": "9D673623E84D7E10B2AA5B376A3F617665F8B38EF442E8A7E86F0F18161C7801"
-      },
-      {
         "keyTag": 8245,
         "algorithm": 8,
         "digestType": 2,
         "digest": "EE6F394BD32D4BB28D43D2F2172121C90941E133D5B5BDBDCB72F86765BB95EB"
+      },
+      {
+        "keyTag": 44374,
+        "algorithm": 8,
+        "digestType": 2,
+        "digest": "93A7EE3E59E1CD78E9F4F677B14FC0449623AE5F27ACD7C0760CCE3FF0B8581C"
       }
     ]
   },
@@ -318,7 +372,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2024-07-18T00:00:00+00:00"
+      "eventDate": "2026-06-24T00:00:00+00:00"
     },
     {
       "eventAction": "registration",

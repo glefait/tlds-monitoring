@@ -13152,6 +13152,15 @@
       },
       {
         "objectClassName": "nameserver",
+        "ldhName": "ns2.nic.al",
+        "ipAddresses": {
+          "v4": [
+            "194.1.149.229"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
         "ldhName": "nsx.nic.al",
         "ipAddresses": {
           "v4": [
@@ -13418,7 +13427,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-06-23T00:00:00+00:00"
+        "eventDate": "2026-06-24T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -214952,18 +214961,6 @@
     "nameservers": [
       {
         "objectClassName": "nameserver",
-        "ldhName": "ns01.trs-dns.com",
-        "ipAddresses": {
-          "v4": [
-            "64.96.1.1"
-          ],
-          "v6": [
-            "2620:57:4001::1"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
         "ldhName": "ns01.trs-dns.net",
         "ipAddresses": {
           "v4": [
@@ -214976,13 +214973,13 @@
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "ns10.trs-dns.info",
+        "ldhName": "ns1.registry.in",
         "ipAddresses": {
           "v4": [
-            "64.78.204.1"
+            "64.96.1.1"
           ],
           "v6": [
-            "2620:171:812:1534:8::1"
+            "2620:57:4001::1"
           ]
         }
       },
@@ -214995,6 +214992,18 @@
           ],
           "v6": [
             "2620:171:813:1534:8::1"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "ns3.registry.in",
+        "ipAddresses": {
+          "v4": [
+            "64.78.204.1"
+          ],
+          "v6": [
+            "2620:171:812:1534:8::1"
           ]
         }
       }
@@ -215250,7 +215259,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-04-15T00:00:00+00:00"
+        "eventDate": "2026-06-24T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -480031,22 +480040,76 @@
             "111.235.165.1"
           ]
         }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "ta.ngtld.cn",
+        "ipAddresses": {
+          "v4": [
+            "42.83.130.1"
+          ],
+          "v6": [
+            "2001:dc7:ffd1::1"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "tb.ngtld.cn",
+        "ipAddresses": {
+          "v4": [
+            "42.83.131.1"
+          ],
+          "v6": [
+            "2001:dc7:ffd2::1"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "tc.ngtld.cn",
+        "ipAddresses": {
+          "v4": [
+            "42.83.132.1"
+          ],
+          "v6": [
+            "2001:dc7:ffd3::1"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "td.ngtld.cn",
+        "ipAddresses": {
+          "v4": [
+            "42.83.133.1"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "te.ngtld.cn",
+        "ipAddresses": {
+          "v4": [
+            "42.83.134.1"
+          ]
+        }
       }
     ],
     "secureDNS": {
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 48226,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "A16754C480E58C0D17126B3BAF93F32BAC39A916CF9D1F6F3A1F5C33687BE80F"
-        },
-        {
           "keyTag": 21055,
           "algorithm": 8,
           "digestType": 2,
           "digest": "0D6F3AA00BB63F959E87931FEA3F5D6E18A7C0F9F1408BFDF34113D88B191D37"
+        },
+        {
+          "keyTag": 44374,
+          "algorithm": 8,
+          "digestType": 2,
+          "digest": "7A835652C46DE71FC431DAD529ADB5722F1DB5239D8A83308B91BCAD79328467"
         }
       ]
     },
@@ -480290,7 +480353,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2024-07-18T00:00:00+00:00"
+        "eventDate": "2026-06-24T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -529428,22 +529491,76 @@
             "111.235.165.1"
           ]
         }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "ta.ngtld.cn",
+        "ipAddresses": {
+          "v4": [
+            "42.83.130.1"
+          ],
+          "v6": [
+            "2001:dc7:ffd1::1"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "tb.ngtld.cn",
+        "ipAddresses": {
+          "v4": [
+            "42.83.131.1"
+          ],
+          "v6": [
+            "2001:dc7:ffd2::1"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "tc.ngtld.cn",
+        "ipAddresses": {
+          "v4": [
+            "42.83.132.1"
+          ],
+          "v6": [
+            "2001:dc7:ffd3::1"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "td.ngtld.cn",
+        "ipAddresses": {
+          "v4": [
+            "42.83.133.1"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "te.ngtld.cn",
+        "ipAddresses": {
+          "v4": [
+            "42.83.134.1"
+          ]
+        }
       }
     ],
     "secureDNS": {
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 51421,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "9D673623E84D7E10B2AA5B376A3F617665F8B38EF442E8A7E86F0F18161C7801"
-        },
-        {
           "keyTag": 8245,
           "algorithm": 8,
           "digestType": 2,
           "digest": "EE6F394BD32D4BB28D43D2F2172121C90941E133D5B5BDBDCB72F86765BB95EB"
+        },
+        {
+          "keyTag": 44374,
+          "algorithm": 8,
+          "digestType": 2,
+          "digest": "93A7EE3E59E1CD78E9F4F677B14FC0449623AE5F27ACD7C0760CCE3FF0B8581C"
         }
       ]
     },
@@ -529687,7 +529804,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2024-07-18T00:00:00+00:00"
+        "eventDate": "2026-06-24T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
