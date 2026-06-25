@@ -3216,7 +3216,15 @@
       }
     },
     "secureDNS": {
-      "delegationSigned": false
+      "delegationSigned": true,
+      "dsData": [
+        {
+          "keyTag": 26319,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "A6974512CCBFF7610B03EF7B68150DCAFC7F8DF4640D619E0020D7532A175D03"
+        }
+      ]
     },
     "status": [
       "active"
