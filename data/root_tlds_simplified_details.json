@@ -93092,6 +93092,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "B177DAEF81C0EBD0C85DBA9092550EB8D14333806E1DB4C2C44AC9ECE76432A5"
+        },
+        {
+          "keyTag": 44374,
+          "algorithm": 8,
+          "digestType": 2,
+          "digest": "41197C4708B05D84C21D70C26297443CF86F656178106A5D7D08A3D687E3988A"
         }
       ]
     },
