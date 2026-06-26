@@ -257361,7 +257361,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-12-15T00:00:00+00:00"
+        "eventDate": "2026-06-26T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -257378,7 +257378,7 @@
       },
       {
         "rel": "alternate",
-        "href": "https://rdap.tucowsregistry.net/rdap/",
+        "href": "https://rdap.uniregistry.net/rdap/",
         "value": "https://rdap.iana.org/domain/link",
         "title": "RDAP Server",
         "type": "application/rdap+json"
