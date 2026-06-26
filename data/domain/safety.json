@@ -7,73 +7,73 @@
   "nameservers": [
     {
       "objectClassName": "nameserver",
-      "ldhName": "a.nic.safety",
+      "ldhName": "v0n0.nic.safety",
       "ipAddresses": {
         "v4": [
-          "37.209.192.10"
+          "65.22.36.41"
         ],
         "v6": [
-          "2001:dcd:1::10"
+          "2a01:8840:26::41"
         ]
       }
     },
     {
       "objectClassName": "nameserver",
-      "ldhName": "b.nic.safety",
+      "ldhName": "v0n1.nic.safety",
       "ipAddresses": {
         "v4": [
-          "37.209.194.10"
+          "65.22.37.41"
         ],
         "v6": [
-          "2001:dcd:2::10"
+          "2a01:8840:27::41"
         ]
       }
     },
     {
       "objectClassName": "nameserver",
-      "ldhName": "c.nic.safety",
+      "ldhName": "v0n2.nic.safety",
       "ipAddresses": {
         "v4": [
-          "37.209.196.10"
+          "65.22.38.41"
         ],
         "v6": [
-          "2001:dcd:3::10"
+          "2a01:8840:28::41"
         ]
       }
     },
     {
       "objectClassName": "nameserver",
-      "ldhName": "ns1.dns.nic.safety",
+      "ldhName": "v0n3.nic.safety",
       "ipAddresses": {
         "v4": [
-          "156.154.144.148"
+          "161.232.18.41"
         ],
         "v6": [
-          "2610:a1:1071::94"
+          "2a01:8840:10e::41"
         ]
       }
     },
     {
       "objectClassName": "nameserver",
-      "ldhName": "ns2.dns.nic.safety",
+      "ldhName": "v2n0.nic.safety",
       "ipAddresses": {
         "v4": [
-          "156.154.145.148"
+          "65.22.39.41"
         ],
         "v6": [
-          "2610:a1:1072::94"
+          "2a01:8840:29::41"
         ]
       }
     },
     {
       "objectClassName": "nameserver",
-      "ldhName": "ns3.dns.nic.safety",
+      "ldhName": "v2n1.nic.safety",
       "ipAddresses": {
         "v4": [
-          "156.154.159.148"
+          "161.232.19.41"
         ],
         "v6": [
-          "2610:a1:1073::94"
+          "2a01:8840:10f::41"
         ]
       }
     }
@@ -335,7 +335,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2026-06-15T00:00:00+00:00"
+      "eventDate": "2026-06-26T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
