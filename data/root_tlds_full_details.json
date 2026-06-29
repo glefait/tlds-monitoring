@@ -87482,6 +87482,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "89E27D8EFD40F6E9A05D3A8A4AE933A41056E574008D30B20C8AD9A7D07785DB"
+        },
+        {
+          "keyTag": 10075,
+          "algorithm": 8,
+          "digestType": 2,
+          "digest": "61C05F1DB1341492824A03DCF98A62A6F641E1202A8E207FFC05ACC617226B3D"
         }
       ]
     },
@@ -87714,7 +87720,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-04-20T00:00:00+00:00"
+        "eventDate": "2026-06-29T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -184450,6 +184456,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "8B11D5875A3202ED7FAAE05A5EAB67057ECA0D5BDB62875C5203B6CBB011C50A"
+        },
+        {
+          "keyTag": 12529,
+          "algorithm": 8,
+          "digestType": 2,
+          "digest": "D88CEB7699002D534FCF0499DE71B904AB195CE5BAFC7D563178E993670A6A14"
         }
       ]
     },
@@ -184682,7 +184694,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-05-04T00:00:00+00:00"
+        "eventDate": "2026-06-29T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -214969,18 +214981,6 @@
     "nameservers": [
       {
         "objectClassName": "nameserver",
-        "ldhName": "ns01.trs-dns.net",
-        "ipAddresses": {
-          "v4": [
-            "64.96.2.1"
-          ],
-          "v6": [
-            "2620:57:4002::1"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
         "ldhName": "ns1.registry.in",
         "ipAddresses": {
           "v4": [
@@ -214993,13 +214993,13 @@
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "ns10.trs-dns.org",
+        "ldhName": "ns2.registry.in",
         "ipAddresses": {
           "v4": [
-            "64.78.205.1"
+            "64.96.2.1"
           ],
           "v6": [
-            "2620:171:813:1534:8::1"
+            "2620:57:4002::1"
           ]
         }
       },
@@ -215012,6 +215012,18 @@
           ],
           "v6": [
             "2620:171:812:1534:8::1"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "ns4.registry.in",
+        "ipAddresses": {
+          "v4": [
+            "64.78.205.1"
+          ],
+          "v6": [
+            "2620:171:813:1534:8::1"
           ]
         }
       }
@@ -215267,7 +215279,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-06-24T00:00:00+00:00"
+        "eventDate": "2026-06-29T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -230425,6 +230437,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "E6238D8E60F3D9967690F2D435F35503CA777FC828B7DEBA61A1E4CC7E97BFCC"
+        },
+        {
+          "keyTag": 21967,
+          "algorithm": 8,
+          "digestType": 2,
+          "digest": "D68BEB3FFE524F947633EE4F6ED10FBC44A38BE4494BF1D2C5D777C92D4BEF14"
         }
       ]
     },
@@ -230657,7 +230675,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-05-04T00:00:00+00:00"
+        "eventDate": "2026-06-29T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -390135,54 +390153,6 @@
     "nameservers": [
       {
         "objectClassName": "nameserver",
-        "ldhName": "a0.nic.sina",
-        "ipAddresses": {
-          "v4": [
-            "65.22.140.33"
-          ],
-          "v6": [
-            "2a01:8840:8a::33"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "a2.nic.sina",
-        "ipAddresses": {
-          "v4": [
-            "65.22.143.33"
-          ],
-          "v6": [
-            "2a01:8840:8d::33"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "b0.nic.sina",
-        "ipAddresses": {
-          "v4": [
-            "65.22.141.33"
-          ],
-          "v6": [
-            "2a01:8840:8b::33"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "c0.nic.sina",
-        "ipAddresses": {
-          "v4": [
-            "65.22.142.33"
-          ],
-          "v6": [
-            "2a01:8840:8c::33"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
         "ldhName": "ta.ngtld.cn",
         "ipAddresses": {
           "v4": [
@@ -390239,12 +390209,6 @@
     "secureDNS": {
       "delegationSigned": true,
       "dsData": [
-        {
-          "keyTag": 39217,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "B177DAEF81C0EBD0C85DBA9092550EB8D14333806E1DB4C2C44AC9ECE76432A5"
-        },
         {
           "keyTag": 44374,
           "algorithm": 8,
@@ -390493,7 +390457,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-06-26T00:00:00+00:00"
+        "eventDate": "2026-06-29T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -464524,54 +464488,6 @@
     "nameservers": [
       {
         "objectClassName": "nameserver",
-        "ldhName": "a0.nic.weibo",
-        "ipAddresses": {
-          "v4": [
-            "65.22.56.41"
-          ],
-          "v6": [
-            "2a01:8840:36::41"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "a2.nic.weibo",
-        "ipAddresses": {
-          "v4": [
-            "65.22.59.41"
-          ],
-          "v6": [
-            "2a01:8840:39::41"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "b0.nic.weibo",
-        "ipAddresses": {
-          "v4": [
-            "65.22.57.41"
-          ],
-          "v6": [
-            "2a01:8840:37::41"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "c0.nic.weibo",
-        "ipAddresses": {
-          "v4": [
-            "65.22.58.41"
-          ],
-          "v6": [
-            "2a01:8840:38::41"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
         "ldhName": "ta.ngtld.cn",
         "ipAddresses": {
           "v4": [
@@ -464628,12 +464544,6 @@
     "secureDNS": {
       "delegationSigned": true,
       "dsData": [
-        {
-          "keyTag": 40642,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "930EDCD3B0036BCDEBF43862AD49F6B7486DFECFC2E42F769AB66F21938CF112"
-        },
         {
           "keyTag": 44374,
           "algorithm": 8,
@@ -464882,7 +464792,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-06-23T00:00:00+00:00"
+        "eventDate": "2026-06-29T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -486418,54 +486328,6 @@
     "nameservers": [
       {
         "objectClassName": "nameserver",
-        "ldhName": "a0.nic.xn--9krt00a",
-        "ipAddresses": {
-          "v4": [
-            "65.22.112.1"
-          ],
-          "v6": [
-            "2a01:8840:6e::1"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "a2.nic.xn--9krt00a",
-        "ipAddresses": {
-          "v4": [
-            "65.22.115.1"
-          ],
-          "v6": [
-            "2a01:8840:71::1"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "b0.nic.xn--9krt00a",
-        "ipAddresses": {
-          "v4": [
-            "65.22.113.1"
-          ],
-          "v6": [
-            "2a01:8840:6f::1"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "c0.nic.xn--9krt00a",
-        "ipAddresses": {
-          "v4": [
-            "65.22.114.1"
-          ],
-          "v6": [
-            "2a01:8840:70::1"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
         "ldhName": "ta.ngtld.cn",
         "ipAddresses": {
           "v4": [
@@ -486522,12 +486384,6 @@
     "secureDNS": {
       "delegationSigned": true,
       "dsData": [
-        {
-          "keyTag": 6052,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "E5AEA197B5FB7F042833684BBF64FD1F9341BAA2007B2DB2958C9DFAA5884B78"
-        },
         {
           "keyTag": 44374,
           "algorithm": 8,
@@ -486776,7 +486632,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-06-23T00:00:00+00:00"
+        "eventDate": "2026-06-29T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
