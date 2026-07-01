@@ -191,17 +191,6 @@
             "+41 44 268 15 40"
           ],
           [
-            "tel",
-            {
-              "type": [
-                "work",
-                "fax"
-              ]
-            },
-            "text",
-            "+41 44 268 15 78"
-          ],
-          [
             "email",
             {
               "type": [
@@ -219,7 +208,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2019-08-30T00:00:00+00:00"
+          "eventDate": "2026-07-01T00:00:00+00:00"
         }
       ]
     },
@@ -281,17 +270,6 @@
             "+41 44 268 15 40"
           ],
           [
-            "tel",
-            {
-              "type": [
-                "work",
-                "fax"
-              ]
-            },
-            "text",
-            "+41 44 268 15 78"
-          ],
-          [
             "email",
             {
               "type": [
@@ -309,7 +287,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2019-08-30T00:00:00+00:00"
+          "eventDate": "2026-07-01T00:00:00+00:00"
         }
       ]
     }
@@ -317,7 +295,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2025-11-20T00:00:00+00:00"
+      "eventDate": "2026-07-01T00:00:00+00:00"
     },
     {
       "eventAction": "registration",

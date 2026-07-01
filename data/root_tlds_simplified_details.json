@@ -19778,17 +19778,17 @@
         "fn": "SWITCH TLD Administration",
         "org": "SWITCH The Swiss Education & Research Network",
         "adr": "Werdstrasse 2\nZurich CH-8021\nSwitzerland",
-        "tel": "+41 44 268 15 78",
+        "tel": "+41 44 268 15 40",
         "email": "tld-admin@switch.ch",
-        "last_change_date": "2019-09-04T00:00:00+00:00"
+        "last_change_date": "2026-07-01T00:00:00+00:00"
       },
       "technical": {
         "fn": "DNS Operations",
         "org": "SWITCH The Swiss Education & Research Network",
         "adr": "Werdstrasse 2\nZurich CH-8021\nSwitzerland",
-        "tel": "+41 44 268 15 78",
+        "tel": "+41 44 268 15 40",
         "email": "dns-operation@switch.ch",
-        "last_change_date": "2019-08-30T00:00:00+00:00"
+        "last_change_date": "2026-07-01T00:00:00+00:00"
       }
     },
     "secureDNS": {
@@ -60182,17 +60182,17 @@
         "fn": "SWITCH TLD Administration",
         "org": "SWITCH The Swiss Education & Research Network",
         "adr": "Werdstrasse 2\nZurich CH-8021\nSwitzerland",
-        "tel": "+41 44 268 15 78",
+        "tel": "+41 44 268 15 40",
         "email": "tld-admin@switch.ch",
-        "last_change_date": "2019-08-30T00:00:00+00:00"
+        "last_change_date": "2026-07-01T00:00:00+00:00"
       },
       "technical": {
         "fn": "DNS Operations",
         "org": "SWITCH The Swiss Education & Research Network",
         "adr": "Werdstrasse 2\nZurich CH-8021\nSwitzerland",
-        "tel": "+41 44 268 15 78",
+        "tel": "+41 44 268 15 40",
         "email": "dns-operation@switch.ch",
-        "last_change_date": "2019-08-30T00:00:00+00:00"
+        "last_change_date": "2026-07-01T00:00:00+00:00"
       }
     },
     "secureDNS": {
