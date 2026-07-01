@@ -8,60 +8,6 @@
   "nameservers": [
     {
       "objectClassName": "nameserver",
-      "ldhName": "ns1.conac.cn",
-      "ipAddresses": {
-        "v4": [
-          "111.235.161.1"
-        ],
-        "v6": [
-          "2401:b400:1::1"
-        ]
-      }
-    },
-    {
-      "objectClassName": "nameserver",
-      "ldhName": "ns2.conac.cn",
-      "ipAddresses": {
-        "v4": [
-          "111.235.162.1"
-        ],
-        "v6": [
-          "2401:b400:8::1"
-        ]
-      }
-    },
-    {
-      "objectClassName": "nameserver",
-      "ldhName": "ns3.conac.cn",
-      "ipAddresses": {
-        "v4": [
-          "111.235.163.1"
-        ],
-        "v6": [
-          "2401:b400:9::1"
-        ]
-      }
-    },
-    {
-      "objectClassName": "nameserver",
-      "ldhName": "ns4.conac.cn",
-      "ipAddresses": {
-        "v4": [
-          "111.235.164.1"
-        ]
-      }
-    },
-    {
-      "objectClassName": "nameserver",
-      "ldhName": "ns5.conac.cn",
-      "ipAddresses": {
-        "v4": [
-          "111.235.165.1"
-        ]
-      }
-    },
-    {
-      "objectClassName": "nameserver",
       "ldhName": "ta.ngtld.cn",
       "ipAddresses": {
         "v4": [
@@ -118,12 +64,6 @@
   "secureDNS": {
     "delegationSigned": true,
     "dsData": [
-      {
-        "keyTag": 21055,
-        "algorithm": 8,
-        "digestType": 2,
-        "digest": "0D6F3AA00BB63F959E87931FEA3F5D6E18A7C0F9F1408BFDF34113D88B191D37"
-      },
       {
         "keyTag": 44374,
         "algorithm": 8,
@@ -372,7 +312,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2026-06-24T00:00:00+00:00"
+      "eventDate": "2026-07-01T00:00:00+00:00"
     },
     {
       "eventAction": "registration",

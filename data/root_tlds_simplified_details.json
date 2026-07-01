@@ -3160,6 +3160,9 @@
       "munnari.oz.au": {
         "v4": [
           "202.29.151.3"
+        ],
+        "v6": [
+          "2001:3c8:9009:181::2"
         ]
       },
       "ns1.nic.al": {
@@ -114350,40 +114353,6 @@
   "xn--55qw42g": {
     "unicodeName": "\u516c\u76ca",
     "nameservers": {
-      "ns1.conac.cn": {
-        "v4": [
-          "111.235.161.1"
-        ],
-        "v6": [
-          "2401:b400:1::1"
-        ]
-      },
-      "ns2.conac.cn": {
-        "v4": [
-          "111.235.162.1"
-        ],
-        "v6": [
-          "2401:b400:8::1"
-        ]
-      },
-      "ns3.conac.cn": {
-        "v4": [
-          "111.235.163.1"
-        ],
-        "v6": [
-          "2401:b400:9::1"
-        ]
-      },
-      "ns4.conac.cn": {
-        "v4": [
-          "111.235.164.1"
-        ]
-      },
-      "ns5.conac.cn": {
-        "v4": [
-          "111.235.165.1"
-        ]
-      },
       "ta.ngtld.cn": {
         "v4": [
           "42.83.130.1"
@@ -114448,12 +114417,6 @@
     "secureDNS": {
       "delegationSigned": true,
       "dsData": [
-        {
-          "keyTag": 21055,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "0D6F3AA00BB63F959E87931FEA3F5D6E18A7C0F9F1408BFDF34113D88B191D37"
-        },
         {
           "keyTag": 44374,
           "algorithm": 8,
@@ -125777,40 +125740,6 @@
   "xn--zfr164b": {
     "unicodeName": "\u653f\u52a1",
     "nameservers": {
-      "ns1.conac.cn": {
-        "v4": [
-          "111.235.161.1"
-        ],
-        "v6": [
-          "2401:b400:1::1"
-        ]
-      },
-      "ns2.conac.cn": {
-        "v4": [
-          "111.235.162.1"
-        ],
-        "v6": [
-          "2401:b400:8::1"
-        ]
-      },
-      "ns3.conac.cn": {
-        "v4": [
-          "111.235.163.1"
-        ],
-        "v6": [
-          "2401:b400:9::1"
-        ]
-      },
-      "ns4.conac.cn": {
-        "v4": [
-          "111.235.164.1"
-        ]
-      },
-      "ns5.conac.cn": {
-        "v4": [
-          "111.235.165.1"
-        ]
-      },
       "ta.ngtld.cn": {
         "v4": [
           "42.83.130.1"
@@ -125875,12 +125804,6 @@
     "secureDNS": {
       "delegationSigned": true,
       "dsData": [
-        {
-          "keyTag": 8245,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "EE6F394BD32D4BB28D43D2F2172121C90941E133D5B5BDBDCB72F86765BB95EB"
-        },
         {
           "keyTag": 44374,
           "algorithm": 8,
