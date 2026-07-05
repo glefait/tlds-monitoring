@@ -434543,6 +434543,9 @@
         "ipAddresses": {
           "v4": [
             "185.7.0.4"
+          ],
+          "v6": [
+            "2001:a98:13::43"
           ]
         }
       },
@@ -434552,6 +434555,9 @@
         "ipAddresses": {
           "v4": [
             "185.7.0.5"
+          ],
+          "v6": [
+            "2001:a98:13::44"
           ]
         }
       },
@@ -434603,6 +434609,15 @@
         "ipAddresses": {
           "v4": [
             "31.145.253.160"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "ns75.ns.tr",
+        "ipAddresses": {
+          "v4": [
+            "88.255.61.201"
           ]
         }
       }
@@ -434858,7 +434873,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-07-01T00:00:00+00:00"
+        "eventDate": "2026-07-05T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
