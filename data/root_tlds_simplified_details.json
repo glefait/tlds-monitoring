@@ -98375,19 +98375,19 @@
       },
       "administrative": {
         "fn": "Head of Licensing Department",
-        "org": "National Agency for Network Services (NANS)",
+        "org": "National Authority for IT Services (NAITS)",
         "adr": "Sahara-Sabboura Crossroads\nP.O. Box 47/Kudsaya\nDamascus\nSyrian Arab Republic (the)",
         "tel": "+963 11 3937079",
         "email": "dnsadmin@tld.sy",
-        "last_change_date": "2019-03-25T00:00:00+00:00"
+        "last_change_date": "2026-07-06T00:00:00+00:00"
       },
       "technical": {
-        "fn": "NANS DNS Technical Department",
-        "org": "National Agency for Network Services (NANS)",
+        "fn": "NAITS DNS Technical Department",
+        "org": "National Authority for IT Services (NAITS)",
         "adr": "Sahara-Sabboura Crossroads\nP.O. Box 47/Kudsaya\nDamascus\nSyrian Arab Republic (the)",
         "tel": "+963 11 3937079",
         "email": "dns@tld.sy",
-        "last_change_date": "2019-03-25T00:00:00+00:00"
+        "last_change_date": "2026-07-06T00:00:00+00:00"
       }
     },
     "secureDNS": {
@@ -104445,18 +104445,18 @@
       "registrant": {
         "fn": "TUI AG",
         "org": null,
-        "adr": "Karl-Wiechert-Allee 4\nLower Saxony\nHannover 30625\nGermany",
+        "adr": "Karl-Wiechert-Allee 23\nHannover Niedersachsen 30625\nGermany",
         "tel": null,
         "email": null,
-        "last_change_date": "2022-11-14T00:00:00+00:00"
+        "last_change_date": "2026-07-06T00:00:00+00:00"
       },
       "administrative": {
         "fn": "Senior Manager, Trademarks, Patents",
         "org": "TUI AG",
-        "adr": "Karl-Wiechert-Allee 4\nLower Saxony\nHannover 30625\nGermany",
+        "adr": "Karl-Wiechert-Allee 23\nHannover Niedersachsen 30625\nGermany",
         "tel": "+49.5115661097",
         "email": "domain@tui.com",
-        "last_change_date": "2014-09-27T00:00:00+00:00"
+        "last_change_date": "2026-07-06T00:00:00+00:00"
       },
       "technical": {
         "fn": "CTO",

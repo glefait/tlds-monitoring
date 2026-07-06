@@ -390420,7 +390420,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-06-29T00:00:00+00:00"
+        "eventDate": "2026-07-06T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -390437,7 +390437,7 @@
       },
       {
         "rel": "alternate",
-        "href": "https://rdap.identitydigital.services/rdap/",
+        "href": "https://rdap.ngtld.cn/",
         "value": "https://rdap.iana.org/domain/sina",
         "title": "RDAP Server",
         "type": "application/rdap+json"
@@ -412880,7 +412880,7 @@
               "org",
               {},
               "text",
-              "National Agency for Network Services (NANS)"
+              "National Authority for IT Services (NAITS)"
             ],
             [
               "role",
@@ -412945,7 +412945,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2019-03-25T00:00:00+00:00"
+            "eventDate": "2026-07-06T00:00:00+00:00"
           }
         ]
       },
@@ -412964,13 +412964,13 @@
               "fn",
               {},
               "text",
-              "NANS DNS Technical Department"
+              "NAITS DNS Technical Department"
             ],
             [
               "org",
               {},
               "text",
-              "National Agency for Network Services (NANS)"
+              "National Authority for IT Services (NAITS)"
             ],
             [
               "role",
@@ -413035,7 +413035,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2019-03-25T00:00:00+00:00"
+            "eventDate": "2026-07-06T00:00:00+00:00"
           }
         ]
       }
@@ -413043,7 +413043,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-05-14T00:00:00+00:00"
+        "eventDate": "2026-07-06T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -438717,7 +438717,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "Karl-Wiechert-Allee 4\nLower Saxony\nHannover 30625\nGermany"
+                "label": "Karl-Wiechert-Allee 23\nHannover Niedersachsen 30625\nGermany"
               },
               "text",
               [
@@ -438738,7 +438738,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2022-11-14T00:00:00+00:00"
+            "eventDate": "2026-07-06T00:00:00+00:00"
           }
         ]
       },
@@ -438775,7 +438775,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "Karl-Wiechert-Allee 4\nLower Saxony\nHannover 30625\nGermany"
+                "label": "Karl-Wiechert-Allee 23\nHannover Niedersachsen 30625\nGermany"
               },
               "text",
               [
@@ -438828,7 +438828,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2014-09-27T00:00:00+00:00"
+            "eventDate": "2026-07-06T00:00:00+00:00"
           }
         ]
       },
@@ -438926,7 +438926,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2024-05-28T00:00:00+00:00"
+        "eventDate": "2026-07-06T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -464770,7 +464770,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-06-29T00:00:00+00:00"
+        "eventDate": "2026-07-06T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -464787,7 +464787,7 @@
       },
       {
         "rel": "alternate",
-        "href": "https://rdap.identitydigital.services/rdap/",
+        "href": "https://rdap.ngtld.cn/",
         "value": "https://rdap.iana.org/domain/weibo",
         "title": "RDAP Server",
         "type": "application/rdap+json"
@@ -480195,7 +480195,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-07-01T00:00:00+00:00"
+        "eventDate": "2026-07-06T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -480212,7 +480212,7 @@
       },
       {
         "rel": "alternate",
-        "href": "https://rdap.conac.cn/",
+        "href": "https://rdap.ngtld.cn",
         "value": "https://rdap.iana.org/domain/xn--55qw42g",
         "title": "RDAP Server",
         "type": "application/rdap+json"
@@ -486550,7 +486550,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-06-29T00:00:00+00:00"
+        "eventDate": "2026-07-06T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -486567,7 +486567,7 @@
       },
       {
         "rel": "alternate",
-        "href": "https://rdap.identitydigital.services/rdap/",
+        "href": "https://rdap.ngtld.cn/",
         "value": "https://rdap.iana.org/domain/xn--9krt00a",
         "title": "RDAP Server",
         "type": "application/rdap+json"
@@ -529532,7 +529532,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-07-01T00:00:00+00:00"
+        "eventDate": "2026-07-06T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -529549,7 +529549,7 @@
       },
       {
         "rel": "alternate",
-        "href": "https://rdap.conac.cn",
+        "href": "https://rdap.ngtld.cn",
         "value": "https://rdap.iana.org/domain/xn--zfr164b",
         "title": "RDAP Server",
         "type": "application/rdap+json"

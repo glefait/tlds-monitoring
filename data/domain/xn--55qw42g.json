@@ -312,7 +312,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2026-07-01T00:00:00+00:00"
+      "eventDate": "2026-07-06T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
@@ -329,7 +329,7 @@
     },
     {
       "rel": "alternate",
-      "href": "https://rdap.conac.cn/",
+      "href": "https://rdap.ngtld.cn",
       "value": "https://rdap.iana.org/domain/xn--55qw42g",
       "title": "RDAP Server",
       "type": "application/rdap+json"

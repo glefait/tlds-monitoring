@@ -102,7 +102,7 @@
             "adr",
             {
               "type": "work",
-              "label": "Karl-Wiechert-Allee 4\nLower Saxony\nHannover 30625\nGermany"
+              "label": "Karl-Wiechert-Allee 23\nHannover Niedersachsen 30625\nGermany"
             },
             "text",
             [
@@ -123,7 +123,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2022-11-14T00:00:00+00:00"
+          "eventDate": "2026-07-06T00:00:00+00:00"
         }
       ]
     },
@@ -160,7 +160,7 @@
             "adr",
             {
               "type": "work",
-              "label": "Karl-Wiechert-Allee 4\nLower Saxony\nHannover 30625\nGermany"
+              "label": "Karl-Wiechert-Allee 23\nHannover Niedersachsen 30625\nGermany"
             },
             "text",
             [
@@ -213,7 +213,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2014-09-27T00:00:00+00:00"
+          "eventDate": "2026-07-06T00:00:00+00:00"
         }
       ]
     },
@@ -311,7 +311,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2024-05-28T00:00:00+00:00"
+      "eventDate": "2026-07-06T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
