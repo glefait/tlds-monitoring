@@ -10,7 +10,7 @@
       "ldhName": "ns1.registry.hm",
       "ipAddresses": {
         "v4": [
-          "142.171.40.232"
+          "223.252.41.82"
         ]
       }
     },
@@ -19,7 +19,7 @@
       "ldhName": "ns2.registry.hm",
       "ipAddresses": {
         "v4": [
-          "142.171.40.234"
+          "223.252.41.83"
         ]
       }
     },
@@ -276,7 +276,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2023-12-14T00:00:00+00:00"
+      "eventDate": "2026-07-07T00:00:00+00:00"
     },
     {
       "eventAction": "registration",

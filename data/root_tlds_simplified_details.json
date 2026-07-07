@@ -44401,17 +44401,17 @@
           "2001:648:2c30::191:3"
         ]
       },
+      "gr-a.ics.forth.gr": {
+        "v4": [
+          "194.0.25.48"
+        ],
+        "v6": [
+          "2001:678:20::48"
+        ]
+      },
       "gr-at.ics.forth.gr": {
         "v4": [
           "78.104.145.227"
-        ]
-      },
-      "gr-c.ics.forth.gr": {
-        "v4": [
-          "194.0.1.25"
-        ],
-        "v6": [
-          "2001:678:4::19"
         ]
       },
       "gr-d.ics.forth.gr": {
@@ -47629,12 +47629,12 @@
     "nameservers": {
       "ns1.registry.hm": {
         "v4": [
-          "142.171.40.232"
+          "223.252.41.82"
         ]
       },
       "ns2.registry.hm": {
         "v4": [
-          "142.171.40.234"
+          "223.252.41.83"
         ]
       },
       "ns3.registry.hm": {
@@ -87169,16 +87169,16 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 40422,
-          "algorithm": 10,
-          "digestType": 2,
-          "digest": "74FB0B871ADF46AAB5D49A1EB3B8B0B7DDA42C023DD045EC0282B6187B3B4CF7"
-        },
-        {
           "keyTag": 46252,
           "algorithm": 10,
           "digestType": 2,
           "digest": "3DB9DB25D3B8E13FBCB4EBA53F61C7CE156831DCE66D4A19747D17F8AB278FDB"
+        },
+        {
+          "keyTag": 35633,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "470D5916105A40ECC204FD025AAD5E43E44C82747C6C3C5130462F9B7396E9A5"
         }
       ]
     },
@@ -123702,6 +123702,14 @@
         ],
         "v6": [
           "2001:678:e:102::53"
+        ]
+      },
+      "gr-m.ics.forth.gr": {
+        "v4": [
+          "194.0.4.10"
+        ],
+        "v6": [
+          "2001:678:7::4:10"
         ]
       },
       "grdns.ics.forth.gr": {

@@ -19,22 +19,22 @@
     },
     {
       "objectClassName": "nameserver",
-      "ldhName": "gr-at.ics.forth.gr",
+      "ldhName": "gr-a.ics.forth.gr",
       "ipAddresses": {
         "v4": [
-          "78.104.145.227"
+          "194.0.25.48"
+        ],
+        "v6": [
+          "2001:678:20::48"
         ]
       }
     },
     {
       "objectClassName": "nameserver",
-      "ldhName": "gr-c.ics.forth.gr",
+      "ldhName": "gr-at.ics.forth.gr",
       "ipAddresses": {
         "v4": [
-          "194.0.1.25"
-        ],
-        "v6": [
-          "2001:678:4::19"
+          "78.104.145.227"
         ]
       }
     },
@@ -323,7 +323,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2022-06-16T00:00:00+00:00"
+      "eventDate": "2026-07-07T00:00:00+00:00"
     },
     {
       "eventAction": "registration",

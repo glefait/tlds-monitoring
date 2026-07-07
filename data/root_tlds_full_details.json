@@ -185770,22 +185770,22 @@
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "gr-at.ics.forth.gr",
+        "ldhName": "gr-a.ics.forth.gr",
         "ipAddresses": {
           "v4": [
-            "78.104.145.227"
+            "194.0.25.48"
+          ],
+          "v6": [
+            "2001:678:20::48"
           ]
         }
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "gr-c.ics.forth.gr",
+        "ldhName": "gr-at.ics.forth.gr",
         "ipAddresses": {
           "v4": [
-            "194.0.1.25"
-          ],
-          "v6": [
-            "2001:678:4::19"
+            "78.104.145.227"
           ]
         }
       },
@@ -186074,7 +186074,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2022-06-16T00:00:00+00:00"
+        "eventDate": "2026-07-07T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -199529,7 +199529,7 @@
         "ldhName": "ns1.registry.hm",
         "ipAddresses": {
           "v4": [
-            "142.171.40.232"
+            "223.252.41.82"
           ]
         }
       },
@@ -199538,7 +199538,7 @@
         "ldhName": "ns2.registry.hm",
         "ipAddresses": {
           "v4": [
-            "142.171.40.234"
+            "223.252.41.83"
           ]
         }
       },
@@ -199795,7 +199795,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2023-12-14T00:00:00+00:00"
+        "eventDate": "2026-07-07T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -365919,16 +365919,16 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 40422,
-          "algorithm": 10,
-          "digestType": 2,
-          "digest": "74FB0B871ADF46AAB5D49A1EB3B8B0B7DDA42C023DD045EC0282B6187B3B4CF7"
-        },
-        {
           "keyTag": 46252,
           "algorithm": 10,
           "digestType": 2,
           "digest": "3DB9DB25D3B8E13FBCB4EBA53F61C7CE156831DCE66D4A19747D17F8AB278FDB"
+        },
+        {
+          "keyTag": 35633,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "470D5916105A40ECC204FD025AAD5E43E44C82747C6C3C5130462F9B7396E9A5"
         }
       ]
     },
@@ -366172,7 +366172,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2023-09-08T00:00:00+00:00"
+        "eventDate": "2026-07-07T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -520349,6 +520349,18 @@
       },
       {
         "objectClassName": "nameserver",
+        "ldhName": "gr-m.ics.forth.gr",
+        "ipAddresses": {
+          "v4": [
+            "194.0.4.10"
+          ],
+          "v6": [
+            "2001:678:7::4:10"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
         "ldhName": "grdns.ics.forth.gr",
         "ipAddresses": {
           "v4": [
@@ -520608,7 +520620,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2023-03-07T00:00:00+00:00"
+        "eventDate": "2026-07-07T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
