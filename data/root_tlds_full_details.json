@@ -87352,97 +87352,73 @@
     "nameservers": [
       {
         "objectClassName": "nameserver",
-        "ldhName": "dns1.nic.circle",
+        "ldhName": "v0n0.nic.circle",
         "ipAddresses": {
           "v4": [
-            "213.248.218.64"
+            "65.22.36.49"
           ],
           "v6": [
-            "2a01:618:402::64"
+            "2a01:8840:26::49"
           ]
         }
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "dns2.nic.circle",
+        "ldhName": "v0n1.nic.circle",
         "ipAddresses": {
           "v4": [
-            "103.49.82.64"
+            "65.22.37.49"
           ],
           "v6": [
-            "2401:fd80:402::64"
+            "2a01:8840:27::49"
           ]
         }
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "dns3.nic.circle",
+        "ldhName": "v0n2.nic.circle",
         "ipAddresses": {
           "v4": [
-            "213.248.222.64"
+            "65.22.38.49"
           ],
           "v6": [
-            "2a01:618:406::64"
+            "2a01:8840:28::49"
           ]
         }
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "dns4.nic.circle",
+        "ldhName": "v0n3.nic.circle",
         "ipAddresses": {
           "v4": [
-            "43.230.50.64"
+            "161.232.18.49"
           ],
           "v6": [
-            "2401:fd80:406::64"
+            "2a01:8840:10e::49"
           ]
         }
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "dnsa.nic.circle",
+        "ldhName": "v2n0.nic.circle",
         "ipAddresses": {
           "v4": [
-            "156.154.100.3"
+            "65.22.39.49"
           ],
           "v6": [
-            "2001:502:ad09::3"
+            "2a01:8840:29::49"
           ]
         }
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "dnsb.nic.circle",
+        "ldhName": "v2n1.nic.circle",
         "ipAddresses": {
           "v4": [
-            "156.154.101.3"
+            "161.232.19.49"
           ],
           "v6": [
-            "2001:502:2eda::3"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "dnsc.nic.circle",
-        "ipAddresses": {
-          "v4": [
-            "156.154.102.3"
-          ],
-          "v6": [
-            "2610:a1:1009::3"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "dnsd.nic.circle",
-        "ipAddresses": {
-          "v4": [
-            "156.154.103.3"
-          ],
-          "v6": [
-            "2610:a1:1010::3"
+            "2a01:8840:10f::49"
           ]
         }
       }
@@ -87693,7 +87669,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-06-29T00:00:00+00:00"
+        "eventDate": "2026-07-07T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -184326,97 +184302,73 @@
     "nameservers": [
       {
         "objectClassName": "nameserver",
-        "ldhName": "dns1.nic.got",
+        "ldhName": "v0n0.nic.got",
         "ipAddresses": {
           "v4": [
-            "213.248.218.68"
+            "65.22.36.57"
           ],
           "v6": [
-            "2a01:618:402::68"
+            "2a01:8840:26::57"
           ]
         }
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "dns2.nic.got",
+        "ldhName": "v0n1.nic.got",
         "ipAddresses": {
           "v4": [
-            "103.49.82.68"
+            "65.22.37.57"
           ],
           "v6": [
-            "2401:fd80:402::68"
+            "2a01:8840:27::57"
           ]
         }
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "dns3.nic.got",
+        "ldhName": "v0n2.nic.got",
         "ipAddresses": {
           "v4": [
-            "213.248.222.68"
+            "65.22.38.57"
           ],
           "v6": [
-            "2a01:618:406::68"
+            "2a01:8840:28::57"
           ]
         }
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "dns4.nic.got",
+        "ldhName": "v0n3.nic.got",
         "ipAddresses": {
           "v4": [
-            "43.230.50.68"
+            "161.232.18.57"
           ],
           "v6": [
-            "2401:fd80:406::68"
+            "2a01:8840:10e::57"
           ]
         }
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "dnsa.nic.got",
+        "ldhName": "v2n0.nic.got",
         "ipAddresses": {
           "v4": [
-            "156.154.100.3"
+            "65.22.39.57"
           ],
           "v6": [
-            "2001:502:ad09::3"
+            "2a01:8840:29::57"
           ]
         }
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "dnsb.nic.got",
+        "ldhName": "v2n1.nic.got",
         "ipAddresses": {
           "v4": [
-            "156.154.101.3"
+            "161.232.19.57"
           ],
           "v6": [
-            "2001:502:2eda::3"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "dnsc.nic.got",
-        "ipAddresses": {
-          "v4": [
-            "156.154.102.3"
-          ],
-          "v6": [
-            "2610:a1:1009::3"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "dnsd.nic.got",
-        "ipAddresses": {
-          "v4": [
-            "156.154.103.3"
-          ],
-          "v6": [
-            "2610:a1:1010::3"
+            "2a01:8840:10f::57"
           ]
         }
       }
@@ -184667,7 +184619,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-06-29T00:00:00+00:00"
+        "eventDate": "2026-07-07T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -230307,97 +230259,73 @@
     "nameservers": [
       {
         "objectClassName": "nameserver",
-        "ldhName": "dns1.nic.jot",
+        "ldhName": "v0n0.nic.jot",
         "ipAddresses": {
           "v4": [
-            "213.248.218.70"
+            "65.22.36.65"
           ],
           "v6": [
-            "2a01:618:402::70"
+            "2a01:8840:26::65"
           ]
         }
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "dns2.nic.jot",
+        "ldhName": "v0n1.nic.jot",
         "ipAddresses": {
           "v4": [
-            "103.49.82.70"
+            "65.22.37.65"
           ],
           "v6": [
-            "2401:fd80:402::70"
+            "2a01:8840:27::65"
           ]
         }
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "dns3.nic.jot",
+        "ldhName": "v0n2.nic.jot",
         "ipAddresses": {
           "v4": [
-            "213.248.222.70"
+            "65.22.38.65"
           ],
           "v6": [
-            "2a01:618:406::70"
+            "2a01:8840:28::65"
           ]
         }
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "dns4.nic.jot",
+        "ldhName": "v0n3.nic.jot",
         "ipAddresses": {
           "v4": [
-            "43.230.50.70"
+            "161.232.18.65"
           ],
           "v6": [
-            "2401:fd80:406::70"
+            "2a01:8840:10e::65"
           ]
         }
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "dnsa.nic.jot",
+        "ldhName": "v2n0.nic.jot",
         "ipAddresses": {
           "v4": [
-            "156.154.100.3"
+            "65.22.39.65"
           ],
           "v6": [
-            "2001:502:ad09::3"
+            "2a01:8840:29::65"
           ]
         }
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "dnsb.nic.jot",
+        "ldhName": "v2n1.nic.jot",
         "ipAddresses": {
           "v4": [
-            "156.154.101.3"
+            "161.232.19.65"
           ],
           "v6": [
-            "2001:502:2eda::3"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "dnsc.nic.jot",
-        "ipAddresses": {
-          "v4": [
-            "156.154.102.3"
-          ],
-          "v6": [
-            "2610:a1:1009::3"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "dnsd.nic.jot",
-        "ipAddresses": {
-          "v4": [
-            "156.154.103.3"
-          ],
-          "v6": [
-            "2610:a1:1010::3"
+            "2a01:8840:10f::65"
           ]
         }
       }
@@ -230648,7 +230576,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-06-29T00:00:00+00:00"
+        "eventDate": "2026-07-07T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
