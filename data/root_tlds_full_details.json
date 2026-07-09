@@ -368970,12 +368970,6 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 43762,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "BF2D17C54E9DDE52EB37F0D242A1C4C1051E15C18A2C2661C7A6CA58EE6C0407"
-        },
-        {
           "keyTag": 6139,
           "algorithm": 8,
           "digestType": 2,
@@ -369002,7 +368996,7 @@
               "fn",
               {},
               "text",
-              "Safety Registry Services, LLC."
+              "Jolly Host, LLC"
             ],
             [
               "role",
@@ -369014,7 +369008,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "100 Grainger Pkwy\nLake Forest IL 60045\nUnited States of America (the)"
+                "label": "c/o Identity Digital Inc.\n10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)"
               },
               "text",
               [
@@ -369035,7 +369029,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2022-07-21T00:00:00+00:00"
+            "eventDate": "2026-07-08T00:00:00+00:00"
           }
         ]
       },
@@ -369054,13 +369048,13 @@
               "fn",
               {},
               "text",
-              "Erwin Cruz"
+              "Vice President, Engineering"
             ],
             [
               "org",
               {},
               "text",
-              "Safety Registry Services LLC"
+              "Identity Digital Inc."
             ],
             [
               "role",
@@ -369072,7 +369066,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "100 Grainger Pkwy\nLake Forest IL 60045\nUnited States of America (the)"
+                "label": "10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)"
               },
               "text",
               [
@@ -369094,7 +369088,7 @@
                 ]
               },
               "text",
-              "+1 847-535-4709"
+              "+1.425.298.2200"
             ],
             [
               "tel",
@@ -369105,7 +369099,7 @@
                 ]
               },
               "text",
-              "+1 847-535-9243"
+              "+1.425.671.0020"
             ],
             [
               "email",
@@ -369115,7 +369109,7 @@
                 ]
               },
               "text",
-              "safetyregistryservices@grainger.com"
+              "tldadmin@identity.digital"
             ]
           ]
         ],
@@ -369125,7 +369119,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2015-12-24T00:00:00+00:00"
+            "eventDate": "2026-07-08T00:00:00+00:00"
           }
         ]
       },
@@ -369223,7 +369217,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-06-26T00:00:00+00:00"
+        "eventDate": "2026-07-08T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -369233,14 +369227,14 @@
     "links": [
       {
         "rel": "related",
-        "href": "https://nic.safety",
+        "href": "https://www.identity.digital",
         "value": "https://rdap.iana.org/domain/safety",
         "title": "Registration URL",
         "type": "text/html"
       },
       {
         "rel": "alternate",
-        "href": "https://rdap.nic.safety/",
+        "href": "https://rdap.identitydigital.services/rdap/",
         "value": "https://rdap.iana.org/domain/safety",
         "title": "RDAP Server",
         "type": "application/rdap+json"

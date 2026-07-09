@@ -87891,20 +87891,20 @@
     },
     "entities": {
       "registrant": {
-        "fn": "Safety Registry Services, LLC.",
+        "fn": "Jolly Host, LLC",
         "org": null,
-        "adr": "100 Grainger Pkwy\nLake Forest IL 60045\nUnited States of America (the)",
+        "adr": "c/o Identity Digital Inc.\n10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)",
         "tel": null,
         "email": null,
-        "last_change_date": "2022-07-21T00:00:00+00:00"
+        "last_change_date": "2026-07-08T00:00:00+00:00"
       },
       "administrative": {
-        "fn": "Erwin Cruz",
-        "org": "Safety Registry Services LLC",
-        "adr": "100 Grainger Pkwy\nLake Forest IL 60045\nUnited States of America (the)",
-        "tel": "+1 847-535-9243",
-        "email": "safetyregistryservices@grainger.com",
-        "last_change_date": "2015-12-24T00:00:00+00:00"
+        "fn": "Vice President, Engineering",
+        "org": "Identity Digital Inc.",
+        "adr": "10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)",
+        "tel": "+1.425.671.0020",
+        "email": "tldadmin@identity.digital",
+        "last_change_date": "2026-07-08T00:00:00+00:00"
       },
       "technical": {
         "fn": "Senior Director, DNS Infrastructure Group",
@@ -87919,12 +87919,6 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 43762,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "BF2D17C54E9DDE52EB37F0D242A1C4C1051E15C18A2C2661C7A6CA58EE6C0407"
-        },
-        {
           "keyTag": 6139,
           "algorithm": 8,
           "digestType": 2,
@@ -87936,7 +87930,7 @@
       "active"
     ],
     "port43": null,
-    "registration_url": "https://nic.safety",
+    "registration_url": "https://www.identity.digital",
     "creation_date": "2015-04-23T00:00:00+00:00"
   },
   "sakura": {
