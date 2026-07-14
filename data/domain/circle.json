@@ -82,12 +82,6 @@
     "delegationSigned": true,
     "dsData": [
       {
-        "keyTag": 37745,
-        "algorithm": 8,
-        "digestType": 2,
-        "digest": "89E27D8EFD40F6E9A05D3A8A4AE933A41056E574008D30B20C8AD9A7D07785DB"
-      },
-      {
         "keyTag": 10075,
         "algorithm": 8,
         "digestType": 2,
@@ -256,13 +250,13 @@
             "fn",
             {},
             "text",
-            "TLD Registry Services Technical"
+            "Senior Director, DNS Infrastructure Group"
           ],
           [
             "org",
             {},
             "text",
-            "Nominet"
+            "Identity Digital Limited"
           ],
           [
             "role",
@@ -274,7 +268,7 @@
             "adr",
             {
               "type": "work",
-              "label": "Minerva House\nEdmund Halley Road\nOxford Science Park\nOxford OX4 4DQ\nUnited Kingdom of Great Britain and Northern Ireland (the)"
+              "label": "c/o Identity Digital Inc.\n10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)"
             },
             "text",
             [
@@ -296,7 +290,18 @@
               ]
             },
             "text",
-            "+44.1865332211"
+            "+1.425.298.2200"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "work",
+                "fax"
+              ]
+            },
+            "text",
+            "+1.425.671.0020"
           ],
           [
             "email",
@@ -306,7 +311,7 @@
               ]
             },
             "text",
-            "registrytechnical@nominet.uk"
+            "tldtech@identity.digital"
           ]
         ]
       ],
@@ -316,7 +321,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2019-04-10T00:00:00+00:00"
+          "eventDate": "2026-07-14T00:00:00+00:00"
         }
       ]
     }
@@ -324,7 +329,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2026-07-07T00:00:00+00:00"
+      "eventDate": "2026-07-14T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
@@ -334,14 +339,14 @@
   "links": [
     {
       "rel": "related",
-      "href": "http://www.nic.circle",
+      "href": "https://www.identity.digital/",
       "value": "https://rdap.iana.org/domain/circle",
       "title": "Registration URL",
       "type": "text/html"
     },
     {
       "rel": "alternate",
-      "href": "https://rdap.nominet.uk/circle/",
+      "href": "https://rdap.identitydigital.services/rdap/",
       "value": "https://rdap.iana.org/domain/circle",
       "title": "RDAP Server",
       "type": "application/rdap+json"

@@ -46797,6 +46797,54 @@
             "2a04:2b00:13ff::115"
           ]
         }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "ns01.trs-dns.com",
+        "ipAddresses": {
+          "v4": [
+            "64.96.1.1"
+          ],
+          "v6": [
+            "2620:57:4001::1"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "ns01.trs-dns.net",
+        "ipAddresses": {
+          "v4": [
+            "64.96.2.1"
+          ],
+          "v6": [
+            "2620:57:4002::1"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "ns10.trs-dns.info",
+        "ipAddresses": {
+          "v4": [
+            "64.78.204.1"
+          ],
+          "v6": [
+            "2620:171:812:1534:8::1"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "ns10.trs-dns.org",
+        "ipAddresses": {
+          "v4": [
+            "64.78.205.1"
+          ],
+          "v6": [
+            "2620:171:813:1534:8::1"
+          ]
+        }
       }
     ],
     "secureDNS": {
@@ -47056,7 +47104,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-06-23T00:00:00+00:00"
+        "eventDate": "2026-07-14T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -87433,12 +87481,6 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 37745,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "89E27D8EFD40F6E9A05D3A8A4AE933A41056E574008D30B20C8AD9A7D07785DB"
-        },
-        {
           "keyTag": 10075,
           "algorithm": 8,
           "digestType": 2,
@@ -87607,13 +87649,13 @@
               "fn",
               {},
               "text",
-              "TLD Registry Services Technical"
+              "Senior Director, DNS Infrastructure Group"
             ],
             [
               "org",
               {},
               "text",
-              "Nominet"
+              "Identity Digital Limited"
             ],
             [
               "role",
@@ -87625,7 +87667,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "Minerva House\nEdmund Halley Road\nOxford Science Park\nOxford OX4 4DQ\nUnited Kingdom of Great Britain and Northern Ireland (the)"
+                "label": "c/o Identity Digital Inc.\n10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)"
               },
               "text",
               [
@@ -87647,7 +87689,18 @@
                 ]
               },
               "text",
-              "+44.1865332211"
+              "+1.425.298.2200"
+            ],
+            [
+              "tel",
+              {
+                "type": [
+                  "work",
+                  "fax"
+                ]
+              },
+              "text",
+              "+1.425.671.0020"
             ],
             [
               "email",
@@ -87657,7 +87710,7 @@
                 ]
               },
               "text",
-              "registrytechnical@nominet.uk"
+              "tldtech@identity.digital"
             ]
           ]
         ],
@@ -87667,7 +87720,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2019-04-10T00:00:00+00:00"
+            "eventDate": "2026-07-14T00:00:00+00:00"
           }
         ]
       }
@@ -87675,7 +87728,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-07-07T00:00:00+00:00"
+        "eventDate": "2026-07-14T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -87685,14 +87738,14 @@
     "links": [
       {
         "rel": "related",
-        "href": "http://www.nic.circle",
+        "href": "https://www.identity.digital/",
         "value": "https://rdap.iana.org/domain/circle",
         "title": "Registration URL",
         "type": "text/html"
       },
       {
         "rel": "alternate",
-        "href": "https://rdap.nominet.uk/circle/",
+        "href": "https://rdap.identitydigital.services/rdap/",
         "value": "https://rdap.iana.org/domain/circle",
         "title": "RDAP Server",
         "type": "application/rdap+json"
@@ -184383,12 +184436,6 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 4355,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "8B11D5875A3202ED7FAAE05A5EAB67057ECA0D5BDB62875C5203B6CBB011C50A"
-        },
-        {
           "keyTag": 12529,
           "algorithm": 8,
           "digestType": 2,
@@ -184557,13 +184604,13 @@
               "fn",
               {},
               "text",
-              "TLD Registry Services Technical"
+              "Senior Director, DNS Infrastructure Group"
             ],
             [
               "org",
               {},
               "text",
-              "Nominet"
+              "Identity Digital Limited"
             ],
             [
               "role",
@@ -184575,7 +184622,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "Minerva House\nEdmund Halley Road\nOxford Science Park\nOxford OX4 4DQ\nUnited Kingdom of Great Britain and Northern Ireland (the)"
+                "label": "c/o Identity Digital Inc.\n10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)"
               },
               "text",
               [
@@ -184597,7 +184644,18 @@
                 ]
               },
               "text",
-              "+44.1865332211"
+              "+1.425.298.2200"
+            ],
+            [
+              "tel",
+              {
+                "type": [
+                  "work",
+                  "fax"
+                ]
+              },
+              "text",
+              "+1.425.671.0020"
             ],
             [
               "email",
@@ -184607,7 +184665,7 @@
                 ]
               },
               "text",
-              "registrytechnical@nominet.uk"
+              "tldtech@identity.digital"
             ]
           ]
         ],
@@ -184617,7 +184675,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2019-04-10T00:00:00+00:00"
+            "eventDate": "2026-07-14T00:00:00+00:00"
           }
         ]
       }
@@ -184625,7 +184683,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-07-07T00:00:00+00:00"
+        "eventDate": "2026-07-14T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -184635,14 +184693,14 @@
     "links": [
       {
         "rel": "related",
-        "href": "http://www.nic.got",
+        "href": "https://www.identity.digital/",
         "value": "https://rdap.iana.org/domain/got",
         "title": "Registration URL",
         "type": "text/html"
       },
       {
         "rel": "alternate",
-        "href": "https://rdap.nominet.uk/got/",
+        "href": "https://rdap.identitydigital.services/rdap/",
         "value": "https://rdap.iana.org/domain/got",
         "title": "RDAP Server",
         "type": "application/rdap+json"
@@ -230340,12 +230398,6 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 60425,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "E6238D8E60F3D9967690F2D435F35503CA777FC828B7DEBA61A1E4CC7E97BFCC"
-        },
-        {
           "keyTag": 21967,
           "algorithm": 8,
           "digestType": 2,
@@ -230514,13 +230566,13 @@
               "fn",
               {},
               "text",
-              "TLD Registry Services Technical"
+              "Senior Director, DNS Infrastructure Group"
             ],
             [
               "org",
               {},
               "text",
-              "Nominet"
+              "Identity Digital Limited"
             ],
             [
               "role",
@@ -230532,7 +230584,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "Minerva House\nEdmund Halley Road\nOxford Science Park\nOxford OX4 4DQ\nUnited Kingdom of Great Britain and Northern Ireland (the)"
+                "label": "c/o Identity Digital Inc.\n10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)"
               },
               "text",
               [
@@ -230554,7 +230606,18 @@
                 ]
               },
               "text",
-              "+44.1865332211"
+              "+1.425.298.2200"
+            ],
+            [
+              "tel",
+              {
+                "type": [
+                  "work",
+                  "fax"
+                ]
+              },
+              "text",
+              "+1.425.671.0020"
             ],
             [
               "email",
@@ -230564,7 +230627,7 @@
                 ]
               },
               "text",
-              "registrytechnical@nominet.uk"
+              "tldtech@identity.digital"
             ]
           ]
         ],
@@ -230574,7 +230637,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2019-04-10T00:00:00+00:00"
+            "eventDate": "2026-07-14T00:00:00+00:00"
           }
         ]
       }
@@ -230582,7 +230645,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-07-07T00:00:00+00:00"
+        "eventDate": "2026-07-14T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -230592,14 +230655,14 @@
     "links": [
       {
         "rel": "related",
-        "href": "http://www.nic.jot",
+        "href": "https://www.identity.digital/",
         "value": "https://rdap.iana.org/domain/jot",
         "title": "Registration URL",
         "type": "text/html"
       },
       {
         "rel": "alternate",
-        "href": "https://rdap.nominet.uk/jot/",
+        "href": "https://rdap.identitydigital.services/rdap/",
         "value": "https://rdap.iana.org/domain/jot",
         "title": "RDAP Server",
         "type": "application/rdap+json"
@@ -365080,6 +365143,18 @@
       },
       {
         "objectClassName": "nameserver",
+        "ldhName": "c.tld-servers.ru",
+        "ipAddresses": {
+          "v4": [
+            "194.190.122.17"
+          ],
+          "v6": [
+            "2a09:bd00:1:0:194:190:122:17"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
         "ldhName": "d.dns.ripn.net",
         "ipAddresses": {
           "v4": [
@@ -365360,7 +365435,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-10-22T00:00:00+00:00"
+        "eventDate": "2026-07-14T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -411204,6 +411279,18 @@
       },
       {
         "objectClassName": "nameserver",
+        "ldhName": "nsca.nic.cr",
+        "ipAddresses": {
+          "v4": [
+            "200.107.82.38"
+          ],
+          "v6": [
+            "2001:13c7:7004:1::38"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
         "ldhName": "p.ns.sv",
         "ipAddresses": {
           "v4": [
@@ -411467,7 +411554,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-04-29T00:00:00+00:00"
+        "eventDate": "2026-07-14T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -517667,6 +517754,18 @@
       },
       {
         "objectClassName": "nameserver",
+        "ldhName": "c.tld-servers.ru",
+        "ipAddresses": {
+          "v4": [
+            "194.190.122.17"
+          ],
+          "v6": [
+            "2a09:bd00:1:0:194:190:122:17"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
         "ldhName": "d.dns.ripn.net",
         "ipAddresses": {
           "v4": [
@@ -517947,7 +518046,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-10-22T00:00:00+00:00"
+        "eventDate": "2026-07-14T00:00:00+00:00"
       },
       {
         "eventAction": "registration",

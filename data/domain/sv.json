@@ -52,6 +52,18 @@
     },
     {
       "objectClassName": "nameserver",
+      "ldhName": "nsca.nic.cr",
+      "ipAddresses": {
+        "v4": [
+          "200.107.82.38"
+        ],
+        "v6": [
+          "2001:13c7:7004:1::38"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
       "ldhName": "p.ns.sv",
       "ipAddresses": {
         "v4": [
@@ -315,7 +327,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2026-04-29T00:00:00+00:00"
+      "eventDate": "2026-07-14T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
