@@ -46752,54 +46752,6 @@
     "nameservers": [
       {
         "objectClassName": "nameserver",
-        "ldhName": "a.nic.bh",
-        "ipAddresses": {
-          "v4": [
-            "194.169.218.115"
-          ],
-          "v6": [
-            "2001:67c:13cc::1:115"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "b.nic.bh",
-        "ipAddresses": {
-          "v4": [
-            "185.24.64.115"
-          ],
-          "v6": [
-            "2a04:2b00:13cc::1:115"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "c.nic.bh",
-        "ipAddresses": {
-          "v4": [
-            "212.18.248.115"
-          ],
-          "v6": [
-            "2a04:2b00:13ee::115"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "d.nic.bh",
-        "ipAddresses": {
-          "v4": [
-            "212.18.249.115"
-          ],
-          "v6": [
-            "2a04:2b00:13ff::115"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
         "ldhName": "ns01.trs-dns.com",
         "ipAddresses": {
           "v4": [
@@ -47104,7 +47056,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-07-14T00:00:00+00:00"
+        "eventDate": "2026-07-22T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -189578,6 +189530,15 @@
     "nameservers": [
       {
         "objectClassName": "nameserver",
+        "ldhName": "gold-test.uog.edu",
+        "ipAddresses": {
+          "v4": [
+            "168.123.250.70"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
         "ldhName": "gold.uog.edu",
         "ipAddresses": {
           "v4": [
@@ -189862,7 +189823,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-09-08T00:00:00+00:00"
+        "eventDate": "2026-07-22T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -365952,12 +365913,6 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 46252,
-          "algorithm": 10,
-          "digestType": 2,
-          "digest": "3DB9DB25D3B8E13FBCB4EBA53F61C7CE156831DCE66D4A19747D17F8AB278FDB"
-        },
-        {
           "keyTag": 35633,
           "algorithm": 13,
           "digestType": 2,
@@ -366205,7 +366160,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-07-07T00:00:00+00:00"
+        "eventDate": "2026-07-22T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -509695,54 +509650,6 @@
     "nameservers": [
       {
         "objectClassName": "nameserver",
-        "ldhName": "a.nic.xn--mgbcpq6gpa1a",
-        "ipAddresses": {
-          "v4": [
-            "194.169.218.115"
-          ],
-          "v6": [
-            "2001:67c:13cc::1:115"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "b.nic.xn--mgbcpq6gpa1a",
-        "ipAddresses": {
-          "v4": [
-            "185.24.64.115"
-          ],
-          "v6": [
-            "2a04:2b00:13cc::1:115"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "c.nic.xn--mgbcpq6gpa1a",
-        "ipAddresses": {
-          "v4": [
-            "212.18.248.115"
-          ],
-          "v6": [
-            "2a04:2b00:13ee::115"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "d.nic.xn--mgbcpq6gpa1a",
-        "ipAddresses": {
-          "v4": [
-            "212.18.249.115"
-          ],
-          "v6": [
-            "2a04:2b00:13ff::115"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
         "ldhName": "ns01.trs-dns.com",
         "ipAddresses": {
           "v4": [
@@ -510047,7 +509954,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-07-15T00:00:00+00:00"
+        "eventDate": "2026-07-22T00:00:00+00:00"
       },
       {
         "eventAction": "registration",

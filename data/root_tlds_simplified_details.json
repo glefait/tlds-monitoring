@@ -11175,38 +11175,6 @@
   "bh": {
     "unicodeName": "bh",
     "nameservers": {
-      "a.nic.bh": {
-        "v4": [
-          "194.169.218.115"
-        ],
-        "v6": [
-          "2001:67c:13cc::1:115"
-        ]
-      },
-      "b.nic.bh": {
-        "v4": [
-          "185.24.64.115"
-        ],
-        "v6": [
-          "2a04:2b00:13cc::1:115"
-        ]
-      },
-      "c.nic.bh": {
-        "v4": [
-          "212.18.248.115"
-        ],
-        "v6": [
-          "2a04:2b00:13ee::115"
-        ]
-      },
-      "d.nic.bh": {
-        "v4": [
-          "212.18.249.115"
-        ],
-        "v6": [
-          "2a04:2b00:13ff::115"
-        ]
-      },
       "ns01.trs-dns.com": {
         "v4": [
           "64.96.1.1"
@@ -45297,6 +45265,11 @@
   "gu": {
     "unicodeName": "gu",
     "nameservers": {
+      "gold-test.uog.edu": {
+        "v4": [
+          "168.123.250.70"
+        ]
+      },
       "gold.uog.edu": {
         "v4": [
           "168.123.250.66"
@@ -87165,12 +87138,6 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 46252,
-          "algorithm": 10,
-          "digestType": 2,
-          "digest": "3DB9DB25D3B8E13FBCB4EBA53F61C7CE156831DCE66D4A19747D17F8AB278FDB"
-        },
-        {
           "keyTag": 35633,
           "algorithm": 13,
           "digestType": 2,
@@ -121230,38 +121197,6 @@
   "xn--mgbcpq6gpa1a": {
     "unicodeName": "\u0627\u0644\u0628\u062d\u0631\u064a\u0646",
     "nameservers": {
-      "a.nic.xn--mgbcpq6gpa1a": {
-        "v4": [
-          "194.169.218.115"
-        ],
-        "v6": [
-          "2001:67c:13cc::1:115"
-        ]
-      },
-      "b.nic.xn--mgbcpq6gpa1a": {
-        "v4": [
-          "185.24.64.115"
-        ],
-        "v6": [
-          "2a04:2b00:13cc::1:115"
-        ]
-      },
-      "c.nic.xn--mgbcpq6gpa1a": {
-        "v4": [
-          "212.18.248.115"
-        ],
-        "v6": [
-          "2a04:2b00:13ee::115"
-        ]
-      },
-      "d.nic.xn--mgbcpq6gpa1a": {
-        "v4": [
-          "212.18.249.115"
-        ],
-        "v6": [
-          "2a04:2b00:13ff::115"
-        ]
-      },
       "ns01.trs-dns.com": {
         "v4": [
           "64.96.1.1"
