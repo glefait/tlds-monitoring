@@ -74565,20 +74565,20 @@
         "last_change_date": "2022-11-01T00:00:00+00:00"
       },
       "administrative": {
-        "fn": "Tumuwhanake | GM Customer and Product",
-        "org": "InternetNZ",
-        "adr": "Level 13\n18 Willis Street\nWellington Central\nWellington 6011\nNew Zealand",
-        "tel": "+64 21 417 903",
-        "email": "iana@internetnz.net.nz",
-        "last_change_date": "2022-10-25T00:00:00+00:00"
-      },
-      "technical": {
-        "fn": ".NZ Operations Manager",
+        "fn": "GM Infrastructure",
         "org": "InternetNZ",
         "adr": "Level 13\n18 Willis Street\nWellington Central\nWellington 6011\nNew Zealand",
         "tel": "+64 21 783 399",
+        "email": "iana@internetnz.net.nz",
+        "last_change_date": "2026-07-23T00:00:00+00:00"
+      },
+      "technical": {
+        "fn": "Product Infrastructure Manager",
+        "org": "InternetNZ",
+        "adr": "Level 13\n18 Willis Street\nWellington Central\nWellington 6011\nNew Zealand",
+        "tel": "+64 27 216 8285",
         "email": "ianatech@internetnz.net.nz",
-        "last_change_date": "2022-05-17T00:00:00+00:00"
+        "last_change_date": "2026-07-23T00:00:00+00:00"
       }
     },
     "secureDNS": {
