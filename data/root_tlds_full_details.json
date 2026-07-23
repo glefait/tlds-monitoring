@@ -211223,7 +211223,7 @@
               "fn",
               {},
               "text",
-              "University College Dublin, Computing Services, Computer Centre"
+              "IE Domain Registry CLG"
             ],
             [
               "role",
@@ -211235,7 +211235,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "Belfield\nDublin Dublin 4\nIreland"
+                "label": "2 Harbour Square\nD\u00fan Laoghaire Co. Dublin A96 D6R0\nIreland"
               },
               "text",
               [
@@ -211256,7 +211256,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2025-08-22T00:00:00+00:00"
+            "eventDate": "2026-07-23T00:00:00+00:00"
           }
         ]
       },
@@ -211281,7 +211281,7 @@
               "org",
               {},
               "text",
-              "IE Domain Registry Limited"
+              "IE Domain Registry CLG"
             ],
             [
               "role",
@@ -211293,7 +211293,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "2 Harbour Square\nD\u00fan Laoghaire\nDublin Dublin 2\nIreland"
+                "label": "2 Harbour Square\nD\u00fan Laoghaire Co. Dublin A96 D6R0\nIreland"
               },
               "text",
               [
@@ -211315,7 +211315,7 @@
                 ]
               },
               "text",
-              "+353 1 236 5412"
+              "+353 1 236 5400"
             ],
             [
               "tel",
@@ -211346,7 +211346,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2020-11-16T00:00:00+00:00"
+            "eventDate": "2026-07-23T00:00:00+00:00"
           }
         ]
       },
@@ -211365,13 +211365,13 @@
               "fn",
               {},
               "text",
-              "Technical Services Manager"
+              "Chief Information Officer"
             ],
             [
               "org",
               {},
               "text",
-              "IE Domain Registry Limited"
+              "IE Domain Registry CLG"
             ],
             [
               "role",
@@ -211383,7 +211383,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "2 Harbour Square\nD\u00fan Laoghaire\nDublin Dublin 2\nIreland"
+                "label": "2 Harbour Square\nD\u00fan Laoghaire Co. Dublin A96 D6R0\nIreland"
               },
               "text",
               [
@@ -211405,7 +211405,7 @@
                 ]
               },
               "text",
-              "+353 1 236 5421"
+              "+353 1 236 5400"
             ],
             [
               "tel",
@@ -211436,7 +211436,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2020-11-16T00:00:00+00:00"
+            "eventDate": "2026-07-23T00:00:00+00:00"
           }
         ]
       }
@@ -211444,7 +211444,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-08-22T00:00:00+00:00"
+        "eventDate": "2026-07-23T00:00:00+00:00"
       },
       {
         "eventAction": "registration",

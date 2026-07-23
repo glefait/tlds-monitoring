@@ -50397,28 +50397,28 @@
     },
     "entities": {
       "registrant": {
-        "fn": "University College Dublin, Computing Services, Computer Centre",
+        "fn": "IE Domain Registry CLG",
         "org": null,
-        "adr": "Belfield\nDublin Dublin 4\nIreland",
+        "adr": "2 Harbour Square\nD\u00fan Laoghaire Co. Dublin A96 D6R0\nIreland",
         "tel": null,
         "email": null,
-        "last_change_date": "2025-08-22T00:00:00+00:00"
+        "last_change_date": "2026-07-23T00:00:00+00:00"
       },
       "administrative": {
         "fn": "Chief Executive",
-        "org": "IE Domain Registry Limited",
-        "adr": "2 Harbour Square\nD\u00fan Laoghaire\nDublin Dublin 2\nIreland",
+        "org": "IE Domain Registry CLG",
+        "adr": "2 Harbour Square\nD\u00fan Laoghaire Co. Dublin A96 D6R0\nIreland",
         "tel": "+353 1 230 1273",
         "email": "tld-admin@weare.ie",
-        "last_change_date": "2020-11-16T00:00:00+00:00"
+        "last_change_date": "2026-07-23T00:00:00+00:00"
       },
       "technical": {
-        "fn": "Technical Services Manager",
-        "org": "IE Domain Registry Limited",
-        "adr": "2 Harbour Square\nD\u00fan Laoghaire\nDublin Dublin 2\nIreland",
+        "fn": "Chief Information Officer",
+        "org": "IE Domain Registry CLG",
+        "adr": "2 Harbour Square\nD\u00fan Laoghaire Co. Dublin A96 D6R0\nIreland",
         "tel": "+353 1 230 1273",
         "email": "tld-tech@weare.ie",
-        "last_change_date": "2020-11-16T00:00:00+00:00"
+        "last_change_date": "2026-07-23T00:00:00+00:00"
       }
     },
     "secureDNS": {
