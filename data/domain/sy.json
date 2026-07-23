@@ -25,18 +25,6 @@
           "2001:500:14:6071:ad::1"
         ]
       }
-    },
-    {
-      "objectClassName": "nameserver",
-      "ldhName": "sy.cctld.authdns.ripe.net",
-      "ipAddresses": {
-        "v4": [
-          "193.0.9.113"
-        ],
-        "v6": [
-          "2a13:27c0:30::113"
-        ]
-      }
     }
   ],
   "secureDNS": {
@@ -282,7 +270,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2026-07-06T00:00:00+00:00"
+      "eventDate": "2026-07-23T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
