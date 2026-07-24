@@ -462535,6 +462535,369 @@
       }
     ]
   },
+  "web": {
+    "rdapConformance": [
+      "rdap_level_0"
+    ],
+    "objectClassName": "domain",
+    "ldhName": "web",
+    "nameservers": [
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "ac1.nstld.com",
+        "ipAddresses": {
+          "v4": [
+            "192.42.173.30"
+          ],
+          "v6": [
+            "2001:500:120::30"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "ac2.nstld.com",
+        "ipAddresses": {
+          "v4": [
+            "192.42.174.30"
+          ],
+          "v6": [
+            "2001:500:121::30"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "ac3.nstld.com",
+        "ipAddresses": {
+          "v4": [
+            "192.42.175.30"
+          ],
+          "v6": [
+            "2001:500:122::30"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "ac4.nstld.com",
+        "ipAddresses": {
+          "v4": [
+            "192.42.176.30"
+          ],
+          "v6": [
+            "2001:500:123::30"
+          ]
+        }
+      }
+    ],
+    "secureDNS": {
+      "delegationSigned": true,
+      "dsData": [
+        {
+          "keyTag": 17965,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "FFBC80B0436C15FCAA63C8F60A89349351D09F3A79CAB6352681E567D178E827"
+        }
+      ]
+    },
+    "status": [
+      "active"
+    ],
+    "entities": [
+      {
+        "objectClassName": "entity",
+        "vcardArray": [
+          "vcard",
+          [
+            [
+              "version",
+              {},
+              "text",
+              "4.0"
+            ],
+            [
+              "fn",
+              {},
+              "text",
+              "VeriSign, Inc."
+            ],
+            [
+              "role",
+              {},
+              "text",
+              "Registrant"
+            ],
+            [
+              "adr",
+              {
+                "type": "work",
+                "label": "12061 Bluemont Way\nReston VA 20190\nUnited States of America (the)"
+              },
+              "text",
+              [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            ]
+          ]
+        ],
+        "roles": [
+          "registrant"
+        ],
+        "events": [
+          {
+            "eventAction": "last changed",
+            "eventDate": "2026-07-23T00:00:00+00:00"
+          }
+        ]
+      },
+      {
+        "objectClassName": "entity",
+        "vcardArray": [
+          "vcard",
+          [
+            [
+              "version",
+              {},
+              "text",
+              "4.0"
+            ],
+            [
+              "fn",
+              {},
+              "text",
+              "Registry Customer Service"
+            ],
+            [
+              "org",
+              {},
+              "text",
+              "Verisign, Inc."
+            ],
+            [
+              "role",
+              {},
+              "text",
+              "Admin"
+            ],
+            [
+              "adr",
+              {
+                "type": "work",
+                "label": "12061 Bluemont Way\nReston VA 20190\nUnited States of America (the)"
+              },
+              "text",
+              [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            ],
+            [
+              "tel",
+              {
+                "type": [
+                  "work",
+                  "voice"
+                ]
+              },
+              "text",
+              "+1-703-925-6999"
+            ],
+            [
+              "tel",
+              {
+                "type": [
+                  "work",
+                  "fax"
+                ]
+              },
+              "text",
+              "+1-703-948-3978"
+            ],
+            [
+              "email",
+              {
+                "type": [
+                  "work"
+                ]
+              },
+              "text",
+              "info@verisign-grs.com"
+            ]
+          ]
+        ],
+        "roles": [
+          "administrative"
+        ],
+        "events": [
+          {
+            "eventAction": "last changed",
+            "eventDate": "2026-07-23T00:00:00+00:00"
+          }
+        ]
+      },
+      {
+        "objectClassName": "entity",
+        "vcardArray": [
+          "vcard",
+          [
+            [
+              "version",
+              {},
+              "text",
+              "4.0"
+            ],
+            [
+              "fn",
+              {},
+              "text",
+              "Registry Customer Service"
+            ],
+            [
+              "org",
+              {},
+              "text",
+              "Verisign, Inc."
+            ],
+            [
+              "role",
+              {},
+              "text",
+              "Technical Contact"
+            ],
+            [
+              "adr",
+              {
+                "type": "work",
+                "label": "12061 Bluemont Way\nReston VA 20190\nUnited States of America (the)"
+              },
+              "text",
+              [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            ],
+            [
+              "tel",
+              {
+                "type": [
+                  "work",
+                  "voice"
+                ]
+              },
+              "text",
+              "+1-703-925-6999"
+            ],
+            [
+              "tel",
+              {
+                "type": [
+                  "work",
+                  "fax"
+                ]
+              },
+              "text",
+              "+1-703-948-3978"
+            ],
+            [
+              "email",
+              {
+                "type": [
+                  "work"
+                ]
+              },
+              "text",
+              "info@verisign-grs.com"
+            ]
+          ]
+        ],
+        "roles": [
+          "technical"
+        ],
+        "events": [
+          {
+            "eventAction": "last changed",
+            "eventDate": "2026-07-23T00:00:00+00:00"
+          }
+        ]
+      }
+    ],
+    "events": [
+      {
+        "eventAction": "last changed",
+        "eventDate": "2026-07-23T00:00:00+00:00"
+      }
+    ],
+    "links": [
+      {
+        "rel": "related",
+        "href": "https://www.verisign.com/",
+        "value": "https://rdap.iana.org/domain/web",
+        "title": "Registration URL",
+        "type": "text/html"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://tld-rdap.verisign.com/web/v1/",
+        "value": "https://rdap.iana.org/domain/web",
+        "title": "RDAP Server",
+        "type": "application/rdap+json"
+      },
+      {
+        "value": "https://rdap.iana.org/domain/web",
+        "rel": "self",
+        "href": "https://rdap.iana.org/domain/web",
+        "type": "application/rdap+json"
+      }
+    ],
+    "notices": [
+      {
+        "title": "Terms of Service",
+        "description": [
+          "Terms of Service"
+        ],
+        "links": [
+          {
+            "rel": "related",
+            "type": "text/html",
+            "href": "https://www.icann.org/privacy/tos",
+            "value": "https://rdap.iana.org/domain/web"
+          }
+        ]
+      },
+      {
+        "title": "Privacy Policy",
+        "description": [
+          "Privacy Policy"
+        ],
+        "links": [
+          {
+            "rel": "related",
+            "type": "text/html",
+            "href": "https://www.icann.org/privacy/policy",
+            "value": "https://rdap.iana.org/domain/web"
+          }
+        ]
+      }
+    ]
+  },
   "webcam": {
     "rdapConformance": [
       "rdap_level_0"

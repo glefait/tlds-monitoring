@@ -110192,6 +110192,86 @@
     "registration_url": "https://www.weathercompany.com/",
     "creation_date": "2016-01-22T00:00:00+00:00"
   },
+  "web": {
+    "unicodeName": "web",
+    "nameservers": {
+      "ac1.nstld.com": {
+        "v4": [
+          "192.42.173.30"
+        ],
+        "v6": [
+          "2001:500:120::30"
+        ]
+      },
+      "ac2.nstld.com": {
+        "v4": [
+          "192.42.174.30"
+        ],
+        "v6": [
+          "2001:500:121::30"
+        ]
+      },
+      "ac3.nstld.com": {
+        "v4": [
+          "192.42.175.30"
+        ],
+        "v6": [
+          "2001:500:122::30"
+        ]
+      },
+      "ac4.nstld.com": {
+        "v4": [
+          "192.42.176.30"
+        ],
+        "v6": [
+          "2001:500:123::30"
+        ]
+      }
+    },
+    "entities": {
+      "registrant": {
+        "fn": "VeriSign, Inc.",
+        "org": null,
+        "adr": "12061 Bluemont Way\nReston VA 20190\nUnited States of America (the)",
+        "tel": null,
+        "email": null,
+        "last_change_date": "2026-07-23T00:00:00+00:00"
+      },
+      "administrative": {
+        "fn": "Registry Customer Service",
+        "org": "Verisign, Inc.",
+        "adr": "12061 Bluemont Way\nReston VA 20190\nUnited States of America (the)",
+        "tel": "+1-703-948-3978",
+        "email": "info@verisign-grs.com",
+        "last_change_date": "2026-07-23T00:00:00+00:00"
+      },
+      "technical": {
+        "fn": "Registry Customer Service",
+        "org": "Verisign, Inc.",
+        "adr": "12061 Bluemont Way\nReston VA 20190\nUnited States of America (the)",
+        "tel": "+1-703-948-3978",
+        "email": "info@verisign-grs.com",
+        "last_change_date": "2026-07-23T00:00:00+00:00"
+      }
+    },
+    "secureDNS": {
+      "delegationSigned": true,
+      "dsData": [
+        {
+          "keyTag": 17965,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "FFBC80B0436C15FCAA63C8F60A89349351D09F3A79CAB6352681E567D178E827"
+        }
+      ]
+    },
+    "status": [
+      "active"
+    ],
+    "port43": null,
+    "registration_url": "https://www.verisign.com/",
+    "creation_date": null
+  },
   "webcam": {
     "unicodeName": "webcam",
     "nameservers": {
