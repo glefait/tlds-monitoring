@@ -19,54 +19,6 @@
     },
     {
       "objectClassName": "nameserver",
-      "ldhName": "anycast10.irondns.net",
-      "ipAddresses": {
-        "v4": [
-          "195.253.64.12"
-        ],
-        "v6": [
-          "2a01:5b0:4::c"
-        ]
-      }
-    },
-    {
-      "objectClassName": "nameserver",
-      "ldhName": "anycast23.irondns.net",
-      "ipAddresses": {
-        "v4": [
-          "195.253.65.11"
-        ],
-        "v6": [
-          "2a01:5b0:5::b"
-        ]
-      }
-    },
-    {
-      "objectClassName": "nameserver",
-      "ldhName": "anycast24.irondns.net",
-      "ipAddresses": {
-        "v4": [
-          "195.253.65.12"
-        ],
-        "v6": [
-          "2a01:5b0:5::c"
-        ]
-      }
-    },
-    {
-      "objectClassName": "nameserver",
-      "ldhName": "anycast9.irondns.net",
-      "ipAddresses": {
-        "v4": [
-          "195.253.64.11"
-        ],
-        "v6": [
-          "2a01:5b0:4::b"
-        ]
-      }
-    },
-    {
-      "objectClassName": "nameserver",
       "ldhName": "b.nic.radio",
       "ipAddresses": {
         "v4": [
@@ -74,6 +26,30 @@
         ],
         "v6": [
           "2a04:2b00:13cc::1:21"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "c.nic.radio",
+      "ipAddresses": {
+        "v4": [
+          "212.18.248.21"
+        ],
+        "v6": [
+          "2a04:2b00:13ee::21"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "d.nic.radio",
+      "ipAddresses": {
+        "v4": [
+          "212.18.249.21"
+        ],
+        "v6": [
+          "2a04:2b00:13ff::21"
         ]
       }
     }
@@ -86,6 +62,12 @@
         "algorithm": 10,
         "digestType": 2,
         "digest": "3863E4A0C36A262785C1703B5CFF54CDBD56CD40BB414B45599848CE972E26B9"
+      },
+      {
+        "keyTag": 8022,
+        "algorithm": 10,
+        "digestType": 2,
+        "digest": "0803CB1E944B9A6416D0E2F7A071D03A87754B0804F8833F63D250DD080A5590"
       }
     ]
   },
@@ -318,7 +300,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2026-07-14T00:00:00+00:00"
+      "eventDate": "2026-07-27T00:00:00+00:00"
     },
     {
       "eventAction": "registration",

@@ -32,6 +32,18 @@
     },
     {
       "objectClassName": "nameserver",
+      "ldhName": "c.tld-servers.ru",
+      "ipAddresses": {
+        "v4": [
+          "194.190.122.17"
+        ],
+        "v6": [
+          "2a09:bd00:1:0:194:190:122:17"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
       "ldhName": "d.dns.ripn.net",
       "ipAddresses": {
         "v4": [
@@ -318,7 +330,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2026-04-22T00:00:00+00:00"
+      "eventDate": "2026-07-27T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
