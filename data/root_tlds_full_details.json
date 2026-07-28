@@ -322920,18 +322920,6 @@
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "dns-ext.nic.cr",
-        "ipAddresses": {
-          "v4": [
-            "200.107.82.219"
-          ],
-          "v6": [
-            "2001:13c7:7004:110::219"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
         "ldhName": "ns.dns.br",
         "ipAddresses": {
           "v4": [
@@ -322987,6 +322975,18 @@
         "ipAddresses": {
           "v4": [
             "168.77.9.8"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
+        "ldhName": "nsca.nic.cr",
+        "ipAddresses": {
+          "v4": [
+            "200.107.82.38"
+          ],
+          "v6": [
+            "2001:13c7:7004:1::38"
           ]
         }
       },
@@ -323246,7 +323246,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2024-11-25T00:00:00+00:00"
+        "eventDate": "2026-07-28T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
