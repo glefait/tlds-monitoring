@@ -324094,6 +324094,12 @@
           "algorithm": 13,
           "digestType": 2,
           "digest": "2A63E38EB019AD4300A2D9533FAE0DB139328CEFFD0861CD8DB1C401CA0258D9"
+        },
+        {
+          "keyTag": 59399,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "8E137959B572D92BDF78403A7E3F00754CC137D04F07DE55F689F48DAE2D3E07"
         }
       ]
     },
@@ -324337,7 +324343,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-04-29T00:00:00+00:00"
+        "eventDate": "2026-07-30T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
