@@ -19,18 +19,6 @@
     },
     {
       "objectClassName": "nameserver",
-      "ldhName": "dns-ext.nic.cr",
-      "ipAddresses": {
-        "v4": [
-          "200.107.82.219"
-        ],
-        "v6": [
-          "2001:13c7:7004:110::219"
-        ]
-      }
-    },
-    {
-      "objectClassName": "nameserver",
       "ldhName": "ix.red.sv",
       "ipAddresses": {
         "v4": [
@@ -327,7 +315,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2026-07-14T00:00:00+00:00"
+      "eventDate": "2026-07-31T00:00:00+00:00"
     },
     {
       "eventAction": "registration",

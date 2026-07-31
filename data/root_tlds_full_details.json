@@ -322592,6 +322592,12 @@
           "algorithm": 13,
           "digestType": 2,
           "digest": "E6B3F359C1980DE521369BE4BD61FC91B9E311AA79221705D248925ADD22F1D1"
+        },
+        {
+          "keyTag": 51966,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "CA942C4051CFFD445F83DEE1AC0A94E67C0A59E549F2981D4A243D16F2C98F2B"
         }
       ]
     },
@@ -322835,7 +322841,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2024-09-11T00:00:00+00:00"
+        "eventDate": "2026-07-31T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -395286,6 +395292,12 @@
           "algorithm": 13,
           "digestType": 2,
           "digest": "B6DD49F142B2B79E8581DB8AB1A9DF7E9289BBDD06BE3DDBAE21673407E60287"
+        },
+        {
+          "keyTag": 33941,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "9F261CA2165A435C823413E5893EEB8BBD926647411AE8F4FD1BC916F18740BD"
         }
       ]
     },
@@ -395507,7 +395519,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-03-12T00:00:00+00:00"
+        "eventDate": "2026-07-31T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -411221,18 +411233,6 @@
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "dns-ext.nic.cr",
-        "ipAddresses": {
-          "v4": [
-            "200.107.82.219"
-          ],
-          "v6": [
-            "2001:13c7:7004:110::219"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
         "ldhName": "ix.red.sv",
         "ipAddresses": {
           "v4": [
@@ -411529,7 +411529,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-07-14T00:00:00+00:00"
+        "eventDate": "2026-07-31T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -432680,6 +432680,12 @@
           "algorithm": 13,
           "digestType": 2,
           "digest": "9AC9895253012C60A05E701FE237F2C356BA4A446F5F1669557FC11C7E029549"
+        },
+        {
+          "keyTag": 20138,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "D9AC633814C2C07883182C76F21DAD8BEC3FAE2B1CCBC02D872700487EF38317"
         }
       ]
     },
@@ -432923,7 +432929,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2024-09-13T00:00:00+00:00"
+        "eventDate": "2026-07-31T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
