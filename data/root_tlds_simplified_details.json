@@ -16196,6 +16196,12 @@
           "algorithm": 13,
           "digestType": 2,
           "digest": "D250D39D26A0438E9BF413CD47C06F61FFC1B50A0B163E27978BC4D25703D74D"
+        },
+        {
+          "keyTag": 54187,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "482A5773D7A8C267394416EBE3D39EB178B393DCBCE62BAD0872E87161F64F08"
         }
       ]
     },
@@ -70531,6 +70537,14 @@
           "2607:f740:45::54"
         ]
       },
+      "na-e.ns.nic.cz": {
+        "v4": [
+          "185.43.134.17"
+        ],
+        "v6": [
+          "2001:148f:fffd::17"
+        ]
+      },
       "na-ns.anycast.pch.net": {
         "v4": [
           "204.61.216.35"
@@ -70559,17 +70573,17 @@
         "fn": "NA Domain Administrators",
         "org": "Namibian Network Information Center",
         "adr": "106, Fischreiher Street\nPO Box 7022\nSwakopmund 13002\nNamibia",
-        "tel": "+264 88 624273",
+        "tel": "+264 81 124 6733",
         "email": "dns-admin@na-nic.com.na",
-        "last_change_date": "2019-10-11T00:00:00+00:00"
+        "last_change_date": "2026-07-31T00:00:00+00:00"
       },
       "technical": {
         "fn": "NA Domain Techs",
         "org": "Namibian Network Information Center",
         "adr": "PO Box 7022\nSwakopmund 13002\nNamibia",
-        "tel": "+264 88 624273",
-        "email": "dns-admin@na-nic.com",
-        "last_change_date": "2019-10-11T00:00:00+00:00"
+        "tel": "+264 81 124 6733",
+        "email": "dns-techs@na-nic.com",
+        "last_change_date": "2026-07-31T00:00:00+00:00"
       }
     },
     "secureDNS": {

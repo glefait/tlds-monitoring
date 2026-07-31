@@ -67425,6 +67425,12 @@
           "algorithm": 13,
           "digestType": 2,
           "digest": "D250D39D26A0438E9BF413CD47C06F61FFC1B50A0B163E27978BC4D25703D74D"
+        },
+        {
+          "keyTag": 54187,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "482A5773D7A8C267394416EBE3D39EB178B393DCBCE62BAD0872E87161F64F08"
         }
       ]
     },
@@ -67668,7 +67674,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2024-09-11T00:00:00+00:00"
+        "eventDate": "2026-07-31T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -296745,6 +296751,18 @@
       },
       {
         "objectClassName": "nameserver",
+        "ldhName": "na-e.ns.nic.cz",
+        "ipAddresses": {
+          "v4": [
+            "185.43.134.17"
+          ],
+          "v6": [
+            "2001:148f:fffd::17"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
         "ldhName": "na-ns.anycast.pch.net",
         "ipAddresses": {
           "v4": [
@@ -296891,17 +296909,6 @@
               "+264 81 124 6733"
             ],
             [
-              "tel",
-              {
-                "type": [
-                  "work",
-                  "fax"
-                ]
-              },
-              "text",
-              "+264 88 624273"
-            ],
-            [
               "email",
               {
                 "type": [
@@ -296919,7 +296926,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2019-10-11T00:00:00+00:00"
+            "eventDate": "2026-07-31T00:00:00+00:00"
           }
         ]
       },
@@ -296981,17 +296988,6 @@
               "+264 81 124 6733"
             ],
             [
-              "tel",
-              {
-                "type": [
-                  "work",
-                  "fax"
-                ]
-              },
-              "text",
-              "+264 88 624273"
-            ],
-            [
               "email",
               {
                 "type": [
@@ -296999,7 +296995,7 @@
                 ]
               },
               "text",
-              "dns-admin@na-nic.com"
+              "dns-techs@na-nic.com"
             ]
           ]
         ],
@@ -297009,7 +297005,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2019-10-11T00:00:00+00:00"
+            "eventDate": "2026-07-31T00:00:00+00:00"
           }
         ]
       }
@@ -297017,7 +297013,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2024-10-16T00:00:00+00:00"
+        "eventDate": "2026-07-31T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
