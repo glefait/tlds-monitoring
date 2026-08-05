@@ -50304,6 +50304,14 @@
           "2001:df5:4000:4::4"
         ]
       },
+      "f.dns.id": {
+        "v4": [
+          "203.119.112.112"
+        ],
+        "v6": [
+          "2001:dd8:1f::f"
+        ]
+      },
       "ns4.apnic.net": {
         "v4": [
           "202.12.31.53"
@@ -76736,12 +76744,6 @@
     "secureDNS": {
       "delegationSigned": true,
       "dsData": [
-        {
-          "keyTag": 2779,
-          "algorithm": 13,
-          "digestType": 2,
-          "digest": "E6B3F359C1980DE521369BE4BD61FC91B9E311AA79221705D248925ADD22F1D1"
-        },
         {
           "keyTag": 51966,
           "algorithm": 13,

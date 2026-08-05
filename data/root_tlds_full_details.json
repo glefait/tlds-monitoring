@@ -210805,6 +210805,18 @@
       },
       {
         "objectClassName": "nameserver",
+        "ldhName": "f.dns.id",
+        "ipAddresses": {
+          "v4": [
+            "203.119.112.112"
+          ],
+          "v6": [
+            "2001:dd8:1f::f"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
         "ldhName": "ns4.apnic.net",
         "ipAddresses": {
           "v4": [
@@ -322602,12 +322614,6 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 2779,
-          "algorithm": 13,
-          "digestType": 2,
-          "digest": "E6B3F359C1980DE521369BE4BD61FC91B9E311AA79221705D248925ADD22F1D1"
-        },
-        {
           "keyTag": 51966,
           "algorithm": 13,
           "digestType": 2,
@@ -322855,7 +322861,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-07-31T00:00:00+00:00"
+        "eventDate": "2026-08-05T00:00:00+00:00"
       },
       {
         "eventAction": "registration",

@@ -55,6 +55,18 @@
     },
     {
       "objectClassName": "nameserver",
+      "ldhName": "f.dns.id",
+      "ipAddresses": {
+        "v4": [
+          "203.119.112.112"
+        ],
+        "v6": [
+          "2001:dd8:1f::f"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
       "ldhName": "ns4.apnic.net",
       "ipAddresses": {
         "v4": [
