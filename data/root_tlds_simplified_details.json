@@ -74631,6 +74631,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "5E2A5C07DAF18FE02E2609A2F630250159F7507C2D0D08DE691100151BE2F544"
+        },
+        {
+          "keyTag": 38240,
+          "algorithm": 8,
+          "digestType": 2,
+          "digest": "73A9D78398595A6CDDBB2E694891060846F89D1DF090CC78F596E87B8047D6B9"
         }
       ]
     },
