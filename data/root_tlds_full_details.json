@@ -445610,7 +445610,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "Colonia 2066\nMontevideo C.P. 11200\nUruguay"
+                "label": "Colonia 2066\nMontevideo CP 11200\nUruguay"
               },
               "text",
               [
@@ -445631,7 +445631,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2022-12-08T00:00:00+00:00"
+            "eventDate": "2026-08-07T00:00:00+00:00"
           }
         ]
       },
@@ -445668,7 +445668,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "Colonia 2066\nMontevideo C.P. 11200\nUruguay"
+                "label": "Colonia 2066\nMontevideo CP 11200\nUruguay"
               },
               "text",
               [
@@ -445721,7 +445721,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2022-12-08T00:00:00+00:00"
+            "eventDate": "2026-08-07T00:00:00+00:00"
           }
         ]
       },
@@ -445758,7 +445758,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "Colonia 2066\nMontevideo C.P. 11200\nUruguay"
+                "label": "Colonia 2066\nMontevideo CP 11200\nUruguay"
               },
               "text",
               [
@@ -445811,7 +445811,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2017-01-02T00:00:00+00:00"
+            "eventDate": "2026-08-07T00:00:00+00:00"
           }
         ]
       }
@@ -445819,7 +445819,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2022-12-08T00:00:00+00:00"
+        "eventDate": "2026-08-07T00:00:00+00:00"
       },
       {
         "eventAction": "registration",

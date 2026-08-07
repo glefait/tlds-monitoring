@@ -106163,26 +106163,26 @@
       "registrant": {
         "fn": "SeCIU - Universidad de la Republica",
         "org": null,
-        "adr": "Colonia 2066\nMontevideo C.P. 11200\nUruguay",
+        "adr": "Colonia 2066\nMontevideo CP 11200\nUruguay",
         "tel": null,
         "email": null,
-        "last_change_date": "2022-12-08T00:00:00+00:00"
+        "last_change_date": "2026-08-07T00:00:00+00:00"
       },
       "administrative": {
         "fn": "Director",
         "org": "Servicio Central de Informatica (SECIU)",
-        "adr": "Colonia 2066\nMontevideo C.P. 11200\nUruguay",
+        "adr": "Colonia 2066\nMontevideo CP 11200\nUruguay",
         "tel": "+598 2401 5843",
         "email": "admin-iana@seciu.edu.uy",
-        "last_change_date": "2022-12-08T00:00:00+00:00"
+        "last_change_date": "2026-08-07T00:00:00+00:00"
       },
       "technical": {
         "fn": "Coordinador t\u00e9cnico de UYNIC",
         "org": "Servicio Central de Informatica (SECIU)",
-        "adr": "Colonia 2066\nMontevideo C.P. 11200\nUruguay",
+        "adr": "Colonia 2066\nMontevideo CP 11200\nUruguay",
         "tel": "+598 2 401 5843",
         "email": "tech-iana@seciu.edu.uy",
-        "last_change_date": "2017-01-02T00:00:00+00:00"
+        "last_change_date": "2026-08-07T00:00:00+00:00"
       }
     },
     "secureDNS": {
