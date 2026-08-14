@@ -16,6 +16,18 @@
     },
     {
       "objectClassName": "nameserver",
+      "ldhName": "ns-pch.nic.sn",
+      "ipAddresses": {
+        "v4": [
+          "204.61.216.159"
+        ],
+        "v6": [
+          "2001:500:14:6159:ad::1"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
       "ldhName": "ns-sn.nic.fr",
       "ipAddresses": {
         "v4": [
@@ -286,7 +298,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2026-08-04T00:00:00+00:00"
+      "eventDate": "2026-08-14T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
