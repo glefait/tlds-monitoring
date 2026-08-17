@@ -13185,28 +13185,28 @@
     },
     "entities": {
       "registrant": {
-        "fn": "Agencia para el Desarrollo de la Informaci\u00f3n de la Sociedad en Bolivia",
+        "fn": "Agencia de Gobierno Electr\u00f3nico y Tecnolog\u00edas de Informaci\u00f3n y Comunicaci\u00f3n",
         "org": null,
-        "adr": "Calle Ayacucho y Mercado No. 308 Piso 3\nEdificio de la Vicepresidencia\nLa Paz 13097\nBolivia (Plurinational State of)",
+        "adr": "Sopocachi Calle Pedro Salazar Nro 631, Esquina Andr\u00e9s Mu\u00f1oz Edificio del Fondo Nacional de Desarrollo Regional (FNDR) Pisos 3, 4 y 5\nLa Paz 591\nBolivia (Plurinational State of)",
         "tel": null,
         "email": null,
-        "last_change_date": "2018-03-13T00:00:00+00:00"
+        "last_change_date": "2026-08-17T00:00:00+00:00"
       },
       "administrative": {
-        "fn": "Bladimir Magne Molina",
-        "org": "Agencia para el Desarrollo de la Informaci\u00f3n de la Sociedad en Bolivia",
-        "adr": "Calle Ayacucho y Mercado No. 308 Piso 3\nEdificio de la Vicepresidencia\nLa Paz 13097\nBolivia (Plurinational State of)",
-        "tel": "+591 2 2200720",
-        "email": "bmagne@adsib.gob.bo",
-        "last_change_date": "2024-05-23T00:00:00+00:00"
+        "fn": "Carlos Eduardo Rodrigo Prado",
+        "org": "Agencia de Gobierno Electr\u00f3nico y Tecnolog\u00edas de Informaci\u00f3n y Comunicaci\u00f3n",
+        "adr": "Sopocachi Calle Pedro Salazar Nro 631, Esquina Andr\u00e9s Mu\u00f1oz Edificio del Fondo Nacional de Desarrollo Regional (FNDR) Pisos 3, 4 y 5\nLa Paz 591\nBolivia (Plurinational State of)",
+        "tel": "+591 2 2184026",
+        "email": "lacnic@agetic.gob.bo",
+        "last_change_date": "2026-08-17T00:00:00+00:00"
       },
       "technical": {
-        "fn": "Jos\u00e9 Lu\u00eds Machicado Moya",
-        "org": "Agencia para el Desarrollo de la Informaci\u00f3n de la Sociedad en Bolivia",
-        "adr": "Calle Ayacucho y Mercado No. 308 Piso 3\nEdificio de la Vicepresidencia\nLa Paz 13097\nBolivia (Plurinational State of)",
-        "tel": "+591 2 2200720",
-        "email": "jmachicado@adsib.gob.bo",
-        "last_change_date": "2018-03-13T00:00:00+00:00"
+        "fn": "Jorge Antonio Maydana Maydana",
+        "org": "Agencia de Gobierno Electr\u00f3nico y Tecnolog\u00edas de Informaci\u00f3n y Comunicaci\u00f3n",
+        "adr": "Sopocachi Calle Pedro Salazar Nro 631, Esquina Andr\u00e9s Mu\u00f1oz Edificio del Fondo Nacional de Desarrollo Regional (FNDR) Pisos 3, 4 y 5\nLa Paz 591\nBolivia (Plurinational State of)",
+        "tel": "+591 2 2184026",
+        "email": "dominios.uit@agetic.gob.bo",
+        "last_change_date": "2026-08-17T00:00:00+00:00"
       }
     },
     "secureDNS": {

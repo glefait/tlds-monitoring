@@ -55070,7 +55070,7 @@
               "fn",
               {},
               "text",
-              "Agencia para el Desarrollo de la Informaci\u00f3n de la Sociedad en Bolivia"
+              "Agencia de Gobierno Electr\u00f3nico y Tecnolog\u00edas de Informaci\u00f3n y Comunicaci\u00f3n"
             ],
             [
               "role",
@@ -55082,7 +55082,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "Calle Ayacucho y Mercado No. 308 Piso 3\nEdificio de la Vicepresidencia\nLa Paz 13097\nBolivia (Plurinational State of)"
+                "label": "Sopocachi Calle Pedro Salazar Nro 631, Esquina Andr\u00e9s Mu\u00f1oz Edificio del Fondo Nacional de Desarrollo Regional (FNDR) Pisos 3, 4 y 5\nLa Paz 591\nBolivia (Plurinational State of)"
               },
               "text",
               [
@@ -55103,7 +55103,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2018-03-13T00:00:00+00:00"
+            "eventDate": "2026-08-17T00:00:00+00:00"
           }
         ]
       },
@@ -55122,13 +55122,13 @@
               "fn",
               {},
               "text",
-              "Bladimir Magne Molina"
+              "Carlos Eduardo Rodrigo Prado"
             ],
             [
               "org",
               {},
               "text",
-              "Agencia para el Desarrollo de la Informaci\u00f3n de la Sociedad en Bolivia"
+              "Agencia de Gobierno Electr\u00f3nico y Tecnolog\u00edas de Informaci\u00f3n y Comunicaci\u00f3n"
             ],
             [
               "role",
@@ -55140,7 +55140,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "Calle Ayacucho y Mercado No. 308 Piso 3\nEdificio de la Vicepresidencia\nLa Paz 13097\nBolivia (Plurinational State of)"
+                "label": "Sopocachi Calle Pedro Salazar Nro 631, Esquina Andr\u00e9s Mu\u00f1oz Edificio del Fondo Nacional de Desarrollo Regional (FNDR) Pisos 3, 4 y 5\nLa Paz 591\nBolivia (Plurinational State of)"
               },
               "text",
               [
@@ -55162,7 +55162,7 @@
                 ]
               },
               "text",
-              "+591 2 2200720"
+              "+591 2 2184026"
             ],
             [
               "tel",
@@ -55173,7 +55173,7 @@
                 ]
               },
               "text",
-              "+591 2 2200720"
+              "+591 2 2184026"
             ],
             [
               "email",
@@ -55183,7 +55183,7 @@
                 ]
               },
               "text",
-              "bmagne@adsib.gob.bo"
+              "lacnic@agetic.gob.bo"
             ]
           ]
         ],
@@ -55193,7 +55193,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2024-05-23T00:00:00+00:00"
+            "eventDate": "2026-08-17T00:00:00+00:00"
           }
         ]
       },
@@ -55212,13 +55212,13 @@
               "fn",
               {},
               "text",
-              "Jos\u00e9 Lu\u00eds Machicado Moya"
+              "Jorge Antonio Maydana Maydana"
             ],
             [
               "org",
               {},
               "text",
-              "Agencia para el Desarrollo de la Informaci\u00f3n de la Sociedad en Bolivia"
+              "Agencia de Gobierno Electr\u00f3nico y Tecnolog\u00edas de Informaci\u00f3n y Comunicaci\u00f3n"
             ],
             [
               "role",
@@ -55230,7 +55230,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "Calle Ayacucho y Mercado No. 308 Piso 3\nEdificio de la Vicepresidencia\nLa Paz 13097\nBolivia (Plurinational State of)"
+                "label": "Sopocachi Calle Pedro Salazar Nro 631, Esquina Andr\u00e9s Mu\u00f1oz Edificio del Fondo Nacional de Desarrollo Regional (FNDR) Pisos 3, 4 y 5\nLa Paz 591\nBolivia (Plurinational State of)"
               },
               "text",
               [
@@ -55252,7 +55252,7 @@
                 ]
               },
               "text",
-              "+591 2 2200720"
+              "+591 2 2184026"
             ],
             [
               "tel",
@@ -55263,7 +55263,7 @@
                 ]
               },
               "text",
-              "+591 2 2200720"
+              "+591 2 2184026"
             ],
             [
               "email",
@@ -55273,7 +55273,7 @@
                 ]
               },
               "text",
-              "jmachicado@adsib.gob.bo"
+              "dominios.uit@agetic.gob.bo"
             ]
           ]
         ],
@@ -55283,7 +55283,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2018-03-13T00:00:00+00:00"
+            "eventDate": "2026-08-17T00:00:00+00:00"
           }
         ]
       }
@@ -55291,7 +55291,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2024-05-23T00:00:00+00:00"
+        "eventDate": "2026-08-17T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
