@@ -94355,12 +94355,6 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 55518,
-          "algorithm": 13,
-          "digestType": 2,
-          "digest": "6FFFE7594578ABA56BEBCB0B29C9D0EF8799597872EFF2A353EB30DDAB2BC47C"
-        },
-        {
           "keyTag": 16126,
           "algorithm": 13,
           "digestType": 2,
