@@ -67,6 +67,18 @@
     },
     {
       "objectClassName": "nameserver",
+      "ldhName": "g.nic.my",
+      "ipAddresses": {
+        "v4": [
+          "15.197.189.233"
+        ],
+        "v6": [
+          "2600:9000:a61a:e65b:b532:3115:4619:6578"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
       "ldhName": "ns01.trs-dns.com",
       "ipAddresses": {
         "v4": [
@@ -341,7 +353,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2026-04-18T00:00:00+00:00"
+      "eventDate": "2026-08-21T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
