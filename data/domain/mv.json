@@ -43,33 +43,6 @@
     },
     {
       "objectClassName": "nameserver",
-      "ldhName": "ns.dhivehinet.net.mv",
-      "ipAddresses": {
-        "v4": [
-          "202.1.192.196"
-        ]
-      }
-    },
-    {
-      "objectClassName": "nameserver",
-      "ldhName": "ns.mv",
-      "ipAddresses": {
-        "v4": [
-          "202.1.192.196"
-        ]
-      }
-    },
-    {
-      "objectClassName": "nameserver",
-      "ldhName": "ns2.dhivehinet.net.mv",
-      "ipAddresses": {
-        "v4": [
-          "202.1.201.201"
-        ]
-      }
-    },
-    {
-      "objectClassName": "nameserver",
       "ldhName": "sangu.ns.mv",
       "ipAddresses": {
         "v4": [
@@ -324,7 +297,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2026-02-05T00:00:00+00:00"
+      "eventDate": "2026-08-31T00:00:00+00:00"
     },
     {
       "eventAction": "registration",

@@ -294900,33 +294900,6 @@
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "ns.dhivehinet.net.mv",
-        "ipAddresses": {
-          "v4": [
-            "202.1.192.196"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "ns.mv",
-        "ipAddresses": {
-          "v4": [
-            "202.1.192.196"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "ns2.dhivehinet.net.mv",
-        "ipAddresses": {
-          "v4": [
-            "202.1.201.201"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
         "ldhName": "sangu.ns.mv",
         "ipAddresses": {
           "v4": [
@@ -295181,7 +295154,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-02-05T00:00:00+00:00"
+        "eventDate": "2026-08-31T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -375819,10 +375792,10 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 3706,
+          "keyTag": 15730,
           "algorithm": 8,
           "digestType": 2,
-          "digest": "4468BA63991268D9C1916A569DC1608B39413749679313161165C84B24016160"
+          "digest": "030197041A720720E81E5FE9A4EA656A210B1614785AAED72CF0BDDB27887CE1"
         }
       ]
     },
@@ -376066,7 +376039,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2024-05-31T00:00:00+00:00"
+        "eventDate": "2026-08-31T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -521350,6 +521323,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "10A432DBF0112CE38A83CED26F36CE36AAC7A3D37CEC8D07583C01A5E9FD8ED1"
+        },
+        {
+          "keyTag": 57157,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "346E2D93A22F864AEFC2B7350F4469AF3887183BDE885F8CC3B807477150E37E"
         }
       ]
     },
@@ -521593,7 +521572,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-07-09T00:00:00+00:00"
+        "eventDate": "2026-08-31T00:00:00+00:00"
       },
       {
         "eventAction": "registration",

@@ -70100,21 +70100,6 @@
           "2001:500:14:6024:ad::1"
         ]
       },
-      "ns.dhivehinet.net.mv": {
-        "v4": [
-          "202.1.192.196"
-        ]
-      },
-      "ns.mv": {
-        "v4": [
-          "202.1.192.196"
-        ]
-      },
-      "ns2.dhivehinet.net.mv": {
-        "v4": [
-          "202.1.201.201"
-        ]
-      },
       "sangu.ns.mv": {
         "v4": [
           "27.114.188.1"
@@ -89590,10 +89575,10 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 3706,
+          "keyTag": 15730,
           "algorithm": 8,
           "digestType": 2,
-          "digest": "4468BA63991268D9C1916A569DC1608B39413749679313161165C84B24016160"
+          "digest": "030197041A720720E81E5FE9A4EA656A210B1614785AAED72CF0BDDB27887CE1"
         }
       ]
     },
@@ -124227,6 +124212,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "10A432DBF0112CE38A83CED26F36CE36AAC7A3D37CEC8D07583C01A5E9FD8ED1"
+        },
+        {
+          "keyTag": 57157,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "346E2D93A22F864AEFC2B7350F4469AF3887183BDE885F8CC3B807477150E37E"
         }
       ]
     },
