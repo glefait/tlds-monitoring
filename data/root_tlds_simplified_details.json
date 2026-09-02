@@ -11234,12 +11234,12 @@
         "last_change_date": "2019-06-28T00:00:00+00:00"
       },
       "technical": {
-        "fn": "CTO",
-        "org": "CentralNic",
-        "adr": "Saddlers House, 4th Floor\n44 Gutter Lane\nLondon EC2V 6BR\nUnited Kingdom of Great Britain and Northern Ireland (the)",
-        "tel": "+44 20 33 88 0601",
-        "email": "tld.ops@centralnic.com",
-        "last_change_date": "2021-10-07T00:00:00+00:00"
+        "fn": "Vice President, Engineering",
+        "org": "Tucows.com, Co.",
+        "adr": "96 Mowat Avenue\nToronto ON\nToronto M6K3M1\nCanada",
+        "tel": "+1 415 8911348",
+        "email": "trs-ops@tucows.com",
+        "last_change_date": "2026-09-02T00:00:00+00:00"
       }
     },
     "secureDNS": {
@@ -26259,15 +26259,15 @@
         "adr": "Jan Noorduynweg 111\nWillemstad\nCura\u00e7ao",
         "tel": "+59997442100",
         "email": "leendert.pengel@uoc.cw",
-        "last_change_date": "2021-02-11T00:00:00+00:00"
+        "last_change_date": "2026-09-02T00:00:00+00:00"
       },
       "technical": {
-        "fn": "Leendert J.J. Pengel",
+        "fn": "Naidison Bregita",
         "org": "University of Curacao",
         "adr": "Jan Noorduynweg 111\nWillemstad\nCura\u00e7ao",
         "tel": "+59997442100",
         "email": "registry@uoc.cw",
-        "last_change_date": "2021-02-11T00:00:00+00:00"
+        "last_change_date": "2026-09-02T00:00:00+00:00"
       }
     },
     "secureDNS": {
@@ -44427,9 +44427,9 @@
         "fn": "Panagiotis Sikas",
         "org": "ICS-FORTH GR",
         "adr": "100 Nikolaou Plastira str.\nVassilika Vouton\nHeraklion Crete GR-70013\nGreece",
-        "tel": "+30 281 0391451",
+        "tel": "+30 281 0391647",
         "email": "gr-noc@ics.forth.gr",
-        "last_change_date": "2022-06-16T00:00:00+00:00"
+        "last_change_date": "2026-09-02T00:00:00+00:00"
       }
     },
     "secureDNS": {
@@ -121351,12 +121351,12 @@
         "last_change_date": "2020-01-30T00:00:00+00:00"
       },
       "technical": {
-        "fn": "CTO",
-        "org": "CentralNic",
-        "adr": "Saddlers House, 4th Floor\n44 Gutter Lane\nLondon EC2V 6BR\nUnited Kingdom of Great Britain and Northern Ireland (the)",
-        "tel": "+44 20 33 88 0601",
-        "email": "tld.ops@centralnic.com",
-        "last_change_date": "2021-10-12T00:00:00+00:00"
+        "fn": "Vice President, Engineering",
+        "org": "Tucows.com, Co.",
+        "adr": "96 Mowat Avenue\nToronto ON\nToronto M6K3M1\nCanada",
+        "tel": "+1 415 8911348",
+        "email": "trs-ops@tucows.com",
+        "last_change_date": "2026-09-02T00:00:00+00:00"
       }
     },
     "secureDNS": {

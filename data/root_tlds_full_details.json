@@ -46985,13 +46985,13 @@
               "fn",
               {},
               "text",
-              "CTO"
+              "Vice President, Engineering"
             ],
             [
               "org",
               {},
               "text",
-              "CentralNic"
+              "Tucows.com, Co."
             ],
             [
               "role",
@@ -47003,7 +47003,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "Saddlers House, 4th Floor\n44 Gutter Lane\nLondon EC2V 6BR\nUnited Kingdom of Great Britain and Northern Ireland (the)"
+                "label": "96 Mowat Avenue\nToronto ON\nToronto M6K3M1\nCanada"
               },
               "text",
               [
@@ -47025,18 +47025,7 @@
                 ]
               },
               "text",
-              "+44 20 33 88 0600"
-            ],
-            [
-              "tel",
-              {
-                "type": [
-                  "work",
-                  "fax"
-                ]
-              },
-              "text",
-              "+44 20 33 88 0601"
+              "+1 415 8911348"
             ],
             [
               "email",
@@ -47046,7 +47035,7 @@
                 ]
               },
               "text",
-              "tld.ops@centralnic.com"
+              "trs-ops@tucows.com"
             ]
           ]
         ],
@@ -47056,7 +47045,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2021-10-07T00:00:00+00:00"
+            "eventDate": "2026-09-02T00:00:00+00:00"
           }
         ]
       }
@@ -47064,7 +47053,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-07-22T00:00:00+00:00"
+        "eventDate": "2026-09-02T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -109568,7 +109557,7 @@
                 ]
               },
               "text",
-              "+59997442248"
+              "+59997442222 ext. 2821"
             ],
             [
               "tel",
@@ -109599,7 +109588,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2021-02-11T00:00:00+00:00"
+            "eventDate": "2026-09-02T00:00:00+00:00"
           }
         ]
       },
@@ -109618,7 +109607,7 @@
               "fn",
               {},
               "text",
-              "Leendert J.J. Pengel"
+              "Naidison Bregita"
             ],
             [
               "org",
@@ -109658,7 +109647,7 @@
                 ]
               },
               "text",
-              "+59997442248"
+              "+59997442222 ext. 2403"
             ],
             [
               "tel",
@@ -109689,7 +109678,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2021-02-11T00:00:00+00:00"
+            "eventDate": "2026-09-02T00:00:00+00:00"
           }
         ]
       }
@@ -109697,7 +109686,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-07-07T00:00:00+00:00"
+        "eventDate": "2026-09-02T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -186014,17 +186003,6 @@
               "+30 281 0391647"
             ],
             [
-              "tel",
-              {
-                "type": [
-                  "work",
-                  "fax"
-                ]
-              },
-              "text",
-              "+30 281 0391451"
-            ],
-            [
               "email",
               {
                 "type": [
@@ -186042,7 +186020,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2022-06-16T00:00:00+00:00"
+            "eventDate": "2026-09-02T00:00:00+00:00"
           }
         ]
       }
@@ -186050,7 +186028,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-07-07T00:00:00+00:00"
+        "eventDate": "2026-09-02T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -510239,13 +510217,13 @@
               "fn",
               {},
               "text",
-              "CTO"
+              "Vice President, Engineering"
             ],
             [
               "org",
               {},
               "text",
-              "CentralNic"
+              "Tucows.com, Co."
             ],
             [
               "role",
@@ -510257,7 +510235,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "Saddlers House, 4th Floor\n44 Gutter Lane\nLondon EC2V 6BR\nUnited Kingdom of Great Britain and Northern Ireland (the)"
+                "label": "96 Mowat Avenue\nToronto ON\nToronto M6K3M1\nCanada"
               },
               "text",
               [
@@ -510279,18 +510257,7 @@
                 ]
               },
               "text",
-              "+44 20 33 88 0600"
-            ],
-            [
-              "tel",
-              {
-                "type": [
-                  "work",
-                  "fax"
-                ]
-              },
-              "text",
-              "+44 20 33 88 0601"
+              "+1 415 8911348"
             ],
             [
               "email",
@@ -510300,7 +510267,7 @@
                 ]
               },
               "text",
-              "tld.ops@centralnic.com"
+              "trs-ops@tucows.com"
             ]
           ]
         ],
@@ -510310,7 +510277,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2021-10-12T00:00:00+00:00"
+            "eventDate": "2026-09-02T00:00:00+00:00"
           }
         ]
       }
@@ -510318,7 +510285,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-07-22T00:00:00+00:00"
+        "eventDate": "2026-09-02T00:00:00+00:00"
       },
       {
         "eventAction": "registration",

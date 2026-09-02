@@ -287,17 +287,6 @@
             "+30 281 0391647"
           ],
           [
-            "tel",
-            {
-              "type": [
-                "work",
-                "fax"
-              ]
-            },
-            "text",
-            "+30 281 0391451"
-          ],
-          [
             "email",
             {
               "type": [
@@ -315,7 +304,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2022-06-16T00:00:00+00:00"
+          "eventDate": "2026-09-02T00:00:00+00:00"
         }
       ]
     }
@@ -323,7 +312,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2026-07-07T00:00:00+00:00"
+      "eventDate": "2026-09-02T00:00:00+00:00"
     },
     {
       "eventAction": "registration",

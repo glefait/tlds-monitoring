@@ -194,7 +194,7 @@
               ]
             },
             "text",
-            "+59997442248"
+            "+59997442222 ext. 2821"
           ],
           [
             "tel",
@@ -225,7 +225,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2021-02-11T00:00:00+00:00"
+          "eventDate": "2026-09-02T00:00:00+00:00"
         }
       ]
     },
@@ -244,7 +244,7 @@
             "fn",
             {},
             "text",
-            "Leendert J.J. Pengel"
+            "Naidison Bregita"
           ],
           [
             "org",
@@ -284,7 +284,7 @@
               ]
             },
             "text",
-            "+59997442248"
+            "+59997442222 ext. 2403"
           ],
           [
             "tel",
@@ -315,7 +315,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2021-02-11T00:00:00+00:00"
+          "eventDate": "2026-09-02T00:00:00+00:00"
         }
       ]
     }
@@ -323,7 +323,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2025-07-07T00:00:00+00:00"
+      "eventDate": "2026-09-02T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
