@@ -109382,15 +109382,6 @@
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "kadushi.curinfo.cw",
-        "ipAddresses": {
-          "v4": [
-            "65.208.122.63"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
         "ldhName": "ns0.ja.net",
         "ipAddresses": {
           "v4": [
@@ -109400,15 +109391,6 @@
           "v6": [
             "2001:630:0:9::14",
             "2001:630:0:8::14"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
-        "ldhName": "ns01-server.curinfo.cw",
-        "ipAddresses": {
-          "v4": [
-            "65.208.122.36"
           ]
         }
       },
@@ -109686,7 +109668,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-09-02T00:00:00+00:00"
+        "eventDate": "2026-09-04T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -476610,6 +476592,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "88372B74ADB821C79FAC26E1883CC6BD96FF6EB97AAA1A9486BB4B3B26076D02"
+        },
+        {
+          "keyTag": 13541,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "CAC673C4F8B94CA8A18E39A0E4A0A516C10F8A63657673D1A610AFBFDAF1A91A"
         }
       ]
     },
@@ -476853,7 +476841,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2023-03-07T00:00:00+00:00"
+        "eventDate": "2026-09-04T00:00:00+00:00"
       },
       {
         "eventAction": "registration",

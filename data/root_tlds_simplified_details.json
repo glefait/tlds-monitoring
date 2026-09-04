@@ -26205,11 +26205,6 @@
           "2a13:27c0:30::86"
         ]
       },
-      "kadushi.curinfo.cw": {
-        "v4": [
-          "65.208.122.63"
-        ]
-      },
       "ns0.ja.net": {
         "v4": [
           "193.63.94.20",
@@ -26218,11 +26213,6 @@
         "v6": [
           "2001:630:0:9::14",
           "2001:630:0:8::14"
-        ]
-      },
-      "ns01-server.curinfo.cw": {
-        "v4": [
-          "65.208.122.36"
         ]
       },
       "ns1.bna.cw": {
@@ -113653,6 +113643,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "88372B74ADB821C79FAC26E1883CC6BD96FF6EB97AAA1A9486BB4B3B26076D02"
+        },
+        {
+          "keyTag": 13541,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "CAC673C4F8B94CA8A18E39A0E4A0A516C10F8A63657673D1A610AFBFDAF1A91A"
         }
       ]
     },
