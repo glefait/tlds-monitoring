@@ -299333,7 +299333,7 @@
               "fn",
               {},
               "text",
-              "SONITEL"
+              "Niger T\u00e9l\u00e9coms SA (NIGERTELECOMS)"
             ],
             [
               "role",
@@ -299345,7 +299345,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "Rue de l'Uranium\nNiamey 208\nNiger (the)"
+                "label": "Rue \u00c9changeur Mali B\u00e9ro\nNiamey 208\nNiger (the)"
               },
               "text",
               [
@@ -299366,7 +299366,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2010-03-08T00:00:00+00:00"
+            "eventDate": "2026-09-07T00:00:00+00:00"
           }
         ]
       },
@@ -299385,13 +299385,13 @@
               "fn",
               {},
               "text",
-              "Kimba YAYE"
+              "Responsable Administratif TLD"
             ],
             [
               "org",
               {},
               "text",
-              "SONITEL"
+              "Niger T\u00e9l\u00e9coms SA (NIGERTELECOMS)"
             ],
             [
               "role",
@@ -299403,7 +299403,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "Avenue du G\u00e9n\u00e9ral De Gaulle\nNiamey 208\nNiger (the)"
+                "label": "Rue Echangeur Mali B\u00e9ro\nNiamey 208\nNiger (the)"
               },
               "text",
               [
@@ -299425,7 +299425,86 @@
                 ]
               },
               "text",
-              "+227 20 72 27 75"
+              "+227 93 15 47 47"
+            ],
+            [
+              "email",
+              {
+                "type": [
+                  "work"
+                ]
+              },
+              "text",
+              "tld-admin@nigertelecoms.ne"
+            ]
+          ]
+        ],
+        "roles": [
+          "administrative"
+        ],
+        "events": [
+          {
+            "eventAction": "last changed",
+            "eventDate": "2026-09-07T00:00:00+00:00"
+          }
+        ]
+      },
+      {
+        "objectClassName": "entity",
+        "vcardArray": [
+          "vcard",
+          [
+            [
+              "version",
+              {},
+              "text",
+              "4.0"
+            ],
+            [
+              "fn",
+              {},
+              "text",
+              "Responsable Technique TLD"
+            ],
+            [
+              "org",
+              {},
+              "text",
+              "Niger T\u00e9l\u00e9coms SA (NIGERTELECOMS)"
+            ],
+            [
+              "role",
+              {},
+              "text",
+              "Technical Contact"
+            ],
+            [
+              "adr",
+              {
+                "type": "work",
+                "label": "Route Commissariat Central B\nNiamey 208\nNiger (the)"
+              },
+              "text",
+              [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            ],
+            [
+              "tel",
+              {
+                "type": [
+                  "work",
+                  "voice"
+                ]
+              },
+              "text",
+              "+227 93 77 77 41"
             ],
             [
               "tel",
@@ -299446,97 +299525,7 @@
                 ]
               },
               "text",
-              "kimba.yaye@sonitel.ne"
-            ]
-          ]
-        ],
-        "roles": [
-          "administrative"
-        ],
-        "events": [
-          {
-            "eventAction": "last changed",
-            "eventDate": "2011-11-12T00:00:00+00:00"
-          }
-        ]
-      },
-      {
-        "objectClassName": "entity",
-        "vcardArray": [
-          "vcard",
-          [
-            [
-              "version",
-              {},
-              "text",
-              "4.0"
-            ],
-            [
-              "fn",
-              {},
-              "text",
-              "Sadou SOLOKE"
-            ],
-            [
-              "org",
-              {},
-              "text",
-              "SONITEL"
-            ],
-            [
-              "role",
-              {},
-              "text",
-              "Technical Contact"
-            ],
-            [
-              "adr",
-              {
-                "type": "work",
-                "label": "64 Rue du Stade\nNiamey 208\nNiger (the)"
-              },
-              "text",
-              [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
-              ]
-            ],
-            [
-              "tel",
-              {
-                "type": [
-                  "work",
-                  "voice"
-                ]
-              },
-              "text",
-              "+227 20 72 21 80"
-            ],
-            [
-              "tel",
-              {
-                "type": [
-                  "work",
-                  "fax"
-                ]
-              },
-              "text",
-              "+227 20 72 58 12"
-            ],
-            [
-              "email",
-              {
-                "type": [
-                  "work"
-                ]
-              },
-              "text",
-              "sadou.soloke@sonitel.ne"
+              "tld-tech@nigertelecoms.ne"
             ]
           ]
         ],
@@ -299546,7 +299535,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2011-11-12T00:00:00+00:00"
+            "eventDate": "2026-09-07T00:00:00+00:00"
           }
         ]
       }
@@ -299554,7 +299543,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-08-05T00:00:00+00:00"
+        "eventDate": "2026-09-07T00:00:00+00:00"
       },
       {
         "eventAction": "registration",

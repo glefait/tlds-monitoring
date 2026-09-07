@@ -71138,28 +71138,28 @@
     },
     "entities": {
       "registrant": {
-        "fn": "SONITEL",
+        "fn": "Niger T\u00e9l\u00e9coms SA (NIGERTELECOMS)",
         "org": null,
-        "adr": "Rue de l'Uranium\nNiamey 208\nNiger (the)",
+        "adr": "Rue \u00c9changeur Mali B\u00e9ro\nNiamey 208\nNiger (the)",
         "tel": null,
         "email": null,
-        "last_change_date": "2010-03-08T00:00:00+00:00"
+        "last_change_date": "2026-09-07T00:00:00+00:00"
       },
       "administrative": {
-        "fn": "Kimba YAYE",
-        "org": "SONITEL",
-        "adr": "Avenue du G\u00e9n\u00e9ral De Gaulle\nNiamey 208\nNiger (the)",
-        "tel": "+227 20 73 58 12",
-        "email": "kimba.yaye@sonitel.ne",
-        "last_change_date": "2011-11-12T00:00:00+00:00"
+        "fn": "Responsable Administratif TLD",
+        "org": "Niger T\u00e9l\u00e9coms SA (NIGERTELECOMS)",
+        "adr": "Rue Echangeur Mali B\u00e9ro\nNiamey 208\nNiger (the)",
+        "tel": "+227 93 15 47 47",
+        "email": "tld-admin@nigertelecoms.ne",
+        "last_change_date": "2026-09-07T00:00:00+00:00"
       },
       "technical": {
-        "fn": "Sadou SOLOKE",
-        "org": "SONITEL",
-        "adr": "64 Rue du Stade\nNiamey 208\nNiger (the)",
-        "tel": "+227 20 72 58 12",
-        "email": "sadou.soloke@sonitel.ne",
-        "last_change_date": "2011-11-12T00:00:00+00:00"
+        "fn": "Responsable Technique TLD",
+        "org": "Niger T\u00e9l\u00e9coms SA (NIGERTELECOMS)",
+        "adr": "Route Commissariat Central B\nNiamey 208\nNiger (the)",
+        "tel": "+227 20 73 58 12",
+        "email": "tld-tech@nigertelecoms.ne",
+        "last_change_date": "2026-09-07T00:00:00+00:00"
       }
     },
     "secureDNS": {
