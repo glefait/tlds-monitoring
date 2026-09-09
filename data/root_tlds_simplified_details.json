@@ -6980,12 +6980,6 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 32902,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "E80A9F8ECA018ADE79925DA724A0CB0DBCF03C9A7049D20C9FB74B716AB7D329"
-        },
-        {
           "keyTag": 26642,
           "algorithm": 8,
           "digestType": 2,
@@ -57463,6 +57457,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "ED570AADC88713CE2775FB8AFFB2AD782D056EA21D0677E147F2FB7BF54404DA"
+        },
+        {
+          "keyTag": 64641,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "5CE9E65D92DCA71755A778AB80F8D6C57053AEA6CD57CB6B28B0A0581CE852DC"
         }
       ]
     },
