@@ -29876,7 +29876,15 @@
       }
     },
     "secureDNS": {
-      "delegationSigned": false
+      "delegationSigned": true,
+      "dsData": [
+        {
+          "keyTag": 61034,
+          "algorithm": 8,
+          "digestType": 2,
+          "digest": "0C2C47E824F78C04C693AD40D26847A634B89A498F0B874B5A3A736E24C0C9F6"
+        }
+      ]
     },
     "status": [
       "active"
@@ -65209,14 +65217,6 @@
         "v6": [
           "2001:41d0:401:3100::7162"
         ]
-      },
-      "nsr.dns.md": {
-        "v4": [
-          "89.32.236.165"
-        ],
-        "v6": [
-          "2a00:c5a0:0:aaaa:89:32:236:165"
-        ]
       }
     },
     "entities": {
@@ -87525,9 +87525,6 @@
       "c1.dns.sa": {
         "v4": [
           "86.111.192.9"
-        ],
-        "v6": [
-          "2001:67c:18c8:c0::c1"
         ]
       },
       "c2.dns.sa": {
@@ -121385,9 +121382,6 @@
       "c1.dns.sa": {
         "v4": [
           "86.111.192.9"
-        ],
-        "v6": [
-          "2001:67c:18c8:c0::c1"
         ]
       },
       "c2.dns.sa": {
@@ -123819,12 +123813,6 @@
     "secureDNS": {
       "delegationSigned": true,
       "dsData": [
-        {
-          "keyTag": 10384,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "10A432DBF0112CE38A83CED26F36CE36AAC7A3D37CEC8D07583C01A5E9FD8ED1"
-        },
         {
           "keyTag": 57157,
           "algorithm": 13,

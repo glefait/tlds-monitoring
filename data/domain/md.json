@@ -46,18 +46,6 @@
           "2001:41d0:401:3100::7162"
         ]
       }
-    },
-    {
-      "objectClassName": "nameserver",
-      "ldhName": "nsr.dns.md",
-      "ipAddresses": {
-        "v4": [
-          "89.32.236.165"
-        ],
-        "v6": [
-          "2a00:c5a0:0:aaaa:89:32:236:165"
-        ]
-      }
     }
   ],
   "secureDNS": {
@@ -289,7 +277,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2026-03-09T00:00:00+00:00"
+      "eventDate": "2026-09-10T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
