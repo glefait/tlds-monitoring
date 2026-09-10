@@ -350876,13 +350876,13 @@
               "fn",
               {},
               "text",
-              ".radio TLD Technical Contact"
+              "DNS lead"
             ],
             [
               "org",
               {},
               "text",
-              "CORE Association"
+              "CentralNic"
             ],
             [
               "role",
@@ -350894,7 +350894,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "Cours de Rive 2\nGeneva CH-1204\nSwitzerland"
+                "label": "Saddlers House, 4th Floor\n44 Gutter Lane\nLondon EC2V 6BR\nUnited Kingdom of Great Britain and Northern Ireland (the)"
               },
               "text",
               [
@@ -350916,7 +350916,7 @@
                 ]
               },
               "text",
-              "+41 22 312 5610"
+              "+44 20 33 88 0600"
             ],
             [
               "tel",
@@ -350927,7 +350927,7 @@
                 ]
               },
               "text",
-              "+41 22 312 5612"
+              "+44 20 33 88 0601"
             ],
             [
               "email",
@@ -350937,7 +350937,7 @@
                 ]
               },
               "text",
-              "dnsmaster@corenic.org"
+              "tld.ops@centralnic.com"
             ]
           ]
         ],
@@ -350947,7 +350947,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2016-10-12T00:00:00+00:00"
+            "eventDate": "2026-09-09T00:00:00+00:00"
           }
         ]
       }
@@ -350955,7 +350955,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-07-27T00:00:00+00:00"
+        "eventDate": "2026-09-09T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -350972,7 +350972,7 @@
       },
       {
         "rel": "alternate",
-        "href": "https://rdap.nic.radio/",
+        "href": "https://rdap.centralnic.com/radio/",
         "value": "https://rdap.iana.org/domain/radio",
         "title": "RDAP Server",
         "type": "application/rdap+json"

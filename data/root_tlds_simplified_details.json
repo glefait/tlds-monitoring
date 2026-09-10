@@ -83471,12 +83471,12 @@
         "last_change_date": "2026-02-26T00:00:00+00:00"
       },
       "technical": {
-        "fn": ".radio TLD Technical Contact",
-        "org": "CORE Association",
-        "adr": "Cours de Rive 2\nGeneva CH-1204\nSwitzerland",
-        "tel": "+41 22 312 5612",
-        "email": "dnsmaster@corenic.org",
-        "last_change_date": "2016-10-12T00:00:00+00:00"
+        "fn": "DNS lead",
+        "org": "CentralNic",
+        "adr": "Saddlers House, 4th Floor\n44 Gutter Lane\nLondon EC2V 6BR\nUnited Kingdom of Great Britain and Northern Ireland (the)",
+        "tel": "+44 20 33 88 0601",
+        "email": "tld.ops@centralnic.com",
+        "last_change_date": "2026-09-09T00:00:00+00:00"
       }
     },
     "secureDNS": {
