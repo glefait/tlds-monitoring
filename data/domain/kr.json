@@ -76,12 +76,6 @@
     "delegationSigned": true,
     "dsData": [
       {
-        "keyTag": 61615,
-        "algorithm": 8,
-        "digestType": 2,
-        "digest": "ED570AADC88713CE2775FB8AFFB2AD782D056EA21D0677E147F2FB7BF54404DA"
-      },
-      {
         "keyTag": 64641,
         "algorithm": 13,
         "digestType": 2,
@@ -329,7 +323,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2026-09-08T00:00:00+00:00"
+      "eventDate": "2026-09-16T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
@@ -343,6 +337,13 @@
       "value": "https://rdap.iana.org/domain/kr",
       "title": "Registration URL",
       "type": "text/html"
+    },
+    {
+      "rel": "alternate",
+      "href": "https://rdap.nic.or.kr",
+      "value": "https://rdap.iana.org/domain/kr",
+      "title": "RDAP Server",
+      "type": "application/rdap+json"
     },
     {
       "value": "https://rdap.iana.org/domain/kr",
