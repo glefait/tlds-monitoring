@@ -169270,6 +169270,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "A5CC38E38A2D92016AAAC71830FB380AFFFB9137BC360F97DD576BD73F9D39F6"
+        },
+        {
+          "keyTag": 52900,
+          "algorithm": 8,
+          "digestType": 2,
+          "digest": "92BED94FBC55A42EF77167EF5D6BFC28665D34DBE88B866798F9B1EF9ED97111"
         }
       ]
     },
@@ -169513,7 +169519,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-10-07T00:00:00+00:00"
+        "eventDate": "2026-09-22T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -232299,6 +232305,12 @@
           "algorithm": 13,
           "digestType": 2,
           "digest": "328711FC334D2F50AF0E54CC25F153904D6644E6E1E9C571C26020F28A8552E7"
+        },
+        {
+          "keyTag": 18294,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "6B235E3B7B6A940829EA411A1AFB743C2FE1060B17AE32A00563EC9F1A8D4381"
         }
       ]
     },
@@ -232542,7 +232554,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-09-25T00:00:00+00:00"
+        "eventDate": "2026-09-22T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
