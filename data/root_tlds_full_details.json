@@ -46805,16 +46805,16 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 17411,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "5585896549A2954516768F776E8A9E2610CBF5CBD7165389C0A5448435C71185"
-        },
-        {
           "keyTag": 62264,
           "algorithm": 8,
           "digestType": 2,
           "digest": "C4078EB7E70029E2BBED8F7271D9F7636C133746C0E3DC22EA7F1BFDA231B246"
+        },
+        {
+          "keyTag": 16165,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "45213CB31D25C008D3E888F9B4CE9B04C11ACA091077EEE4F2DFC330D7C232A2"
         }
       ]
     },
@@ -47047,7 +47047,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-09-02T00:00:00+00:00"
+        "eventDate": "2026-09-23T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -185792,6 +185792,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "FF87E9205F88E1D32C67A65BD61C68C56689C607D7684D12C867DC933D546EC8"
+        },
+        {
+          "keyTag": 51282,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "4B1CF09BC800F2FA7165C5CA25FFE05688B4EA86CF25DCAB1101DA9FE5B330BB"
         }
       ]
     },
@@ -186024,7 +186030,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-09-02T00:00:00+00:00"
+        "eventDate": "2026-09-23T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -431600,6 +431606,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "5D6E7869EE8E3B536A617DE89482DDD1DCB9DB9DBB1AC33D6ED351E2CA095B1B"
+        },
+        {
+          "keyTag": 41508,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "31422CDF4A9AF99914FF85C97D4FB2291F293C9ADB26011B39E7638A51E1C7DD"
         }
       ]
     },
@@ -431843,7 +431855,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-04-15T00:00:00+00:00"
+        "eventDate": "2026-09-23T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -510082,16 +510094,16 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 18404,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "1DBC70CB85267DA1054F652AC0B4AEEB76F17FB9648A490F4A0BB0D934BF6AC3"
-        },
-        {
           "keyTag": 43307,
           "algorithm": 8,
           "digestType": 2,
           "digest": "F81DACC26855561EC37FFD774F722C2C5F07A181C611114AE28724460001FD39"
+        },
+        {
+          "keyTag": 22024,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "7D1259CCEACB19EA52D0EDE37F98E085B560C9C8D5A5CF696DC38411C7DF2C2E"
         }
       ]
     },
@@ -510324,7 +510336,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-09-02T00:00:00+00:00"
+        "eventDate": "2026-09-23T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
