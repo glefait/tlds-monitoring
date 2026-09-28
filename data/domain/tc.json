@@ -341,7 +341,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2026-03-27T00:00:00+00:00"
+      "eventDate": "2026-09-28T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
@@ -351,7 +351,7 @@
   "links": [
     {
       "rel": "related",
-      "href": "HTTPS://WWW.NIC.TC",
+      "href": "https://www.nic.tc",
       "value": "https://rdap.iana.org/domain/tc",
       "title": "Registration URL",
       "type": "text/html"

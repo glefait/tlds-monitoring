@@ -46805,12 +46805,6 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 62264,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "C4078EB7E70029E2BBED8F7271D9F7636C133746C0E3DC22EA7F1BFDA231B246"
-        },
-        {
           "keyTag": 16165,
           "algorithm": 13,
           "digestType": 2,
@@ -47047,7 +47041,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-09-23T00:00:00+00:00"
+        "eventDate": "2026-09-28T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -47055,6 +47049,20 @@
       }
     ],
     "links": [
+      {
+        "rel": "related",
+        "href": "https://register.bh",
+        "value": "https://rdap.iana.org/domain/bh",
+        "title": "Registration URL",
+        "type": "text/html"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://rdap.bhregistry.bh/rdap/",
+        "value": "https://rdap.iana.org/domain/bh",
+        "title": "RDAP Server",
+        "type": "application/rdap+json"
+      },
       {
         "value": "https://rdap.iana.org/domain/bh",
         "rel": "self",
@@ -240948,16 +240956,16 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 10051,
-          "algorithm": 7,
-          "digestType": 2,
-          "digest": "F265871198C769849F8ACF952F01FCD412C9B3DC5DBF8FCA98911D5052C0A240"
-        },
-        {
           "keyTag": 6010,
           "algorithm": 7,
           "digestType": 2,
           "digest": "E5A8E92B179784641C4FCB989BD6946EA85A03812039F5061922D1815992FBC6"
+        },
+        {
+          "keyTag": 17925,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "E83D7B33FD0AF60B6983C8C15830DE3B8F3C16C0B1A3163DD2368797885A893B"
         }
       ]
     },
@@ -241190,7 +241198,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2024-06-04T00:00:00+00:00"
+        "eventDate": "2026-09-28T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -362421,6 +362429,18 @@
       },
       {
         "objectClassName": "nameserver",
+        "ldhName": "dns-d.rotld.ro",
+        "ipAddresses": {
+          "v4": [
+            "194.102.178.21"
+          ],
+          "v6": [
+            "2a03:5e81::194:102:178:21"
+          ]
+        }
+      },
+      {
+        "objectClassName": "nameserver",
         "ldhName": "dns-ro.denic.de",
         "ipAddresses": {
           "v4": [
@@ -362716,7 +362736,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-04-28T00:00:00+00:00"
+        "eventDate": "2026-09-28T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -418380,7 +418400,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-03-27T00:00:00+00:00"
+        "eventDate": "2026-09-28T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -418390,7 +418410,7 @@
     "links": [
       {
         "rel": "related",
-        "href": "HTTPS://WWW.NIC.TC",
+        "href": "https://www.nic.tc",
         "value": "https://rdap.iana.org/domain/tc",
         "title": "Registration URL",
         "type": "text/html"
@@ -510088,12 +510108,6 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 43307,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "F81DACC26855561EC37FFD774F722C2C5F07A181C611114AE28724460001FD39"
-        },
-        {
           "keyTag": 22024,
           "algorithm": 13,
           "digestType": 2,
@@ -510330,7 +510344,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-09-23T00:00:00+00:00"
+        "eventDate": "2026-09-28T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -510338,6 +510352,20 @@
       }
     ],
     "links": [
+      {
+        "rel": "related",
+        "href": "https://register.bh",
+        "value": "https://rdap.iana.org/domain/xn--mgbcpq6gpa1a",
+        "title": "Registration URL",
+        "type": "text/html"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://rdap.bhregistry.bh/rdap/",
+        "value": "https://rdap.iana.org/domain/xn--mgbcpq6gpa1a",
+        "title": "RDAP Server",
+        "type": "application/rdap+json"
+      },
       {
         "value": "https://rdap.iana.org/domain/xn--mgbcpq6gpa1a",
         "rel": "self",

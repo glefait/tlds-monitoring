@@ -58,12 +58,6 @@
     "delegationSigned": true,
     "dsData": [
       {
-        "keyTag": 62264,
-        "algorithm": 8,
-        "digestType": 2,
-        "digest": "C4078EB7E70029E2BBED8F7271D9F7636C133746C0E3DC22EA7F1BFDA231B246"
-      },
-      {
         "keyTag": 16165,
         "algorithm": 13,
         "digestType": 2,
@@ -300,7 +294,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2026-09-23T00:00:00+00:00"
+      "eventDate": "2026-09-28T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
@@ -308,6 +302,20 @@
     }
   ],
   "links": [
+    {
+      "rel": "related",
+      "href": "https://register.bh",
+      "value": "https://rdap.iana.org/domain/bh",
+      "title": "Registration URL",
+      "type": "text/html"
+    },
+    {
+      "rel": "alternate",
+      "href": "https://rdap.bhregistry.bh/rdap/",
+      "value": "https://rdap.iana.org/domain/bh",
+      "title": "RDAP Server",
+      "type": "application/rdap+json"
+    },
     {
       "value": "https://rdap.iana.org/domain/bh",
       "rel": "self",
