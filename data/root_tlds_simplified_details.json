@@ -741,6 +741,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "5589C84DDBF5B50DB5C8A9D5CEA939409C24CE6369F7013F683A0BCA912AC8F3"
+        },
+        {
+          "keyTag": 45603,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "D00716D1D2519ED1CBD8D95F9B21B10A34658C916409B4FB3E85215187EB02A3"
         }
       ]
     },
@@ -1723,6 +1729,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "8D2CCAD69F8EBA3C73214B4877386921586CA56F105B44FC91CEEF1B4AB59B80"
+        },
+        {
+          "keyTag": 18595,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "037F59DAB5D62D9CF562C6330BDF2AB037932C15BD9305581CA142E61F91379D"
         }
       ]
     },
@@ -10664,6 +10676,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "32940AB06D3524457F9DDEAD6C3C0C76729EEC27C5CC02244CEA24E9FD9E47F4"
+        },
+        {
+          "keyTag": 53101,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "1F45817D7FC7DFF0535C7B1516DB537D6E752354A6A040C6895901658BF4057E"
         }
       ]
     },
@@ -12357,12 +12375,6 @@
     "secureDNS": {
       "delegationSigned": true,
       "dsData": [
-        {
-          "keyTag": 47938,
-          "algorithm": 13,
-          "digestType": 2,
-          "digest": "92074D73F8C4E1B874E8C6B3F76C6994A02D962A948C94E1A504DFD7CA1CDA4B"
-        },
         {
           "keyTag": 55540,
           "algorithm": 13,
@@ -14191,6 +14203,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "253F8A2AA4BF2067B9B72BA983849F63A1B8482A1CF613879196482D1FFA2038"
+        },
+        {
+          "keyTag": 5550,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "217D4F791AE837AB6DDA638F270AF3F5D2C067225AEBF5B16D6C0D3024A338F7"
         }
       ]
     },
@@ -18143,6 +18161,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "9870940F409B2A9D22AB87E5239F8A18B1C44A9B6528ECD318DD78D23EAC761B"
+        },
+        {
+          "keyTag": 60588,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "A1A2D37EEBE435D51DB3ADE82A09C55BABA4B8D410DF8730EDF3D0030894DC3F"
         }
       ]
     },
@@ -23661,6 +23685,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "3B57AC3D5396B250896E78B988F741BEACF93733DAF02048F86763AEA3272445"
+        },
+        {
+          "keyTag": 37375,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "B3C0B06F7CDF81FC6BA071D0E5CF9967A3B5A60F7A5F78088C64F23EF39BFF6C"
         }
       ]
     },
@@ -24413,6 +24443,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "1EBFD6587779A23692ABF0AF38F79AB41282E544AB54F04A6C07168523234587"
+        },
+        {
+          "keyTag": 49001,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "94D6B836209238D777BB696CBFB7CF1779BC9D83F316B3482F97AE793F50FA58"
         }
       ]
     },
@@ -25029,6 +25065,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "0F2AC6152763313A36B063646929B4B8B35B5E4C0EAF12D54EC3982A78157D2D"
+        },
+        {
+          "keyTag": 30039,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "5A9F365CF07A6EB5D1B5D2622BC6C30B58D4552E6AD04704C04282457F4E6F4E"
         }
       ]
     },
@@ -27496,6 +27538,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "653AC51723253E888C2887191E1F89C34C4ECEF2F18E4EEB247F1FAAE3AFC6B2"
+        },
+        {
+          "keyTag": 37624,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "589305842426B1ECBF061F0C97C5F51D9BC369BB34C2480DE7405434B92C028C"
         }
       ]
     },
@@ -35359,6 +35407,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "317F7BE09221A412B8DBE4D8AB6C620083D9A3BAAC4064EE4A7C2A1F5ECA6C7E"
+        },
+        {
+          "keyTag": 38266,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "E1CB8180D0AF7AE9951EF97F0E299E4383E3FED719A2B97A7BEC3F3906BBE5D6"
         }
       ]
     },
@@ -37020,6 +37074,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "964CF669D1EC486A61CD6BE09167B36D5FDA20B21FF3950F4E1A2373BEEA3E66"
+        },
+        {
+          "keyTag": 21471,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "CD76D8A8CCDB036F24027E99A811E6212F9A889283A2D9F66D1328B2E671296C"
         }
       ]
     },
@@ -40784,6 +40844,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "2D10A23A8DFEB7B80721476D3DCC5A5D31A61BE1D7D3B5BF6F15F4A2747B347B"
+        },
+        {
+          "keyTag": 32309,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "EF355111FDB007D1D0EFA7578153C2C4319DA2D2689AA1325C55894BC729CE0A"
         }
       ]
     },
@@ -40880,6 +40946,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "960F543D3EAD5C2E0FD6D1E792265F7C795170D793ACD073F84C52A2F72EEA85"
+        },
+        {
+          "keyTag": 60150,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "1ED41DC71FFAD0AB62A25746A0F317D5AFF6D463E60B3D6F7828D9C0E315D5ED"
         }
       ]
     },
@@ -43389,6 +43461,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "B9BFFDCD6A38A5A0E6C73CA45AE8F0B66799AE35A1B2CEA3C237F7F1910C9967"
+        },
+        {
+          "keyTag": 38621,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "EC86EB24026666F0806FDEEB1C16E718D20F4D6CF5E9CF86DD931D88EE66CEF0"
         }
       ]
     },
@@ -46649,6 +46727,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "B1F415477AD6386ECEB54957A181EC70D0B3CCDBC09C5DF6DCDD063F69BF0631"
+        },
+        {
+          "keyTag": 42514,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "6C2D9AFF5DC706911B1350847471E998B0F2B3AE7002CDEDE82F85A84F6F21A5"
         }
       ]
     },
@@ -48544,6 +48628,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "04C915E78C75DCB656AEF6CE2423935D826C60319A9EAE29AC71F9E745C38975"
+        },
+        {
+          "keyTag": 26614,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "08C707DD8F53E3C7629D4E481EB6B08F346FDC92618952B666269C863E95F345"
         }
       ]
     },
@@ -51897,6 +51987,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "9AE237CAC9D9160455E023B1097161F066C986F9821247DD279B1C84F5163716"
+        },
+        {
+          "keyTag": 19420,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "86823B1A050775698FCC87018A32EB90DA2D9F93C83E7405F5366D6A902BFEDF"
         }
       ]
     },
@@ -59092,6 +59188,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "F6DAAB5F4FC2A7D48C9E97623C3F0D478586FA882732BA0F86C31B291AD2F3F6"
+        },
+        {
+          "keyTag": 56101,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "BAD21EA40A5CA8B665BB1A9623069B2FDBD1550AF5CD3A65F9C108DBCF3057BD"
         }
       ]
     },
@@ -63303,6 +63405,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "195B8FCF70C5028B4C75368EE18A455CAEB9330C8BB85141C4F071FB94833A40"
+        },
+        {
+          "keyTag": 30503,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "8348DF9B729F35526C93CD795EF8AB3FBE2FEA45FAEA9987CA31E4F16856EEFA"
         }
       ]
     },
@@ -65745,6 +65853,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "6D9AAF608C610BEA2A8CE99B8870E02E7EC8CD2A8C1A76D363CD813A682F5513"
+        },
+        {
+          "keyTag": 33620,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "3AB3E6375C4040FEE5F5183D418BC146F78F9B852DCCDDCFFC07E64AAFBE5FBD"
         }
       ]
     },
@@ -66514,6 +66628,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "4B9F71133648B60BE8D6D6742A698E1E6CC62B84EC278F643824690735549056"
+        },
+        {
+          "keyTag": 29792,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "21E8E0754C2E8B5576F47610CE0073FED4C0EE8FEC249EE313431733E0A2388B"
         }
       ]
     },
@@ -74536,6 +74656,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "37F945F2D915698DCDA12F80C7306150223270F78EC1D96FFFEB163A2B1EAC22"
+        },
+        {
+          "keyTag": 62807,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "8999204AC82E1BAE1B13C8DE958074716AB3312E2062CFFF667A19F431319D6E"
         }
       ]
     },
@@ -76871,7 +76997,7 @@
       "active"
     ],
     "port43": null,
-    "registration_url": "http://www.nic.pa/",
+    "registration_url": "https://nic.pa",
     "creation_date": "1994-05-25T00:00:00+00:00"
   },
   "page": {
@@ -78625,12 +78751,6 @@
     "secureDNS": {
       "delegationSigned": true,
       "dsData": [
-        {
-          "keyTag": 8311,
-          "algorithm": 13,
-          "digestType": 2,
-          "digest": "7F11B4D8E82F14ACE5ADCFA2C5CB6701D6E40D87C4F92B129AA62118A7890BEB"
-        },
         {
           "keyTag": 5887,
           "algorithm": 13,
@@ -80985,6 +81105,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "6FC2A5CC5949B5300AA6BDFDD041D34BA5AB08604F22F7B3E34654FB22F89B68"
+        },
+        {
+          "keyTag": 43446,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "F495A177FF3A61EE3E959E4268B64D5865D9EC947C7256E3298CD73B6E9148D9"
         }
       ]
     },
@@ -86549,6 +86675,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "75B8726A0F8B07D958FF6E8EF2EB31AD19650920865EBA6382171422B3BFCDC0"
+        },
+        {
+          "keyTag": 18924,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "5FC702DA9BB65FA2A5E19695D3E58910AAEECE9CB360487A485076357BCED735"
         }
       ]
     },
@@ -91096,6 +91228,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "5EE0DCF207475272E3D80571D3454D3EEE5753F3D71A102B58D38D14937EACC2"
+        },
+        {
+          "keyTag": 34382,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "5D700F364C1A53B185E7FA558FB93C7C7FACE9F2BDFD3E726E9F52D7A94515DA"
         }
       ]
     },
@@ -91560,6 +91698,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "E7625E71A6BC32BF10D612BA2D17E02E62641A5293100A82F389CA415CC71BFC"
+        },
+        {
+          "keyTag": 53390,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "5E91CA815BBA9766847DAB1206BA90BADAB712E65FE7FA88907109F35245DCEF"
         }
       ]
     },
@@ -97131,6 +97275,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "4B9E5E4B221D060C3DA6B8CF0CBE64E526C00ED82CE0D634E52A22AB4D1602CB"
+        },
+        {
+          "keyTag": 14288,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "EE354DAB98212FC54B3E9D95287A8A26276CF62B718DD2C32EFD42E58F45B8C2"
         }
       ]
     },
@@ -97803,6 +97953,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "62E4B7017888F8EBE2231145A20D9378419290F0ABA9C5D561AFCBD1EC92D176"
+        },
+        {
+          "keyTag": 59332,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "B170CB7E39F2936049A05F3CA2C415541D9EBF233AC179F5A393F8989B9590AA"
         }
       ]
     },
@@ -98503,6 +98659,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "6F8BEC880CB37266B04E5B34A8A61238404DDCA2AC3EFCFD47BF641E650D3D78"
+        },
+        {
+          "keyTag": 45905,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "C30FE55699A8028D210A956A9D5665321DA5FD3B00B7501B0FB196D110D0470A"
         }
       ]
     },
@@ -108850,6 +109012,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "7286A1B64C79D57E7D499442EDC470AA0685280D2DC642AF97615E215154A50B"
+        },
+        {
+          "keyTag": 29978,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "A1153EF39B4A5BCFE9D9F669773A87B9EE18C0318704E3B9E4C1D74C940384DA"
         }
       ]
     },
@@ -110816,6 +110984,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "4D92964EE9FD15BB3ADB2D0D06C44B6E0FF864F19AD1CED67AB020A9921F5460"
+        },
+        {
+          "keyTag": 41906,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "C0AA16DCA6E05352DEAB3534774E94BE31018570A1AA834367992AA4E0EE4E3D"
         }
       ]
     },
@@ -111298,6 +111472,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "C72478A4986A5330FB21A2E427823553131D70C399DDBCFEDEE395103CA8543D"
+        },
+        {
+          "keyTag": 46628,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "B92F8BAD0536304D62AD511D839148AF7DC3800224B1AEF81BA936C0D63F64AD"
         }
       ]
     },
@@ -112072,6 +112252,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "499017AA972A79021573AF6624DDB5DEA13562ABB2C356FA30456E4604F3D4D7"
+        },
+        {
+          "keyTag": 33659,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "6AAB91938A7BCE10243618D555219809DCF2DAECFB12F706BD5EF217371D3585"
         }
       ]
     },
@@ -122401,6 +122587,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "662B4AB8C83D78983F29DA731E7B495A7B249F8C714268631E21CD1E88370087"
+        },
+        {
+          "keyTag": 39079,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "807069F4AA4C215CC6FE3D832FD16EA785B305EE315E95AD94622033C48B7B7C"
         }
       ]
     },
@@ -126042,6 +126234,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "39FE8AE19E8383391804637C5E219EA82B4AC7EC34368696E3C02B4756A59DA8"
+        },
+        {
+          "keyTag": 32177,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "FDD5D28E807FFBC169CAAA26BA1EE9C3349D66C7F606A0E93A0E07EED9422B4F"
         }
       ]
     },
@@ -126755,6 +126953,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "1CD19FF5B29EB880307E17A1168AFCDD493DA3B36A34242FFC91EB1E8E3882EC"
+        },
+        {
+          "keyTag": 30810,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "59C5B16C4B611F8892282200A25784A8A97A4DDF063E22F96997D4C88F7CC422"
         }
       ]
     },
