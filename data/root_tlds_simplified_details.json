@@ -28884,6 +28884,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "EAEC6E1B661B0264846FF8F70858CC63711F0627781386B9024360656679ECF5"
+        },
+        {
+          "keyTag": 44378,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "7360EC8679D6934E3EA8AFF35239AA73CA641A0DF061D4F39E781E31DC9BD247"
         }
       ]
     },
@@ -36978,6 +36984,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "8137BF33700CFB755C53EFA2EB3B80AC9630B05BEFB7E8AF34DD079E131D2C01"
+        },
+        {
+          "keyTag": 25249,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "D1E8A786FEA345A5915278DF1868F03E39F1D9B52F1BB580D9EB3D2ECFF901FB"
         }
       ]
     },
