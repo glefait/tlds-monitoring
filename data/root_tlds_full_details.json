@@ -232736,47 +232736,6 @@
       }
     ]
   },
-  "juniper": {
-    "rdapConformance": [
-      "rdap_level_0"
-    ],
-    "errorCode": 404,
-    "title": "Not Found",
-    "description": [
-      "Domain not found :",
-      "juniper"
-    ],
-    "notices": [
-      {
-        "title": "Terms of Service",
-        "description": [
-          "Terms of Service"
-        ],
-        "links": [
-          {
-            "rel": "related",
-            "type": "text/html",
-            "href": "https://www.icann.org/privacy/tos",
-            "value": "https://rdap.iana.org/domain/juniper"
-          }
-        ]
-      },
-      {
-        "title": "Privacy Policy",
-        "description": [
-          "Privacy Policy"
-        ],
-        "links": [
-          {
-            "rel": "related",
-            "type": "text/html",
-            "href": "https://www.icann.org/privacy/policy",
-            "value": "https://rdap.iana.org/domain/juniper"
-          }
-        ]
-      }
-    ]
-  },
   "kaufen": {
     "rdapConformance": [
       "rdap_level_0"
