@@ -31777,26 +31777,26 @@
       "registrant": {
         "fn": "ECUADORDOMAIN S.A.",
         "org": null,
-        "adr": "Avenida Rep\u00fablica y pradera Edificio Torre Republica\nQuito\nEcuador",
+        "adr": "Avenida Rep\u00fablica del Salvador y N34-127 y Suiza\nQuito\nEcuador",
         "tel": null,
         "email": null,
-        "last_change_date": "2023-01-31T00:00:00+00:00"
+        "last_change_date": "2026-10-01T00:00:00+00:00"
       },
       "administrative": {
         "fn": "ECUADORDOMAIN S.A.",
         "org": null,
-        "adr": "Avenida Rep\u00fablica y pradera Edificio Torre Republica\nQuito\nEcuador",
-        "tel": "+593 98 432 4607",
-        "email": "administracion@nic.ec",
-        "last_change_date": "2023-07-18T00:00:00+00:00"
+        "adr": "Avenida Rep\u00fablica del Salvador N34-127 y Suiza\nQuito Pichincha\nEcuador",
+        "tel": "+593 962982948",
+        "email": "gerenciaoperaciones@nic.ec",
+        "last_change_date": "2026-10-01T00:00:00+00:00"
       },
       "technical": {
         "fn": "ECUADORDOMAIN S.A.",
         "org": null,
-        "adr": "Avenida Rep\u00fablica y pradera Edificio Torre Republica\nQuito\nEcuador",
-        "tel": "+593 99 512 4454",
+        "adr": "Avenida Rep\u00fablica del Salvador N34-127 y Suiza\nQuito Pinchincha\nEcuador",
+        "tel": "+593962953108",
         "email": "admin@nic.ec",
-        "last_change_date": "2023-07-18T00:00:00+00:00"
+        "last_change_date": "2026-10-01T00:00:00+00:00"
       }
     },
     "secureDNS": {
