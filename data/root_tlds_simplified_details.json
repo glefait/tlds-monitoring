@@ -57411,12 +57411,6 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 6010,
-          "algorithm": 7,
-          "digestType": 2,
-          "digest": "E5A8E92B179784641C4FCB989BD6946EA85A03812039F5061922D1815992FBC6"
-        },
-        {
           "keyTag": 17925,
           "algorithm": 13,
           "digestType": 2,
@@ -101778,11 +101772,6 @@
           "91.218.160.197"
         ]
       },
-      "ns2.tojikiston.com": {
-        "v4": [
-          "193.111.11.4"
-        ]
-      },
       "phloem.uoregon.edu": {
         "v4": [
           "128.223.32.35"
@@ -101796,7 +101785,7 @@
           "193.0.9.117"
         ],
         "v6": [
-          "2001:67c:e0::117"
+          "2a13:27c0:30::117"
         ]
       }
     },

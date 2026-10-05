@@ -240697,12 +240697,6 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 6010,
-          "algorithm": 7,
-          "digestType": 2,
-          "digest": "E5A8E92B179784641C4FCB989BD6946EA85A03812039F5061922D1815992FBC6"
-        },
-        {
           "keyTag": 17925,
           "algorithm": 13,
           "digestType": 2,
@@ -240939,7 +240933,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-09-28T00:00:00+00:00"
+        "eventDate": "2026-10-05T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -426564,15 +426558,6 @@
       },
       {
         "objectClassName": "nameserver",
-        "ldhName": "ns2.tojikiston.com",
-        "ipAddresses": {
-          "v4": [
-            "193.111.11.4"
-          ]
-        }
-      },
-      {
-        "objectClassName": "nameserver",
         "ldhName": "phloem.uoregon.edu",
         "ipAddresses": {
           "v4": [
@@ -426591,7 +426576,7 @@
             "193.0.9.117"
           ],
           "v6": [
-            "2001:67c:e0::117"
+            "2a13:27c0:30::117"
           ]
         }
       }
@@ -426839,7 +426824,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2020-03-09T00:00:00+00:00"
+        "eventDate": "2026-10-05T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
@@ -449726,7 +449711,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2026-04-29T00:00:00+00:00"
+        "eventDate": "2026-10-05T00:00:00+00:00"
       },
       {
         "eventAction": "registration",
