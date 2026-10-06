@@ -481296,7 +481296,7 @@
               "fn",
               {},
               "text",
-              "Global Website TLD Asia Limited"
+              "Jolly Host, LLC"
             ],
             [
               "role",
@@ -481308,7 +481308,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "12/F, Daily House\n35-37 Haiphong Road\nTsim Sha Tsui Kowloon\nHong Kong"
+                "label": "c/o Identity Digital Inc. 10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)"
               },
               "text",
               [
@@ -481329,7 +481329,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2023-01-18T00:00:00+00:00"
+            "eventDate": "2026-10-06T00:00:00+00:00"
           }
         ]
       },
@@ -481348,13 +481348,13 @@
               "fn",
               {},
               "text",
-              "Admin Contact"
+              "Vice President, Engineering"
             ],
             [
               "org",
               {},
               "text",
-              "Global Website TLD Asia Limited"
+              "Identity Digital Inc."
             ],
             [
               "role",
@@ -481366,7 +481366,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "12/F, Daily House\n35-37 Haiphong Road\nTsim Sha Tsui Kowloon\nHong Kong"
+                "label": "10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)"
               },
               "text",
               [
@@ -481388,7 +481388,7 @@
                 ]
               },
               "text",
-              "+852 2244 7900"
+              "+1.425.298.2200"
             ],
             [
               "tel",
@@ -481399,7 +481399,7 @@
                 ]
               },
               "text",
-              "+852 2244 7902"
+              "+1.425.671.0020"
             ],
             [
               "email",
@@ -481409,7 +481409,7 @@
                 ]
               },
               "text",
-              "globalwebsiteasia@namesphere.asia"
+              "tldadmin@identity.digital"
             ]
           ]
         ],
@@ -481419,7 +481419,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2023-01-18T00:00:00+00:00"
+            "eventDate": "2026-10-06T00:00:00+00:00"
           }
         ]
       },
@@ -481438,13 +481438,13 @@
               "fn",
               {},
               "text",
-              "Howard Eland, Senior Director, DNS Infrastructure Group"
+              "Senior Director, DNS Infrastructure Group"
             ],
             [
               "org",
               {},
               "text",
-              "Identity Digital Inc."
+              "Identity Digital Limited"
             ],
             [
               "role",
@@ -481456,7 +481456,7 @@
               "adr",
               {
                 "type": "work",
-                "label": "10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)"
+                "label": "c/o Identity Digital Inc. 10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)"
               },
               "text",
               [
@@ -481509,7 +481509,7 @@
         "events": [
           {
             "eventAction": "last changed",
-            "eventDate": "2025-01-20T00:00:00+00:00"
+            "eventDate": "2026-10-06T00:00:00+00:00"
           }
         ]
       }
@@ -481517,7 +481517,7 @@
     "events": [
       {
         "eventAction": "last changed",
-        "eventDate": "2025-01-20T00:00:00+00:00"
+        "eventDate": "2026-10-06T00:00:00+00:00"
       },
       {
         "eventAction": "registration",

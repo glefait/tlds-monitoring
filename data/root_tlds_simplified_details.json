@@ -114877,28 +114877,28 @@
     },
     "entities": {
       "registrant": {
-        "fn": "Global Website TLD Asia Limited",
+        "fn": "Jolly Host, LLC",
         "org": null,
-        "adr": "12/F, Daily House\n35-37 Haiphong Road\nTsim Sha Tsui Kowloon\nHong Kong",
+        "adr": "c/o Identity Digital Inc. 10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)",
         "tel": null,
         "email": null,
-        "last_change_date": "2023-01-18T00:00:00+00:00"
+        "last_change_date": "2026-10-06T00:00:00+00:00"
       },
       "administrative": {
-        "fn": "Admin Contact",
-        "org": "Global Website TLD Asia Limited",
-        "adr": "12/F, Daily House\n35-37 Haiphong Road\nTsim Sha Tsui Kowloon\nHong Kong",
-        "tel": "+852 2244 7902",
-        "email": "globalwebsiteasia@namesphere.asia",
-        "last_change_date": "2023-01-18T00:00:00+00:00"
-      },
-      "technical": {
-        "fn": "Howard Eland, Senior Director, DNS Infrastructure Group",
+        "fn": "Vice President, Engineering",
         "org": "Identity Digital Inc.",
         "adr": "10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)",
         "tel": "+1.425.671.0020",
+        "email": "tldadmin@identity.digital",
+        "last_change_date": "2026-10-06T00:00:00+00:00"
+      },
+      "technical": {
+        "fn": "Senior Director, DNS Infrastructure Group",
+        "org": "Identity Digital Limited",
+        "adr": "c/o Identity Digital Inc. 10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)",
+        "tel": "+1.425.671.0020",
         "email": "tldtech@identity.digital",
-        "last_change_date": "2025-01-20T00:00:00+00:00"
+        "last_change_date": "2026-10-06T00:00:00+00:00"
       }
     },
     "secureDNS": {
