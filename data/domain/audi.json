@@ -142,7 +142,7 @@
             "org",
             {},
             "text",
-            "STACKIT GmbH & Co. KG"
+            "Schwarz Digits Cloud GmbH & Co. KG"
           ],
           [
             "role",
@@ -154,7 +154,7 @@
             "adr",
             {
               "type": "work",
-              "label": "Stiftsbergstr. 1\nNeckarsulm Baden-Wuerttemberg 74172\nGermany"
+              "label": "Am Campus 1\nFriedrichshall Baden-Wuerttemberg 74177\nGermany"
             },
             "text",
             [
@@ -186,7 +186,7 @@
               ]
             },
             "text",
-            "domainservices@stackit.cloud"
+            "domainservices@digits.schwarz"
           ]
         ]
       ],
@@ -196,7 +196,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2025-03-07T00:00:00+00:00"
+          "eventDate": "2026-10-12T00:00:00+00:00"
         }
       ]
     },
@@ -294,7 +294,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2025-03-07T00:00:00+00:00"
+      "eventDate": "2026-10-12T00:00:00+00:00"
     },
     {
       "eventAction": "registration",

@@ -173,17 +173,6 @@
             "+92 (332) 477-1656"
           ],
           [
-            "tel",
-            {
-              "type": [
-                "work",
-                "fax"
-              ]
-            },
-            "text",
-            "+1 (800) 835-9892"
-          ],
-          [
             "email",
             {
               "type": [
@@ -201,7 +190,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2022-07-06T00:00:00+00:00"
+          "eventDate": "2026-10-12T00:00:00+00:00"
         }
       ]
     },
@@ -288,7 +277,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2026-10-09T00:00:00+00:00"
+      "eventDate": "2026-10-12T00:00:00+00:00"
     },
     {
       "eventAction": "registration",

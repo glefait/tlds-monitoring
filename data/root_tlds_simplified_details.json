@@ -7149,11 +7149,11 @@
       },
       "administrative": {
         "fn": "Domain Solutions",
-        "org": "STACKIT GmbH & Co. KG",
-        "adr": "Stiftsbergstr. 1\nNeckarsulm Baden-Wuerttemberg 74172\nGermany",
+        "org": "Schwarz Digits Cloud GmbH & Co. KG",
+        "adr": "Am Campus 1\nFriedrichshall Baden-Wuerttemberg 74177\nGermany",
         "tel": "+49 7131 7999 222",
-        "email": "domainservices@stackit.cloud",
-        "last_change_date": "2025-03-07T00:00:00+00:00"
+        "email": "domainservices@digits.schwarz",
+        "last_change_date": "2026-10-12T00:00:00+00:00"
       },
       "technical": {
         "fn": "Senior Director, DNS Infrastructure Group",
@@ -51430,20 +51430,20 @@
         "last_change_date": "2026-04-15T00:00:00+00:00"
       },
       "administrative": {
-        "fn": "Rajiv Kumar",
+        "fn": "CEO-NIXI",
         "org": "National Internet Exchange of India",
         "adr": "B-901 9th Floor, Tower B World Trade Center, Nauroji Nagar\nNew Delhi 110 029\nIndia",
-        "tel": "+91 11 48202013",
+        "tel": "+91 11 48202015",
         "email": "registry@nixi.in",
-        "last_change_date": "2026-04-15T00:00:00+00:00"
+        "last_change_date": "2026-10-12T00:00:00+00:00"
       },
       "technical": {
-        "fn": "Rajiv Kumar",
+        "fn": "Rohit Kumar",
         "org": "National Internet Exchange of India",
         "adr": "B-901 9th Floor, Tower B World Trade Center, Nauroji Nagar\nNew Delhi 110 029\nIndia",
-        "tel": "+91 11 48202013",
+        "tel": "+91 11 48202015",
         "email": "rajiv@nixi.in",
-        "last_change_date": "2026-04-15T00:00:00+00:00"
+        "last_change_date": "2026-10-12T00:00:00+00:00"
       }
     },
     "secureDNS": {
@@ -58295,11 +58295,11 @@
       },
       "administrative": {
         "fn": "Domain Solutions",
-        "org": "STACKIT GmbH & Co. KG",
-        "adr": "Stiftsbergstr. 1\nNeckarsulm Baden-Wuerttemberg 74172\nGermany",
+        "org": "Schwarz Digits Cloud GmbH & Co. KG",
+        "adr": "Am Campus 1\nFriedrichshall Baden-Wuerttemberg 74177\nGermany",
         "tel": "+49 7131 7999 222",
-        "email": "domainservices@stackit.cloud",
-        "last_change_date": "2025-03-07T00:00:00+00:00"
+        "email": "domainservices@digits.schwarz",
+        "last_change_date": "2026-10-12T00:00:00+00:00"
       },
       "technical": {
         "fn": "Senior Director, DNS Infrastructure Group",
@@ -79873,9 +79873,9 @@
         "fn": "Ashar Nisar",
         "org": "PKNIC",
         "adr": "435 Tariq Block\nNew Garden Town\nLahore\nPakistan",
-        "tel": "+1 (800) 835-9892",
+        "tel": "+92 (332) 477-1656",
         "email": "ashar@pknic.net.pk",
-        "last_change_date": "2022-07-06T00:00:00+00:00"
+        "last_change_date": "2026-10-12T00:00:00+00:00"
       },
       "technical": {
         "fn": "Ashar Nisar",
@@ -127286,9 +127286,9 @@
         "fn": "CTO",
         "org": "Beijing Tele-info Technology Co., Ltd.",
         "adr": "21st Floor, Block D, Beihang Zhizhen Building, No. 7 Zhichun Road, Haidan District\nBeijing 100088\nChina",
-        "tel": "+86 18910283591",
+        "tel": "+86 18500144319",
         "email": "gtld@teleinfo.cn",
-        "last_change_date": "2024-05-06T00:00:00+00:00"
+        "last_change_date": "2026-10-12T00:00:00+00:00"
       }
     },
     "secureDNS": {
