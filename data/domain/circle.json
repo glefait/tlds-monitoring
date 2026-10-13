@@ -86,6 +86,12 @@
         "algorithm": 8,
         "digestType": 2,
         "digest": "61C05F1DB1341492824A03DCF98A62A6F641E1202A8E207FFC05ACC617226B3D"
+      },
+      {
+        "keyTag": 24244,
+        "algorithm": 8,
+        "digestType": 2,
+        "digest": "F5716D94F42B9DF71C6F9758C52B85B6D56670FCF508AB8F3F823CC68662D8EC"
       }
     ]
   },
@@ -329,7 +335,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2026-07-14T00:00:00+00:00"
+      "eventDate": "2026-10-13T00:00:00+00:00"
     },
     {
       "eventAction": "registration",
