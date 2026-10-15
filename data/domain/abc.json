@@ -86,6 +86,12 @@
         "algorithm": 8,
         "digestType": 2,
         "digest": "7A1D01C238B756BAA6E99C5ADD35FB9FC23BF4EDADDB98CC42AB0A39F45F8F1B"
+      },
+      {
+        "keyTag": 33574,
+        "algorithm": 8,
+        "digestType": 2,
+        "digest": "F9874F50C10D2A82589B525B16B13F80B76A9CC670B73F1090E1DC7B046A8C98"
       }
     ]
   },
@@ -250,13 +256,13 @@
             "fn",
             {},
             "text",
-            "Howard Eland, Senior Director, DNS Infrastructure Group"
+            "Senior Director, DNS Infrastructure Group"
           ],
           [
             "org",
             {},
             "text",
-            "Identity Digital Inc."
+            "Identity Digital Limited"
           ],
           [
             "role",
@@ -268,7 +274,7 @@
             "adr",
             {
               "type": "work",
-              "label": "10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)"
+              "label": "c/o Identity Digital Inc.\n10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)"
             },
             "text",
             [
@@ -321,7 +327,7 @@
       "events": [
         {
           "eventAction": "last changed",
-          "eventDate": "2024-07-23T00:00:00+00:00"
+          "eventDate": "2026-10-14T00:00:00+00:00"
         }
       ]
     }
@@ -329,7 +335,7 @@
   "events": [
     {
       "eventAction": "last changed",
-      "eventDate": "2024-07-25T00:00:00+00:00"
+      "eventDate": "2026-10-14T00:00:00+00:00"
     },
     {
       "eventAction": "registration",

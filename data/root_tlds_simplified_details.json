@@ -245,12 +245,12 @@
         "last_change_date": "2015-04-27T00:00:00+00:00"
       },
       "technical": {
-        "fn": "Howard Eland, Senior Director, DNS Infrastructure Group",
-        "org": "Identity Digital Inc.",
-        "adr": "10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)",
+        "fn": "Senior Director, DNS Infrastructure Group",
+        "org": "Identity Digital Limited",
+        "adr": "c/o Identity Digital Inc.\n10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)",
         "tel": "+1.425.671.0020",
         "email": "tldtech@identity.digital",
-        "last_change_date": "2023-05-23T00:00:00+00:00"
+        "last_change_date": "2026-10-14T00:00:00+00:00"
       }
     },
     "secureDNS": {
@@ -261,6 +261,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "6DC3161E488F546A3BAA11018BF0123C789C56241C9C03DCB74CE07A5ACCB18F"
+        },
+        {
+          "keyTag": 52049,
+          "algorithm": 8,
+          "digestType": 2,
+          "digest": "FECCC8E59D360836C8664C829A599EBE9ACD08D30A8741FFA6E4DB96F3DAD494"
         }
       ]
     },
@@ -341,6 +347,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "04C4003CF06316C866DF2DCF23304B3A25D30778AC1A838F986350010D2647CE"
+        },
+        {
+          "keyTag": 65489,
+          "algorithm": 8,
+          "digestType": 2,
+          "digest": "536D59F9B21D43715B9C0F38C27A8FCCC379485E6A4770A2782AB0B281A849E7"
         }
       ]
     },
@@ -533,12 +545,12 @@
         "last_change_date": "2016-07-28T00:00:00+00:00"
       },
       "technical": {
-        "fn": "Howard Eland, Senior Director, DNS Infrastructure Group",
-        "org": "Identity Digital Inc.",
-        "adr": "10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)",
+        "fn": "Senior Director, DNS Infrastructure Group",
+        "org": "Identity Digital Limited",
+        "adr": "c/o Identity Digital Inc.\n10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)",
         "tel": "+1.425.671.0020",
         "email": "tldtech@identity.digital",
-        "last_change_date": "2024-07-23T00:00:00+00:00"
+        "last_change_date": "2026-10-14T00:00:00+00:00"
       }
     },
     "secureDNS": {
@@ -549,6 +561,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "7A1D01C238B756BAA6E99C5ADD35FB9FC23BF4EDADDB98CC42AB0A39F45F8F1B"
+        },
+        {
+          "keyTag": 33574,
+          "algorithm": 8,
+          "digestType": 2,
+          "digest": "F9874F50C10D2A82589B525B16B13F80B76A9CC670B73F1090E1DC7B046A8C98"
         }
       ]
     },
@@ -736,12 +754,6 @@
     "secureDNS": {
       "delegationSigned": true,
       "dsData": [
-        {
-          "keyTag": 37480,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "5589C84DDBF5B50DB5C8A9D5CEA939409C24CE6369F7013F683A0BCA912AC8F3"
-        },
         {
           "keyTag": 45603,
           "algorithm": 13,
@@ -1101,12 +1113,12 @@
         "last_change_date": "2026-06-03T00:00:00+00:00"
       },
       "technical": {
-        "fn": "Howard Eland, Senior Director, DNS Infrastructure Group",
-        "org": "Identity Digital Inc.",
-        "adr": "10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)",
+        "fn": "Senior Director, DNS Infrastructure Group",
+        "org": "Identity Digital Limited",
+        "adr": "c/o Identity Digital Inc.\n10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)",
         "tel": "+1.425.671.0020",
         "email": "tldtech@identity.digital",
-        "last_change_date": "2024-03-28T00:00:00+00:00"
+        "last_change_date": "2026-10-14T00:00:00+00:00"
       }
     },
     "secureDNS": {
@@ -1117,6 +1129,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "83307D3A3A6AE2BD8C9FBB7060A5ACB8DBC48B2A56CA944CAE4DC803CE8E5A84"
+        },
+        {
+          "keyTag": 60592,
+          "algorithm": 8,
+          "digestType": 2,
+          "digest": "72F0C2F9C78DA7F8257418C2E047F1203E8D225246EA9C9434B265E259018AD8"
         }
       ]
     },
@@ -1749,12 +1767,6 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 39064,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "8D2CCAD69F8EBA3C73214B4877386921586CA56F105B44FC91CEEF1B4AB59B80"
-        },
-        {
           "keyTag": 18595,
           "algorithm": 13,
           "digestType": 2,
@@ -1911,12 +1923,12 @@
         "last_change_date": "2026-04-10T00:00:00+00:00"
       },
       "technical": {
-        "fn": "Howard Eland, Senior Director, DNS Infrastructure Group",
-        "org": "Identity Digital Inc.",
-        "adr": "10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)",
+        "fn": "Senior Director, DNS Infrastructure Group",
+        "org": "Identity Digital Limited",
+        "adr": "c/o Identity Digital Inc.\n10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)",
         "tel": "+1.425.671.0020",
         "email": "tldtech@identity.digital",
-        "last_change_date": "2023-12-01T00:00:00+00:00"
+        "last_change_date": "2026-10-14T00:00:00+00:00"
       }
     },
     "secureDNS": {
@@ -1927,6 +1939,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "03500BE162E8B2BC43345D119763E29D9284DE715BDF66E55DD19B400A1E64AE"
+        },
+        {
+          "keyTag": 60260,
+          "algorithm": 8,
+          "digestType": 2,
+          "digest": "C8F068B7FBB8EEB8D74F02B2F6413913C7CC08769F0BBC4F8FFB9158B51ADD9E"
         }
       ]
     },
@@ -10762,12 +10780,6 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 39367,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "32940AB06D3524457F9DDEAD6C3C0C76729EEC27C5CC02244CEA24E9FD9E47F4"
-        },
-        {
           "keyTag": 53101,
           "algorithm": 13,
           "digestType": 2,
@@ -12242,6 +12254,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "E41AF415E6CD0727C2924D6E60B896FB9C6D81831AC90C9DCA4C22497701AB1A"
+        },
+        {
+          "keyTag": 13117,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "74C0BAFE1D26F609B60FEA8EC763FB74B0DD1DD56E34B4425D2BA6F7E134E1B3"
         }
       ]
     },
@@ -14330,12 +14348,6 @@
     "secureDNS": {
       "delegationSigned": true,
       "dsData": [
-        {
-          "keyTag": 42907,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "253F8A2AA4BF2067B9B72BA983849F63A1B8482A1CF613879196482D1FFA2038"
-        },
         {
           "keyTag": 5550,
           "algorithm": 13,
@@ -18361,12 +18373,6 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 39931,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "9870940F409B2A9D22AB87E5239F8A18B1C44A9B6528ECD318DD78D23EAC761B"
-        },
-        {
           "keyTag": 60588,
           "algorithm": 13,
           "digestType": 2,
@@ -19800,6 +19806,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "9D6445887F736116B22A9C4CDA34DA82592146649482638FBC144651299BDEB4"
+        },
+        {
+          "keyTag": 34559,
+          "algorithm": 8,
+          "digestType": 2,
+          "digest": "8C08BC9FE65FE156E77B73063743A7AB124D9AD8CCDC8D40A754A34C12BE1B31"
         }
       ]
     },
@@ -20134,6 +20146,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "DE196611E08D7B8A34A9248763C03EF9AECC8C617FEF0B60662964711CD5E24B"
+        },
+        {
+          "keyTag": 26161,
+          "algorithm": 8,
+          "digestType": 2,
+          "digest": "8E4F23D3A9592946E347BE04E6F91B7158CBFC9FF7A1F7E781958B4B55D3E409"
         }
       ]
     },
@@ -21134,11 +21152,11 @@
       },
       "technical": {
         "fn": "Senior Director, DNS Infrastructure Group",
-        "org": "Afilias",
-        "adr": "300 Welsh Road\nBuilding 3, Suite 105\nHorsham PA 19044\nUnited States of America (the)",
-        "tel": "+1 215.706.5701",
-        "email": "tld-tech-poc@afilias.info",
-        "last_change_date": "2015-10-09T00:00:00+00:00"
+        "org": "Identity Digital Limited",
+        "adr": "c/o Identity Digital Inc.\n10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)",
+        "tel": "+1.425.671.0020",
+        "email": "tldtech@identity.digital",
+        "last_change_date": "2026-10-14T00:00:00+00:00"
       }
     },
     "secureDNS": {
@@ -21149,6 +21167,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "41ADAC2BF52A4A5EA210CE9DB7AB6114A28CF916F1E06B1F4C3EEE90077D6147"
+        },
+        {
+          "keyTag": 43169,
+          "algorithm": 8,
+          "digestType": 2,
+          "digest": "45C1C4A2C4DDACE6EDF20906EDA37071657902307A4E2D0638B2D39782E70A7F"
         }
       ]
     },
@@ -21427,6 +21451,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "6A252BA4B61331A3D35B5D06AE744643AF83053295C42C0C2E65FCEBBA07834F"
+        },
+        {
+          "keyTag": 19304,
+          "algorithm": 8,
+          "digestType": 2,
+          "digest": "8F8FA763C4B27C2DC66333E2AEB4173CBA1E4B2254F688422617F0CEB91E992B"
         }
       ]
     },
@@ -22328,11 +22358,11 @@
       },
       "technical": {
         "fn": "Senior Director, DNS Infrastructure Group",
-        "org": "Afilias",
-        "adr": "300 Welsh Road\nBuilding 3, Suite 105\nHorsham PA 19044\nUnited States of America (the)",
-        "tel": "+1 215.706.5701",
-        "email": "tld-tech-poc@afilias.info",
-        "last_change_date": "2015-12-28T00:00:00+00:00"
+        "org": "Identity Digital Limited",
+        "adr": "c/o Identity Digital Inc.\n10500 NE 8th Street, Suite 750\nBellevue WA 98004\nUnited States of America (the)",
+        "tel": "+1.425.671.0020",
+        "email": "tldtech@identity.digital",
+        "last_change_date": "2026-10-14T00:00:00+00:00"
       }
     },
     "secureDNS": {
@@ -22343,6 +22373,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "2456B103E69D9F788B97912B8DFBA0FBFDF574ABFA166DDD1C773DCF252B3BDE"
+        },
+        {
+          "keyTag": 50521,
+          "algorithm": 8,
+          "digestType": 2,
+          "digest": "573EF9B15C053FDBD90C7D84FBE4A415ED6322ED0064A851860272E2803A1412"
         }
       ]
     },
@@ -22621,6 +22657,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "4FC0DBB4F04BE413BA1C0B1E92F4C5F0CCEBF7856370E20671AF6417499DB258"
+        },
+        {
+          "keyTag": 679,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "D7D62BE1BF452822B21B89B655E98CD50A75BB23B0F072A2846A0C110DD1A2FD"
         }
       ]
     },
@@ -22717,6 +22759,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "5BAA5F5647BAEF29365E3F37D0914E0ABE5F4D62AFCA9CF59863FB94AA5964E7"
+        },
+        {
+          "keyTag": 22936,
+          "algorithm": 8,
+          "digestType": 2,
+          "digest": "6FB7C37CDE1B7F5D42ABB24C8D4378E7A2D3D30629546C46111FDC9061D5ACDD"
         }
       ]
     },
@@ -23993,12 +24041,6 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 27319,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "3B57AC3D5396B250896E78B988F741BEACF93733DAF02048F86763AEA3272445"
-        },
-        {
           "keyTag": 37375,
           "algorithm": 13,
           "digestType": 2,
@@ -24775,12 +24817,6 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 19084,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "1EBFD6587779A23692ABF0AF38F79AB41282E544AB54F04A6C07168523234587"
-        },
-        {
           "keyTag": 49001,
           "algorithm": 13,
           "digestType": 2,
@@ -25396,12 +25432,6 @@
     "secureDNS": {
       "delegationSigned": true,
       "dsData": [
-        {
-          "keyTag": 15277,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "0F2AC6152763313A36B063646929B4B8B35B5E4C0EAF12D54EC3982A78157D2D"
-        },
         {
           "keyTag": 30039,
           "algorithm": 13,
@@ -27870,12 +27900,6 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 4084,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "653AC51723253E888C2887191E1F89C34C4ECEF2F18E4EEB247F1FAAE3AFC6B2"
-        },
-        {
           "keyTag": 37624,
           "algorithm": 13,
           "digestType": 2,
@@ -29215,12 +29239,6 @@
     "secureDNS": {
       "delegationSigned": true,
       "dsData": [
-        {
-          "keyTag": 27199,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "EAEC6E1B661B0264846FF8F70858CC63711F0627781386B9024360656679ECF5"
-        },
         {
           "keyTag": 44378,
           "algorithm": 13,
@@ -35745,12 +35763,6 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 36220,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "317F7BE09221A412B8DBE4D8AB6C620083D9A3BAAC4064EE4A7C2A1F5ECA6C7E"
-        },
-        {
           "keyTag": 38266,
           "algorithm": 13,
           "digestType": 2,
@@ -37316,12 +37328,6 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 63775,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "8137BF33700CFB755C53EFA2EB3B80AC9630B05BEFB7E8AF34DD079E131D2C01"
-        },
-        {
           "keyTag": 25249,
           "algorithm": 13,
           "digestType": 2,
@@ -37417,12 +37423,6 @@
     "secureDNS": {
       "delegationSigned": true,
       "dsData": [
-        {
-          "keyTag": 61939,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "964CF669D1EC486A61CD6BE09167B36D5FDA20B21FF3950F4E1A2373BEEA3E66"
-        },
         {
           "keyTag": 21471,
           "algorithm": 13,
@@ -41182,12 +41182,6 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 27637,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "2D10A23A8DFEB7B80721476D3DCC5A5D31A61BE1D7D3B5BF6F15F4A2747B347B"
-        },
-        {
           "keyTag": 32309,
           "algorithm": 13,
           "digestType": 2,
@@ -41283,12 +41277,6 @@
     "secureDNS": {
       "delegationSigned": true,
       "dsData": [
-        {
-          "keyTag": 4816,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "960F543D3EAD5C2E0FD6D1E792265F7C795170D793ACD073F84C52A2F72EEA85"
-        },
         {
           "keyTag": 60150,
           "algorithm": 13,
@@ -43798,12 +43786,6 @@
     "secureDNS": {
       "delegationSigned": true,
       "dsData": [
-        {
-          "keyTag": 31312,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "B9BFFDCD6A38A5A0E6C73CA45AE8F0B66799AE35A1B2CEA3C237F7F1910C9967"
-        },
         {
           "keyTag": 38621,
           "algorithm": 13,
@@ -47065,12 +47047,6 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 47641,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "B1F415477AD6386ECEB54957A181EC70D0B3CCDBC09C5DF6DCDD063F69BF0631"
-        },
-        {
           "keyTag": 42514,
           "algorithm": 13,
           "digestType": 2,
@@ -48965,12 +48941,6 @@
     "secureDNS": {
       "delegationSigned": true,
       "dsData": [
-        {
-          "keyTag": 25741,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "04C915E78C75DCB656AEF6CE2423935D826C60319A9EAE29AC71F9E745C38975"
-        },
         {
           "keyTag": 26614,
           "algorithm": 13,
@@ -52330,12 +52300,6 @@
     "secureDNS": {
       "delegationSigned": true,
       "dsData": [
-        {
-          "keyTag": 48370,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "9AE237CAC9D9160455E023B1097161F066C986F9821247DD279B1C84F5163716"
-        },
         {
           "keyTag": 19420,
           "algorithm": 13,
@@ -59440,12 +59404,6 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 42496,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "F6DAAB5F4FC2A7D48C9E97623C3F0D478586FA882732BA0F86C31B291AD2F3F6"
-        },
-        {
           "keyTag": 56101,
           "algorithm": 13,
           "digestType": 2,
@@ -63657,12 +63615,6 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 39844,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "195B8FCF70C5028B4C75368EE18A455CAEB9330C8BB85141C4F071FB94833A40"
-        },
-        {
           "keyTag": 30503,
           "algorithm": 13,
           "digestType": 2,
@@ -66105,12 +66057,6 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 17374,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "6D9AAF608C610BEA2A8CE99B8870E02E7EC8CD2A8C1A76D363CD813A682F5513"
-        },
-        {
           "keyTag": 33620,
           "algorithm": 13,
           "digestType": 2,
@@ -66879,12 +66825,6 @@
     "secureDNS": {
       "delegationSigned": true,
       "dsData": [
-        {
-          "keyTag": 12679,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "4B9F71133648B60BE8D6D6742A698E1E6CC62B84EC278F643824690735549056"
-        },
         {
           "keyTag": 29792,
           "algorithm": 13,
@@ -74908,12 +74848,6 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 12721,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "37F945F2D915698DCDA12F80C7306150223270F78EC1D96FFFEB163A2B1EAC22"
-        },
-        {
           "keyTag": 62807,
           "algorithm": 13,
           "digestType": 2,
@@ -81365,12 +81299,6 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 53866,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "6FC2A5CC5949B5300AA6BDFDD041D34BA5AB08604F22F7B3E34654FB22F89B68"
-        },
-        {
           "keyTag": 43446,
           "algorithm": 13,
           "digestType": 2,
@@ -86941,12 +86869,6 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 16639,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "75B8726A0F8B07D958FF6E8EF2EB31AD19650920865EBA6382171422B3BFCDC0"
-        },
-        {
           "keyTag": 18924,
           "algorithm": 13,
           "digestType": 2,
@@ -91497,12 +91419,6 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 44725,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "5EE0DCF207475272E3D80571D3454D3EEE5753F3D71A102B58D38D14937EACC2"
-        },
-        {
           "keyTag": 34382,
           "algorithm": 13,
           "digestType": 2,
@@ -91966,12 +91882,6 @@
     "secureDNS": {
       "delegationSigned": true,
       "dsData": [
-        {
-          "keyTag": 27487,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "E7625E71A6BC32BF10D612BA2D17E02E62641A5293100A82F389CA415CC71BFC"
-        },
         {
           "keyTag": 53390,
           "algorithm": 13,
@@ -97550,12 +97460,6 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 61795,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "4B9E5E4B221D060C3DA6B8CF0CBE64E526C00ED82CE0D634E52A22AB4D1602CB"
-        },
-        {
           "keyTag": 14288,
           "algorithm": 13,
           "digestType": 2,
@@ -98227,12 +98131,6 @@
     "secureDNS": {
       "delegationSigned": true,
       "dsData": [
-        {
-          "keyTag": 54106,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "62E4B7017888F8EBE2231145A20D9378419290F0ABA9C5D561AFCBD1EC92D176"
-        },
         {
           "keyTag": 59332,
           "algorithm": 13,
@@ -98933,12 +98831,6 @@
     "secureDNS": {
       "delegationSigned": true,
       "dsData": [
-        {
-          "keyTag": 56155,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "6F8BEC880CB37266B04E5B34A8A61238404DDCA2AC3EFCFD47BF641E650D3D78"
-        },
         {
           "keyTag": 45905,
           "algorithm": 13,
@@ -108484,6 +108376,12 @@
           "algorithm": 8,
           "digestType": 2,
           "digest": "DB3E27D9A9BF7BA3AD1E2A45D5D2B10486670711BE8D81F1487B01912F06A47A"
+        },
+        {
+          "keyTag": 61573,
+          "algorithm": 13,
+          "digestType": 2,
+          "digest": "F12878D94EE0E2A63712233D293F1001B3B173E08F79D12193DEED31C4F2E9A4"
         }
       ]
     },
@@ -109275,12 +109173,6 @@
     "secureDNS": {
       "delegationSigned": true,
       "dsData": [
-        {
-          "keyTag": 62887,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "7286A1B64C79D57E7D499442EDC470AA0685280D2DC642AF97615E215154A50B"
-        },
         {
           "keyTag": 29978,
           "algorithm": 13,
@@ -111248,12 +111140,6 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 52771,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "4D92964EE9FD15BB3ADB2D0D06C44B6E0FF864F19AD1CED67AB020A9921F5460"
-        },
-        {
           "keyTag": 41906,
           "algorithm": 13,
           "digestType": 2,
@@ -111735,12 +111621,6 @@
     "secureDNS": {
       "delegationSigned": true,
       "dsData": [
-        {
-          "keyTag": 27157,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "C72478A4986A5330FB21A2E427823553131D70C399DDBCFEDEE395103CA8543D"
-        },
         {
           "keyTag": 46628,
           "algorithm": 13,
@@ -122854,12 +122734,6 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 862,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "662B4AB8C83D78983F29DA731E7B495A7B249F8C714268631E21CD1E88370087"
-        },
-        {
           "keyTag": 39079,
           "algorithm": 13,
           "digestType": 2,
@@ -126501,12 +126375,6 @@
       "delegationSigned": true,
       "dsData": [
         {
-          "keyTag": 21709,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "39FE8AE19E8383391804637C5E219EA82B4AC7EC34368696E3C02B4756A59DA8"
-        },
-        {
           "keyTag": 32177,
           "algorithm": 13,
           "digestType": 2,
@@ -127219,12 +127087,6 @@
     "secureDNS": {
       "delegationSigned": true,
       "dsData": [
-        {
-          "keyTag": 49771,
-          "algorithm": 8,
-          "digestType": 2,
-          "digest": "1CD19FF5B29EB880307E17A1168AFCDD493DA3B36A34242FFC91EB1E8E3882EC"
-        },
         {
           "keyTag": 30810,
           "algorithm": 13,
